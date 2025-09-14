@@ -1,26 +1,173 @@
-from pocketflow import Node
+from pocketflow import Node, BatchNode, AsyncParallelBatchNode
 from utils.call_llm import call_llm
+from utils.vector_db import create_vector_db
+from utils.embedding import get_embedding_service
+from utils.file_processor import create_file_processor
+from utils.chunking import create_chunker
+from utils.progress import get_progress_tracker
+import asyncio
+import logging
+import os
+from typing import List, Dict, Any
 
-class GetQuestionNode(Node):
-    def exec(self, _):
-        # Get question directly from user input
-        user_question = input("Enter your question: ")
-        return user_question
-    
-    def post(self, shared, prep_res, exec_res):
-        # Store the user's question
-        shared["question"] = exec_res
-        return "default"  # Go to the next node
+logger = logging.getLogger(__name__)
 
-class AnswerNode(Node):
+# =================== OFFLINE NODES ===================
+
+class DocumentIngestionNode(BatchNode):
+    """Process legal case files and extract text with metadata"""
     def prep(self, shared):
-        # Read question from shared
-        return shared["question"]
+        documents_dir = shared.get("documents_directory", "assets/decisions")
+        if not os.path.exists(documents_dir):
+            logger.error(f"Documents directory not found: {documents_dir}")
+            return []
+        
+        file_paths = []
+        for root, dirs, files in os.walk(documents_dir):
+            for file in files:
+                if file.endswith('.txt'):
+                    file_paths.append(os.path.join(root, file))
+        
+        logger.info(f"Found {len(file_paths)} files to process")
+        return file_paths
     
-    def exec(self, question):
-        # Call LLM to get the answer
-        return call_llm(question)
+    def exec(self, file_path):
+        processor = create_file_processor()
+        file_info = processor.process_file(file_path)
+        
+        if not processor.validate_legal_case_format(file_info):
+            logger.warning(f"File may not be properly formatted: {file_path}")
+        
+        return file_info
+    
+    def post(self, shared, prep_res, exec_res_list):
+        shared["processed_files"] = exec_res_list
+        shared["total_files_processed"] = len(exec_res_list)
+        
+        valid_files = sum(1 for f in exec_res_list if 'error' not in f)
+        logger.info(f"Successfully processed {valid_files}/{len(exec_res_list)} files")
+        
+        return "default"
+
+class VectorIndexCreationNode(BatchNode):
+    """Create vector database index from processed documents"""
+    def prep(self, shared):
+        processed_files = shared.get("processed_files", [])
+        if not processed_files:
+            logger.error("No processed files found for indexing")
+            return []
+        
+        documents_to_chunk = []
+        for file_info in processed_files:
+            if 'error' not in file_info and file_info.get('content'):
+                documents_to_chunk.append(file_info)
+        
+        logger.info(f"Preparing {len(documents_to_chunk)} documents for chunking")
+        return documents_to_chunk
+    
+    def exec(self, file_info):
+        chunker = create_chunker(chunk_size=800, overlap=100)
+        chunks = chunker.create_chunks(
+            file_info['content'],
+            metadata=file_info['metadata']
+        )
+        
+        for chunk in chunks:
+            chunk['metadata'].update({
+                'file_name': file_info['file_name'],
+                'file_path': file_info['file_path']
+            })
+        
+        return chunks
+    
+    def post(self, shared, prep_res, exec_res_list):
+        all_chunks = []
+        for chunk_list in exec_res_list:
+            all_chunks.extend(chunk_list)
+        
+        vector_db = create_vector_db()
+        vector_db.create_or_get_collection("legal_cases")
+        
+        texts = [chunk['text'] for chunk in all_chunks]
+        metadatas = [chunk['metadata'] for chunk in all_chunks]
+        ids = [f"{chunk['metadata']['file_name']}_{chunk['metadata']['chunk_index']}" 
+               for chunk in all_chunks]
+        
+        vector_db.add_documents(texts, metadatas, ids)
+        
+        shared["vector_db"] = vector_db
+        shared["total_chunks_indexed"] = len(all_chunks)
+        
+        logger.info(f"Indexed {len(all_chunks)} chunks in vector database")
+        return "default"
+
+# =================== ONLINE NODES ===================
+
+class InitialRetrievalNode(Node):
+    """Perform high-recall vector search for user query"""
+    def prep(self, shared):
+        user_query = shared.get("user_query", "")
+        if not user_query:
+            raise ValueError("No user query provided")
+        
+        vector_db = shared.get("vector_db")
+        if not vector_db:
+            vector_db = create_vector_db()
+            vector_db.create_or_get_collection("legal_cases")
+            shared["vector_db"] = vector_db
+        
+        return user_query
+    
+    def exec(self, user_query):
+        tracker = get_progress_tracker()
+        tracker.start_session(user_query)
+        tracker.update_stage("retrieval", "Searching legal database", "Performing vector search")
+        
+        return user_query
     
     def post(self, shared, prep_res, exec_res):
-        # Store the answer in shared
-        shared["answer"] = exec_res
+        user_query = exec_res
+        vector_db = shared["vector_db"]
+        
+        retrieved_chunks = vector_db.search(
+            query=user_query,
+            n_results=30,
+            similarity_threshold=0.5
+        )
+        
+        shared["retrieved_chunks"] = retrieved_chunks
+        shared["retrieval_count"] = len(retrieved_chunks)
+        
+        tracker = get_progress_tracker()
+        tracker.update_retrieval(len(retrieved_chunks))
+        
+        logger.info(f"Retrieved {len(retrieved_chunks)} chunks for query")
+        return "default"
+
+class DocumentExtractionNode(Node):
+    """Extract unique document names from retrieved chunks"""
+    def prep(self, shared):
+        retrieved_chunks = shared.get("retrieved_chunks", [])
+        return retrieved_chunks
+    
+    def exec(self, retrieved_chunks):
+        unique_docs = set()
+        for chunk in retrieved_chunks:
+            file_name = chunk['metadata'].get('file_name')
+            if file_name:
+                unique_docs.add(file_name)
+        
+        unique_documents = list(unique_docs)
+        logger.info(f"Found {len(unique_documents)} unique documents from {len(retrieved_chunks)} chunks")
+        return unique_documents
+    
+    def post(self, shared, prep_res, exec_res):
+        shared["unique_documents"] = exec_res
+        shared["unique_document_count"] = len(exec_res)
+        
+        tracker = get_progress_tracker()
+        tracker.update_stage("extraction", 
+                           f"Extracted {len(exec_res)} unique documents", 
+                           f"Processing {len(exec_res)} documents")
+        
+        return "default"
