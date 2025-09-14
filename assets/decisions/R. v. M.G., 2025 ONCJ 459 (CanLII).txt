@@ -1,0 +1,440 @@
+R. v. M.G., 2025 ONCJ 459 (CanLII), <https://canlii.ca/t/kf8nm>, retrieved on 2025-09-14
+
+WARNING
+
+The court hearing this matter directs that the following notice be attached to the file:
+
+            A non-publication and non-broadcast order in this proceeding has been issued under subsection 486.4(1) of the Criminal Code. This subsection and subsection 486.6(1) of the Criminal Code, which is concerned with the consequence of failure to comply with an order made under subsection 486.4(1), read as follows:
+
+486.4  Order restricting publication — sexual offences. — (1)  Subject to subsection (2), the presiding judge or justice may make an order directing that any information that could identify the victim or a witness shall not be published in any document or broadcast or transmitted in any way, in proceedings in respect of
+
+   (a)   any of the following offences:
+
+            (i)   an offence under section 151, 152, 153, 153.1, 155, 160, 162, 162.1, 163.1, 170, 171, 171.1,172, 172.1, 172.2, 173, 213, 271, 272, 273, 279.01, 279.011, 279.02, 279.03, 280, 281, 286.1, 286.2, 286.3, 346 or 347, or
+
+            (ii)  any offence under this Act, as it read from time to time before the day on which this subparagraph comes into force, if the conduct alleged would be an offence referred to in subparagraph (i) if it occurred on or after that day; or
+
+   (b)   two or more offences being dealt with in the same proceeding, at least one of which is an offence referred to in paragraph (a).
+
+ 
+
+(2)   MANDATORY ORDER ON APPLICATION — In proceedings in respect of the offences referred to in paragraph (1)(a) or (b), the presiding judge or justice shall
+
+   (a)   at the first reasonable opportunity, inform any witness under the age of eighteen years and the victim of the right to make an application for the order; and
+
+   (b)   on application made by the victim, the prosecutor or any such witness, make the order.
+
+.   .   .
+
+486.6  OFFENCE — (1)  Every person who fails to comply with an order made under any of subsections 486.4(1) to (3) or subsection 486.5(1) or (2) is guilty of an offence punishable on summary conviction.
+
+ 
+
+
+ONTARIO COURT OF JUSTICE
+
+CITATION:  R. v. M.G., 2025 ONCJ 459
+
+DATE:  2025 09 03
+
+COURT FILE No.: 23-48101907 
+
+Toronto Region
+
+ 
+
+ 
+
+BETWEEN:
+
+ 
+
+HIS MAJESTY THE KING
+
+ 
+
+— AND —
+
+ 
+
+M.G.
+
+ 
+
+ 
+
+ 
+
+Before Justice C. Faria
+
+Heard November 18, 19, 20, 2024, December 13, 18, and 19, 2024,
+
+April 4, 7, and May 12, 2025
+
+Reasons for Judgment released on September 3, 2025
+
+ 
+
+ 
+
+Seeta Scully......................................................................................... counsel for the Crown
+
+Anne Marie Morphew......................................................  counsel for the defendant M.G.
+
+ 
+
+Faria J.:
+
+I.      Overview
+[1]         On February 28, 2023, M.G. and his wife, L.S.B. were having an argument. She ran to the neighbour’s house and called the police. When police spoke to her, she said M.G. made a gesture to assault her. When asked if M.G. had ever been violent, L.S.B. said he “raped”[1] her in 2006 and 2013. M.G. is charged with one count of assault and two counts of sexual assault contrary to ss. 266 and 271 of the Criminal Code.
+
+[2]         The Crown proceeded by Indictment[2], and the trial began on November 18, 2024[3]. The trial was interrupted for L.S.B. to obtain independent legal advice. A ruling on a Motion for Directions[4] and a ruling on what a witness caution means[5] was required. At the end of the Crown’s case, a ruling dismissing a directed verdict application on the assault count was made, as was a ruling on the admissibility of a statement M.G. allegedly made to a therapist 18 years ago.[6]
+
+[3]         Only two witnesses testified: L.S.B. for the Crown, and M.G. in his own defence. Two agreed statements of fact were filed; several photos and a drawing were made exhibits.
+
+[4]         The trial completed on May 12, 2025, and these are my reasons for judgement.
+
+II.      Issues
+[5]         There are two main issues:
+
+ 
+
+i.              Has the Crown proven the essential actus reus elements of an assault?
+
+ii.            Has the Crown proven each element of the three counts beyond a reasonable doubt?
+
+[6]         Both issues are dependant on the court’s findings of the witness’ credibility and reliability.
+
+III.   Legal Principles
+[7]         Per s. 265 (1)(b), a person commits an assault when:
+
+he attempts or threatens, by an act or a gesture, to apply force to another person, if he has, or causes that other person to believe on reasonable grounds that he has, present ability to effect his purpose;
+
+[8]         Sexual assault, s. 271, is the direct, or indirect, intentional touching of a person, in circumstances of a sexual nature, without their consent to that sexual activity, knowing they do not consent to that sexual activity, 
+
+[9]         Consent is defined as “the voluntary agreement of the complainant to engage in the sexual activity in question,” per s. 273.1(1).
+
+[10]      As in every criminal case, the onus rests upon the Crown to prove guilt beyond a reasonable doubt, which is inextricably linked to the presumption of innocence. The onus rests with the prosecution throughout the trial and never shifts. Reasonable doubt is a doubt based on reason and common sense, which must be logically based upon the evidence or lack of evidence. It is higher than a balance of probabilities, yet less than proof to an absolute certainty.[7]
+
+[11]      When I consider what evidence to accept, I must consider the credibility and reliability of every witness. Credibility relates to whether a witness is speaking the truth. Reliability relates to the actual accuracy of the testimony. The credibility and reliability of a witness must be “tested in the light of all the other evidence presented.”[8] 
+
+[12]      I may accept some, all, or none of a witness’ testimony.[9] 
+
+[13]      In the context of a Defendant testifying, the guiding analytical framework is provided by R. v. W.D.[10] which stipulates the following:
+
+ 
+
+      i.        If I accept the evidence of the accused, I must acquit.
+
+   ii.        Even if I do not accept the evidence of the accused, but it leaves me with a reasonable doubt, I must acquit.
+
+   iii.        Even if the accused’s evidence does not raise a reasonable doubt, I must consider all the evidence I accept to satisfy myself the Crown has met its high burden and proven beyond a reasonable doubt all the essential elements of each offence. If it does not, I must acquit.
+
+[14]      I also instruct myself not to approach the evidence with unwarranted assumptions as to what is or is not sexual assault; what is or is not consent; what kind of person may or may not be the complainant of a sexual assault what kind of person may or may not commit a sexual assault; or what a person who is being, or has been, sexually assaulted will or will not do or say. There is no typical victim or typical assailant or typical situation or typical reaction. I caution myself, thus, so as not to reach any conclusions based on misconceptions or myths.[11]
+
+IV.   Summary of Evidence & Findings of Fact
+[15]      L.S.B. met M.G. when she arrived in Canada in 2003 and attended M.G.’s family’s private language school. They became romantically involved in 2004. L.S.B. travelled back and forth between Canada and Brazil until M.G. proposed to her in Brazil in 2007.  L.S.B. came back to Canada later that year and the two lived together. They married in December 2009.  L.S.B. and M.G. have two children.
+
+Count 1: Assault February 28, 2023
+
+[16]      On February 28, 2023, L.S.B. sent M.G. an email about their relationship saying she did not want to speak to him. She informed M.G. that she did not want to ride with him in the family car anymore. She was going to use the only family car herself and while she was with the children; he would have to make his way to work on his own. When M.G. came home that evening, he wanted to discuss the email and how to get to work the next morning. L.S.B. was putting the children to bed and did not want to speak to him.
+
+[17]      L.S.B. testified:
+
+ 
+
+•         She was putting the children to bed at 8 p.m. when M.G. arrived home. She was upstairs. She did not want to speak to M.G., and he yelled at her while she only raised her voice.
+
+•         Later that evening, M.G. came up from the basement and wanted to discuss the email for a second time. Again, L.S.B. told him she did not want to speak to him.
+
+•         M.G. became upset. He screamed and punched the table.
+
+•         She was scared as she felt he was, “trying to break the physical distance,” that she was trying to keep from him.
+
+•         She ran to the front door and opened it as he kept screaming.
+
+•         M.G. told her she could, “call the neighbours, call all the neighbours,” she wanted, and he “made a motion.” She thought he was coming to hit her, so she ran out with her socks on, a tea towel in her hand, and no jacket to her neighbour’s house.
+
+•         L.S.B. described M.G.’s motion as taking a step walking towards her. He was about 2.5 feet away. She demonstrated the gesture as having both arms in the air, hands in fists over her head.
+
+•         Her neighbour refused to call the police, but she had her phone in her pocket and did so herself.
+
+[18]      L.S.B.’s credibility and reliability were significantly undermined during cross-examination.  
+
+[19]      L.S.B. testified with absolute certainty about everything. She would not admit minor inconsistencies against interest, even when they were blatantly obvious. She was repeatedly reluctant to admit she testified differently when compared to the statements she made to the police, even when, again, there were clear differences.  
+
+[20]      For instance:
+
+ 
+
+i.              L.S.B. testified she did not scream at M.G. during their argument, she merely “raised her voice” to be heard. She would not admit she said she screamed at M.G., until it was shown to her that is what she told police. When confronted with this inconsistency, L.S.B. insisted she was referring to their second argument after the children were in bed. However, in her statement she is clearly refers to 8 p.m. when M.G. arrived home.
+
+ii.            L.S.B. testified that M.G. was waving his arms above his head, hands in fists, and walking toward her, which frightened her and made her think he was going to hit her. In cross-examination, after she was shown a video of herself explaining and demonstrating to the officer the specific one-handed pointing gesture M.G. made, L.S.B. continued to deny this was the specific, and only gesture she complained of when asked by the police what M.G. had done. She repeatedly responded, “he made many gestures.”  L.S.B. would not admit the obvious.
+
+iii.           L.S.B. admitted she knew M.G. was not trying to hit her.[12]
+
+iv.           When asked by the Crown if there were any family court proceedings ongoing at the time or that had been started on February 28, 2023. L.S.B. responded “No, absolutely not.” In cross-examination, L.S.B. admitted that she told the police she had consulted a family lawyer, her family lawyer was preparing court documents, she wanted temporary custody of the children, and she wanted M.G. to move out of the house.
+
+[21]      M.G. testified that he recalled only one argument on February 28, 2023. He had gone to the basement when he came home to be away from L.S.B. When he came up from the basement, she was in the kitchen. He asked her if he could get a ride to work in the morning and be dropped off first, so they did not have to be in the car alone together. He testified she screamed at him that she did not want to speak to him. They began to argue, and they both screamed.
+
+[22]      M.G. testified that L.S.B. waved her arms above her head, punched the counter and pointed at him. He mimicked her, including pointing at her. She went to the front door, he turned to face her, he was never close to her, and she stormed out of the house. He followed her to the door and yelled at her as she went down the walkway that she could go “call all the neighbours.”
+
+[23]      He admitted he was angry; he mimicked her actions and called her an insulting name. However, he made no motion towards her, did not gesture as if to assault her, and had no intention of assaulting L.S.B.
+
+Finding
+
+[24]      I find that L.S.B. and M.G. had a loud, angry argument in their kitchen on the evening of February 28, 2023. They both screamed. M.G. understandably wanted to talk about L.S.B.’s email, how he was going to get to work, and their relationship. L.S.B. unilaterally decided she did not want to discuss the email she had sent.
+
+[25]      I find M.G. pointed at L.S.B. during the argument and taunted her to go tell the neighbours when she walked out the door.   
+
+[26]      However, in this circumstance, yelling and pointing and taunting does not amount to an assault by gesture. M.G. neither attempted nor threatened, by this act, to apply force to L.S.B.  She did not believe that he was going, or that he had the intention to affect this purpose.  
+
+[27]      I find M.G. not guilty of this count.   
+
+ 
+
+Count 2:  Sexual Assault Allegation December 2006
+
+[28]      When then the Crown asked L.S.B. what happened to her one night in December 2006, L.S.B. testified with an extended, uninterrupted, chronological, narrative with minute detail. She testified that:
+
+ 
+
+•         Both she and M.G. were in bed in his basement apartment on Ossington Avenue watching television one evening that December. She was sitting up with two pillows behind her back. M.G. was lying to her left.
+
+•         He was wearing grey underwear and a t-shirt.
+
+•         M.G. began to kiss her and touch her chest. She raised her hands to stop him and said no. He continued.
+
+•         He knelt beside her, took off his grey underwear with one hand and held her hands with the other.
+
+•         She was wearing loose, silky pink pyjamas with brown squares.
+
+•         M.G. knelt on top of her with one knee on each side of her. He pulled down her pajamas three times and she pulled them back. There was a struggle. M.G. pulled down her pyjama bottoms first with his left knee, then with his right knee.
+
+•         Once her pyjama bottoms were down, he forcefully penetrated her vaginally without her consent.
+
+•         She resisted him throughout. Once M.G. “finished”, he lay back down on her left side. She pulled up the blue covers.
+
+•         She told M.G. she did not like what he had done while he lay with his back to her, facing the wall. He told her he wanted to sleep and flung his arm back, throwing a “punch” on her stomach, which was covered with the blanket.
+
+•         She got scared and went to the washroom. She showered. When she returned to the bedroom, M.G. was asleep.
+
+•         Three days later, she spoke to M.G. about the “rape.” He did not want to speak to her about it.
+
+•         She spoke to M.G.’s older sister and told her about it in room 212 of the school.
+
+•         His sister gave L.S.B. her therapist’s name, Maureen Toms, and phone number.
+
+•         L.S.B. contacted Ms. Toms and went to 3 counselling sessions alone in early 2007.
+
+•         L.S.B. told M.G. that he had to go to a joint counselling session, or she would leave the relationship.
+
+•         L.S.B. testified when the therapist confronted M.G. with the rape:
+
+“He denied, he lied. The therapist was able to speak to him and she asked him twice, she didn’t use the word rape. She asked him twice if he had taken me and he got very upset. He was sitting on a chair with arms on my left side, he punched them, the chair, stood up, and Maureen that he had taken me and then he looked at me and he said yes, I took you. And then he went for the door, he started putting his shoes on and there some conversation between Maureen and him. She was able to bring him back to the chair. He sat on the chair with his shoes on and he looked at her and he said that he was sorry for taking me. And then he looked at me and he said that he was sorry for hurting me.” [13]
+
+•         L.S.B. understood M.G. to be apologizing to her about “raping” her.
+
+•         They agreed not to have sex if M.G. had had any alcohol and called it the “no alcohol” rule as a result.
+
+[29]      L.S.B.’s credibility and reliability were significantly undermined during cross-examination on this count as well.
+
+[30]      When an officer returned to L.S.B.’s home, on March 1, 2023, the day after her first statement to police reporting the events of February 28, 2023, L.S.B. made a statement alleging that M.G. had “raped” her in December 2005.
+
+[31]      The next day, after doing “research,” which consisted of looking at her passports and emails, L.S.B. contacted the officer via email correcting the date of the sexual assault to in the month of December 2006.
+
+[32]      On November 19, 2024, in cross-examination L.S.B. confirmed 3 times that the interviewing officer wanted details about the December 2006 sexual assault allegations. She confirmed that she “did not have a clear image of what happened” when she provided her statement and sometimes did not remember details during the March 1, 2023 statement.
+
+[33]      When confronted with how specific her evidence of the event was when she testified in court, in comparison to her police statement, L.S.B. testified she attended 3 or 4 sessions with her therapist, a psychologist. She testified:
+
+“I had to go to therapy and my therapist walked me through those very difficult images so we could piece some of it together.”
+
+The therapist “helped me go back to those moments and recover some memories.”[14]
+
+[34]      When L.S.B. returned to court on April 4, 2025, to continue her cross-examination:
+
+ 
+
+•         She described the sessions with her therapist on the phone as one-on-one.
+
+•         She explained, to her, “recovered memory” means she “recovered flashbacks of the memory.”
+
+•         She explained, to her, “walk” through meant her therapist made her “relive – live again the experience.”
+
+•         She testified that she sent Detective Jing an email to correct the date of the December sexual assault allegation and attached a December 2006 email to her therapist at the time alleging a “rape.”
+
+•         She said she did not tell the officer she had “recovered memories” because she did not believe the officer needed or wanted more details about the sexual assault of December 2006, nor that such “details would be important to her (the officer).”[15]  
+
+•         She thought that the police were not really “very interested” in the case, even though the officer contacted her several times and did want more information. 
+
+[35]      L.S.B. further explained:
+
+ 
+
+•         Flashbacks are, “images that pop in my head and sometimes they are very colourful, sometimes they just go dark.”
+
+•         “Sometimes they just go very dark, like black. I have very vivid and colourful and then it just goes black. They come and they go. They are quite intrusive. I don’t choose to have them, but I can go back to those specific images, those flashbacks that come in my head.
+
+•         “I am capable of going back to some of those flashbacks. They’re not always completely clear, but they are present, they are with me.”
+
+•         The difference between a memory and a flashback is that a flashback is “not a regular memory for me.”
+
+•         Sometimes the flashback “fades away and comes back.” She does not “control those flashbacks. They just come,” which can be about, “different parts of the same event.”
+
+•         Sometimes she sees the color of M.G.’s shirt, but “sometimes I just see his waist.” Sometimes she sees M.G.’s face, sometimes she does not. When she does “see his face” it is “always mad.”[16]
+
+•         Her flashbacks were “very very cloudy, very very dark” on the day she gave her statement.[17]
+
+•         She needed “help” remembering all M.G.’s physical movements. She did not remember them when she gave her statement but recovered those memories in flashbacks.[18]
+
+[36]      When asked if her testimony was “all from these flashbacks,” L.S.B. responded “yes.” When L.S.B. provided her statement to police, “those flashbacks, they were not vivid. They were not all there.” She did not have “the full alive flashbacks” in her mind at the time.[19]
+
+[37]      L.S.B. agreed that when she testified in-chief, she added many new details about the December 2006 sexual assault that she did not provide to police, since she “recovered” said details from “flashbacks.” She also agreed that she did not tell the police details she did remember in “flashbacks” because she thought they were unimportant.
+
+[38]      In cross-examination, L.S.B. insisted the “only” reason she and M.G. attended joint counseling in early 2007 was the “rape” and for no other issues in their relationship.  She eventually relented and agreed that it was the “rape” and “alcohol,” as a “no sex with alcohol rule” was established after the counselling.
+
+[39]      L.S.B.’s evidence of the particular portion of the joint therapy session, where the therapist confronts M.G. with whether or not he had “taken” L.S.B., is described in minute and perfectly chronologically choreographed detail even though the session occurred over 18 years ago.
+
+[40]      L.S.B. does not remember anything else about that session: not what she said, not what else was discussed, not want else M.G. discussed, not what and how the therapist approached the allegation, and not how the issue was resolved in the session.
+
+[41]      M.G. testified in a straight-forward, direct manner. He did not evade questions. He admitted conduct against interest. He acknowledged his alcohol use has been an issue throughout his marriage with L.S.B., who does not drink at all. He agreed they had a “no alcohol rule” if they were going to have sex. He acknowledged the relationship had troubled times throughout.
+
+[42]      M.G. acknowledged that the age of the two allegations affected his memory about specific details, such as explicit words used, and the order of events.
+
+[43]      M.G. testified he never had sexual intercourse without L.S.B.’s consent in December of 2006. M.G. testified they were having difficulties at the time and he went to two therapy sessions to work on their relationship issues.  These issues included L.S.B. wanting to get married because she only had a visitor visa, and M.G. being hesitant to commit. They had sexual challenges in their relationship because L.S.B. experienced pain during intercourse, and she was upset he had not disclosed to her his own childhood sexual trauma. M.G. testified L.S.B. had never spoken to him about a rape before going to therapy.
+
+[44]      During the last joint therapy session, M.G. testified he remembers each person had to take a turn speaking. He did not recall the word “rape” being used but remembered the gist of the conversation. When L.S.B. said she was upset that he would want to have sex with her even though he knew it was painful for her, he became upset and angry, he raised his voice and was probably yelling.  
+
+[45]      M.G. testified he said it was “bullshit” but was told it was not his turn to speak. The therapist asked him to leave the room because he was angry. He did so and waited for 20 or 30 minutes while the therapist spoke to L.S.B. alone. He testified he returned to the room and remembered the therapist telling him to listen if he wanted the relationship to continue. He testified no specific sexual activity in December 2006 was mentioned. He felt the therapist was trying to get him to say sorry for raping L.S.B. but he would not. He testified he refused to acknowledge or apologize for a rape. He said he was sorry about L.S.B.’s feelings and that the relationship was not going well. He paid the therapist; they left and had a long awkward bus ride home. He testified this accusation of rape never came up again until he was arrested in February 2023.
+
+ 
+
+Finding
+
+[46]      Some sort of sexual activity that L.S.B. called a “rape” occurred in December 2006. It was an event that led her to seek therapy in early 2007. It was an accusation she seemed to make and was discussed in couples’ counselling in early 2007.  
+
+[47]      Sexual assault is a traumatizing event. The passage of time erodes memory. L.S.B.’s admission that she tried to “forgive and forget” further clouded her recollection.
+
+[48]      When police asked L.S.B. on February 28, 2023, if M.G. had ever been violent, she told them he had “raped” her. The next day, when she was interviewed by Detective Jing, she told the officer she had been in bed with M.G., in an apartment on Ossington, watching T.V. when M.G. tried to kiss her, and touch her.  He pulled down her pants and held her hands. She said she was immobilized, said “no” and he vaginally raped her. She showered and tried to talk to him about it.
+
+[49]      That appears credible and reliable. However, L.S.B. went on to describe these memories as “very cloudy” “flashbacks” that she had that day, and that she did not tell the Detective everything she remembered even though she was asked to.
+
+[50]      L.S.B. went on to testify that she went to therapy after making her statement to police in March of 2023 and “recovered memories” via “flashbacks.”  This is what led to her testimony of a chronological, minutely choregraphed narrative of the entirety of the sexual assault that occurred almost 18 years ago. These flashbacks were sometimes “colourful” and “vivid” and sometimes “dark.”
+
+[51]      Given the manner L.S.B. “recovered” these memories with the assistance of a third party, the unusual description of her “flashbacks” as clear and available to her, and sometimes, “dark” and unavailable to her, L.S.B.’s evidence is unreliable.
+
+[52]      L.S.B.’s assertion that M.G. “apologized for ‘taking’” her during a single joint therapy session almost 18 years ago is also unreliable. She again testifies to an exact sequence of events and language used, but then, remembers nothing else about the session.
+
+[53]      M.G.’s evidence, with the admission that he is not sure about all the words used, and who said what, but what the gist of the conversation was on this point in a session so long ago is credible. Even if the court were to accept L.S.B.’s recollection of M.G.’s admission, M.G.’s evidence as to what happened in that session, and what it was he apologized for raises a reasonable doubt.
+
+[54]      L.S.B. is clearly convinced that her “flashbacks” of a sexual event in December 2006 and a portion of a joint therapy session in early 2007 are real and accurate. This Court, however, is not convinced.  
+
+[55]      M.G. likely, even probably, touched L.S.B. in a sexual manner in December 2006 without her consent, or in some way that deeply troubled L.S.B. He had likely been drinking which also upset her and always had. However, likely touched, and probably touched, is not sufficient. It is not the legal onus to be met.
+
+[56]      The Crown has not proven beyond a reasonable doubt that M.G. forcibly vaginally penetrated L.S.B. in December 2006.   
+
+ 
+
+Count 3: Sexual Assault Allegation May-June 2013.
+
+[57]      L.S.B. testified that while she and M.G. were living in a house on Pape Avenue, sometime in May or June 2013, after returning from a trip to Chicago, M.G. sexually assaulted her as follows:
+
+ 
+
+•         M.G. came home late and went to bed. She had seen him with a beer, and his breath smelled of beer.
+
+•         They both lay in bed watching TV.
+
+•         M.G. took off his underwear and jumped on top of her.
+
+•         He had a “hard on,” and she told him “No.”  M.G. quickly pulled her pajamas off with both hands and threw his body on top of hers. He vaginally penetrated her with his penis and ejaculated. It lasted 2 or 3 minutes.
+
+•         She remembers M.G. taking off his glasses and putting them on the bedside table, and thinking she needed to get through one more day before the weekend when she could process her feelings.
+
+•         She spoke to M.G. the next day about it and he said he was just having fun.
+
+•         She had been thinking of moving out but did not because she learned she was pregnant in July 2013.
+
+•         L.S.B. believes the conception was the result of the sexual assault.
+
+•         Some of M.G.’s behaviour changed when he learned she was pregnant, and she decided to stay in the relationship as it would be best for their child.
+
+[58]      In cross-examination, L.S.B. confirmed that this memory of the 2013 event was also the result of “flashbacks,” though these were not as clear as her “flashbacks” about the December 2006 event.  
+
+[59]      M.G. testified that the relationship was good in May and June of 2013. He recalls L.S.B. getting her citizenship in May of that year. He was happy when L.S.B. told him she was pregnant, though he remembers he was surprised she had not told him earlier. He remembers they were both happy about the pregnancy.
+
+[60]      M.G. denies having any sexual intercourse with L.S.B. without her consent during that time. He testified L.S.B. never informed him of her belief about their child’s conception. The first he heard of this allegation was after he was arrested and watched L.S.B.’s video statement when he heard her say that.   
+
+Finding
+
+[61]      I am mindful that I may accept some, all, or none of a witnesses’ evidence. I also note that L.S.B.’s evidence on this 2013 count was not shaken, challenged or undermined either by inconsistencies or omissions in her police videotaped statement, as was her evidence on the first two counts.
+
+[62]      However, the damage to her credibility on the first count lingers, and the concern with her reliability on the second count affects this third count.  
+
+[63]      L.S.B.’s memory “flashbacks” of the 2013 sexual assault allegation are less clear, less fulsome, and less detailed than those of the 2006 allegation, although it is alleged to have been significantly more recent. Moreover, the 2013 allegation is also attached, in L.S.B.’s mind, to a significant life event, that of conception.
+
+[64]      Yet, neither the recency, relatively speaking, nor the significance of the result of the event, make the memory clear to L.S.B. Rather she is dependant on her “flashback” recovery process with her therapist to obtain the “flashback,” which in her words is “cloudy.”
+
+[65]      Again, given the source of L.S.B.’s memory, that of “flashbacks” she retrieved with the assistance of a therapist, and its “cloudy” nature, I find L.S.B.’s evidence on this count to be unreliable.
+
+[66]       M.G.’s evidence that the relationship, to his knowledge, was good at the time, and that both he and L.S.B. were happy she was pregnant also provides a different context to the 2013 allegation than that provided by L.S.B. Given the limited information L.S.B. seemed to share with M.G. about her thoughts of leaving him at the time, M.G.’s evidence seems quite plausible. His simple straightforward denial that he did not have sexual intercourse with L.S.B. without her consent, also appears plausible.   
+
+[67]      The Crown has not proven the sexual assault charge of 2013 beyond a reasonable doubt.
+
+V.     Conclusion
+[68]      For all the reasons stated above, there will be an acquittal on all three charges.
+
+Released:  September 3, 2025.
+
+ 
+
+ 
+
+                                                                       
+
+ 
+
+Signed: Justice C. C. G. Faria
+
+ 
+
+ 
+
+
+[1] The word “rape” is the word repeatedly used and preferred by the complainant and used by the parties.
+
+[2] The Crown erroneously proceeded summarily on November 18, 2024. On November 20, 2024, the error was identified. On consent, the proceedings were struck. M.G. was re-arraigned, the Crown proceeded by Indictment, the Defence elected to proceed before the Ontario Court of Justice, and the parties agreed all the evidence that had been heard would apply to the trial properly proceeding by Indictment.
+
+[3] There was a pre-trial oral s. 276 Ruling made on April 15, 2024, with written reasons provided to the parties on January 6, 2025.  
+
+[4] R. v. M.G., 2024 ONCJ 666.
+
+[5] R. v. M.G., 2024 ONCJ 652.
+
+[6] R. v. M.G., 2025 ONCJ 246
+
+[7] R. v. Lifchus, 1997 CanLII 319 (SCC), [1997] 3 S.C.R. 320 at para. 14, 39.
+
+[8] R. v. Stewart, 1994 CanLII 7208 (ON CA), [1994] O.J. No. 811 (C.A.) at para 27.
+
+[9] R. v. C.P., 2021 SCC 19 at para. 35.
+
+[10] R. v. W.D., [1991] 1 R.C.S. at p.743.
+
+[11] R. v. Seaboyer; R. v. Gayme, 1991 CanLII 76 (SCC), [1991] 2 SCR 577 at pp. 679-680;  R. v. Darrach, 2000 SCC 46 at paras. 32-37; R. v. Find, 2001 SCC 32 at para. 103; R. v. J.L., 2018 ONCA 756 at paras. 46-47; R. v. JC, 2021 ONCA 131 at paras. 93-98; R. v. J.J., 2022 SCC 28 at para. 1.
+
+[12] Transcript, November 19, 2024, at p. 29.
+
+[13] Transcript: November 18, 2025, pp. 33-34.
+
+[14] Transcript: November 18, 2025, p. 73.
+
+[15] Transcript, April 4, 2025, at pps. 3-13.
+
+[16] Transcript, April 4, 2025, at pp. 20-22.
+
+[17] Transcript, April 4, 2025, at p. 48.
+
+[18] Transcript, April 4, 2025, at pp. 39.  43.
+
+[19] Transcript, April 4, 2025, at p. 24.
