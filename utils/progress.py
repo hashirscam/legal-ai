@@ -1,0 +1,315 @@
+import time
+from typing import Dict, Any, List, Optional, Callable
+from datetime import datetime
+import threading
+import logging
+
+logger = logging.getLogger(__name__)
+
+class ProgressTracker:
+    def __init__(self):
+        """Initialize progress tracker"""
+        self.current_stage = "idle"
+        self.progress_data = {}
+        self.start_time = None
+        self.stage_start_time = None
+        self.callbacks = []
+        self._lock = threading.Lock()
+        
+    def register_callback(self, callback: Callable[[Dict[str, Any]], None]):
+        """
+        Register a callback function to be called on progress updates
+        
+        Args:
+            callback: Function that takes progress data as argument
+        """
+        with self._lock:
+            self.callbacks.append(callback)
+        logger.info("Registered progress callback")
+    
+    def start_session(self, query: str):
+        """
+        Start a new progress tracking session
+        
+        Args:
+            query: The user query being processed
+        """
+        with self._lock:
+            self.start_time = time.time()
+            self.stage_start_time = time.time()
+            self.current_stage = "started"
+            self.progress_data = {
+                'query': query,
+                'stage': self.current_stage,
+                'status': 'Research started',
+                'start_time': datetime.now().isoformat(),
+                'elapsed_time': 0,
+                'stage_elapsed_time': 0,
+                'documents_found': 0,
+                'documents_being_read': [],
+                'completed_readings': 0,
+                'total_readings': 0,
+                'pruning_completed': 0,
+                'total_pruning': 0,
+                'stages_completed': [],
+                'current_activity': 'Starting research process'
+            }
+            
+        self._notify_callbacks()
+        logger.info(f"Started progress session for query: {query[:50]}...")
+    
+    def update_stage(self, stage: str, status: str, activity: str = ""):
+        """
+        Update the current stage
+        
+        Args:
+            stage: Name of the current stage
+            status: Status message for the stage
+            activity: Current activity description
+        """
+        with self._lock:
+            if self.current_stage != "idle":
+                # Mark previous stage as completed
+                if self.current_stage not in self.progress_data.get('stages_completed', []):
+                    self.progress_data.setdefault('stages_completed', []).append(self.current_stage)
+            
+            self.current_stage = stage
+            self.stage_start_time = time.time()
+            
+            self.progress_data.update({
+                'stage': stage,
+                'status': status,
+                'stage_elapsed_time': 0,
+                'current_activity': activity or status
+            })
+            
+            if self.start_time:
+                self.progress_data['elapsed_time'] = time.time() - self.start_time
+        
+        self._notify_callbacks()
+        logger.info(f"Stage updated: {stage} - {status}")
+    
+    def update_retrieval(self, documents_found: int):
+        """
+        Update retrieval progress
+        
+        Args:
+            documents_found: Number of documents found
+        """
+        with self._lock:
+            self.progress_data.update({
+                'documents_found': documents_found,
+                'current_activity': f'Found {documents_found} relevant documents'
+            })
+            self._update_times()
+        
+        self._notify_callbacks()
+        logger.info(f"Retrieval updated: {documents_found} documents found")
+    
+    def update_pruning(self, completed: int, total: int):
+        """
+        Update pruning progress
+        
+        Args:
+            completed: Number of completed pruning operations
+            total: Total number of pruning operations
+        """
+        with self._lock:
+            self.progress_data.update({
+                'pruning_completed': completed,
+                'total_pruning': total,
+                'current_activity': f'Pruning documents: {completed}/{total} completed'
+            })
+            self._update_times()
+        
+        self._notify_callbacks()
+        logger.info(f"Pruning progress: {completed}/{total}")
+    
+    def update_reading_start(self, documents: List[str]):
+        """
+        Update when reading stage starts
+        
+        Args:
+            documents: List of document names being read
+        """
+        with self._lock:
+            self.progress_data.update({
+                'documents_being_read': documents.copy(),
+                'total_readings': len(documents),
+                'completed_readings': 0,
+                'current_activity': f'Reading {len(documents)} relevant documents'
+            })
+            self._update_times()
+        
+        self._notify_callbacks()
+        logger.info(f"Reading started: {len(documents)} documents")
+    
+    def update_reading_progress(self, document_name: str, completed_count: int):
+        """
+        Update progress of document reading
+        
+        Args:
+            document_name: Name of the document being read
+            completed_count: Number of completed readings
+        """
+        with self._lock:
+            self.progress_data.update({
+                'completed_readings': completed_count,
+                'current_activity': f'Reading {document_name}'
+            })
+            self._update_times()
+        
+        self._notify_callbacks()
+        logger.info(f"Reading progress: {document_name} ({completed_count}/{self.progress_data.get('total_readings', 0)})")
+    
+    def update_aggregation(self):
+        """Update when aggregation stage starts"""
+        with self._lock:
+            self.progress_data.update({
+                'current_activity': 'Synthesizing final response'
+            })
+            self._update_times()
+        
+        self._notify_callbacks()
+        logger.info("Aggregation stage started")
+    
+    def complete_session(self, success: bool = True, final_message: str = ""):
+        """
+        Complete the progress tracking session
+        
+        Args:
+            success: Whether the session completed successfully
+            final_message: Final status message
+        """
+        with self._lock:
+            self.current_stage = "completed" if success else "failed"
+            status = final_message or ("Research completed successfully" if success else "Research failed")
+            
+            self.progress_data.update({
+                'stage': self.current_stage,
+                'status': status,
+                'current_activity': status,
+                'completed': True,
+                'success': success
+            })
+            self._update_times()
+        
+        self._notify_callbacks()
+        logger.info(f"Session completed: success={success}, message='{final_message}'")
+    
+    def _update_times(self):
+        """Update elapsed time fields (must be called with lock held)"""
+        if self.start_time:
+            self.progress_data['elapsed_time'] = time.time() - self.start_time
+        if self.stage_start_time:
+            self.progress_data['stage_elapsed_time'] = time.time() - self.stage_start_time
+    
+    def _notify_callbacks(self):
+        """Notify all registered callbacks (must be called with lock held)"""
+        progress_copy = self.progress_data.copy()
+        for callback in self.callbacks:
+            try:
+                callback(progress_copy)
+            except Exception as e:
+                logger.error(f"Error in progress callback: {e}")
+    
+    def get_current_progress(self) -> Dict[str, Any]:
+        """
+        Get current progress data
+        
+        Returns:
+            Dictionary with current progress information
+        """
+        with self._lock:
+            self._update_times()
+            return self.progress_data.copy()
+
+# Global progress tracker instance
+_progress_tracker = None
+
+def get_progress_tracker() -> ProgressTracker:
+    """
+    Get singleton instance of progress tracker
+    
+    Returns:
+        ProgressTracker instance
+    """
+    global _progress_tracker
+    if _progress_tracker is None:
+        _progress_tracker = ProgressTracker()
+    return _progress_tracker
+
+# Convenience functions
+def start_progress_session(query: str):
+    """Start a progress tracking session"""
+    get_progress_tracker().start_session(query)
+
+def update_progress_stage(stage: str, status: str, activity: str = ""):
+    """Update progress stage"""
+    get_progress_tracker().update_stage(stage, status, activity)
+
+def update_progress_retrieval(documents_found: int):
+    """Update retrieval progress"""
+    get_progress_tracker().update_retrieval(documents_found)
+
+def update_progress_pruning(completed: int, total: int):
+    """Update pruning progress"""
+    get_progress_tracker().update_pruning(completed, total)
+
+def update_progress_reading_start(documents: List[str]):
+    """Update reading start"""
+    get_progress_tracker().update_reading_start(documents)
+
+def update_progress_reading(document_name: str, completed_count: int):
+    """Update reading progress"""
+    get_progress_tracker().update_reading_progress(document_name, completed_count)
+
+def update_progress_aggregation():
+    """Update aggregation stage"""
+    get_progress_tracker().update_aggregation()
+
+def complete_progress_session(success: bool = True, final_message: str = ""):
+    """Complete progress session"""
+    get_progress_tracker().complete_session(success, final_message)
+
+if __name__ == "__main__":
+    # Test the progress tracker
+    import json
+    
+    def print_progress(data):
+        print(f"Progress: {data['stage']} - {data['status']} - {data['current_activity']}")
+    
+    tracker = ProgressTracker()
+    tracker.register_callback(print_progress)
+    
+    # Simulate a research session
+    tracker.start_session("Test query about criminal cases")
+    time.sleep(1)
+    
+    tracker.update_stage("retrieval", "Searching vector database")
+    time.sleep(1)
+    
+    tracker.update_retrieval(25)
+    time.sleep(1)
+    
+    tracker.update_stage("pruning", "Filtering relevant documents")
+    for i in range(1, 6):
+        tracker.update_pruning(i, 5)
+        time.sleep(0.5)
+    
+    tracker.update_stage("reading", "Extracting information")
+    docs = ["R. v. Smith", "R. v. Jones", "R. v. Brown"]
+    tracker.update_reading_start(docs)
+    
+    for i, doc in enumerate(docs):
+        tracker.update_reading_progress(doc, i + 1)
+        time.sleep(0.5)
+    
+    tracker.update_stage("aggregation", "Finalizing response")
+    tracker.update_aggregation()
+    time.sleep(1)
+    
+    tracker.complete_session(True, "Research completed successfully")
+    
+    final_progress = tracker.get_current_progress()
+    print(f"\nFinal progress: {json.dumps(final_progress, indent=2)}")
