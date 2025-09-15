@@ -338,6 +338,8 @@ Synthesized legal position based on all cases reviewed.
 ## 📖 Cases Referenced
 List all cases with hyperlinks and brief relevance descriptions.
 
+IMPORTANT NOTE: DON'T MAKE UP LINKS YOURSELF. ONLY ADD THE LINKS THAT ARE PROVIDED IN THE "AVAILABLE CASE CITATIONS" LIST AND THAT TOO ONLY WITH FILE NAMES.
+
 COMPREHENSIVE RESPONSE (in markdown format):"""
 
         try:
