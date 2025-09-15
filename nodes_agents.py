@@ -104,16 +104,33 @@ class ReadingAgentNode(AsyncParallelBatchNode):
     async def prep_async(self, shared):
         relevant_documents = shared.get("relevant_documents", [])
         user_query = shared.get("user_query", "")
+        retrieved_chunks = shared.get("retrieved_chunks", [])
         
         if not relevant_documents or not user_query:
             logger.error("No relevant documents or query for reading")
             return []
         
+        # Calculate chunk information for each document
+        chunk_info = {}
+        for doc in relevant_documents:
+            # Count total chunks for this document
+            doc_chunks = [chunk for chunk in retrieved_chunks 
+                         if chunk.get('metadata', {}).get('file_name') == doc]
+            total_chunks = len(doc_chunks)
+            
+            # Count relevant chunks (those that were retrieved)
+            relevant_chunks = len(doc_chunks)  # All retrieved chunks are considered relevant
+            
+            chunk_info[doc] = {
+                'total_chunks': total_chunks,
+                'relevant_chunks': relevant_chunks
+            }
+        
         tracker = get_progress_tracker()
         tracker.update_stage("reading", 
                            f"Reading {len(relevant_documents)} documents",
                            "Extracting relevant information")
-        tracker.update_reading_start(relevant_documents)
+        tracker.update_reading_start(relevant_documents, chunk_info)
         
         # We'll read metadata directly from files during exec_async
         return [(doc, user_query) for doc in relevant_documents]

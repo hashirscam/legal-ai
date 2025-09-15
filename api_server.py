@@ -343,6 +343,16 @@ async def start_research(query: ResearchQuery, background_tasks: BackgroundTasks
                 
                 stage = stage_mapping.get(progress_data.get('stage', 'unknown'), progress_data.get('stage', 'unknown'))
                 
+                # Calculate overall progress based on stage completion
+                stage_progress = {
+                    "retrieval": 25,
+                    "pruning": 50, 
+                    "reading": 75,
+                    "aggregation": 90,
+                    "completed": 100
+                }
+                overall_progress = stage_progress.get(stage, 0)
+                
                 # Create document status data for parallel processing display
                 documents_being_read = []
                 if stage == "reading":
@@ -360,9 +370,9 @@ async def start_research(query: ResearchQuery, background_tasks: BackgroundTasks
                         # Clean up the document name for display
                         display_name = doc_name.replace('.txt', '').replace(' (CanLII)', '')
                         
-                        # Calculate some realistic metrics
-                        chunks = 5  # Default chunk count
-                        relevant_chunks = 2 if actual_status == "completed" else 0
+                        # Get actual chunk data from progress tracker
+                        chunks = progress_data.get('document_chunks', {}).get(doc_name, 0)
+                        relevant_chunks = progress_data.get('document_relevant_chunks', {}).get(doc_name, 0)
                         processing_time = 3 if actual_status == "completed" else 0
                         
                         documents_being_read.append({
@@ -379,7 +389,7 @@ async def start_research(query: ResearchQuery, background_tasks: BackgroundTasks
                     "status": progress_data.get('status', 'Processing'),
                     "currentActivity": progress_data.get('current_activity', ''),
                     "elapsedTime": elapsed,
-                    "progress": min(progress_data.get('progress', 0) * 100, 100),
+                    "progress": overall_progress,
                     "documentsFound": progress_data.get('retrieval_count'),
                     "documentsBeingRead": documents_being_read,
                     "completedReadings": progress_data.get('completed_readings', 0),

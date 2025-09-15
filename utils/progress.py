@@ -145,23 +145,35 @@ class ProgressTracker:
         self._notify_callbacks()
         logger.info(f"Pruning progress incremented: {new_completed}/{total}")
     
-    def update_reading_start(self, documents: List[str]):
+    def update_reading_start(self, documents: List[str], chunk_info: Dict[str, Dict] = None):
         """
         Update when reading stage starts
         
         Args:
             documents: List of document names being read
+            chunk_info: Optional dict with chunk information for each document
         """
         with self._lock:
             # Initialize document statuses
             document_statuses = {doc: "pending" for doc in documents}
+            
+            # Initialize chunk information if provided
+            document_chunks = {}
+            document_relevant_chunks = {}
+            if chunk_info:
+                for doc in documents:
+                    doc_chunk_info = chunk_info.get(doc, {})
+                    document_chunks[doc] = doc_chunk_info.get('total_chunks', 0)
+                    document_relevant_chunks[doc] = doc_chunk_info.get('relevant_chunks', 0)
             
             self.progress_data.update({
                 'documents_being_read': documents.copy(),
                 'document_statuses': document_statuses,
                 'total_readings': len(documents),
                 'completed_readings': 0,
-                'current_activity': f'Reading {len(documents)} relevant documents'
+                'current_activity': f'Reading {len(documents)} relevant documents',
+                'document_chunks': document_chunks,
+                'document_relevant_chunks': document_relevant_chunks
             })
             self._update_times()
         
@@ -327,9 +339,9 @@ def update_progress_pruning(completed: int, total: int):
     """Update pruning progress"""
     get_progress_tracker().update_pruning(completed, total)
 
-def update_progress_reading_start(documents: List[str]):
+def update_progress_reading_start(documents: List[str], chunk_info: Dict[str, Dict] = None):
     """Update reading start"""
-    get_progress_tracker().update_reading_start(documents)
+    get_progress_tracker().update_reading_start(documents, chunk_info)
 
 def update_progress_reading(document_name: str, completed_count: int):
     """Update reading progress"""
