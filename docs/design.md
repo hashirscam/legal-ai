@@ -38,9 +38,17 @@
 ### Flow High-level Design:
 
 **Offline Stage (Document Ingestion)**:
-1. **Document Ingestion**: Process legal case files with metadata binding
+1. **Document Ingestion**: Process legal case files with metadata extraction
+   - Extracts metadata from file header (citation, court, date, judge, etc.)
+   - Separates content from metadata for cleaner chunking
+   - Validates legal case format
 2. **Vector Database Creation**: Chunk documents and create embeddings
-3. **Index Storage**: Store in optimal vector database
+   - Uses legal-aware chunking optimized for numbered paragraphs
+   - Creates 800-char chunks with 100-char overlap
+   - Preserves paragraph references in chunk metadata
+3. **Index Storage**: Store in ChromaDB vector database
+   - Each chunk stored with full metadata chain
+   - Enables retrieval by semantic similarity
 
 **Online Stage (Query Processing)**:
 1. **Initial Retrieval**: Vector search to get high-recall chunks (>50% similarity)
@@ -105,14 +113,37 @@ flowchart TD
    - Used for document ingestion with metadata binding
 
 5. **Text Chunking** (`utils/chunking.py`)
-   - *Input*: text (str), chunk size, overlap
+   - *Input*: text (str), configurable via `settings.py`
    - *Output*: list of text chunks with metadata
    - Used for preparing documents for vector storage
+   - **Configuration Options**:
+     - Chunk size (default: 800 chars)
+     - Overlap size (default: 100 chars)
+     - Sentence-based vs character-based splitting
+     - Preserve paragraph numbers in splits
+   - **Optimized for Legal Documents**:
+     - Primary: Split by numbered paragraphs [1], [2], etc.
+     - Groups related paragraphs semantically
+     - Adds intelligent overlap at boundaries
+     - Preserves paragraph references in metadata
 
 6. **Progress Tracker** (`utils/progress.py`)
    - *Input*: progress updates
    - *Output*: UI state updates
    - Used for real-time progress display
+
+7. **Configuration System** (`settings.py`)
+   - Centralized configuration for all components
+   - **ChunkingConfig**: Control chunking behavior
+     - Strategy selection (preserve/split large/always split)
+     - Size parameters (chunk size, overlap, thresholds)
+     - Fine-grained options (sentence splitting, paragraph preservation)
+   - **VectorDBConfig**: Vector database settings
+     - Collection name, embedding model, similarity threshold
+   - **LLMConfig**: LLM and parallel processing settings
+     - Model selection, retry logic, parallelism limits
+   - **SystemConfig**: General system settings
+     - Directories, logging, progress tracking
 
 ## Node Design
 
