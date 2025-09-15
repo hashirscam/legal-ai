@@ -5,7 +5,6 @@ import logging
 logger = logging.getLogger(__name__)
 
 class LegalTextChunker:
-    # TODO: need to put the chunk size in configurator.
     def __init__(self, chunk_size: int = 1000, overlap: int = 200):
         """
         Initialize the legal text chunker
@@ -18,42 +17,10 @@ class LegalTextChunker:
         self.overlap = overlap
         logger.info(f"Initialized chunker with chunk_size={chunk_size}, overlap={overlap}")
     
-    def _split_by_sentences(self, text: str) -> List[str]:
+    def _split_by_legal_paragraphs(self, text: str) -> List[str]:
         """
-        Split text into sentences using legal-aware patterns
-        
-        Args:
-            text: Input text to split
-            
-        Returns:
-            List of sentences
-        """
-        # Legal-aware sentence splitting patterns
-        # Handle common legal abbreviations that shouldn't end sentences
-        abbreviations = ['v\.', 'vs\.', 'c\.', 'para\.', 'paras\.', 's\.', 'ss\.', 
-                        'R\.S\.C\.', 'S\.C\.', 'O\.Reg\.', 'Reg\.', 'J\.', 'C\.J\.']
-        
-        # Temporarily replace abbreviations to avoid false splits
-        protected_text = text
-        replacements = {}
-        for i, abbrev in enumerate(abbreviations):
-            placeholder = f"__ABBREV_{i}__"
-            protected_text = re.sub(abbrev, placeholder, protected_text, flags=re.IGNORECASE)
-            replacements[placeholder] = abbrev.replace('\\.', '.')
-        
-        # Split on sentence boundaries
-        sentences = re.split(r'(?<=[.!?])\s+', protected_text)
-        
-        # Restore abbreviations
-        for i, sentence in enumerate(sentences):
-            for placeholder, original in replacements.items():
-                sentences[i] = sentence.replace(placeholder, original)
-        
-        return [s.strip() for s in sentences if s.strip()]
-    
-    def _split_by_paragraphs(self, text: str) -> List[str]:
-        """
-        Split text into paragraphs
+        Split text by numbered legal paragraphs [1], [2], etc.
+        This is the primary structure in Ontario Court decisions.
         
         Args:
             text: Input text to split
@@ -61,14 +28,32 @@ class LegalTextChunker:
         Returns:
             List of paragraphs
         """
-        # Split on double newlines or numbered paragraphs
-        paragraphs = re.split(r'\n\s*\n|\n\s*\[\d+\]|\n\s*\(\d+\)', text)
-        return [p.strip() for p in paragraphs if p.strip()]
+        # Pattern for numbered paragraphs like [1], [2], [10], [100]
+        pattern = r'\n\s*\[\d+\]\s*'
+        
+        # Split by paragraph numbers
+        parts = re.split(pattern, text)
+        
+        # Find all paragraph numbers to re-attach them
+        numbers = re.findall(pattern, text)
+        
+        # Combine numbers with their content
+        paragraphs = []
+        for i, part in enumerate(parts):
+            if i == 0 and part.strip():
+                # Text before first paragraph number (usually header info)
+                paragraphs.append(part.strip())
+            elif i > 0 and i <= len(numbers):
+                # Combine paragraph number with its content
+                para_text = f"{numbers[i-1].strip()} {part.strip()}"
+                if para_text.strip():
+                    paragraphs.append(para_text)
+        
+        return paragraphs
     
-    # TODO: need to fix this
-    def _split_by_legal_sections(self, text: str) -> List[str]:
+    def _split_by_sections(self, text: str) -> List[str]:
         """
-        Split text by legal sections (e.g., numbered sections, subsections)
+        Split text by major sections (Roman numerals, headings)
         
         Args:
             text: Input text to split
@@ -76,36 +61,71 @@ class LegalTextChunker:
         Returns:
             List of sections
         """
-        # Patterns for legal section markers
+        # Patterns for section headers
         section_patterns = [
-            r'\n\s*\[\d+\]',  # [1], [2], etc.
-            r'\n\s*\(\d+\)',  # (1), (2), etc.
-            r'\n\s*\d+\.',    # 1., 2., etc.
-            r'\n\s*[A-Z]\.',  # A., B., etc.
-            r'\n\s*\([a-z]\)', # (a), (b), etc.
+            r'\n[IVX]+\.\s+[A-Z][^\n]+',  # Roman numerals: I. Introduction, II. Facts
+            r'\n[A-Z][a-z]+:(?:\n|\s)',     # Single word headers: Introduction:, Facts:
+            r'\n[A-Z][A-Z\s]+:(?:\n|\s)',   # All caps headers: FACTUAL CONTEXT:
         ]
         
-        # Try each pattern and use the one that gives the most reasonable splits
-        best_splits = [text]
-        
+        # Find all section headers
+        sections = []
         for pattern in section_patterns:
-            splits = re.split(pattern, text)
-            # TODO: NEED sheer revisit
-            if len(splits) > 1 and len(splits) < 50:  # Reasonable number of sections
-                # Check if splits are reasonable length
-                avg_length = sum(len(s) for s in splits) / len(splits)
-                if 100 < avg_length < 2000:  # Reasonable section length
-                    best_splits = splits
-                    break
+            matches = list(re.finditer(pattern, text))
+            if matches:
+                # Split by these headers
+                last_end = 0
+                for match in matches:
+                    if last_end < match.start():
+                        sections.append(text[last_end:match.start()].strip())
+                    last_end = match.start()
+                sections.append(text[last_end:].strip())
+                break
         
-        return [s.strip() for s in best_splits if s.strip()]
+        return sections if sections else [text]
+    
+    def _group_paragraphs_semantically(self, paragraphs: List[str]) -> List[str]:
+        """
+        Group consecutive legal paragraphs that are semantically related
+        
+        Args:
+            paragraphs: List of individual paragraphs
+            
+        Returns:
+            List of grouped paragraphs
+        """
+        if not paragraphs:
+            return paragraphs
+        
+        grouped = []
+        current_group = []
+        current_size = 0
+        
+        for para in paragraphs:
+            para_size = len(para)
+            
+            # Check if adding this paragraph would exceed chunk size
+            if current_size + para_size > self.chunk_size and current_group:
+                # Save current group
+                grouped.append('\n\n'.join(current_group))
+                current_group = [para]  # TODO: should we keep this overlap?
+                current_size = para_size
+            else:
+                current_group.append(para)
+                current_size += para_size + 2  # +2 for newlines
+        
+        # Add remaining group
+        if current_group:
+            grouped.append('\n\n'.join(current_group))
+        
+        return grouped
     
     def create_chunks(self, text: str, metadata: Optional[Dict[str, Any]] = None) -> List[Dict[str, Any]]:
         """
         Create chunks from legal text using multiple strategies
         
         Args:
-            text: Input text to chunk
+            text: Input text (content after metadata extraction)
             metadata: Optional metadata to attach to each chunk
             
         Returns:
@@ -116,53 +136,47 @@ class LegalTextChunker:
         
         chunks = []
         
-        # Try different splitting strategies in order of preference
-        strategies = [
-            ("legal_sections", self._split_by_legal_sections),
-            ("paragraphs", self._split_by_paragraphs),
-            ("sentences", self._split_by_sentences)
-        ]
+        # Primary strategy: Split by numbered paragraphs
+        paragraphs = self._split_by_legal_paragraphs(text)
         
-        best_chunks = None
-        strategy_used = "character"
-        
-        for strategy_name, split_func in strategies:
-            sections = split_func(text)
-            
-            # Check if this strategy produces reasonable chunks
+        if len(paragraphs) > 1:
+            # Group paragraphs semantically to create optimal chunks
+            grouped_chunks = self._group_paragraphs_semantically(paragraphs)
+            strategy_used = "legal_paragraphs"
+        else:
+            # Fallback: Try section-based splitting
+            sections = self._split_by_sections(text)
             if len(sections) > 1:
-                temp_chunks = []
-                
-                for i, section in enumerate(sections):
+                grouped_chunks = []
+                for section in sections:
                     if len(section) <= self.chunk_size:
-                        # Section fits in one chunk
-                        temp_chunks.append(section)
+                        grouped_chunks.append(section)
                     else:
-                        # Section too large, need to split further
-                        temp_chunks.extend(self._split_large_section(section))
-                
-                # Merge small adjacent chunks
-                temp_chunks = self._merge_small_chunks(temp_chunks)
-                
-                if temp_chunks:
-                    best_chunks = temp_chunks
-                    strategy_used = strategy_name
-                    break
+                        # Split large sections by character boundaries
+                        grouped_chunks.extend(self._character_based_chunking(section))
+                strategy_used = "sections"
+            else:
+                # Final fallback: Character-based chunking
+                grouped_chunks = self._character_based_chunking(text)
+                strategy_used = "character"
         
-        # Fallback to character-based chunking if no strategy worked
-        if best_chunks is None:
-            best_chunks = self._character_based_chunking(text)
-            strategy_used = "character"
+        # Add overlap between chunks for better context continuity
+        final_chunks = self._add_overlap(grouped_chunks)
         
         # Convert to chunk dictionaries with metadata
-        for i, chunk_text in enumerate(best_chunks):
+        for i, chunk_text in enumerate(final_chunks):
             chunk_metadata = metadata.copy() if metadata else {}
+            
+            # Extract paragraph numbers if present
+            para_numbers = re.findall(r'\[\d+\]', chunk_text)
+            if para_numbers:
+                chunk_metadata['paragraph_range'] = f"{para_numbers[0]}-{para_numbers[-1]}" if len(para_numbers) > 1 else para_numbers[0]
+            
             chunk_metadata.update({
                 'chunk_index': i,
-                'chunk_count': len(best_chunks),
+                'chunk_count': len(final_chunks),
                 'chunk_strategy': strategy_used,
-                'chunk_size': len(chunk_text),
-                'chunk_start': text.find(chunk_text) if chunk_text in text else -1
+                'chunk_size': len(chunk_text)
             })
             
             chunks.append({
@@ -173,66 +187,37 @@ class LegalTextChunker:
         logger.info(f"Created {len(chunks)} chunks using {strategy_used} strategy")
         return chunks
     
-    def _split_large_section(self, section: str) -> List[str]:
+    def _add_overlap(self, chunks: List[str]) -> List[str]:
         """
-        Split a large section into smaller chunks
-        
-        Args:
-            section: Large section text
-            
-        Returns:
-            List of smaller chunks
-        """
-        if len(section) <= self.chunk_size:
-            return [section]
-        
-        # Try sentence-based splitting first
-        sentences = self._split_by_sentences(section)
-        chunks = []
-        current_chunk = ""
-        
-        for sentence in sentences:
-            if len(current_chunk) + len(sentence) <= self.chunk_size:
-                current_chunk += (" " if current_chunk else "") + sentence
-            else:
-                if current_chunk:
-                    chunks.append(current_chunk)
-                current_chunk = sentence
-        
-        if current_chunk:
-            chunks.append(current_chunk)
-        
-        return chunks
-    
-    def _merge_small_chunks(self, chunks: List[str]) -> List[str]:
-        """
-        Merge chunks that are too small
+        Add overlap between chunks for better context continuity
         
         Args:
             chunks: List of text chunks
             
         Returns:
-            List of merged chunks
+            List of chunks with overlap
         """
-        if not chunks:
+        if len(chunks) <= 1 or self.overlap <= 0:
             return chunks
         
-        merged = []
-        current = chunks[0]
-        
-        for i in range(1, len(chunks)):
-            next_chunk = chunks[i]
-            
-            # If current chunk is too small and merging won't exceed limit
-            if (len(current) < self.chunk_size // 2 and 
-                len(current) + len(next_chunk) <= self.chunk_size):
-                current += "\n\n" + next_chunk
+        overlapped = []
+        for i, chunk in enumerate(chunks):
+            if i == 0:
+                # First chunk: no prefix overlap
+                overlapped.append(chunk)
             else:
-                merged.append(current)
-                current = next_chunk
+                # Add overlap from previous chunk
+                prev_chunk = chunks[i-1]
+                overlap_text = prev_chunk[-self.overlap:] if len(prev_chunk) > self.overlap else prev_chunk
+                
+                # Find a good break point (paragraph or sentence boundary)
+                para_match = re.search(r'\n\s*\[\d+\]', overlap_text)
+                if para_match:
+                    overlap_text = overlap_text[para_match.start():]
+                
+                overlapped.append(overlap_text + chunk)
         
-        merged.append(current)
-        return merged
+        return overlapped
     
     def _character_based_chunking(self, text: str) -> List[str]:
         """
