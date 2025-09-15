@@ -1,0 +1,92 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Updated to professional legal theme with deep blue primary */
+  --background: #f8fafc; /* Light background for main areas */
+  --foreground: #1f2937; /* Dark text for readability */
+  --card: #ffffff; /* White for cards */
+  --card-foreground: #1f2937; /* Dark text on cards */
+  --popover: #ffffff; /* White for popovers */
+  --popover-foreground: #1f2937; /* Dark text on popovers */
+  --primary: #1f4e79; /* Deep Blue for backgrounds */
+  --primary-foreground: #ffffff; /* White text on primary backgrounds */
+  --secondary: #6366f1; /* Vibrant Blue for accents */
+  --secondary-foreground: #ffffff; /* White text on secondary backgrounds */
+  --muted: #f8fafc; /* Light gray for muted elements */
+  --muted-foreground: #1f2937; /* Dark text on muted elements */
+  --accent: #6366f1; /* Vibrant Blue for interactive elements */
+  --accent-foreground: #ffffff; /* White text on accent elements */
+  --destructive: #be123c; /* Rose for destructive actions */
+  --destructive-foreground: #ffffff; /* White text on destructive actions */
+  --border: #e5e7eb; /* Light gray for borders */
+  --input: #ffffff; /* White for input fields */
+  --ring: #6366f1; /* Vibrant Blue for focus rings */
+  --chart-1: #d97706; /* Amber for chart elements */
+  --chart-2: #be123c; /* Rose for chart elements */
+  --chart-3: #374151; /* Dark gray for chart elements */
+  --chart-4: #6366f1; /* Vibrant Blue for chart elements */
+  --chart-5: #1f4e79; /* Deep Blue for chart elements */
+  --radius: 0.5rem; /* Rounded corners */
+  --sidebar: #1f4e79; /* Deep Blue for sidebar background */
+  --sidebar-foreground: #ffffff; /* White text in sidebar */
+  --sidebar-primary: #1f4e79; /* Deep Blue for primary sidebar items */
+  --sidebar-primary-foreground: #ffffff; /* White text for primary sidebar items */
+  --sidebar-accent: #6366f1; /* Vibrant Blue for accent sidebar items */
+  --sidebar-accent-foreground: #ffffff; /* White text for accent sidebar items */
+  --sidebar-border: #374151; /* Dark gray for sidebar borders */
+  --sidebar-ring: #6366f1; /* Vibrant Blue for sidebar focus rings */
+}
+
+.dark {
+  --background: #0f172a;
+  --foreground: #f1f5f9;
+  --card: #1e293b;
+  --card-foreground: #f1f5f9;
+  --popover: #1e293b;
+  --popover-foreground: #f1f5f9;
+  --primary: #3b82f6;
+  --primary-foreground: #ffffff;
+  --secondary: #475569;
+  --secondary-foreground: #f1f5f9;
+  --muted: #334155;
+  --muted-foreground: #94a3b8;
+  --accent: #6366f1;
+  --accent-foreground: #ffffff;
+  --destructive: #dc2626;
+  --destructive-foreground: #ffffff;
+  --border: #334155;
+  --input: #1e293b;
+  --ring: #6366f1;
+  --chart-1: #f59e0b;
+  --chart-2: #ef4444;
+  --chart-3: #6b7280;
+  --chart-4: #8b5cf6;
+  --chart-5: #06b6d4;
+  --sidebar: #0f172a;
+  --sidebar-foreground: #f1f5f9;
+  --sidebar-primary: #3b82f6;
+  --sidebar-primary-foreground: #ffffff;
+  --sidebar-accent: #475569;
+  --sidebar-accent-foreground: #f1f5f9;
+  --sidebar-border: #334155;
+  --sidebar-ring: #6366f1;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+@layer components {
+  /* Custom component styles can go here */
+}
+
+@layer utilities {
+  /* Custom utility styles can go here */
+}
