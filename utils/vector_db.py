@@ -3,23 +3,30 @@ from chromadb.utils import embedding_functions
 import os
 from typing import List, Dict, Any, Tuple
 import logging
+import sys
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from settings import get_system_config, get_vector_db_config
 
 logger = logging.getLogger(__name__)
 
 class VectorDatabase:
-    def __init__(self, persist_directory: str = "./chroma_db"):
+    def __init__(self, persist_directory: str = None):
         """
         Initialize ChromaDB vector database
         
         Args:
-            persist_directory: Directory to persist the database
+            persist_directory: Directory to persist the database (uses config if None)
         """
-        self.client = chromadb.PersistentClient(path=persist_directory)
+        config = get_system_config()
+        vdb_config = get_vector_db_config()
+        
+        persist_dir = persist_directory or config.CHROMA_DB_PATH
+        self.client = chromadb.PersistentClient(path=persist_dir)
         self.embedding_function = embedding_functions.SentenceTransformerEmbeddingFunction(
-            model_name="all-MiniLM-L6-v2"  # Good balance of performance and speed
+            model_name=vdb_config.EMBEDDING_MODEL
         )
         self.collection = None
-        logger.info(f"Initialized vector database at {persist_directory}")
+        logger.info(f"Initialized vector database at {persist_dir}")
     
     def create_or_get_collection(self, collection_name: str = "legal_cases"):
         """

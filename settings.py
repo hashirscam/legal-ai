@@ -27,21 +27,14 @@ class ChunkingConfig:
     
     # ==== CURRENT CONFIGURATION ====
     # Change STRATEGY to switch between modes
-    STRATEGY = ChunkingStrategy.SPLIT_LARGE_PARAGRAPHS  
+    STRATEGY = ChunkingStrategy.PRESERVE_PARAGRAPHS  
     
     # Basic chunking parameters 
     CHUNK_SIZE = 10  # Target size for each chunk in characters
     OVERLAP_SIZE = 0  # Number of characters to overlap between chunks
     
-    # ==== ADDITIONAL SETTINGS (Required by chunking code) ====
-    MIN_CHUNK_SIZE = 200  # Minimum size for a chunk
-    MAX_CHUNK_SIZE = 1500  # Maximum size for a chunk  
-    PARAGRAPH_SPLIT_THRESHOLD = 1000  # When to split paragraphs (for SPLIT_LARGE_PARAGRAPHS)
-    GROUP_SMALL_PARAGRAPHS = True  # Group consecutive small paragraphs
     SPLIT_ON_SENTENCES = True  # Split by sentences when doing fine-grained splitting
     PRESERVE_PARAGRAPH_NUMBERS = True  # Keep [1], [2] markers with their content
-    OVERLAP_AT_PARAGRAPH_BOUNDARIES = True  # Prefer paragraph boundaries for overlap
-    SMART_OVERLAP = True  # Use intelligent overlap
 
 class VectorDBConfig:
     """Configuration for vector database"""

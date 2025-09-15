@@ -1,6 +1,7 @@
 from pocketflow import AsyncParallelBatchNode, Node
 from utils.call_llm import call_llm, call_llm_async
 from utils.progress import get_progress_tracker
+from settings import get_system_config
 import asyncio
 import logging
 import os
@@ -30,9 +31,9 @@ class PruningAgentNode(AsyncParallelBatchNode):
     async def exec_async(self, doc_and_query):
         document_name, user_query = doc_and_query
         
-        # For now, read the document directly from file
-        documents_dir = "assets/decisions"
-        doc_path = os.path.join(documents_dir, document_name)
+        # Read the document directly from file
+        config = get_system_config()
+        doc_path = os.path.join(config.DOCUMENTS_DIR, document_name)
         
         if not os.path.exists(doc_path):
             logger.warning(f"Document not found: {document_name}")
@@ -137,8 +138,8 @@ class ReadingAgentNode(AsyncParallelBatchNode):
         tracker.update_document_status(document_name, "reading")
         
         # Read the document
-        documents_dir = "assets/decisions"
-        doc_path = os.path.join(documents_dir, document_name)
+        config = get_system_config()
+        doc_path = os.path.join(config.DOCUMENTS_DIR, document_name)
         
         if not os.path.exists(doc_path):
             logger.warning(f"Document not found: {document_name}")
