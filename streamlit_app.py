@@ -198,23 +198,42 @@ def display_progress(progress_data):
     
     elif stage == 'reading':
         documents_being_read = progress_data.get('documents_being_read', [])
+        document_statuses = progress_data.get('document_statuses', {})
         completed_readings = progress_data.get('completed_readings', 0)
         total_readings = progress_data.get('total_readings', 0)
         
         if documents_being_read:
-            st.write("📖 **Reading Documents:**")
+            st.write("📖 **Reading Documents (All in Parallel):**")
             
-            for i, doc in enumerate(documents_being_read):
-                if i < completed_readings:
-                    st.markdown(f"✅ {doc}")
-                elif i == completed_readings:
-                    st.markdown(f"🔄 **Reading {doc}...**")
-                else:
-                    st.markdown(f"⏳ {doc}")
+            # Create columns for better visual layout
+            for doc in documents_being_read:
+                status = document_statuses.get(doc, 'pending')
+                
+                col1, col2 = st.columns([1, 10])
+                
+                with col1:
+                    if status == 'completed':
+                        st.markdown("✅")
+                    elif status == 'reading':
+                        st.markdown("🔄")
+                    elif status == 'error':
+                        st.markdown("❌")
+                    else:  # pending
+                        st.markdown("⏳")
+                
+                with col2:
+                    if status == 'reading':
+                        st.markdown(f"**{doc}** - *Reading...*")
+                    elif status == 'completed':
+                        st.markdown(f"**{doc}** - *Completed*")
+                    elif status == 'error':
+                        st.markdown(f"**{doc}** - *Error*")
+                    else:
+                        st.markdown(f"**{doc}** - *Waiting*")
         
         if total_readings > 0:
             progress_bar = st.progress(completed_readings / total_readings)
-            st.write(f"Progress: {completed_readings}/{total_readings} documents")
+            st.write(f"Progress: {completed_readings}/{total_readings} documents completed")
     
     elif stage == 'aggregation':
         st.info("🧠 Synthesizing findings into comprehensive response...")

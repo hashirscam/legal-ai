@@ -1,5 +1,5 @@
 from pocketflow import AsyncParallelBatchNode, Node
-from utils.call_llm import call_llm
+from utils.call_llm import call_llm, call_llm_async
 from utils.progress import get_progress_tracker
 import asyncio
 import logging
@@ -23,16 +23,12 @@ class PruningAgentNode(AsyncParallelBatchNode):
         tracker.update_stage("pruning", 
                            f"Analyzing relevance of {len(unique_documents)} documents",
                            "Running parallel pruning agents")
+        tracker.update_pruning(0, len(unique_documents))
         
         return [(doc, user_query) for doc in unique_documents]
     
     async def exec_async(self, doc_and_query):
         document_name, user_query = doc_and_query
-        
-        # Find the document in processed files
-        # Note: We need to access shared here, which violates the pattern
-        # In a real implementation, we'd pass the document content differently
-        doc_content = ""
         
         # For now, read the document directly from file
         documents_dir = "assets/decisions"
@@ -69,24 +65,32 @@ YES/NO - [Brief explanation of relevance/irrelevance]
 RESPONSE:"""
 
         try:
-            response = call_llm(pruning_prompt)
+            response = await call_llm_async(pruning_prompt)
             is_relevant = response.strip().upper().startswith("YES")
+            
+            # Update progress for this completed pruning operation
+            tracker = get_progress_tracker()
+            current_progress = tracker.get_current_progress()
+            total = current_progress.get('total_pruning', 0)
+            tracker.increment_pruning(total)
+            
             return (document_name, is_relevant, response.strip())
         except Exception as e:
             logger.error(f"Error in pruning agent for {document_name}: {e}")
+            
+            # Still update progress even on error
+            tracker = get_progress_tracker()
+            current_progress = tracker.get_current_progress()
+            total = current_progress.get('total_pruning', 0)
+            tracker.increment_pruning(total)
+            
             return (document_name, False, f"Error: {str(e)}")
     
     async def post_async(self, shared, prep_res, exec_res_list):
         pruning_results = {}
         relevant_documents = []
         
-        completed = 0
-        tracker = get_progress_tracker()
-        
         for doc_name, is_relevant, explanation in exec_res_list:
-            completed += 1
-            tracker.update_pruning(completed, len(exec_res_list))
-            
             pruning_results[doc_name] = {
                 'relevant': is_relevant,
                 'explanation': explanation
@@ -97,6 +101,8 @@ RESPONSE:"""
         shared["pruning_results"] = pruning_results
         shared["relevant_documents"] = relevant_documents
         
+        tracker = get_progress_tracker()
+        tracker.update_pruning(len(exec_res_list), len(exec_res_list))
         tracker.update_stage("reading_prep", 
                            f"Selected {len(relevant_documents)} relevant documents",
                            f"Preparing to read {len(relevant_documents)} documents")
@@ -126,12 +132,17 @@ class ReadingAgentNode(AsyncParallelBatchNode):
     async def exec_async(self, doc_and_query):
         document_name, user_query = doc_and_query
         
+        # Update progress to show this document is being read
+        tracker = get_progress_tracker()
+        tracker.update_document_status(document_name, "reading")
+        
         # Read the document
         documents_dir = "assets/decisions"
         doc_path = os.path.join(documents_dir, document_name)
         
         if not os.path.exists(doc_path):
             logger.warning(f"Document not found: {document_name}")
+            tracker.update_document_status(document_name, "error")
             return (document_name, f"Unable to read content for {document_name}")
         
         try:
@@ -139,13 +150,8 @@ class ReadingAgentNode(AsyncParallelBatchNode):
                 doc_content = f.read()
         except Exception as e:
             logger.error(f"Error reading {document_name}: {e}")
+            tracker.update_document_status(document_name, "error")
             return (document_name, f"Error reading {document_name}: {str(e)}")
-        
-        # Update progress
-        tracker = get_progress_tracker()
-        current_progress = tracker.get_current_progress()
-        completed_count = current_progress.get('completed_readings', 0) + 1
-        tracker.update_reading_progress(document_name, completed_count)
         
         # Create reading/extraction prompt
         reading_prompt = f"""You are a legal research assistant. Extract and summarize all information relevant to the user's query from this legal case.
@@ -188,10 +194,21 @@ PROVIDE A STRUCTURED SUMMARY:
 SUMMARY:"""
 
         try:
-            response = call_llm(reading_prompt)
+            # Use async LLM call for true parallel execution
+            response = await call_llm_async(reading_prompt)
+            
+            # Update progress to show this document is completed
+            tracker.update_document_status(document_name, "completed")
+            tracker.increment_reading(document_name)
+            
             return (document_name, response)
         except Exception as e:
             logger.error(f"Error in reading agent for {document_name}: {e}")
+            
+            # Update status to error
+            tracker.update_document_status(document_name, "error")
+            tracker.increment_reading(document_name)
+            
             return (document_name, f"Error reading {document_name}: {str(e)}")
     
     async def post_async(self, shared, prep_res, exec_res_list):
@@ -280,9 +297,10 @@ COMPREHENSIVE RESPONSE:"""
     
     def post(self, shared, prep_res, exec_res):
         shared["final_response"] = exec_res
-        
+         
         tracker = get_progress_tracker()
         tracker.complete_session(True, "Legal research completed successfully")
         
         logger.info("Legal research process completed successfully")
         return "default"
+ 

@@ -125,6 +125,26 @@ class ProgressTracker:
         self._notify_callbacks()
         logger.info(f"Pruning progress: {completed}/{total}")
     
+    def increment_pruning(self, total: int):
+        """
+        Increment pruning progress by one (thread-safe)
+        
+        Args:
+            total: Total number of pruning operations
+        """
+        with self._lock:
+            current_completed = self.progress_data.get('pruning_completed', 0)
+            new_completed = current_completed + 1
+            self.progress_data.update({
+                'pruning_completed': new_completed,
+                'total_pruning': total,
+                'current_activity': f'Pruning documents: {new_completed}/{total} completed'
+            })
+            self._update_times()
+        
+        self._notify_callbacks()
+        logger.info(f"Pruning progress incremented: {new_completed}/{total}")
+    
     def update_reading_start(self, documents: List[str]):
         """
         Update when reading stage starts
@@ -133,8 +153,12 @@ class ProgressTracker:
             documents: List of document names being read
         """
         with self._lock:
+            # Initialize document statuses
+            document_statuses = {doc: "pending" for doc in documents}
+            
             self.progress_data.update({
                 'documents_being_read': documents.copy(),
+                'document_statuses': document_statuses,
                 'total_readings': len(documents),
                 'completed_readings': 0,
                 'current_activity': f'Reading {len(documents)} relevant documents'
@@ -155,12 +179,59 @@ class ProgressTracker:
         with self._lock:
             self.progress_data.update({
                 'completed_readings': completed_count,
-                'current_activity': f'Reading {document_name}'
+                'current_activity': f'Reading {document_name}' if document_name else f'Reading completed: {completed_count} documents'
             })
             self._update_times()
         
         self._notify_callbacks()
         logger.info(f"Reading progress: {document_name} ({completed_count}/{self.progress_data.get('total_readings', 0)})")
+    
+    def increment_reading(self, document_name: str):
+        """
+        Increment reading progress by one (thread-safe)
+        
+        Args:
+            document_name: Name of the document being read
+        """
+        with self._lock:
+            current_completed = self.progress_data.get('completed_readings', 0)
+            new_completed = current_completed + 1
+            total = self.progress_data.get('total_readings', 0)
+            self.progress_data.update({
+                'completed_readings': new_completed,
+                'current_activity': f'Completed reading {document_name}'
+            })
+            self._update_times()
+        
+        self._notify_callbacks()
+        logger.info(f"Reading progress incremented: {document_name} ({new_completed}/{total})")
+    
+    def update_document_status(self, document_name: str, status: str):
+        """
+        Update the status of a specific document (thread-safe)
+        
+        Args:
+            document_name: Name of the document
+            status: Status of the document ("pending", "reading", "completed", "error")
+        """
+        with self._lock:
+            if 'document_statuses' not in self.progress_data:
+                self.progress_data['document_statuses'] = {}
+            
+            self.progress_data['document_statuses'][document_name] = status
+            
+            # Update activity message based on status
+            if status == "reading":
+                self.progress_data['current_activity'] = f'Reading {document_name}'
+            elif status == "completed":
+                self.progress_data['current_activity'] = f'Completed {document_name}'
+            elif status == "error":
+                self.progress_data['current_activity'] = f'Error reading {document_name}'
+            
+            self._update_times()
+        
+        self._notify_callbacks()
+        logger.info(f"Document status updated: {document_name} -> {status}")
     
     def update_aggregation(self):
         """Update when aggregation stage starts"""
