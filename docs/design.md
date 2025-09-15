@@ -113,20 +113,37 @@ flowchart TD
    - Used for document ingestion with metadata binding
 
 5. **Text Chunking** (`utils/chunking.py`)
-   - *Input*: text (str), chunk size (800 chars), overlap (100 chars)
+   - *Input*: text (str), configurable via `settings.py`
    - *Output*: list of text chunks with metadata
    - Used for preparing documents for vector storage
-   - **Optimized for Ontario Court Decisions**:
-     - Primary strategy: Split by numbered paragraphs [1], [2], etc.
-     - Groups related paragraphs semantically up to chunk size
-     - Adds overlap between chunks for context continuity
+   - **Configuration Options**:
+     - Chunk size (default: 800 chars)
+     - Overlap size (default: 100 chars)
+     - Sentence-based vs character-based splitting
+     - Preserve paragraph numbers in splits
+   - **Optimized for Legal Documents**:
+     - Primary: Split by numbered paragraphs [1], [2], etc.
+     - Groups related paragraphs semantically
+     - Adds intelligent overlap at boundaries
      - Preserves paragraph references in metadata
-     - Fallback strategies for non-standard formats
 
 6. **Progress Tracker** (`utils/progress.py`)
    - *Input*: progress updates
    - *Output*: UI state updates
    - Used for real-time progress display
+
+7. **Configuration System** (`settings.py`)
+   - Centralized configuration for all components
+   - **ChunkingConfig**: Control chunking behavior
+     - Strategy selection (preserve/split large/always split)
+     - Size parameters (chunk size, overlap, thresholds)
+     - Fine-grained options (sentence splitting, paragraph preservation)
+   - **VectorDBConfig**: Vector database settings
+     - Collection name, embedding model, similarity threshold
+   - **LLMConfig**: LLM and parallel processing settings
+     - Model selection, retry logic, parallelism limits
+   - **SystemConfig**: General system settings
+     - Directories, logging, progress tracking
 
 ## Node Design
 

@@ -1,21 +1,29 @@
 import re
 from typing import List, Dict, Any, Optional
 import logging
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from settings import ChunkingConfig, ChunkingStrategy, get_chunking_config
 
 logger = logging.getLogger(__name__)
 
 class LegalTextChunker:
-    def __init__(self, chunk_size: int = 1000, overlap: int = 200):
+    def __init__(self, chunk_size: int = None, overlap: int = None, config: ChunkingConfig = None):
         """
-        Initialize the legal text chunker
+        Initialize the legal text chunker with configuration
         
         Args:
-            chunk_size: Target size for each chunk in characters
-            overlap: Number of characters to overlap between chunks
+            chunk_size: Target size for each chunk (overrides config)
+            overlap: Number of characters to overlap (overrides config)
+            config: ChunkingConfig object (if None, uses default from settings)
         """
-        self.chunk_size = chunk_size
-        self.overlap = overlap
-        logger.info(f"Initialized chunker with chunk_size={chunk_size}, overlap={overlap}")
+        self.config = config or get_chunking_config()
+        self.chunk_size = chunk_size or self.config.CHUNK_SIZE
+        self.overlap = overlap or self.config.OVERLAP_SIZE
+        self.strategy = self.config.STRATEGY
+        
+        logger.info(f"Initialized chunker: size={self.chunk_size}, overlap={self.overlap}, strategy={self.strategy.value}")
     
     def _split_by_legal_paragraphs(self, text: str) -> List[str]:
         """
@@ -86,7 +94,7 @@ class LegalTextChunker:
     
     def _group_paragraphs_semantically(self, paragraphs: List[str]) -> List[str]:
         """
-        Group consecutive legal paragraphs that are semantically related
+        Group consecutive legal paragraphs based on configuration
         
         Args:
             paragraphs: List of individual paragraphs
@@ -97,28 +105,65 @@ class LegalTextChunker:
         if not paragraphs:
             return paragraphs
         
-        grouped = []
-        current_group = []
-        current_size = 0
+        # Apply strategy-specific processing
+        if self.strategy == ChunkingStrategy.PRESERVE_PARAGRAPHS:
+            # Keep paragraphs as-is, no splitting
+            return paragraphs
+        elif self.strategy == ChunkingStrategy.SPLIT_LARGE_PARAGRAPHS:
+            # Split only paragraphs exceeding chunk size
+            return self._selective_splitting(paragraphs)
+        else:
+            # Default to preserving paragraphs
+            return paragraphs
+
+    
+    def _selective_splitting(self, paragraphs: List[str]) -> List[str]:
+        """Split only large paragraphs, group small ones"""
+        processed = []
         
         for para in paragraphs:
-            para_size = len(para)
-            
-            # Check if adding this paragraph would exceed chunk size
-            if current_size + para_size > self.chunk_size and current_group:
-                # Save current group
-                grouped.append('\n\n'.join(current_group))
-                current_group = [para]  # TODO: should we keep this overlap?
-                current_size = para_size
+            if len(para) > self.config.CHUNK_SIZE:
+                # Split this large paragraph
+                splits = self._split_paragraph_fine_grained(para)
+                processed.extend(splits)
             else:
-                current_group.append(para)
-                current_size += para_size + 2  # +2 for newlines
+                processed.append(para)
         
-        # Add remaining group
-        if current_group:
-            grouped.append('\n\n'.join(current_group))
+        # Now group the processed paragraphs
+        return processed
+    
+    def _split_paragraph_fine_grained(self, paragraph: str) -> List[str]:
+        """Split a single paragraph into smaller chunks"""
+        if len(paragraph) <= self.chunk_size:
+            return [paragraph]
         
-        return grouped
+        # Extract paragraph number if present
+        para_num_match = re.match(r'^(\[\d+\]\s*)', paragraph)
+        para_num = para_num_match.group(1) if para_num_match else ""
+        content = paragraph[len(para_num):] if para_num else paragraph
+        
+        if self.config.SPLIT_ON_SENTENCES:
+            # Split by sentences
+            sentences = re.split(r'(?<=[.!?])\s+', content)
+            chunks = []
+            current_chunk = para_num  # Start with paragraph number
+            
+            for sentence in sentences:
+                if len(current_chunk) + len(sentence) <= self.chunk_size:
+                    current_chunk += (" " if current_chunk and current_chunk != para_num else "") + sentence
+                else:
+                    if current_chunk:
+                        chunks.append(current_chunk)
+                    # Keep paragraph number with continuation
+                    current_chunk = para_num + "(cont.) " + sentence if self.config.PRESERVE_PARAGRAPH_NUMBERS else sentence
+            
+            if current_chunk:
+                chunks.append(current_chunk)
+            
+            return chunks
+        else:
+            # Character-based splitting
+            return self._character_based_chunking(paragraph)
     
     def create_chunks(self, text: str, metadata: Optional[Dict[str, Any]] = None) -> List[Dict[str, Any]]:
         """
@@ -185,6 +230,7 @@ class LegalTextChunker:
             })
         
         logger.info(f"Created {len(chunks)} chunks using {strategy_used} strategy")
+        logger.info(f"Chunks: {chunks}")
         return chunks
     
     def _add_overlap(self, chunks: List[str]) -> List[str]:
@@ -252,18 +298,19 @@ class LegalTextChunker:
         
         return chunks
 
-def create_chunker(chunk_size: int = 1000, overlap: int = 200) -> LegalTextChunker:
+def create_chunker(chunk_size: int = None, overlap: int = None, config: ChunkingConfig = None) -> LegalTextChunker:
     """
-    Factory function to create a text chunker
+    Factory function to create a text chunker with configuration
     
     Args:
-        chunk_size: Target size for each chunk
-        overlap: Overlap between chunks
+        chunk_size: Target size for each chunk (overrides config)
+        overlap: Overlap between chunks (overrides config)
+        config: ChunkingConfig object (if None, uses default from settings)
         
     Returns:
         LegalTextChunker instance
     """
-    return LegalTextChunker(chunk_size, overlap)
+    return LegalTextChunker(chunk_size, overlap, config)
 
 if __name__ == "__main__":
     # Test the chunker
