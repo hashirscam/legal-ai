@@ -46,6 +46,9 @@ class LegalFileProcessor:
                 
                 # Clean up common metadata fields
                 if key.lower() in ['link', 'date', 'file number', 'citation', 'court', 'region', 'client', 'judge']:
+                    # Strip angle brackets from link field
+                    if key.lower() == 'link' and value.startswith('<') and value.endswith('>'):
+                        value = value[1:-1]
                     metadata[key.lower().replace(' ', '_')] = value
             
             # Stop metadata extraction if we see patterns indicating content start
