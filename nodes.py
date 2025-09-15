@@ -5,6 +5,7 @@ from utils.embedding import get_embedding_service
 from utils.file_processor import create_file_processor
 from utils.chunking import create_chunker
 from utils.progress import get_progress_tracker
+from settings import get_vector_db_config, get_system_config
 import asyncio
 import logging
 import os
@@ -17,7 +18,8 @@ logger = logging.getLogger(__name__)
 class DocumentIngestionNode(BatchNode):
     """Process legal case files and extract text with metadata"""
     def prep(self, shared):
-        documents_dir = shared.get("documents_directory", "assets/decisions")
+        config = get_system_config()
+        documents_dir = shared.get("documents_directory", config.DOCUMENTS_DIR)
         if not os.path.exists(documents_dir):
             logger.error(f"Documents directory not found: {documents_dir}")
             return []
@@ -86,8 +88,9 @@ class VectorIndexCreationNode(BatchNode):
         for chunk_list in exec_res_list:
             all_chunks.extend(chunk_list)
         
+        vdb_config = get_vector_db_config()
         vector_db = create_vector_db()
-        vector_db.create_or_get_collection("legal_cases")
+        vector_db.create_or_get_collection(vdb_config.COLLECTION_NAME)
         
         # ChromaDB has a max batch size limit (around 5461)
         # We need to batch the insertion for large numbers of chunks
@@ -124,8 +127,9 @@ class InitialRetrievalNode(Node):
         
         vector_db = shared.get("vector_db")
         if not vector_db:
+            vdb_config = get_vector_db_config()
             vector_db = create_vector_db()
-            vector_db.create_or_get_collection("legal_cases")
+            vector_db.create_or_get_collection(vdb_config.COLLECTION_NAME)
             shared["vector_db"] = vector_db
         
         return user_query
@@ -140,11 +144,12 @@ class InitialRetrievalNode(Node):
     def post(self, shared, prep_res, exec_res):
         user_query = exec_res
         vector_db = shared["vector_db"]
+        vdb_config = get_vector_db_config()
         
         retrieved_chunks = vector_db.search(
             query=user_query,
-            n_results=30,
-            similarity_threshold=0.5
+            n_results=vdb_config.MAX_RESULTS,
+            similarity_threshold=vdb_config.SIMILARITY_THRESHOLD
         )
         
         shared["retrieved_chunks"] = retrieved_chunks
