@@ -234,8 +234,8 @@ export function RealTimeProgressTracker({ isActive, progress: apiProgress, onCom
         </CardContent>
       </Card>
 
-      {/* Document Reading Progress */}
-      {progress.stage === "reading" && progress.documentsBeingRead && (
+      {/* Document Reading Progress - Show all files being read in parallel */}
+      {progress.stage === "reading" && (
         <Card>
           <CardHeader>
             <CardTitle className="flex items-center gap-2">
@@ -243,37 +243,128 @@ export function RealTimeProgressTracker({ isActive, progress: apiProgress, onCom
               Document Reading Progress
             </CardTitle>
             <CardDescription>
-              Reading {progress.completedReadings}/{progress.totalReadings} documents in parallel
+              Reading {progress.completedReadings || 0}/{progress.totalReadings || 0} documents in parallel
             </CardDescription>
           </CardHeader>
           <CardContent>
-            <ScrollArea className="h-64">
-              <div className="space-y-3">
-                {progress.documentsBeingRead.map((doc, index) => (
-                  <div key={index} className="flex items-center justify-between p-3 border rounded-lg">
-                    <div className="flex items-center gap-3 flex-1">
-                      {getDocumentStatusIcon(doc.status)}
+            <ScrollArea className="h-80">
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3">
+                {progress.documentsBeingRead && progress.documentsBeingRead.map((doc, index) => (
+                  <div 
+                    key={index} 
+                    className={`p-3 border rounded-lg transition-all duration-300 ${
+                      doc.status === "completed" 
+                        ? "border-green-500 bg-green-50" 
+                        : doc.status === "reading" 
+                        ? "border-blue-500 bg-blue-50" 
+                        : doc.status === "error"
+                        ? "border-red-500 bg-red-50"
+                        : "border-gray-200"
+                    }`}
+                  >
+                    <div className="flex items-start gap-2">
+                      <div className="flex-shrink-0 mt-0.5">
+                        {doc.status === "completed" ? (
+                          <CheckCircle className="h-4 w-4 text-green-600" />
+                        ) : doc.status === "reading" ? (
+                          <div className="relative">
+                            <RefreshCw className="h-4 w-4 text-blue-600 animate-spin" />
+                            <div className="absolute inset-0 rounded-full border-2 border-blue-200 border-t-blue-600 animate-pulse"></div>
+                          </div>
+                        ) : doc.status === "error" ? (
+                          <AlertCircle className="h-4 w-4 text-red-600" />
+                        ) : (
+                          <Clock className="h-4 w-4 text-muted-foreground" />
+                        )}
+                      </div>
+                      
                       <div className="flex-1 min-w-0">
-                        <div className="flex items-center gap-2 mb-1">
-                          <span className="font-medium text-sm truncate">{doc.name}</span>
-                          <Badge variant="outline" className="text-xs capitalize">
-                            {doc.status}
-                          </Badge>
+                        <div className="flex items-center gap-1 mb-1">
+                          <span className="font-medium text-xs truncate" title={doc.fullName || doc.name}>
+                            {doc.name}
+                          </span>
                         </div>
-                        <div className="flex items-center gap-4 text-xs text-muted-foreground">
-                          <span>{doc.chunks} chunks</span>
-                          {doc.relevantChunks > 0 && (
-                            <span className="text-green-600">{doc.relevantChunks} relevant</span>
+                        
+                        <div className="space-y-1">
+                          <Badge 
+                            variant="outline" 
+                            className={`text-xs capitalize ${
+                              doc.status === "completed" 
+                                ? "bg-green-100 text-green-700 border-green-300"
+                                : doc.status === "reading"
+                                ? "bg-blue-100 text-blue-700 border-blue-300"
+                                : doc.status === "error"
+                                ? "bg-red-100 text-red-700 border-red-300"
+                                : ""
+                            }`}
+                          >
+                            {doc.status === "completed" ? "✓ Complete" : 
+                             doc.status === "reading" ? "● Reading..." :
+                             doc.status === "error" ? "✗ Error" : "⋯ Pending"}
+                          </Badge>
+                          
+                          {doc.status === "reading" && (
+                            <div className="w-full bg-gray-200 rounded-full h-1.5">
+                              <div 
+                                className="bg-blue-600 h-1.5 rounded-full transition-all duration-300 animate-pulse" 
+                                style={{ width: "60%" }}
+                              ></div>
+                            </div>
                           )}
-                          {doc.processingTime > 0 && <span>{doc.processingTime}s processing</span>}
+                          
+                          <div className="flex items-center gap-2 text-xs text-muted-foreground">
+                            <span>{doc.chunks || 0} chunks</span>
+                            {doc.relevantChunks > 0 && (
+                              <span className="text-green-600">• {doc.relevantChunks} relevant</span>
+                            )}
+                            {doc.processingTime > 0 && (
+                              <span>• {doc.processingTime}s</span>
+                            )}
+                          </div>
                         </div>
                       </div>
                     </div>
-                    {doc.status === "reading" && <RefreshCw className="h-4 w-4 text-blue-600 animate-spin" />}
                   </div>
                 ))}
+                
+                {/* Show placeholder cards if no documents data available yet */}
+                {(!progress.documentsBeingRead || progress.documentsBeingRead.length === 0) && (
+                  Array.from({ length: Math.min(progress.totalReadings || 6, 12) }).map((_, index) => (
+                    <div key={index} className="p-3 border rounded-lg border-gray-200 animate-pulse">
+                      <div className="flex items-start gap-2">
+                        <div className="flex-shrink-0 mt-0.5">
+                          <div className="h-4 w-4 bg-gray-200 rounded-full animate-pulse"></div>
+                        </div>
+                        <div className="flex-1 min-w-0">
+                          <div className="h-3 bg-gray-200 rounded mb-2 animate-pulse"></div>
+                          <div className="h-2 bg-gray-100 rounded animate-pulse"></div>
+                        </div>
+                      </div>
+                    </div>
+                  ))
+                )}
               </div>
             </ScrollArea>
+            
+            {/* Progress Summary */}
+            {progress.documentsBeingRead && progress.documentsBeingRead.length > 0 && (
+              <div className="mt-4 pt-4 border-t">
+                <div className="flex items-center justify-between text-sm">
+                  <span className="text-muted-foreground">Overall Progress</span>
+                  <span className="font-medium">
+                    {Math.round(((progress.completedReadings || 0) / (progress.totalReadings || 1)) * 100)}%
+                  </span>
+                </div>
+                <div className="w-full bg-gray-200 rounded-full h-2 mt-2">
+                  <div 
+                    className="bg-gradient-to-r from-blue-500 to-green-500 h-2 rounded-full transition-all duration-500" 
+                    style={{ 
+                      width: `${Math.round(((progress.completedReadings || 0) / (progress.totalReadings || 1)) * 100)}%` 
+                    }}
+                  ></div>
+                </div>
+              </div>
+            )}
           </CardContent>
         </Card>
       )}

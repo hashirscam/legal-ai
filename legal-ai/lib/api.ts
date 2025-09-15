@@ -45,6 +45,7 @@ export interface CitedDocument {
   relevanceScore: number
   keyPassages: string[]
   url?: string
+  link?: string
 }
 
 export interface ResearchResult {
