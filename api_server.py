@@ -343,15 +343,28 @@ async def start_research(query: ResearchQuery, background_tasks: BackgroundTasks
                 
                 stage = stage_mapping.get(progress_data.get('stage', 'unknown'), progress_data.get('stage', 'unknown'))
                 
-                # Calculate overall progress based on stage completion
-                stage_progress = {
-                    "retrieval": 25,
-                    "pruning": 50, 
-                    "reading": 75,
-                    "aggregation": 90,
-                    "completed": 100
-                }
-                overall_progress = stage_progress.get(stage, 0)
+                # Calculate overall progress based on stage completion and sub-progress
+                if stage == "reading":
+                    # During reading, show progress based on completed documents
+                    completed_readings = progress_data.get('completed_readings', 0)
+                    total_readings = progress_data.get('total_readings', 0)
+                    if total_readings > 0:
+                        # Reading stage is 50-75% of total progress
+                        reading_progress = (completed_readings / total_readings) * 25  # 25% range for reading
+                        overall_progress = 50 + reading_progress  # Start at 50%, go to 75%
+                    else:
+                        overall_progress = 50
+                elif stage == "aggregation":
+                    # Aggregation stage is 75-100% of total progress
+                    overall_progress = 75
+                else:
+                    # Other stages have fixed progress
+                    stage_progress = {
+                        "retrieval": 25,
+                        "pruning": 50,
+                        "completed": 100
+                    }
+                    overall_progress = stage_progress.get(stage, 0)
                 
                 # Create document status data for parallel processing display
                 documents_being_read = []
