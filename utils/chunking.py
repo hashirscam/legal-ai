@@ -5,6 +5,7 @@ import logging
 logger = logging.getLogger(__name__)
 
 class LegalTextChunker:
+    # TODO: need to put the chunk size in configurator.
     def __init__(self, chunk_size: int = 1000, overlap: int = 200):
         """
         Initialize the legal text chunker
@@ -64,6 +65,7 @@ class LegalTextChunker:
         paragraphs = re.split(r'\n\s*\n|\n\s*\[\d+\]|\n\s*\(\d+\)', text)
         return [p.strip() for p in paragraphs if p.strip()]
     
+    # TODO: need to fix this
     def _split_by_legal_sections(self, text: str) -> List[str]:
         """
         Split text by legal sections (e.g., numbered sections, subsections)
@@ -88,6 +90,7 @@ class LegalTextChunker:
         
         for pattern in section_patterns:
             splits = re.split(pattern, text)
+            # TODO: NEED sheer revisit
             if len(splits) > 1 and len(splits) < 50:  # Reasonable number of sections
                 # Check if splits are reasonable length
                 avg_length = sum(len(s) for s in splits) / len(splits)
