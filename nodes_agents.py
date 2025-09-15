@@ -69,22 +69,9 @@ RESPONSE:"""
             response = await call_llm_async(pruning_prompt)
             is_relevant = response.strip().upper().startswith("YES")
             
-            # Update progress for this completed pruning operation
-            tracker = get_progress_tracker()
-            current_progress = tracker.get_current_progress()
-            total = current_progress.get('total_pruning', 0)
-            tracker.increment_pruning(total)
-            
             return (document_name, is_relevant, response.strip())
         except Exception as e:
             logger.error(f"Error in pruning agent for {document_name}: {e}")
-            
-            # Still update progress even on error
-            tracker = get_progress_tracker()
-            current_progress = tracker.get_current_progress()
-            total = current_progress.get('total_pruning', 0)
-            tracker.increment_pruning(total)
-            
             return (document_name, False, f"Error: {str(e)}")
     
     async def post_async(self, shared, prep_res, exec_res_list):
@@ -138,7 +125,7 @@ class ReadingAgentNode(AsyncParallelBatchNode):
         tracker = get_progress_tracker()
         tracker.update_document_status(document_name, "reading")
         
-        # Read the document
+        # Read the document and extract metadata in one operation
         config = get_system_config()
         doc_path = os.path.join(config.DOCUMENTS_DIR, document_name)
         
@@ -148,13 +135,11 @@ class ReadingAgentNode(AsyncParallelBatchNode):
             return (document_name, f"Unable to read content for {document_name}", {})
         
         try:
-            with open(doc_path, 'r', encoding='utf-8') as f:
-                doc_content = f.read()
-            
-            # Extract metadata directly from the file
+            # Single file read and metadata extraction
             from utils.file_processor import create_file_processor
             processor = create_file_processor()
             file_info = processor.process_file(doc_path)
+            doc_content = file_info.get('content', '')
             doc_metadata = file_info.get('metadata', {})
             
         except Exception as e:
@@ -217,15 +202,6 @@ SUMMARY:"""
             # Update status to error
             tracker.update_document_status(document_name, "error")
             tracker.increment_reading(document_name)
-            
-            # Try to get metadata even on error
-            try:
-                from utils.file_processor import create_file_processor
-                processor = create_file_processor()
-                file_info = processor.process_file(doc_path)
-                doc_metadata = file_info.get('metadata', {})
-            except:
-                doc_metadata = {}
             
             return (document_name, f"Error reading {document_name}: {str(e)}", doc_metadata)
     
