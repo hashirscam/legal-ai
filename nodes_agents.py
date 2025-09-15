@@ -128,6 +128,7 @@ class ReadingAgentNode(AsyncParallelBatchNode):
                            "Extracting relevant information")
         tracker.update_reading_start(relevant_documents)
         
+        # We'll read metadata directly from files during exec_async
         return [(doc, user_query) for doc in relevant_documents]
     
     async def exec_async(self, doc_and_query):
@@ -144,15 +145,22 @@ class ReadingAgentNode(AsyncParallelBatchNode):
         if not os.path.exists(doc_path):
             logger.warning(f"Document not found: {document_name}")
             tracker.update_document_status(document_name, "error")
-            return (document_name, f"Unable to read content for {document_name}")
+            return (document_name, f"Unable to read content for {document_name}", {})
         
         try:
             with open(doc_path, 'r', encoding='utf-8') as f:
                 doc_content = f.read()
+            
+            # Extract metadata directly from the file
+            from utils.file_processor import create_file_processor
+            processor = create_file_processor()
+            file_info = processor.process_file(doc_path)
+            doc_metadata = file_info.get('metadata', {})
+            
         except Exception as e:
             logger.error(f"Error reading {document_name}: {e}")
             tracker.update_document_status(document_name, "error")
-            return (document_name, f"Error reading {document_name}: {str(e)}")
+            return (document_name, f"Error reading {document_name}: {str(e)}", {})
         
         # Create reading/extraction prompt
         reading_prompt = f"""You are a legal research assistant. Extract and summarize all information relevant to the user's query from this legal case.
@@ -202,7 +210,7 @@ SUMMARY:"""
             tracker.update_document_status(document_name, "completed")
             tracker.increment_reading(document_name)
             
-            return (document_name, response)
+            return (document_name, response, doc_metadata)
         except Exception as e:
             logger.error(f"Error in reading agent for {document_name}: {e}")
             
@@ -210,14 +218,34 @@ SUMMARY:"""
             tracker.update_document_status(document_name, "error")
             tracker.increment_reading(document_name)
             
-            return (document_name, f"Error reading {document_name}: {str(e)}")
+            # Try to get metadata even on error
+            try:
+                from utils.file_processor import create_file_processor
+                processor = create_file_processor()
+                file_info = processor.process_file(doc_path)
+                doc_metadata = file_info.get('metadata', {})
+            except:
+                doc_metadata = {}
+            
+            return (document_name, f"Error reading {document_name}: {str(e)}", doc_metadata)
     
     async def post_async(self, shared, prep_res, exec_res_list):
         document_summaries = {}
-        for doc_name, summary in exec_res_list:
-            document_summaries[doc_name] = summary
+        document_metadata = {}
+        
+        for result in exec_res_list:
+            if len(result) == 3:
+                doc_name, summary, metadata = result
+                document_summaries[doc_name] = summary
+                document_metadata[doc_name] = metadata
+            else:
+                # Fallback for backward compatibility
+                doc_name, summary = result
+                document_summaries[doc_name] = summary
+                document_metadata[doc_name] = {}
         
         shared["document_summaries"] = document_summaries
+        shared["document_metadata"] = document_metadata
         
         tracker = get_progress_tracker()
         tracker.update_stage("aggregation", 
@@ -233,10 +261,11 @@ class AggregationAgentNode(Node):
     def prep(self, shared):
         user_query = shared.get("user_query", "")
         document_summaries = shared.get("document_summaries", {})
-        return (user_query, document_summaries)
+        document_metadata = shared.get("document_metadata", {})
+        return (user_query, document_summaries, document_metadata)
     
     def exec(self, prep_data):
-        user_query, document_summaries = prep_data
+        user_query, document_summaries, document_metadata = prep_data
         
         tracker = get_progress_tracker()
         tracker.update_aggregation()
@@ -244,53 +273,106 @@ class AggregationAgentNode(Node):
         if not document_summaries:
             return "I apologize, but I could not find any relevant legal cases for your query. Please try rephrasing your question or providing more specific details."
         
-        # Create aggregation prompt
+        # Build case information with metadata
+        case_info_list = []
+        citation_map = {}  # Map citations to hyperlinks
+        
+        for doc_name, summary in document_summaries.items():
+            metadata = document_metadata.get(doc_name, {})
+            citation = metadata.get('citation', doc_name.replace('.txt', '').replace(' (CanLII)', ''))
+            link = metadata.get('link', '')
+            
+            # Create hyperlink if available
+            if link:
+                hyperlink = f"[{citation}]({link})"
+                citation_map[citation] = hyperlink
+            else:
+                citation_map[citation] = citation
+            
+            case_info_list.append({
+                'doc_name': doc_name,
+                'citation': citation,
+                'link': link,
+                'summary': summary,
+                'hyperlink': citation_map[citation]
+            })
+        
+        # Create the case summaries with hyperlinks
         all_summaries = "\n\n" + "="*50 + "\n\n".join([
-            f"CASE: {doc_name}\n{summary}" 
-            for doc_name, summary in document_summaries.items()
+            f"CASE: {case['hyperlink']}\nDOCUMENT FILE: {case['doc_name']}\nSUMMARY:\n{case['summary']}" 
+            for case in case_info_list
         ])
         
-        aggregation_prompt = f"""You are a legal research assistant providing a comprehensive response based on relevant case law.
+        # Create list of available citations for the LLM
+        available_citations = "\n".join([f"- {case['citation']} → {case['hyperlink']}" for case in case_info_list])
+        
+        aggregation_prompt = f"""You are a senior legal research assistant providing a comprehensive response based on relevant case law. Your response will be displayed in a web interface that supports markdown formatting.
 
 USER QUERY: {user_query}
 
 RELEVANT LEGAL CASES AND SUMMARIES:
 {all_summaries}
 
-INSTRUCTIONS:
-1. Synthesize the information from all relevant cases
-2. Provide a comprehensive answer to the user's query
-3. Cite specific cases and their holdings
-4. Identify patterns, trends, or conflicts between cases
-5. Highlight the most authoritative or recent precedents
-6. Ensure all information is grounded in the provided case law
-7. Do not add information not found in the cases
-8. Structure your response clearly and professionally
+AVAILABLE CASE CITATIONS WITH HYPERLINKS:
+{available_citations}
 
-PROVIDE A COMPREHENSIVE LEGAL RESEARCH RESPONSE:
+CRITICAL INSTRUCTIONS:
+1. Provide a thorough synthesis of ALL relevant cases
+2. When citing cases, use EXACTLY the hyperlink format provided above (e.g., [R. v. Smith, 2025 ONCJ 123](https://canlii.ca/link))
+3. Always use the EXACT hyperlink format from the "AVAILABLE CASE CITATIONS" list when mentioning any case
+4. Your response will be rendered as markdown, so hyperlinks will be clickable
+5. Structure your response professionally with clear headings using markdown (##, ###)
+6. Use bullet points and formatting to make it easy to read
+7. Include specific paragraph references where available
+8. Ground ALL statements in the provided case law
 
-**Executive Summary:**
-[Brief overview of findings relevant to the query]
+REQUIRED STRUCTURE (use markdown formatting):
 
-**Relevant Legal Principles:**
-[Key legal principles established by the cases]
+## 📋 Executive Summary
+Provide a comprehensive overview directly answering the user's query, citing key cases with hyperlinks.
 
-**Case Analysis:**
-[Analysis of how the cases address the query, organized by theme or principle]
+## ⚖️ Legal Framework
 
-**Practical Applications:**
-[How these cases might apply to situations described in the query]
+### Applicable Legal Principles
+List and explain key legal principles, citing cases with hyperlinks.
 
-**Conclusion:**
-[Summary of the legal position based on the case law reviewed]
+### Statutory Context
+Note relevant statutes mentioned in the cases.
 
-**Cases Cited:**
-[List of all cases referenced with brief descriptions of their relevance]
+## 📚 Case Law Analysis
 
-COMPREHENSIVE RESPONSE:"""
+### [Organize by themes - create appropriate headings]
+Detailed analysis with case citations using hyperlinks.
+
+## 🔍 Key Findings
+
+### Established Precedents
+- Use bullet points with case hyperlinks
+- Clear legal rules from the cases
+
+### Factual Distinctions
+Important differences between cases.
+
+## 💡 Practical Implications
+How these precedents apply to similar situations.
+
+## 🎯 Conclusion
+Synthesized legal position based on all cases reviewed.
+
+## 📖 Cases Referenced
+List all cases with hyperlinks and brief relevance descriptions.
+
+COMPREHENSIVE RESPONSE (in markdown format):"""
 
         try:
             response = call_llm(aggregation_prompt)
+            
+            # Add a footer with quick access links
+            footer = "\n\n---\n\n### 📑 Quick Case Access\n\n"
+            for case in case_info_list:
+                footer += f"- {case['hyperlink']}\n"
+            
+            response += footer
             return response
         except Exception as e:
             logger.error(f"Error in aggregation: {e}")
