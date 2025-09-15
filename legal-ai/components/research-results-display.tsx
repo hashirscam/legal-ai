@@ -169,7 +169,7 @@ export function ResearchResultsDisplay({ result, isVisible }: ResearchResultsDis
           <div className="text-center py-8">
             <AlertTriangle className="h-12 w-12 mx-auto mb-4 text-red-600" />
             <p className="text-red-600 mb-2">Research failed to complete</p>
-            <p className="text-sm text-muted-foreground">{result.error}</p>
+            <p className="text-sm text-muted-foreground">{result.error || "An unexpected error occurred"}</p>
           </div>
         </CardContent>
       </Card>

@@ -45,10 +45,18 @@ export default function LegalAIResearchSystem() {
   // Handle research completion
   useEffect(() => {
     if (progress && (progress.stage === "completed" || progress.progress >= 100)) {
-      setIsResearching(false)
-      // Try to fetch results
+      // Don't immediately set isResearching to false - wait for results
       if (currentSessionId) {
-        setTimeout(() => refreshResults(), 1000)
+        // Fetch results immediately when research completes
+        refreshResults().then(() => {
+          // Only set isResearching to false after we have results
+          setIsResearching(false)
+        }).catch(() => {
+          // If fetching results fails, still stop the research state
+          setIsResearching(false)
+        })
+      } else {
+        setIsResearching(false)
       }
     }
   }, [progress, currentSessionId, refreshResults])
@@ -259,13 +267,12 @@ export default function LegalAIResearchSystem() {
               <RealTimeProgressTracker 
                 isActive={isResearching} 
                 progress={progress}
-                onComplete={() => setIsResearching(false)} 
               />
 
               {/* Results Display */}
               <ResearchResultsDisplay 
                 result={currentResult} 
-                isVisible={!isResearching} 
+                isVisible={!isResearching && currentResult !== null} 
               />
             </div>
           </div>

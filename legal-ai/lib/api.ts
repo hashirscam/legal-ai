@@ -267,7 +267,8 @@ export function useResearchResults(sessionId: string | null) {
       setResult(data)
     } catch (err) {
       if (err instanceof Error && err.message === 'RESEARCH_NOT_COMPLETE') {
-        // Research not complete yet, this is expected
+        // Research not complete yet, this is expected - don't set error state
+        setError(null)
         return
       }
       setError(err instanceof Error ? err.message : 'Unknown error')
