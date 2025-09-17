@@ -87,7 +87,7 @@ export function ResearchResultsDisplay({ result, isVisible }: ResearchResultsDis
     // Replace document mentions with clickable links
     // Look for patterns like "R. v. [Name]" or document titles
     processedText = processedText.replace(
-      /\b(R\. v\. [A-Z][a-zA-Z\s,.']+(?:\d{4} \w+ \d+)?)\b/g,
+      /\b(R\. v\. [A-Z][a-zA-Z\s]+(?:, \d{4} \w+ \d+)?)\b/g,
       (match) => {
         const doc = documentMap.get(match) || 
                    documentMap.get(match.replace(/, \d{4} \w+ \d+.*$/, "")) ||
@@ -104,7 +104,7 @@ export function ResearchResultsDisplay({ result, isVisible }: ResearchResultsDis
 
     // Remove asterisks around case citations that might have been added for emphasis
     processedText = processedText.replace(
-      /\*(\bR\. v\. [A-Z][a-zA-Z\s,.']+(?:\d{4} \w+ \d+)?)\*/g,
+      /\*(\bR\. v\. [A-Z][a-zA-Z\s]+(?:, \d{4} \w+ \d+)?)\*/g,
       '$1'
     )
 
