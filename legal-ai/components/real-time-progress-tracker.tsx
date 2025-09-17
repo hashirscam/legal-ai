@@ -100,7 +100,7 @@ export function RealTimeProgressTracker({ isActive, progress: apiProgress, onCom
       setStageHistory((prev) => {
         const newHistory = allStages.map((stage, index) => ({
           stage,
-          duration: index < currentStageIndex ? 10 : 0, // Completed stages
+          duration: index < currentStageIndex ? apiProgress.elapsedTime : 0,
           status: index < currentStageIndex ? "completed" as const :
                   index === currentStageIndex ? "active" as const :
                   "pending" as const
@@ -280,7 +280,7 @@ export function RealTimeProgressTracker({ isActive, progress: apiProgress, onCom
                       
                       <div className="flex-1 min-w-0">
                         <div className="flex items-center gap-1 mb-1">
-                          <span className="font-medium text-xs truncate" title={doc.fullName || doc.name}>
+                          <span className="font-medium text-xs truncate" title={doc.name}>
                             {doc.name}
                           </span>
                         </div>
@@ -350,7 +350,7 @@ export function RealTimeProgressTracker({ isActive, progress: apiProgress, onCom
             {progress.documentsBeingRead && progress.documentsBeingRead.length > 0 && (
               <div className="mt-4 pt-4 border-t">
                 <div className="flex items-center justify-between text-sm">
-                  <span className="text-muted-foreground">Overall Progress</span>
+                  <span className="text-muted-foreground">Reading Progress</span>
                   <span className="font-medium">
                     {Math.round(((progress.completedReadings || 0) / (progress.totalReadings || 1)) * 100)}%
                   </span>

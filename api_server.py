@@ -360,8 +360,8 @@ async def start_research(query: ResearchQuery, background_tasks: BackgroundTasks
                 else:
                     # Other stages have fixed progress
                     stage_progress = {
-                        "retrieval": 25,
-                        "pruning": 50,
+                        "retrieval": 0,
+                        "pruning": 25,
                         "completed": 100
                     }
                     overall_progress = stage_progress.get(stage, 0)
