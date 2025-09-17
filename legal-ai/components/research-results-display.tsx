@@ -102,6 +102,12 @@ export function ResearchResultsDisplay({ result, isVisible }: ResearchResultsDis
       }
     )
 
+    // Remove asterisks around case citations that might have been added for emphasis
+    processedText = processedText.replace(
+      /\*(\bR\. v\. [A-Z][a-zA-Z\s,.']+(?:\d{4} \w+ \d+)?)\*/g,
+      '$1'
+    )
+
     setProcessedMarkdown(processedText)
   }, [result])
 
