@@ -240,11 +240,6 @@ SUMMARY:"""
         shared["document_summaries"] = document_summaries
         shared["document_metadata"] = document_metadata
         
-        tracker = get_progress_tracker()
-        tracker.update_stage("aggregation", 
-                           "Synthesizing findings",
-                           "Preparing comprehensive response")
-        
         logger.info(f"Reading completed for {len(document_summaries)} documents")
         return "default"
 
@@ -255,16 +250,25 @@ class AggregationAgentNode(Node):
         user_query = shared.get("user_query", "")
         document_summaries = shared.get("document_summaries", {})
         document_metadata = shared.get("document_metadata", {})
+        
+        # Update progress to show aggregation stage is starting
+        tracker = get_progress_tracker()
+        tracker.update_aggregation()
+        
         return (user_query, document_summaries, document_metadata)
     
     def exec(self, prep_data):
         user_query, document_summaries, document_metadata = prep_data
         
         tracker = get_progress_tracker()
-        tracker.update_aggregation()
         
         if not document_summaries:
             return "I apologize, but I could not find any relevant legal cases for your query. Please try rephrasing your question or providing more specific details."
+        
+        # Update progress to show we're building the response
+        tracker.update_stage("aggregation", 
+                           "Synthesizing findings", 
+                           "Building comprehensive legal analysis")
         
         # Build case information with metadata
         case_info_list = []
@@ -360,6 +364,11 @@ IMPORTANT NOTE: DON'T MAKE UP LINKS YOURSELF. ONLY ADD THE LINKS THAT ARE PROVID
 COMPREHENSIVE RESPONSE (in markdown format):"""
 
         try:
+            # Update progress to show we're calling the LLM
+            tracker.update_stage("aggregation", 
+                               "Synthesizing findings", 
+                               "Generating comprehensive legal response")
+            
             response = call_llm(aggregation_prompt)
             
             # Add a footer with quick access links

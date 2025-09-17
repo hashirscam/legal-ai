@@ -173,6 +173,34 @@ def check_indexing_status() -> SystemStatus:
             indexStats={"filesProcessed": 0, "chunksIndexed": 0}
         )
 
+def sync_broadcast_progress(session_id: str, progress_data: Dict):
+    """Synchronously broadcast progress to WebSocket clients"""
+    import asyncio
+    import threading
+    import concurrent.futures
+    
+    async def do_broadcast():
+        return await broadcast_progress(session_id, progress_data)
+    
+    try:
+        # Try to get current event loop
+        loop = asyncio.get_running_loop()
+        
+        # Run in thread to avoid "already running" error
+        with concurrent.futures.ThreadPoolExecutor() as executor:
+            future = executor.submit(asyncio.run, do_broadcast())
+            # Wait for completion with timeout
+            future.result(timeout=2.0)
+            
+    except Exception as e:
+        logger.warning(f"Sync WebSocket broadcast failed: {e}")
+        # Fallback to async task scheduling
+        try:
+            loop = asyncio.get_event_loop()
+            loop.create_task(broadcast_progress(session_id, progress_data))
+        except:
+            pass
+
 async def broadcast_progress(session_id: str, progress_data: Dict):
     """Broadcast progress to all connected WebSocket clients for a session"""
     if session_id in websocket_connections:
@@ -412,8 +440,8 @@ async def start_research(query: ResearchQuery, background_tasks: BackgroundTasks
                 # Update session
                 active_sessions[session_id]["progress"] = frontend_progress
                 
-                # Broadcast to WebSocket clients
-                asyncio.create_task(broadcast_progress(session_id, frontend_progress))
+                # Broadcast to WebSocket clients immediately using sync version
+                sync_broadcast_progress(session_id, frontend_progress)
             
             tracker.register_callback(progress_callback)
             
@@ -494,17 +522,7 @@ async def start_research(query: ResearchQuery, background_tasks: BackgroundTasks
             active_sessions[session_id]["result"] = result
             active_sessions[session_id]["status"] = "completed"
             
-            # Send completion notification
-            completion_data = {
-                "stage": "completed",
-                "status": "Research completed successfully",
-                "currentActivity": "Analysis ready for review",
-                "elapsedTime": int(processing_time),
-                "progress": 100.0,
-                "completed": True
-            }
-            
-            await broadcast_progress(session_id, completion_data)
+            # Note: Completion notification is sent by AggregationAgentNode.post() method
             
         except Exception as e:
             logger.error(f"Research error: {e}")

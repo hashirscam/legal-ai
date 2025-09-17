@@ -388,8 +388,8 @@ if __name__ == "__main__":
         tracker.update_reading_progress(doc, i + 1)
         time.sleep(0.5)
     
+    # Test aggregation stage (removed duplicate call)
     tracker.update_stage("aggregation", "Finalizing response")
-    tracker.update_aggregation()
     time.sleep(1)
     
     tracker.complete_session(True, "Research completed successfully")
