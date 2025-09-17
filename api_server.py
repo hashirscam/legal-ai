@@ -356,7 +356,8 @@ async def start_research(query: ResearchQuery, background_tasks: BackgroundTasks
             
             def progress_callback(progress_data):
                 """Convert progress data to frontend format and broadcast"""
-                elapsed = int((datetime.now() - start_time).total_seconds())
+                # Use elapsed time from progress tracker instead of calculating from start_time
+                elapsed = int(progress_data.get('elapsed_time', 0))
                 
                 # Map backend stages to frontend format
                 stage_mapping = {
@@ -366,7 +367,8 @@ async def start_research(query: ResearchQuery, background_tasks: BackgroundTasks
                     "reading_prep": "reading",
                     "reading": "reading",
                     "aggregation": "aggregation",
-                    "completed": "completed"
+                    "completed": "completed",
+                    "started": "retrieval"  # Map started stage to retrieval
                 }
                 
                 stage = stage_mapping.get(progress_data.get('stage', 'unknown'), progress_data.get('stage', 'unknown'))
@@ -414,7 +416,11 @@ async def start_research(query: ResearchQuery, background_tasks: BackgroundTasks
                         # Get actual chunk data from progress tracker
                         chunks = progress_data.get('document_chunks', {}).get(doc_name, 0)
                         relevant_chunks = progress_data.get('document_relevant_chunks', {}).get(doc_name, 0)
-                        processing_time = 3 if actual_status == "completed" else 0
+                        
+                        # Get actual processing time from progress tracker
+                        document_processing_times = progress_data.get('document_processing_times', {})
+                        doc_timing = document_processing_times.get(doc_name, {})
+                        processing_time = doc_timing.get('duration', 0) if actual_status == "completed" else 0
                         
                         documents_being_read.append({
                             "name": display_name,
@@ -434,7 +440,9 @@ async def start_research(query: ResearchQuery, background_tasks: BackgroundTasks
                     "documentsFound": progress_data.get('retrieval_count'),
                     "documentsBeingRead": documents_being_read,
                     "completedReadings": progress_data.get('completed_readings', 0),
-                    "totalReadings": progress_data.get('total_readings', 0)
+                    "totalReadings": progress_data.get('total_readings', 0),
+                    "stageDurations": progress_data.get('stage_durations', {}),
+                    "stageElapsedTime": progress_data.get('stage_elapsed_time', 0)
                 }
                 
                 # Update session

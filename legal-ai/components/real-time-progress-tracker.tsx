@@ -40,6 +40,8 @@ interface StageProgress {
   completedReadings?: number
   totalReadings?: number
   stageStartTime?: number
+  stageDurations?: Record<string, number>
+  stageElapsedTime?: number
 }
 
 interface RealTimeProgressTrackerProps {
@@ -91,20 +93,36 @@ export function RealTimeProgressTracker({ isActive, progress: apiProgress, onCom
         documentsBeingRead: apiProgress.documentsBeingRead,
         completedReadings: apiProgress.completedReadings,
         totalReadings: apiProgress.totalReadings,
+        stageDurations: apiProgress.stageDurations,
+        stageElapsedTime: apiProgress.stageElapsedTime,
       })
 
-      // Update stage history based on current stage
+      // Update stage history based on current stage and actual durations
       const allStages = ["retrieval", "pruning", "reading", "aggregation"]
       const currentStageIndex = allStages.indexOf(apiProgress.stage)
+      const stageDurations = apiProgress.stageDurations || {}
       
       setStageHistory((prev) => {
-        const newHistory = allStages.map((stage, index) => ({
-          stage,
-          duration: index < currentStageIndex ? apiProgress.elapsedTime : 0,
-          status: index < currentStageIndex ? "completed" as const :
-                  index === currentStageIndex ? "active" as const :
-                  "pending" as const
-        }))
+        const newHistory = allStages.map((stage, index) => {
+          let duration = 0
+          let status: "completed" | "active" | "pending" = "pending"
+          
+          if (index < currentStageIndex) {
+            // Completed stage - use actual duration from progress tracker
+            duration = stageDurations[stage] || 0
+            status = "completed"
+          } else if (index === currentStageIndex) {
+            // Current stage - use stage elapsed time
+            duration = apiProgress.stageElapsedTime || 0
+            status = "active"
+          }
+          
+          return {
+            stage,
+            duration: Math.round(duration),
+            status
+          }
+        })
         return newHistory
       })
 
