@@ -102,7 +102,7 @@ legal-ai-system/
 ├── assets/
 │   └── decisions/           # Legal case documents (.txt files)
 ├── chroma_db/              # Vector database storage
-└── legal-ai/               # Next.js frontend
+└── frontend/               # Next.js frontend
     ├── app/
     │   ├── page.tsx        # Main application page
     │   └── layout.tsx      # App layout

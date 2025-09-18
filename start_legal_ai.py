@@ -88,9 +88,9 @@ def check_env_file():
 
 def install_frontend_deps():
     """Install frontend dependencies"""
-    frontend_dir = Path("legal-ai")
+    frontend_dir = Path("frontend")
     if not frontend_dir.exists():
-        print("❌ Frontend directory 'legal-ai' not found")
+        print("❌ Frontend directory 'frontend' not found")
         return False
     
     package_json = frontend_dir / "package.json"
@@ -114,7 +114,7 @@ def install_frontend_deps():
 
 def create_frontend_env():
     """Create frontend environment file"""
-    frontend_dir = Path("legal-ai")
+    frontend_dir = Path("frontend")
     env_file = frontend_dir / ".env.local"
     
     if not env_file.exists():
@@ -138,7 +138,7 @@ def start_backend():
 def start_frontend():
     """Start the Next.js frontend"""
     print("🚀 Starting Next.js frontend on http://localhost:3000")
-    frontend_dir = Path("legal-ai")
+    frontend_dir = Path("frontend")
     
     return subprocess.Popen([
         "npm", "run", "dev"

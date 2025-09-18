@@ -67,21 +67,34 @@ Judge: Justice A. B. Johnson
 
 ### Command Line Interface
 
-```bash
-python main.py
+Run using:
+```
+python3 start_legal_ai.py
 ```
 
-The system will:
-1. Index all documents in `assets/decisions/`
-2. Prompt for legal research queries
-3. Show real-time progress during research
-4. Display comprehensive results
+You may find some frontend errors. If so, change the react version in frontend/package.json to:
 
-### Streamlit Web Interface
+Change 1 ->
 
-```bash
-streamlit run streamlit_app.py
 ```
+    "@types/react": "18.2.0",
+    "@types/react-dom": "18.2.0",
+```
+
+Change 2 ->
+
+```
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+```
+
+
+Secondly, if you face tailwind error, install the following npm package:
+
+```
+npm install tailwindcss @tailwindcss/postcss postcss
+```
+
 
 Features:
 - Interactive web interface
