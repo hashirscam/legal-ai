@@ -28,32 +28,25 @@ def check_dependencies():
     
     # Check if Node.js and npm are available
     try:
-        # Try different ways to find node and npm on Windows
-        node_commands = ["node", "node.exe"]
-        npm_commands = ["npm", "npm.cmd", "npm.exe"]
-        
+        # Check Node.js
         node_found = False
+        try:
+            result = subprocess.run(["node", "--version"], capture_output=True, text=True, timeout=5)
+            if result.returncode == 0:
+                node_found = True
+                print(f"✅ Node.js found: {result.stdout.strip()}")
+        except (subprocess.CalledProcessError, FileNotFoundError, subprocess.TimeoutExpired):
+            pass
+        
+        # Check npm
         npm_found = False
-        
-        for node_cmd in node_commands:
-            try:
-                result = subprocess.run([node_cmd, "--version"], check=True, capture_output=True, text=True, shell=True)
-                if result.returncode == 0:
-                    node_found = True
-                    print(f"✅ Node.js found: {result.stdout.strip()}")
-                    break
-            except (subprocess.CalledProcessError, FileNotFoundError):
-                continue
-        
-        for npm_cmd in npm_commands:
-            try:
-                result = subprocess.run([npm_cmd, "--version"], check=True, capture_output=True, text=True, shell=True)
-                if result.returncode == 0:
-                    npm_found = True
-                    print(f"✅ npm found: {result.stdout.strip()}")
-                    break
-            except (subprocess.CalledProcessError, FileNotFoundError):
-                continue
+        try:
+            result = subprocess.run(["npm", "--version"], capture_output=True, text=True, timeout=5)
+            if result.returncode == 0:
+                npm_found = True
+                print(f"✅ npm found: {result.stdout.strip()}")
+        except (subprocess.CalledProcessError, FileNotFoundError, subprocess.TimeoutExpired):
+            pass
         
         if not node_found or not npm_found:
             print("❌ Node.js or npm not found. Please install Node.js")
@@ -109,9 +102,7 @@ def install_frontend_deps():
     if not node_modules.exists():
         print("📦 Installing frontend dependencies...")
         try:
-            # Use npm.cmd on Windows, npm on other systems
-            npm_cmd = "npm.cmd" if os.name == "nt" else "npm"
-            subprocess.run([npm_cmd, "install"], cwd=frontend_dir, check=True, shell=True)
+            subprocess.run(["npm", "install"], cwd=frontend_dir, check=True)
             print("✅ Frontend dependencies installed")
         except subprocess.CalledProcessError:
             print("❌ Failed to install frontend dependencies")
@@ -149,12 +140,9 @@ def start_frontend():
     print("🚀 Starting Next.js frontend on http://localhost:3000")
     frontend_dir = Path("legal-ai")
     
-    # Use npm.cmd on Windows, npm on other systems
-    npm_cmd = "npm.cmd" if os.name == "nt" else "npm"
-    
     return subprocess.Popen([
-        npm_cmd, "run", "dev"
-    ], cwd=frontend_dir, shell=True)
+        "npm", "run", "dev"
+    ], cwd=frontend_dir)
 
 def main():
     """Main startup function"""
