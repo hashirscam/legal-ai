@@ -1,0 +1,135 @@
+R. v. O’Kieffe, 2025 ONCJ 442 (CanLII), <https://canlii.ca/t/kf2z3>, retrieved on 2025-09-17
+
+ONTARIO COURT OF JUSTICE
+
+CITATION:  R. v. O’Kieffe, 2025 ONCJ 442
+
+DATE:  August 27, 2025
+
+COURT FILE No.:  998 24 21002639
+
+ 
+
+ 
+
+BETWEEN:
+
+ 
+
+HIS MAJESTY THE KING
+
+ 
+
+— AND —
+
+ 
+
+ALPHA JAWANZA O’KIEFFE
+
+ 
+
+ 
+
+Before Justice Robert S. Gee
+
+Heard on June 16, 18 and 19, 2025, July 8 and 24, 2025
+
+Reasons for Judgment released on August 27, 2025
+
+ 
+
+ 
+
+Derek Zuraw......................................................................................... counsel for the Crown
+
+Kevin McGilly........................   counsel for the Public Prosecution Service of Canada
+
+Daniel Brodsky............................................................................... counsel for the Accused
+
+ 
+
+Gee J.:
+
+[1]         On September 5, 2024, at approximately 4:00 am, the Brantford Police executed a search warrant at 197 Sheridan Street, in the City of Brantford. Located during the search was 216.9 grams of p-flourfentanyl, with a street value of $43,380.00, and 183.2 grams of cocaine with a street value of $18,320.00. Also found were three firearms, a Mossburg Shotgun, a Savage bolt action rifle, and a Ruger LCS 9mm handgun, which at the time was loaded with a round in the chamber.
+
+[2]         At the time the search warrant was executed, there were 8 people in the house. Seven of them were released unconditionally after they were identified. The eighth person was the accused, Alpha O’Kieffe. He was the only person charged and now faces two counts of CDSA 5(2) for the drugs found and a number of firearm related offences as a result of the three guns located in the residence.
+
+[3]         Many of the issues normally at play in a case such as this, were helpfully admitted by the defence. For instance, issues such as the nature and continuity of the drugs found, that whoever possessed them did so for the purpose of trafficking, that guns located met the definition for a firearm, were all admitted. The focus of the trial then boiled down to whether the Crown had proven beyond a reasonable doubt the accused possessed the drugs and firearms.
+
+[4]         In addition to the admissions, the evidence came from the testimony of eleven other witnesses, all called by the Crown and all of whom were police officers involved in the execution of the warrant. Given the admissions made and the only issue at play, the examination of these witnesses by all counsel was focussed. The credibility and reliability of the witnesses’ testimony was not challenged. It was what could be made of the entirety of the evidence that informed the position of the parties.
+
+[5]         The residence had three bedrooms and eight rooms in total. When the police entered, the accused was located in the bathroom, not far from the main entrance and just off the kitchen. The door to the bathroom was locked. The shower was running and when police entered the bathroom, the accused was fully clothed, and wet from the shower. In the bathroom in a closet was a black satchel that contained the handgun. Another brown Louis Vuitton satchel also in the closet, held the cocaine. A guitar case, containing the two long guns, was found in the bedroom the police allege was the accused’s. A conair bag containing the p-flourfentanyl was also located in this bedroom.
+
+[6]         A photo book was filed that showed the state of the residence when the search warrant was executed. The house was very messy and cluttered. Not to the level of a hoarder but well on its way to that status. Police said evidence of drug use and drug paraphernalia was found in almost every area. One female was located in the bedroom the police allege was the accused’s. Another couple were in one of the other bedrooms, and the remaining four persons were located in the common areas of the house.
+
+[7]         The Crown bears the burden of proof in the case; the defence need not prove anything.  There is no direct evidence of Mr. O’Kieffe’s knowledge or control of the drugs or firearms in the residence.  The Crown’s theory of possession rests wholly on circumstantial reasoning.
+
+[8]         The Supreme Court of Canada reviewed the approach to cases which rely on circumstantial evidence in R. v. Villaroman, 2016 SCC 33.  A very helpful the summary of that judgment is found in R. v. Gill, 2017 ONSC 3558, a decision of Justice Michal Fairburn, while she was at the time on the Superior Court of Justice.  Paragraphs 9 through 13 of Gill, are particularly helpful when approaching such a case. In these paragraphs Justice Fairburn summarized the approach as follows:
+
+[9]         I agree that this case is an almost purely circumstantial one, particularly as it relates to the issues of contention. In R. v. Villaroman. 2016 SCC 33, Cromwell J. reviewed the correct approach to circumstantial evidence and the inference drawing process. Where one or more element of an offence relies largely or exclusively on circumstantial evidence, “an inference of guilt drawn from circumstantial evidence should be the only reasonable inference that such evidence permits”: Villaroman, at para. 30. Staying focussed on the question of whether circumstantial evidence admits of other reasonable alternative inferences, ensures that the trier of fact does not “fill in the blanks” or “jump to conclusions” too quickly: Villaroman, paras. 29-30.
+
+[10]      While previous cases speak in terms of other “rational” inferences, the unanimous Villaroman court settled upon the term “reasonable”: see, R. v. Griffin, 2009 SCC 28, at para. 33, Villaroman, at paras. 32-34. As Cromwell J. noted in Villaroman, while “reasonable” and “rational” inferences carry the same meaning, and it is not in error to speak in terms of “rational inferences”, the use of the term “reasonable” guards against any confusion that may arise from the use of “reasonable doubt” and “rational inference”.
+
+[11]      Inferences consistent with innocence do not have to arise from proven facts: Villaroman, at para. 35. As Fish J. observed in R. v. Khela, 2009 SCC 4, at para. 58, the defence does not have to “‘prove’ certain facts in order for the jury to draw an inference of innocence from them”. To make this a requirement for finding alternative rational inferences would be to reverse the burden of proof. Ultimately, the court must consider the “range of reasonable inferences that can be drawn” from the circumstantial evidence. As in Villaroman, at para. 35, “[i]f there are reasonable inferences other than guilt, the Crown’s evidence does not meet the standard of proof beyond a reasonable doubt.”
+
+[12]      A theory alternative to guilt is not “speculative” simply because there is no affirmative evidence supporting the theory. A “theory alternative to guilt” can arise from a lack of evidence: Villaroman, at para. 36. Gaps in the evidence can result in inferences other than guilt, but they must be “reasonable given the evidence and the absence of evidence, assessed logically, and in light of human experience and common sense”: Villaroman, at paras. 36-38.
+
+[13]      Reasonable possibilities and theories inconsistent with guilt must be considered, but this does not require the Crown to “negative every possible conjecture, no matter how irrational or fanciful, which might be consistent with the innocence of the accused”: Villaroman, at para. 37, adopting R. v. Bagshaw, 1971 CanLII 13 (SCC), [1972] S.C.R. 2, at p. 8. Other reasonable inferences must find support in logic and experience and not rest on speculation. As noted by Cromwell J., at para. 38, the “basic question” is whether the circumstantial evidence, “viewed logically and in light of human experience, is reasonably capable of supporting an inference other than that the accused is guilty”.        
+
+[9]         Mr. Zuraw for the Crown and Mr. McGilly for the Public Prosecution Service submit the only reasonable inference on the evidence when viewed as a whole, is that Mr. O’Kieffe possessed both the drugs and the firearms. They point out he was found in the bathroom near the two satchels one which contained the cocaine and the other the handgun. Additionally, approximately 6 minutes before the warrant was executed, an officer surveilling the house in preparation for the entry, saw a person he believed was Mr. O’Kieffe, come from the garage and enter the house wearing a dark satchel, similar to the one found in the bathroom that contained the handgun. As well, Mr. O’Kieffe was fully clothed and soaking wet inside the locked bathroom when police entered, which is argued to be highly suspicious. This suspicious behaviour it's argued, demonstrates an intention on Mr. O’Kieffe’s behalf to buy time to hide the drugs and gun or to as much as possible, disassociate himself from them.
+
+[10]      A cell phone was also located in the bathroom with the accused which when analyzed, revealed it had been used by Mr. O’Kieffe and had multiple messages on it where he claimed to live at the residence searched and, as well pictures saved on it of him in the garage of the residence.
+
+[11]      It is also argued the bedroom where the long guns and the p-flourfentanyl was found was associated to the accused. In that room male clothing was located and as well, a notebook with handwriting on the front that said “Alphaman” and which inside, is said to contain a debt list.
+
+[12]      Mr. McGilly made two other arguments he says I should consider as circumstantial evidence Mr. O’Kieffe possessed the guns and drugs. These are that Mr. O’Kieffe was under surveillance by the police for drug trafficking and that he was named as the target in the search warrant. I find these two factors have no relevance to the analysis and I have not considered them. These arguments are just a veiled way of saying in the opinion of the police, Mr. O’Kieffe possessed the items in question and is guilty of the offences charged. It is obvious this is what the police believe or else they wouldn't have charged him, and this trial wouldn't be taking place. To rely on them as factors tending to prove guilt though would be improper. It would usurp the function of the court to decide the case based on the admissible evidence and would water down the Crown obligation to prove guilt beyond a reasonable doubt.
+
+[13]      The defence points out there are other factors to consider, and the factors referred to by the Crown are not what they appear at first blush. In relation to the accused presence and appearance in the bathroom, this could have been a result of how the police executed the warrant. An explosive, distraction type device was used at the time the police forcefully breached the door. This would be frightening for anyone at 4:00 am and may have caused him to fall or jump into the running shower as a result.
+
+[14]      The officer who observed the person he thought was Mr. O’Kieffe wearing a satchel shortly before entering the residence couldn't say for certain it was one of the ones located in the bathroom and couldn't say for certain its colour, only that it was dark.
+
+[15]      None of the items Mr. O’Kieffe is alleged to be possessing, either guns or drugs were out in the open or in plain view. The phone found in the bathroom had messages and other items on it that demonstrated it was used by other persons as well and its use was not exclusive to the accused.
+
+[16]      Further, Mr. O’Kieffe’s precise connection to the residence is unclear. There was no evidence he possessed keys to the residence. There was no mail or other identity documents that indicated he was living there. Multiple pills bottles were located but the police never looked at the labels to see whose name was on them. The male clothing in the bedroom was not checked for size to see if it fit Mr. O’Kieffe, there was no evidence he was seen wearing any of the clothing during the time the residence was under surveillance and there was no evidence any of the police checked for the presence of female clothing.
+
+[17]      The defence also points out the notebook titled “Alphaman” also had hand drawn pictures of flowers in it and appeared to be written in female handwriting as much as that can be assessed. More importantly though, throughout the notebook Mr. O’Kieffe is referred to in the third person, implying it wasn’t written by him.
+
+[18]      When police entered, 7 other people were in the residence. Aside from their names, nothing is known about them as they were all released unconditionally. Since the appearance of drug activity and drug paraphernalia was found in practically every room of the house, it is reasonable to presume these persons were likely involved in the drug lifestyle. Since they were released, their phones weren’t seized and analyzed for evidentiary value, they weren’t interviewed or in any other way investigated, so their involvement with the guns and drugs found in the house or their connection to the residence cannot now be assessed.
+
+[19]      It is also pointed out that no forensic evidence such as DNA or fingerprints were located on the guns that could link them to Mr. O’Kieffe and that given where the drugs and guns were found, they were accessible to all persons in the house.
+
+[20]      Possession, for criminal liability purposes, is defined in section 4(3) of the Criminal Code.  A party may be in personal, joint, or constructive possession of an item.  As already noted, Mr. O’Kieffe was not in personal possession of the drugs or firearms.  The Court of Appeal for Ontario discussed constructive and joint possession in R v. Pham 2005 CanLII 44671 (ON CA), [2005] O.J No. 5127, at paragraphs 16-18 as follows:
+
+[16]          In order to constitute joint possession pursuant to section 4(3)(b) of the Code there must be knowledge, consent, and a measure of control on the part of the person deemed to be in possession.  See R. v. Terrence, 1983 CanLII 51 (SCC), [1983] 1 S.C.R. 357 (S.C.C.); R. v. Williams (1998), 1998 CanLII 2557 (ON CA), 40 O.R. (3d) 301 (C.A.); R. v. Barreau 1991 CanLII 241 (BC CA), 19 W.A.C. 290 (B.C.C.A.) and Re Chambers and the Queen (1985), 1985 CanLII 169 (ON CA), 20 C.C.C. (3d) 440 (Ont. C.A.).
+
+[17]          The element of knowledge is dealt with by Watt J. in the case of R. v. Sparling, [1988] O.J. No. 107 (Ont. H.C.) at p. 6:
+
+There is no direct evidence of the applicant’s knowledge of the presence of narcotics in the residence.  It is not essential that there be such evidence for as with any other issue of fact in a criminal proceeding, it may be established by circumstantial evidence.  In combination, the finding of narcotics in plain view in the common areas of the residence, the presence of a scale in a bedroom apparently occupied by the applicant, and; the applicants apparent occupation of the premises may serve to found an inference of the requisite knowledge.
+
+The court of appeal decision in R. v. Sparling, [1988] O.J. No. 1877 upheld the above passage as being sufficient evidence to infer knowledge.
+
+[18]          The onus is on the Crown to prove beyond a reasonable doubt, all of the essential elements of the offence of possession.  This can be accomplished by direct evidence or may be inferred from circumstantial evidence.  In Re Chambers and the Queen, supra at 448, Martin J.A. noted that the court may draw “appropriate inferences from evidence that a prohibited drug is found in a room under the control of an accused and where there is also evidence from which an inference may properly be drawn that the accused was aware of the presence of the drug.”
+
+ 
+
+[21]      In assessing the totality of the evidence in this case, and considering the submissions made by counsel, the arguments made by the Crown are compelling and provide a strong case for criminal possession. The most compelling aspect of the Crown case comes from the fact Mr. O’Kieffe was seen wearing a satchel similar to the one found minutes later in the bathroom. Having said that however, I am not satisfied the Crown have met their high burden of proof beyond a reasonable doubt. I reach this conclusion for the following reasons.
+
+[22]      There is just too much left unknown in this case to be satisfied beyond a reasonable doubt the only reasonable inference is Mr. O’Kieffe possessed the guns and drugs. His status at the house and connection to it was still somewhat unclear in the end. It is unclear whether he was an owner, tenant, trusted guest or just an occasional visitor. The points made by the defence that detract from the factors pointed to by the Crown to support an inference of guilt are all valid. When looked at individually and more importantly, cumulatively, they significantly lessen the strength of the inference the Crown asks me to draw.
+
+[23]      As noted earlier, the pictures filed show a house that was very messy and cluttered. Almost every surface in the common areas and bedrooms had dishes, food, personal items, take out coffee cups, and other items covering them. There was also clothing strewn about and on the floors of the bedrooms. The beds were unmade and looked like they were slept in regularly. There were multiple bicycles in the house and as noted evidence of drug activity everywhere. This implies this was a house that at the time the warrant was executed was being lived in or used by multiple people. The presence of 7 others at the time confirms this.
+
+[24]      Returning to the admonition in Villaroman not to fill in gaps or jump to conclusions too quickly and recalling that a reasonable doubt can arise from the lack of evidence  and ultimately getting back to Justice Cromwell’s basic question in Villaroman, the circumstantial evidence in this case is reasonably capable of supporting an alternative inference, that the guns and drugs could have been placed as they were by someone else, either one of the persons found in the house that night or someone else, without Mr. O’Kieffe’s knowledge.
+
+[25]      The Crown has presented a superficially compelling case, like noted especially since the accused was seen wearing a satchel similar to one of the ones in the bathroom just before the warrant was executed, it may be that was one of the satchels found, but I still harbour a doubt. The Crown has proven beyond a reasonable doubt the presence of smoke but has not proven that smoke is from a fire. There are too many loose ends and unknown pieces. This lack of evidence I find leaves me with a doubt.
+
+[26]      As a result, this doubt means a finding of not guilty will be made and the charges against Mr. O’Kieffe are dismissed.
+
+Released:  August 27, 2025
+
+ 
+
+ 
+
+ 
+
+Signed: Justice Robert S. Gee

@@ -1,0 +1,506 @@
+R. v. R.K., 2025 ONCJ 413 (CanLII), <https://canlii.ca/t/kdnk1>, retrieved on 2025-09-17
+
+WARNING
+
+The court hearing this matter directs that the following notice be attached to the file:
+
+            A non-publication and non-broadcast order in this proceeding has been issued under subsection 486.4(1) of the Criminal Code.  This subsection and subsection 486.6(1) of the Criminal Code, which is concerned with the consequence of failure to comply with an order made under subsection 486.4(1), read as follows:
+
+486.4  Order restricting publication — sexual offences. — (1)  Subject to subsection (2), the presiding judge or justice may make an order directing that any information that could identify the victim or a witness shall not be published in any document or broadcast or transmitted in any way, in proceedings in respect of
+
+   (a)   any of the following offences:
+
+            (i)   an offence under section 151, 152, 153, 153.1, 155, 160, 162, 162.1, 163.1, 170, 171, 171.1, 172, 172.1, 172.2, 173, 213, 271, 272, 273, 279.01, 279.011, 279.02, 279.03, 280, 281, 286.1, 286.2, 286.3, 346 or 347, or
+
+            (ii)  any offence under this Act, as it read from time to time before the day on which this subparagraph comes into force, if the conduct alleged would be an offence referred to in subparagraph (i) if it occurred on or after that day; or
+
+   (b)   two or more offences being dealt with in the same proceeding, at least one of which is an offence referred to in paragraph (a).
+
+ 
+
+(2)   MANDATORY ORDER ON APPLICATION — In proceedings in respect of the offences referred to in paragraph (1)(a) or (b), the presiding judge or justice shall
+
+   (a)   at the first reasonable opportunity, inform any witness under the age of eighteen years and the victim of the right to make an application for the order; and
+
+   (b)   on application made by the victim, the prosecutor or any such witness, make the order.
+
+.   .   .
+
+486.6  OFFENCE — (1)  Every person who fails to comply with an order made under any of subsections 486.4(1) to (3) or subsection 486.5(1) or (2) is guilty of an offence punishable on summary conviction.
+
+
+ 
+
+CITATION:  R. v. R.K., 2025 ONCJ 413
+
+DATE:  July 29, 2025
+
+Toronto Region
+
+ 
+
+ 
+
+ONTARIO COURT OF JUSTICE
+ 
+
+B E T W E E N :
+
+HIS MAJESTY THE KING
+
+— AND —
+
+ 
+
+R.K.
+
+Before Justice Michael Waby
+
+Reasons for Judgment released on July 29, 2025
+
+ 
+
+
+
+Ms. McPhedran........................................................................................................... for the Crown
+
+Ms. Izakelian............................................................................................................. for the Accused
+
+Waby M. OVERVIEW
+
+[1]                        R.K. is the uncle of two of the complainants and the brother-in-law of the third. The offences are alleged to have been committed as against his young niece, S.S., his young nephew, D.S. and his adult sister-in-law, M.S.
+
+[2]                        The Accused was originally charged on an Information with a total of 14 offences. On consent, amendments were made to the date range for Counts 1, 2 and 14 on the Information. Subsequent to this, Mr. K. was arraigned only on Counts 1, 2, 5 and counts 10, 11, 12, 13 and 14.
+
+[3]                        With respect to his niece, Mr. K. faces a total of 5 counts, namely touching for a sexual purpose, sexual assault, forcible confinement, assault simpliciter and assault by choking.
+
+[4]                        With respect to his nephew, he faces one count of assault and with respect to his sister-in-law, he faces one count of assault and one count of uttering a threat to cause death or bodily harm.
+
+[5]                        The allegations cover a time span that principally ranges from December 1, 2020 to July 31, 2021 with the exception of the assault allegation against D.S., which is alleged to have occurred between September 1, 2008 to July 31, 2021. The trial was conducted over the course of several days spread over several months and commenced in January, 2025 and concluded in June of this year.
+
+[6]                        It is alleged by the Crown that the offences arose in course of Mr. K. effectively assuming the de facto role of father to his brother’s family and in the Accused exercising a sustained, controlling and violent course of conduct with respect to his niece, nephew and sister-in-law and engaging in sexually predatory and assaultive behaviour with respect to his niece.
+
+[7]                        Mr. K. pleaded not guilty.
+
+ 
+
+Overview
+[8]                        The case for the Crown is advanced through the testimony of the complainants S.S., D.S. and M.S. Mr. K. testified in his defence and called no additional evidence or witnesses, with the exception of a photograph of the interior of his motor vehicle being entered as an exhibit.
+
+[9]                        Identity is not in issue in this case and nor is the fact that the Accused is the uncle of S.S. and D.S. and the brother-in-law of M.S.
+
+[10]                  It is common ground between the parties that the Crown’s case stands or falls on my findings of credibility and reliability on the whole of the evidence tendered at this trial.
+
+[11]                  The test that governs the analysis of credibility in this context is proof beyond a reasonable doubt. It was explained by the Supreme Court of Canada in R. v. W.(D.) (1991), 1991 CanLII 93 (SCC), 63 C.C.C. (3d) 397 (S.C.C.) and other case law as follows.
+
+If I believe Mr. K.’s evidence, I must acquit him.
+
+Even if I do not believe his evidence but I am left in reasonable doubt by it, or any of the other evidence, I must acquit him.
+
+Finally, even if I am not left in doubt by his evidence, I still must consider it and all of the evidence and ask myself, on the basis of the evidence that I do accept, whether the Crown has proven guilt beyond a reasonable doubt.
+
+[12]                  Proof beyond a reasonable doubt goes hand-in-hand with the presumption of innocence which is a fundamental principal of our system of justice.
+
+[13]                  The burden of proof in a criminal trial always rests with the Crown. The burden of proof is a heavy one. It is proof beyond a reasonable doubt in relation to each of the offence’s essential elements. A reasonable doubt is not an imaginary, far-fetched, or frivolous doubt. It is not a doubt based on sympathy for or prejudice against anyone involved in this trial. It is a doubt based on reason and common sense and is logically derived from the evidence or the absence of evidence. R. v. Lifchus, 1997 CanLII 319 (SCC), [1997] 3 S.C.R. 320, 118 C.C.C. (3d) 1, at para. 39
+
+[14]                  I may accept some, all, or none of a witness’ evidence.
+
+[15]                  To be clear, it is not sufficient that on the whole of the evidence I am satisfied that Mr. K. is probably guilty and a criminal trial is not a credibility contest. Even if I believe the Accused is probably guilty or likely guilty, that is not sufficient. In those circumstances, a judge must give the benefit of the doubt to the Accused and acquit because the Crown has failed to satisfy the court of the guilt of the Accused beyond a reasonable doubt.
+
+[16]                  In R. v. J.H.S., 2008 SCC 30, the Supreme Court qualified the W.(D.) instruction with an additional prong, partly in recognition that a trier of fact “may believe some, none, or all of the testimony of any witness, including that of an Accused” (para. 10). This prong is that where the trier of fact is unable to decide whom to believe, the Accused is entitled to an acquittal (paras. 11-12).
+
+[17]                  Put another way, it reflects that the trier of fact must not treat “conflicting testimonial accounts” as a credibility contest, in the sense of deciding whether they accept one or the other. “The main point is that lack of credibility on the part of the Accused does not equate to proof of his or her guilt beyond a reasonable doubt”: J.H.S., ibid at para. 13.
+
+[18]                  The burden never shifts to the Accused to establish their own innocence, and the onus always lies with the Crown to prove every essential element (R. v. J.H.S., 2008 SCC 30 (CanLII), 2008 S.C.C. 30, [2008] 2 S.C.R. 152, at para. 13). It is also important to note that a more stringent level of scrutiny cannot be applied to the defence evidence than is applied to the Crown’s evidence.
+
+Summary of Relevant Evidence
+Evidence of S.S.
+[19]                  S.S. was 16 years of age at the time of giving her evidence and was 12-13 years of age and in Grade 7 at the time of the allegations in which she is the complainant. Following unopposed Crown applications, S.S. testified via CCTV and pursuant to 715.1 a portion of her evidence in-chief comprised a video statement she provided to police on July 20, 2023 when she was aged 14.
+
+[20]                  At the time of the allegations, S.S. resided with her mother (M.S.), father, older brother (D.S.) and her grandmother in a condominium block in Scarborough in the City of Toronto. S.S. and her brother gave evidence that her father has significant disabilities that include both an inability to hear or speak. In a separate condo unit on an upper floor lived her uncle, the Accused Mr. K., his wife and two children, a daughter and a son.
+
+[21]                  Prior to the allegations she made against the Accused, S.S. described her relationship with Mr. K. as pretty good, with some minor disagreements although nothing serious. She testified that she did not see her uncle as a bad person although this changed in light of what she alleges occurred as she grew older and post puberty. Prior to the allegations, S.S. gave evidence she would see her aunt and the Accused regularly.
+
+[22]                  S.S. testified that, unbeknownst to the Accused, during COVID, she and her female cousin T.S., the daughter of the Accused, began communicating with each other privately on a now discontinued digital communication platform called Google Hangouts. Mr. K. became aware of them using Google Hangouts and was angry and stopped and forbade their use of it. S.S. gave evidence although T.S. had suggested that they use Google Hangouts, she appeared to be blamed to them doing so.
+
+[23]                  S.S. gave evidence that the Accused told her and her parents it was a bad thing that she and her cousin had done and that S.S. was a bad person and needed to be punished. She testified to heated family discussions at which the Accused was yelling about this issue. The Accused threatened to hit S.S. and told her mother M.S. to do so too. Although S.S. was not ultimately physically punished, Mr. K. advised her she would have to write some 200 lines each day for a month stating that she would not lie to him and would be honest.
+
+[24]                  S.S. gave evidence that the Accused and his wife found out about Google Hangouts on or around December 3, 2020 when S.S. was aged 12. S.S. testified that in her police statement she summarized what had happened over the course of the 6 months. It was her evidence that she believed the first incident involving the Accused occurred in December 2020 and the last one occurred in July 2021. She described the first incident being “a kiss in the car” at Scarborough Town Centre and the last incident being when Mr. K. assaulted her at the underground storage lockers in their condo building.
+
+[25]                  S.S. testified that after the Google Hangouts incident between December 2020 and January 2021, the Accused came over to her family’s condo unit regularly during the period of punishment he had imposed. During this timeframe, it was the evidence of S.S. that the Accused regularly checked her homework with her when alone in her bedroom and having placed a chair in front of the door to prevent her leaving and others entering. He also checked that she was not talking to people on-line or using the internet and asked her if she knew how people had sexual intercourse.
+
+[26]                  S.S. gave evidence that during this timeframe Mr. K. attended her home on a daily basis. Some 2-5 times when the Accused attended her condo and was alone with her in her bedroom, S.S. testified that he touched her vagina under her underwear. S.S. testified that that the Accused wanted to put his finger inside her vagina but she would not let him and she moved away from him each time to prevent this happening.
+
+ 
+
+[27]                  S.S. testified to a number of instances of sexual assault and assault by the Accused on her over the relevant timeframe. These commenced with the Accused attempting to kiss S.S. on the lips when he had taken her and her brother to Scarborough Town Centre. S.S. testified that her uncle dispatched her brother on errands for him. The Accused was alone in the car with S.S. in the back seat and the Accused in the driver’s seat.
+
+[28]                     S.S. gave evidence that this was during the month the Accused was punishing her with lines and that she sat quietly as she “didn’t want to piss him off”. The Accused asked her why she was being so quiet and told her to come closer to him. The Accused then grasped the side of her face and tried to kiss her on the mouth, she pulled away and he wound up kissing her cheek instead.
+
+[29]                  S.S. went on to testify about a series of inappropriate sexual touching on the part of the Accused towards her in her bedroom. This occurred when he attended at her home and took her into the master bedroom under the auspices of checking her homework and her laptop. She testified that the Accused would tell her and her brother to open their lap-tops and show him what they were working on and when schoolwork was due.
+
+[30]                  S.S. gave evidence that she would typically be alone in the master bedroom with the Accused while her brother was outside the closed door and the rest of her family was in the nearby sitting room, often watching television. She gave evidence that typically during these encounters the Accused would then make her sit on his lap and would pull her towards him by the wrist. He would subsequently reach under her skirt to touch her vagina. It was S.S.’s evidence that she would try to stand up and that often the Accused would hold her firmly by the waist to stop her getting off his lap. It was her evidence that the Accused held her down on his lap but not enough to hurt her. She described the Accused sitting on the chair that he had placed in front of the inside of the bedroom door because he did not want anyone walking in.
+
+[31]                  S.S. gave evidence that although the Accused often told her and her family she was a bad person, the Accused would also praise her before he touched her sexually and told her that she “wasn’t like everyone else in the family.” She described the Accused putting his finger under her clothing and on, or nearly inside, her vagina. S.S. testified that that she would try to push the Accused hand away and he would tell her to stop and that this was for her own good. It was her evidence that she was 13 years old when this behavior occurred.
+
+[32]                  S.S. gave evidence that the sexual assault on her occurred over the course of approximately 6 months. That the Accused attended almost daily from early December to late January or early February during what she termed the course of her “punishment” and that after this, the Accused stopped coming over in person but then began to constantly take her out with him in his car.
+
+[33]                  In summary, S.S. testified that on an almost daily basis during part of COVID, her uncle would collect her from home at weekends or after school and drive around with her in his car. S.S. also gave evidence that on at least one occasion during this timeframe, she had seen the Accused hit and kick her mother when her mother, M.S. had tried to stop the Accused taking S.S. out of her home.
+
+[34]                  S.S. and the Accused would regularly attend the same plaza and often visit a Tim Horton’s there. During the course of a number of these instances, S.S. testified that she and the Accused would eat food in the car. She was in the rear seat and the Accused was in the driver’s seat. She described the Accused being on his phone for lengthy periods of time while they were parked in the plaza and sometimes, he would read booklets that she believed related to cars.
+
+[35]                  S.S. gave evidence that during this timeframe, and when she had finished eating the Accused would often then join her in the back seat of his car. She testified that she did not want to sit in the front with him as she did not feel comfortable doing so. It was her evidence that she often ate slowly to defer the Accused climbing into the back seat with her and that sometimes the Accused would become impatient with her and tell her to hurry up.
+
+[36]                  It was her evidence that on a number of these occasions the Accused would ask her to let him “touch her” and that although she tried making excuses to avoid him touching her, in the end she just gave in because she was scared about what the Accused would do if she continued to disagree. The behaviour S.S. described included the Accused placing his hand inside her pants and trying to “finger her” and touching her chest under her shirt.
+
+[37]                  S.S. gave evidence that sometimes the Accused would complain about the clothing she was wearing as it made it difficult for him to touch her and that on occasions, he would tell her to remove her pants but she was not comfortable doing so. S.S. testified that that on weekends the Accused would often arrive by 7:00 or 8:00 a.m. and remain out with her until much later often until 9:00 p.m.-10:00 p.m. and sometimes as late as 11:00 p.m. On school days, he would be waiting outside of school to pick her up once her classes had finished.
+
+[38]                  S.S. gave evidence that her mother and the Accused argued about how long the Accused was keeping her out of the home and that it was impacting her health, behaviour and her schooling and that after this, the Accused started keeping her out later, sometimes until 11:00 p.m. S.S. described these lengthy encounters as essentially comprised of the Accused driving around for long periods of time, parking in the plaza, getting food and then sexually assaulting her.
+
+[39]                  S.S. testified that at some point during this timeframe, the Accused told her he wanted to rape her and that doing so would help give her more confidence and to be more brave. He told her he was “going to put his dick in her.” S.S. testified that that she did not understand what the Accused meant by this act making her more confident but that the Accused repeatedly told her it was going to happen,
+
+[40]                  S.S. gave evidence that sometimes she cried when the Accused said these things to her and he would tell her she was stupid and tell her that it was not a bad thing he wanted to do to her.
+
+[41]                  S.S. then testified to what was referred to at trial at “the orange skirt incident”. In summary, S.S. estimated that this incident occurred in June of 2021 and that the Accused gave her one of his daughter’s skirts to wear and told her that he was “going to put his dick inside her”. S.S. said she became upset and described the Accused as getting mad. As a result of this, she removed her pants and put on the orange skirt that the Accused had given her and did this shortly before the Accused parked at the plaza. She testified that she first saw the skirt in a carrier bag in the rear of the car and assumed the Accused had previously retrieved it from the trunk.
+
+[42]                  S.S. gave evidence she believed that the Accused’s motor vehicle was parked behind a Dollarama in the plaza and that there did not seem to be anyone else around. The Accused then got in the back of the vehicle next to where she was seated, he removed his pants and hovered above her and tried to place his penis inside her vagina. S.S. described being very upset and trying to push the Accused away as he was hovering over her. It was her evidence the Accused repeatedly told her he was doing this to make her brave and that she had to do this type of thing. Eventually, after several attempts to penetrate her the Accused gave up and she described him as being very upset with her and told her if she was not going to let him do this, then he was going to drive her home. S.S. gave evidence that Accused seemed further upset when she agreed and did not suggest otherwise.
+
+[43]                  In her evidence about this incident, S.S. gave evidence that the seats of the motor vehicle were pushed back and that there was space for the Accused to hover over her while he held on to the top of one of the rear passenger seats for balance. He then placed one of his feet over her two legs. S.S. described feeling very scared and crying and having a panic attack and struggled to breathe. She described trying to move away from the Accused but not having much room to do so. She gave evidence that the Accused had his pants down and close to his knees and that he told her to take off her underwear.
+
+[44]                  She testified that that she saw the Accused’s penis as he tried to position it inside her but she resisted and she described his penis as on or almost in her vagina.
+
+[45]                     S.S. further testified about a family trip to Whitby to spend time with her other uncle and his family in which her family and the Accused family all visited and stayed overnight. S.S. recounted an incident where she woke up at some point and believed she felt the Accused touching her although she accepted she could not be sure where on her body this had occurred although the Accused was close to her face and she had been sleeping in a room with other family members when this occurred.  After a family argument, S.S. and most of her family subsequently left. S.S. testified that this incident occurred in or around June 2021 and that it was the last of the times when she believed the Accused touched her sexually.
+
+[46]                  S.S. then testified that that at some point in July 2021, not long after the family trip to Whitby, the Accused attended at her home in Toronto and knocked on the door. She gave evidence that the Accused then told her to come with him and he took her down to the locker area in the condo building where the residents store surplus items. She described the Accused as being very angry and swearing at her.
+
+[47]                  S.S. testified that she felt something bad was going to happen and that she had not wanted to go with the Accused but he told her if she did not, he would come into her home and drag her out and he would kill anyone who stopped him. When they got around the corner to where the Accused storage locker was, it was S.S.’s evidence that after berating her for some time while seated, the Accused stood up and slapped her across her face several times and then choked her with his hands for a few seconds during which time she struggled to breathe.
+
+[48]                  After this, the Accused threw a bottle of water at her and yelled at her saying that she had ruined everything for him and that she was worthless. S.S. described this incident as occurring on or around July 4, 2021 when she was 13 years old and testified that it was a particular date that she remembered. She gave evidence that she did not tell her mother or family about this incident as she was afraid of the Accused and what he might do to her or her family. S.S. testified that also about how the Accused seemed to dislike her brother very much .
+
+[49]                  S.S. gave evidence that approximately one year after this last incident, in approximately August 2022, she and her family had moved to a new address. During the course of a heated family argument in which she said she was being blamed for causing problems in the family, she became upset and then told her mother and grandmother about the abuse that had happened. She pointedly told them it was unfair of them that to paint her as the bad person in the family when the Accused had sexually abused her.
+
+[50]                  It was her evidence that the family discussed reporting the incidents to the police but her grandmother and mother were worried about telling the police as it would mean the Accused’s children would not have a father anymore and it would be embarrassing for them and the family. S.S. subsequently also told her uncle and aunt in Whitby about what had happened and they asked her why she had not told them about this and she replied that she was afraid for the family. She also provided some information to a school counsellor. Subsequently, the matter was then reported to police.
+
+[51]                  S.S. testified that the last time she saw the Accused, he followed her and her mother home from school to their condo and she panicked and slammed the door in his face and did not open it despite his repeated knocking.
+
+ 
+
+Evidence of M.S.
+[52]                  M.S.’s evidence, which was provided with the assistance of a Tamil interpreter, can be summarized as follows. She was born in Sri Lanka and arrived in Canada in 2006 and lived with her husband, mother-in-law, daughter and son in their condo building. The Accused and his family moved to Canada and into the same condo building in approximately 2007. M.S. described getting to know the Accused through his marriage to her sister-in-law. She described their relationship as not a close one but one in which they respected him in the position of a father figure, including towards her own children.
+
+[53]                        M.S. gave evidence the Accused helped her children with their schooling, he spoke to their teachers and at school meetings and picked the children up from school and helped them with their homework. She testified that during COVID he would come over to their home regularly to check her children’s laptops to see if they had done their school-work. This was done in the bedroom in the condo that she shared with her daughter S.S.
+
+[54]                  She gave evidence that when the Accused was checking her daughter’s home-work, he would be in the bedroom with her by himself and when he checked her son's homework he would also be in there by himself. She testified that when he was in the room with the children, no one else would be allowed in. On these occasions, M.S. described the bedroom door being closed and other family members typically being in the living room.
+
+[55]                  M.S. gave evidence that the Accused regularly took her son and daughter out to help him with shopping or when he had appointments. It was her evidence that he mostly took her children out separately and this happened during COVID when “people couldn’t mingle” she described the Accused mostly taking out her daughter S.S. on a daily basis between December 2020 and June 2021 the last week of school.
+
+[56]                  M.S. testified that there was a family discussion at the Whitby house where all of the family jointly scolded the Accused for taking the children out of school after they found out classes had been missed and homework was not completed. She testified that in the period of time that the Accused was daily taking out her daughter they would regularly leave at around 7:00 or 8:00 a.m. and often not returned before 9:00 or 10:00 p.m.
+
+[57]                  She gave evidence that when her daughter was out of the house with the Accused, she did not see her all day and she described feeling concerned about her daughter and her studies. M.S. testified that she spoke to the Accused about this but the Accused would not listen to her and got angry used abusive words towards her.
+
+[58]                  M.S. testified that the Accused choked her on four to five different occasions in her condo unit after she told him he could not take out her daughter. She gave evidence that this happened in January, February and March of 2021 and on the last occasion, it occurred when she tried to stop him taking her daughter out and the Accused pushed her over, kicked her and struck her over her head and shoulder. She testified that on this occasion that he choked her she had difficulty breathing although she did not lose consciousness, she described “my eyes were blurred and I felt like I was flying in the air.”
+
+[59]                  M.S. gave evidence that the Accused told her he would hit her again if she told his wife what was happening. On two or three occasions, her own children saw the Accused hit her. When asked if she remembered whether the Accused said anything, M.S. testified the Accused spoke angrily and used bad words and said “I’ll kill you and throw you away. I’ll squeeze you to death and take the child out anyway.” She gave evidence that she felt afraid for herself and what would happen to her children and that she felt the Accused was capable of doing what he said.
+
+[60]                  M.S. gave evidence that because her English is very poor and because she was not allowed to get herself educated when she came to Canada and given her husband’s disabilities, this was why the Accused did so much in respect of her family. She testified that her children were not allowed to be close to her and that they had to listen to the Accused and that this all began to happen when her son was in grade 9 and her daughter was in Grade 7.
+
+[61]                  It was her evidence that the Accused told her she should not be interfering with the children or talk with them, that it was her role to cook and feed them and take them to school but nothing else. She described these rules being made for her by the Accused. She also testified that the Accused during this time frame had told her children not to talk to her and described a period of some three months when S.S. was “kept away from me”. She gave evidence that the Accused regularly questioned her as to whether she had spoken to the children and she gave evidence that it was only after they no longer had anything to do with the Accused that they really spoke properly again. M.S. testified that the Accused would hit her if he learned she had spoken to her children when he had told her not to.
+
+[62]                  M.S. gave evidence that sometimes the Accused would scold her daughter in front of her and tell S.S not to speak to her mother whom he called a prostitute. From January to June of 2021, M.S. described her daughter as seeming sad and angry a lot of the time and “acting as if she had got lost before finally coming back to us.” She testified that during this timeframe her daughter had cut her wrists and her school grades had dropped significantly.
+
+[63]                  In cross-examination, M.S. testified that when she noticed the cuts on her daughter’s wrists, she spoke to her about it but S.S. did not want to discuss it. She testified that after they moved to Oshawa in April 2022, there was an argument between her and her daughter which got emotional. M.S. questioned her daughter about her changed behavior and it was in this conversation that her daughter disclosed to her the abuse she alleged at hands of her uncle.
+
+[64]                  In cross-examination, M.S. testified that when the Accused came over to the condo he would take a chair from the living room or tell the children to bring him a chair from the living room and leave it in the bedroom. She testified that the Accused would leave his walker inside the entrance to her home remove his shoes and then tell the children to get the chair.
+
+[65]                  When asked by Ms. Izakelian if she had seen the Accused choke her daughter or hit her, M.S. testified she did not see that happen herself but recalled her daughter having been crying and saw what she described as signs on her neck, although she was confused as to when this has been.
+
+[66]                  M.S. also testified about the family trip to Whitby. She gave evidence that she had seen the Accused and her daughter using the lawnmower together but agreed she had not thought anything unusual about it at the time. She accepted that she had not mentioned this in her original police statement. M.S. rejected the defence suggestion that the Accused had not driven S.S. to Whitby along with his own family. She testified further as to her recollection of the events during the family to visit to Whitby.
+
+[67]                  In cross-examination, M.S. agreed the Accused had been involved in a car accident in 2018 and had attended rehab and physiotherapy appointments afterwards although she testified that he was not seriously injured and that his attendance at the appointments and use of the walker was a pretense.
+
+[68]                     M.S. rejected the defence suggestion that in the two years following the accident the Accused was unable to drive and testified that he was driving throughout that entire period. Her evidence was that the Accused used the walker because of his civil law case and that he was afraid of being followed by the insurance company. She testified that whilst he walked slowly when he was outside of the house he did not do so when he was inside the home. It was her evidence that the Accused had told her that he was using the walker because people were watching him. She accepted, in cross-examination, that she had not told the police about the Accused pretending in this way.
+
+[69]                  M.S. testified that the Accused did not seek her permission to take her daughter from the house when he wanted to take her out and nor did he seek permission from her husband. She testified that she had been under the control of the Accused for the last 18 years and testified that “he wasn’t like this at first but he changed.” When asked why she simply did not open the door to the Accused if she was afraid of him, M.S. testified that she felt threatened, and the Accused had said he would kill her children if she did not do as she was told. She also testified that that the Accused had a key to her condo.
+
+[70]                  M.S. denied the defence suggestion that over the years she had regular fights with her daughter. It was her evidence that they had no serious arguments before 2021 and she rejected the defence suggestion that the Accused never attended school meetings and the suggestion that his ability in the English language is the same as hers.
+
+[71]                     She testified the Accused can speak English as well as he speaks Tamil. She agreed that the Accused told her he did not want S.S. and his daughter talking in private after the incident on Google Hangouts. She testified that the Accused kept his children away from her after this incident and she felt he was isolating her. She further testified that when the Accused was in the bedroom with either of her children if she wanted to use the washroom when he was inside there, she had to knock on the door and Mr. K. accused her of checking up on him.
+
+[72]                     She rejected the defence suggestion that she only knew about the chair because she was told about it by S.S. and testified that there was a space through the door where she could see the leg of the chair. It was her evidence that when he went into the bedroom, the Accused always closed the door and when she wanted to use the washroom the Accused had to move the chair away from the door to facilitate this.
+
+[73]                  M.S. denied that she asked the Accused to come over to speak to the children to motivate them. She denied the Accused only took out S.S. five to six times during the relevant timeframe. She testified that the Accused took control of both families and her family did not have a car.
+
+[74]                  M.S. denied in cross-examination that she had stopped speaking to S.S. because she was upset with her over the Google Hangouts. She testified the reason they stopped speaking was because of the Accused.
+
+[75]                     M.S. rejected the defence suggestion that in 2015 she gave some jewellery to the Accused because he was having financial issues. M.S. also firmly denied the defence suggestion that she made romantic advances to the Accused which he rejected in 2015 and again in 2021. M.S. denied that she had demanded any jewellery back from the Accused or that the Accused told her he could not give her the jewellery back as he had pawned it and did not have the money to redeem it. She also denied the defence suggestion that she told the Accused she loved him and that when he rejected her, she got upset. She further denied that the Accused had stopped speaking to her and her family in April of 2021 of his own accord but did agree that the last thing she told the Accused in the last conversation they had was words to the effect of “time/s will change.”
+
+[76]                  M.S. testified that the first time the Accused had assaulted her was after S.S. had reached puberty and the Accused started taking her out and she believed it may have been around December. When asked to describe this assault, M.S. testified the Accused pushed her in the washroom and she fell down. He told her to shut her mouth. She agreed that she had not mentioned this first incident to the police when she spoke to them and when asked how many times the Accused assaulted her, M.S. testified “he used his hands on me many times I don’t know how many times I cannot count it, it was numerous.” She agreed that the assaults always happened in her home.
+
+[77]                  M.S. agreed that although she testified that she was scared for her life and her children she had not contacted the police earlier about this and said that was because she did not know what to do although she accepted, she had a phone in her condo.
+
+[78]                     M.S. rejected the defence suggestion that the Accused did not threaten her or assault her at any point. She rejected the defence suggestion that the Accused did not have control over her and her family or that he took S.S. out everyday, often keeping her out late during the relevant time frame.
+
+ 
+
+Evidence of D.S.
+[79]                  When testifying D.S. was 21 years old and he gave evidence that he is 4 years older than his sister S.S. In December of 2020, he testified that he was in grade 12 and would have been 17 years of age. D.S. testified that his uncle had assaulted him physically on a number of occasions including once when he was 10 or 11 years of age where the Accused slapped him and hit his head against a concrete wall. D.S. could not recall whether his mother and sister were present but believes that they may have been.
+
+[80]                  D.S. testified that this assault occurred in the basement area where the storage lockers for residents were located and that he was slapped to the head several times. He described the back of his head hurting for a while afterwards. D.S. gave evidence that this was not the first time his uncle had hit him. The first time was when he was taken to the locker area and hit by his uncle when he was in elementary school when he had stolen something from the school.
+
+[81]                  He testified that his uncle was in charge of discipline as his mother did not speak English and his father could not speak or hear. He testified that this control included his uncle making D.S. call him when he got up in the morning to tell him when he was leaving for school and that he had to call his uncle when he got home from school. He testified on a number of occasions his uncle made him kneel all day in his condo without food and water and that he was not allowed go to the washroom without his permission as a punishment for him not calling him when he was told to.
+
+[82]                  D.S. recalled his mother and grandmother calling his uncle to ask permission for him to use the washroom but his uncle did not pick up and they had to leave voicemail messages. He gave evidence that he was subjected to the kneeling punishment by his uncle four or five times. He also testified that on two or three occasions he and his sister were also told to write lines by his uncle and that his uncle would regularly come to their apartment and check their schoolwork on Google classrooms when he was in grades 11 and 12. He testified that this would happen in the bedroom or living room for him but when his uncle checked his sister’s homework, he did it with her separately and in the bedroom with the bedroom door closed.
+
+[83]                  D.S. testified his uncle regularly went to school meetings and parent teacher meetings at the school on their behalf and sometimes he would take D.S.’s mother with him. He described the language that was spoken in the interviews as English and D.S. gave evidence that the Accused’s ability in the English language as good. He testified that his uncle was in charge of their contact with the school because his mom does not speak English and his father cannot speak.
+
+[84]                  It was D.S.’s evidence that if his mother spoke up to the Accused, he would discipline her and him and he further “my mum would get hit if she spoke up.” He had seen the Accused hit his mother multiple times on different days and estimated he had seen this happen more than 20 times. He testified that in addition to assaulting his mother, the Accused would also verbally abuse her, call her a prostitute and other profane names.
+
+[85]                  D.S. testified he recalled the first time he saw his uncle hit his mother was when she tried to stop his uncle doing something and his uncle said she would not stop him and he would be happy to go to jail. D.S. was unable to give a date for when this incident occurred and was not prepared guess.
+
+[86]                  D.S. also testified about the family trip to Whitby and his recollection of the events that occurred whilst the families were there. This included a recollection of the Accused and his sister using the lawnmower and that the Accused had driven his sister to Whitby with his family.
+
+[87]                  When asked when the last time was that he saw the Accused hit his mother, D.S. testified it was following an argument when he came over to the condo and it happened in the master bedroom. He gave evidence that “something happened in Whitby” but he was not sure what it was. After this is when he last saw the Accused hit his mother. D.S. testified on this occasion he was sitting on the bed, the Accused was yelling at his mom. The Accused told him to step out of the room and as he was doing this, he saw the Accused hit his mother with his hand and she stumbled. It was his evidence his uncle hit his mother across the left side of her face and that he both saw and heard the blow.
+
+[88]                  When asked if there were any other occasions on which the Accused assaulted him, D.S. replied “I don’t know the number there were multiple situations if I was late home from school he would come to our house and he would take me to our master bed-room and I’d be hit mostly with his hand sometimes he bent me over and elbowed me or kneed me in the back or slapped me in the back with both hands.” D.S. estimated this occurred a couple of times every two months and he also recalled that one occasion the Accused had slammed the door of the empty property locker against him.
+
+[89]                  When asked about the last time he had seen the Accused, D.S. testified it was about a week after the trip to Whitby when the Accused told him he wanted to meet him at the storage lockers. He testified his sister was there, the Accused kept yelling at him and saying him and his sister were ungrateful for everything he did for them. He gave evidence that the Accused was slapping D.S.’s face with both his hands back and forth, he gave evidence the Accused hit him an estimated 4 to 5 but does not recall any obvious injuries following this.
+
+[90]                  When asked how he would describe his relationship with the Accused, D.S. testified “personally I never liked him, he would always discipline us, me and my sister and my mom I've always disliked him and the role he has in our life has been pretty consistent.”
+
+[91]                     D.S. agreed there were occasions where he attended at appointments with the Accused and testified that he did not know why the Accused brought him but sometimes he helped him open doors and helped him get his walker out of the car. D.S. testified that his sister went out alone with the Accused a lot more often. Generally, several times per week. He described this as happening mainly during COVID after his sister hit puberty and when he was in grades 11 and 12 and that sometimes she would be out for six hours or maybe longer. He testified they often leave at 9:00 to 10:00 in the morning and a few times returned as late as 10 or 11 p.m., although it was more normally 7:00 to 8:00 p.m.
+
+[92]                  When asked whether he had noticed any changes in his sister's personality, D.S. testified that she used to be fun until they had been told not to speak to each other, although they continued to do so secretly and their relationship did not change. However, he noticed that the more she hung out with the Accused, the more his sister stopped speaking to their mother.
+
+[93]                  In cross-examination, D.S. provided further evidence of his recollection of the events that occurred during the family visit to Whitby. He testified that whilst other family members left earlier, he stayed in Whitby for approximately 2 weeks with his other uncle. When asked about the incident involving the Accused and his sister on the lawnmower, D.S. testified that the Accused was showing his sister how to use the lawnmower and that the way he appeared to be showing her struck him as odd but agreed he did not say anything and nor did he speak with his sister about it.
+
+[94]                  He also agreed that he did not mention in his police statement anything involving his sister and the Accused using the lawnmower. D.S. testified he was asked multiple things about what he had seen or been through with him and he just did not remember that one incident because there were multiple contacts.
+
+[95]                  D.S. rejected the suggestion that he had memory issues and testified that the family found out about the allegations against his sister after they had moved from Scarborough in April 2022. He testified that his sister told their mother about what had happened and had not been specific with him about details. He agreed with the defence suggestion that he did not like the Accused and that he disliked him more since he had heard what his sister had said the Accused had done to her.
+
+[96]                  When asked if he would pick his sister’s side over the Accused, D.S. replied yes he would and agreed he would do anything to support his sister. When asked if his sister had told him about the incident in the car, D.S. replied yes, I remember her telling me that the Accused said “if she let him fuck her she wouldn’t be raped.”
+
+[97]                  When asked whether he and his sister had talked more about the allegations since he originally learned of them, D.S. testified they had not and he never brought it up because his sister was very sensitive about it. He also denied talking about it with his mother. When asked by defence counsel if he had any suspicions about his uncle, D.S. testified “I had my thoughts but he’s my uncle and I wouldn’t think he’d do something like this. It didn’t cross my mind he would do this kind of wrong and sexually assault my sister”.
+
+[98]                  D.S. agreed he had never seen the Accused touch his sister inappropriately or say anything sexually inappropriate to his sister.
+
+[99]                  D.S. agreed that when he was outside of home the Accused used a walker and sometimes attended with the Accused at his physiotherapy appointments. When it was put to him that the Accused had difficulty walking, D.S. replied “that's what he told me.” D.S. testified that the Accused told him he did not want people to see him outside of his car and when he went to appointments, he would always say to him “they could be watching” and he would appear paranoid about his surroundings.
+
+[100]               D.S. disagreed with the defence suggestion that the Accused had not taken his sister in his car to Whitby along with his own family. He agreed that he did not like helping his uncle and felt forced to do so. D.S. rejected the defence submission that his uncle wanted him and his sister to do well in school and testified that he believed checking their laptops was all part of the control of them by him although he agreed occasionally his uncle would make motivational comments about their schooling.
+
+[101]               D.S. rejected the suggestion that the Accused did not check his homework and testified that his uncle would tell him and his sister bad things about his mother that he knew were not true to try and make her seem like a bad person. He rejected the defence suggestion that his uncle had never gone to a PTA meeting for him and testified that he had been doing so since they were in kindergarten through to high school and that he sometimes brought his mom or dad.
+
+[102]               In cross-examination, D.S. testified that his parents seemed to have no say about the decisions that the Accused made. He testified that sometimes he would get the walker from his uncle's vehicle and sometimes his uncle would get it. He further testified that when they were in Whitby, he did not see his uncle using a walker or a cane and that his uncle was doing yard work without either of these things.
+
+[103]               D.S. expressly rejected suggestions that he never saw the Accused assault his mother and testified he saw it on a number of occasions, including the Accused kicking her D.S. testified that the only time he saw the Accused assault his sister was when he slapped her that was the only time he saw him touch her. In re-examination, D.S. agreed that after the lawnmower incident that he thought was suspicious in Whitby, he had spoken with his mother about it.
+
+Evidence of R.K.
+[104]               The evidence of Mr. K. can be summarized as follows. He is 59 years of age, was born in Sri Lanka and is a Canadian citizen and has no criminal record. He previously worked as an Uber driver until he had a car accident in 2018 and has not worked since as a result of the injuries he says he sustained in that accident.
+
+[105]               It was his evidence that he attended a pain clinic for approximately 2 years after the accident and then from December 2020 was in rehab and physiotherapy. He reported his injuries including lower back pain, neck pain and damage to his shoulder.
+
+[106]               The Accused testified that he required the use of a walker and walked very slowly and needed it for balance for quite some time. He currently uses a cane instead of the walker. It was his evidence that he used the walker even when he was indoors.
+
+[107]               He testified that he lived with his wife, son and daughter in the same condo building his wife’s elder brother, his wife and their two children and his wife’s mother but they lived in a separate unit. He testified that he owns a 2003 Nissan Murano which he used as his vehicle and which he testified did not have significantly tinted windows. It was not in issue that the Accused has a storage locker in the condo building that he lived in.
+
+[108]               When asked to describe his relationship with his wife’s family, he described it as good although he testified that it subsequently changed. When asked about his relationship with S.S. and D.S., he also described this as good but said that it also subsequently changed. He attributed this to S.S. secretly contacting his daughter on Google Hangouts without his knowledge.
+
+[109]               The Accused gave evidence that as soon as he found out about this secret contact he told his daughter to stop and spoke to S.S. and her family the following day. It was the Accused’s evidence after this conversation, his relationship with the family changed, he testified that S.S. then avoided him a lot and he could see in her face that she disliked him.
+
+[110]               The Accused denied punishing S.S. following this conversation and testified he would not do such a thing as he is her uncle, not her parent. But he agreed he instructed her parents to make sure this did not happen again. When asked why he did not want his daughter contacting S.S. privately, he testified that he did not believe S.S. was doing well in school and he thought there would be improper messages sent between them and he wanted to protect his daughter.
+
+[111]               The Accused also denied that between December of 2020 and July 2021 he had been responsible S.S. and her brother D.S.’s well-being. He testified he was only responsible for his own children. He also testified that he never attended any parent teacher meetings for S.S. or D.S. and it was his evidence that their mother attended and used some of the parents who spoke English there to communicate with the teachers not him.
+
+[112]               He gave evidence that the only time he ever picked up S.S. from school was when he was asked to do so by her mother when she knew he was available. He only did this when requested and he believed that this had all occurred before his accident in 2018 and did not picked up S.S. or D.S. after this.
+
+[113]               When asked if he assisted his own children with their homework, he testified he did not and that it was his wife who takes care of that as he does not have much time in the day to do so. He also gave evidence that his English is not good enough and although he speaks some conversational English, it wasn’t enough to teach his children with. The Accused denied he had the ability to review homework by his children to see if it was complete and denied teaching any school subjects or checking the homework or computers of either D.S. or S.S.
+
+[114]               The Accused testified that after the Google Hangouts conversation, his relationship with D.S. changed as well and that before this, D.S. used to speak to him a lot and he would take him out to drive during the day. After the Google Hangouts issue, the Accused gave evidence D.S. refused to do this with him anymore and the way he responded to him seemed angry and sad.
+
+[115]               He testified that he had never made S.S. or D.S. write lines as a punishment although he accepted he had done that with his own children. He testified that S.S. knew this and believed she had made-up her evidence based upon this story she had heard.
+
+[116]               When asked whether he had taken S.S. out of the house every day between December 2020 and April 2021, the Accused denied that this had happened and he testified that he would only have taken her out if his children or D.S. were not available to help him and if her mother had said it was allowed. He testified that he wanted to be very formal about any requests for the children helping him but so he always went through their mother.
+
+[117]               He testified the purpose of taking S.S. out was to help him at his medical appointments and to help with shopping and with his walker. He estimates that he only took S.S. out a total of five or six times and he agreed that he took her to get food on these occasions as he did not want to take her for a free ride given she was helping him. He agreed that whenever S.S. was in his car she always sat in the rear passenger seat. He stated that this was for safety reasons and he was very careful following the accident and he wanted to keep S.S. safe.
+
+[118]               He estimated he had taken D.S. out approximately 8 to 10 times during this time frame to assist him with medical appointments and shopping. He gave evidence that he treated D.S. and S.S. both equally. However, after the Google Hangouts conversation, he testified D.S. refused to take food from him. The Accused estimated the longest period of time he was out of the house with either of the children was 4 to 5 hours although sometimes it could have been less. When asked whether there were other cars in the plaza or car park when he went there with the children, he testified there were other cars and lots of movement. He estimated the pain clinic was approximately 15 minutes driving distance from his home.
+
+[119]               The Accused testified when he spoke to D.S. and S.S. to motivate them, he did so in the master bedroom but that the door was always open. He denied the suggestion that he no longer used the walker once he was inside the residence. The Accused denied that he had spent time hanging around in the parking lot talking to S.S. or that he sometimes dropped her off as late as 11:00 p.m.
+
+[120]               He testified that he did not make rules for S.S. or her family to follow and that he did not control them. He denied directing who they could speak with and testified that he has his own family and own problems it does not have time to take care of their family too.
+
+[121]               The Accused testified that at the beginning of April 2021 he had an argument with M.S. at her home and that after this conversation, their relationship changed. It was his evidence that she had told him she was unhappy in her marriage and that she liked him and that he did everything for her.
+
+[122]               The Accused told M.S. he was in some financial difficulty and needed a loan and that M.S. gave him some jewellery and told him to pawn it to get the money to help him. He further testified that she told him they would get the jewellery back and go and live together in some distant place. The Accused testified that he was shocked when it became clear M.S. wanted to use the money from the jewellery he had pawned to set up a new life for them and gave evidence that in 2015, she had also told him of her love for him.
+
+[123]               The Accused testified that he told her this was not a good thing and that she had her own family and he could never agree to what she asked and she must not speak like that again. It was his evidence that he had pawned the jewellery although he now realizes he should not have done that.
+
+[124]               The Accused testified that during the argument in April 2021, M.S. declared her love for him and told him to return her jewellery to her. He gave evidence that when he told her he could not do that as he did not have the money to redeem it, she became angry and said to him “times will change”. The Accused took this utterance as some kind of threat and testified that he now realized their true meaning following the allegations being made against him.
+
+[125]               The last time he saw D.S., M.S. or S.S. was at the Whitby house in June of 2021 and he attended at the request of the grandmother who invited them to a housewarming party. It was his evidence that he still required the walker when at the Whitby house and that he did not drive S.S. to Whitby in his car with his family.
+
+[126]               He further testified that no one was talking to his family for the time they spent there and that he was shocked and upset that everyone was avoiding them. He denied any interactions with S.S. during his time in Whitby, said they only stayed overnight because his wife suggested they should stay as the children were happy. It was his evidence they left at around 11:30 a.m. the following day.
+
+[127]                 The Accused testified that there was an argument before they left in which he was asked why he was blaming S.S. for the Google Hangouts issue and that he was told to leave or the family would call the police. He testified that the situation looked bad and he did not want to fight so he gathered his family and left. It is his evidence that after the visit to Whitby he has not seen or spoken to S.S., D.S. or M.S. since. He denied touching S.S. at any point during the time they were together in Whitby. He testified that they had taken along a lawnmower over as a housewarming gift but he had never used it. He denied that S.S. had ever slammed her door on him when he was trying to speak to her.
+
+[128]               The Accused denied ever assaulting or sexually assaulting S.S. in any way. He further denied ever threatening S.S. or yelling at D.S. or assaulting D.S. at any location including his storage unit in the condo building. The Accused described these as false accusations. He further denied that he had ever assaulted M.S. in her home or anywhere else, nor had he ever threatened her in anyway. When asked if he had ever yelled at M.S., he testified that he only spoke to her sternly once about the Google Hangouts behavior and he did not shout or use strong words.
+
+[129]               When asked again if he had ever inappropriately touched S.S., the Accused replied “I feel sad to hear that. I’m a loving uncle I didn't do it”. In cross-examination by Ms. McPhedran about the allegations, the Accused testified that they were a planned lie and that S.S. had made these up because of the Google Hangouts incident. He gave evidence that he had been working before the accident in 2018 and aside from working as an Uber driver he had also been employed driving a shuttle bus to the hospital as well as working in a bakery supervising packaging.
+
+[130]               He testified that most of the people working under him were Tamil but he sometimes spoke English. He agreed with the Crown that his English was conversational although he testified that there were a couple of words he did not understand. He accepted he had been learning English since grade 6 in Sri Lanka and did not take any English classes in Canada when he arrived here in 2007. The Accused testified that he took his citizenship test in English and accepted he also had passed his driving test too.
+
+[131]               The Accused agreed that his brother-in-law was unable to speak and that M.S. had a very limited education. He agreed his English and education are better than hers and that his mother-in-law also only spoke a few words of English. When asked about his injuries following his car accident, the Accused testified that he was released after an examination the same day and did not stay overnight at the hospital. He attended medical appointments and submitted he was not able to drive before the start of 2020.
+
+[132]               The Accused gave evidence that in addition to S.S. and D.S. sometimes his wife or daughter attended with him for appointments. He gave evidence that his son did not come with him as he had suffered a significant head injury when he was young and his wife was very protective of their son.
+
+[133]               When asked by the Crown why his wife would not be available to attend with him since she was not working, the Accused testified that was because she was taking care of the house and did not have time. The Accused agreed in cross-examination he had begun a lawsuit after the accident and that his sole income was from Ontario Disability Support Program (“ODSP”) and he described his financial circumstances as manageable although he did not have enough money to redeem the jewellery. He accepted the lawnmower that his wife purchased as a housewarming gift for the Whitby visit cost $500.
+
+[134]                 When asked whether he had seen his brother's family regularly before December 2020, the Accused testified he saw them “if the necessity arose” and he did not go unless they asked him to. It was his evidence was “I have a family and kids and mind my own business.” He testified that that he only ever helped his brother’s family if he had the time but he was very busy and his priority was his family.
+
+[135]               It was the evidence of the Accused that he stopped being close to S.S. because he believes she has an inferiority complex. He denied imposing any rules on M.S., S.S. or D.S. about who they could speak to and when. The Accused reiterated in cross-examination his shock at M.S. expressing her love for him and asking to start a new life with him although he agreed that when she first did this in 2015, he did not treat their relationship differently afterwards.
+
+[136]               It was the evidence of the Accused because S.S. disliked him, she and her brother came to court and told lies in this case as did their mother M.S.
+
+Law and Analysis
+[137]               It is abundantly clear that there are vastly different accounts of what took place with respect to the various allegations before the court. In short, it is the position of Ms. McPhedran for the Crown that, notwithstanding any inconsistencies in the evidence of the three complainants, separately and collectively they presented as credible and reliable witnesses and that the court can be satisfied beyond a reasonable doubt of the guilt of Mr. K. with respect to all counts on which the Accused was arraigned.
+
+[138]               Ms. Izakelian submits that the Crown’s case rests on a fabrication by the three complainants who have conspired against Mr. K. She submits this conspiracy is motivated by him spurning the unwanted advances of his sister-in-law, M.S. and is further underpinned by animosity over the non-return of her jewellery which had had previously pawned to repay outstanding debts he owed.
+
+[139]               Ms. Izakelian submits that in addition to this S.S. was motivated to lie about the Accused because she held him responsible for her poor relationship with her family in the aftermath of the Google Hangouts incident. Defence counsel submits that Mr. K. was a credible and reliable witness and that at the very least his evidence should leave the court in a reasonable doubt as to guilt and that the Crown witnesses were inconsistent and unreliable in their evidence.
+
+Child Witnesses
+[140]      I am mindful that courts should not assume a credibility gap in a complainant, or indeed an Accused person, in sexual assault cases because of inconsistencies in their evidence around minor issues which may have a legitimate explanation. Furthermore, two of the complainants in this case were young persons at the time of the allegations, S.S. was and D.S. was 17. When providing their statements to police, they were approximately and 18 years old and at the time of giving evidence, S.S. was 16 or 17 and her brother was 21.
+
+[141]               Ms. McPhedran provided helpful case law with respect to the approach that the court should take when considering the testimony of children in criminal cases. These included R. v. W.(R.), [1992] 2 S.C.R. No. 122, R. v. O.M., 2014 ONCA 503 and R. v. A.B., 2023 ONCA 254.
+
+[142]               A central principle flowing from the case law is that while the evidence of children is still necessarily subject to the same standard of proof as the evidence of adult witnesses in criminal cases, it should be approached not from the perspective of rigid stereotypes but on a common sense basis taking into account the strengths and weaknesses which characterize the evidence offered in the particular case, R. v. W.(R.).
+
+[143]               The courts have recognized for some considerable time children may experience the world differently from adults and it is not surprising that details important for adults such as time and place may be missing from their recollection. In R. v. B.(G.), 1990 CanLII 7308 (SCC), [1990] 2 S.C.R. 30 at pp. 54-55, Wilson J. recognized this when she said “while children may not be able to recount precise details and communicate the when and where of an event with exactitude this does not mean they have misconceived what happened to them and who did it .’’
+
+[144]               As C.J. Machlachlin articulated in R. v. W.(R.), “It is also neither possible nor desirable to state hard and fast rules as to when a witness’s evidence should be assessed by reference to adult or child standards to do so would be to create a new stereotypes potentially as rigid and unjust as those which the recent developments and the laws approach to children’s evidence have been designed to dispel. Every person giving testimony in court of whatever age is an individual whose credibility and evidence must be assessed by reference too criteria appropriate to their mental development, understanding and ability to communicate.”
+
+Collusion and Fabrication
+[145]               I accept that the absence of evidence of a demonstrated motive to fabricate must be distinguished from affirmative proof of no motive to fabricate. As the court noted in R. v. L.(L), 2009 ONCA 413, 244 C.C.C. (3d) 149 at para. 44, citing R. v. B. (R.W.), 24 B.C.A.C. 1 (C.A.) at para. 28 “it does not logically follow that because there is no apparent reason for a witness to lie the witness must be telling the truth.”
+
+[146]               In R. v. Batte 2000 CanLII 5751 (ON CA), 2000 49 O.R. (3d) 321, 145 C.C.C. (3d) 449, the Court confirmed that “the presence or absence of a motive to fabricate evidence is only one factor to be considered in assessing credibility.” The only evidence in this case with respect to any unwanted advances being made or jewellery being pawned comes is the uncorroborated evidence of Mr. K. and this is expressly rejected by M.S. Similarly, S.S. rejects the suggestion that she had fabricated these allegations against the Accused because he was angry at her for secretly communicating with his daughter on Google Hangouts and because of this alone her relationship with her family consequently deteriorated.
+
+[147]               While the courts need to be vigilant in the face of inconsistencies in witness evidence and the risk of collusion, I find the inconsistencies in this case are not indicative of collusion but reflect the individual and broadly similar recollections of the individual Crown witnesses. I accept that at least two theories are advanced by the defence to support their claim of fabrication. Nevertheless, I do not accept the evidence of Mr. K. that the entirety of the allegations made by S.S. against him are explained and motivated by his response to the Google Hangouts issue and S.S.’s family treating her poorly because of it. Nor does his evidence on this raise a reasonable doubt in my mind. Similarly, I do not accept that the allegation against him by M.S. are the product of her unrequited love and a financial debt the Accused claims he owes her.
+
+[148]               It is important to note that there is no onus on the Accused to prove anything in a criminal trial and my findings are based not upon any reversal of the burden of proof but on my assessment of the totality of the evidence and following my consideration and assessment of the reliability and credibility of each individual witness in this case.
+
+[149]               I accept that following lengthy cross examination, a number of inconsistences were identified by Ms. Izakelian, principally in the testimony of S.S. and M.S. I accept that S.S. was inconsistent with respect to issues including parking levels on which the Accused car may have been parked and notably also on some dates and times with respect to the allegations. Indeed, S.S. testified in-chief and in cross-examination that she could not recall a number of specific dates or times across the 7-month timeline of the central allegations involving her.
+
+[150]               I also accept that the evidence of S.S. with respect to details surrounding the Whitby visit was also sometimes vague and confusing and ii included information that was not previously provided to the police. This included the “lawnmower incident”. I note that this incident does not form one of the charges against the Accused but appreciate the issue defence counsel has raised with respect to consistency and S.S. and her family not previously raising this issue of concern to the police.
+
+[151]               Nevertheless, within the context of the allegations before the court, I find it unremarkable that either S.S. or D.S. or M.S. initially failed to mention this particular contact. I do accept their evidence, that at some point on this visit, the Accused did use the lawnmower while in the close company of S.S. I do not find that there is any basis for me to infer that their evidence on this point was a product of collusion by S.S., her brother or mother.
+
+[152]               I also note that S.S. was candid in her evidence that she could not recall where the Accused was touching her when she awoke in the “Whitby incident.”. I also note that she did not try and guess or speculate on this issue which in my view enhanced her credibility. Overall, the evidence from all witnesses with respect to much of what transpired in the visit to Whitby and the 16 family members that were present was often varied and confusing.
+
+[153]               Nevertheless, from a credibility perspective, I note that S.S., D.S. and M.S. were all consistent on the Accused using the lawnmower without any apparent difficulty as well as the fact that he drove S.S. to Whitby and that S.S. did not travel with her family.
+
+[154]               I also accept that S.S. variously described the Accused touching her on or inside her vagina when she says he was touching her and that these are different descriptions. When pressed by defence counsel, she described his actions as being “going up against the edge and almost inside”. I do not find her language as being indicative of a troubling inconsistency on the part of this young witness, particularly in light of the credible clarification and explanation she did provide.
+
+[155]               S.S. described in a credible and compelling manner the grooming behaviour that the Accused engaged in. Especially his pattern of behaviour in which he demeaned and criticized her and then subsequently praised her by telling her she was special and different and in him seeking to position himself as a mentor to her, including in matters sexual.
+
+[156]               The Accused behaviour as alleged manifests itself through a range of coercive and controlling behaviour, includes controlling who M.S., S.S., D.S. could speak to. It also included direction of when and where they go, when they are supposed to return, checking in with him and facing consequences for failing to comply with his instructions, e.g. D.S. being punished and made to kneel for extensive periods of time as part of his punishment regime and S.S. testifying that her family was instructed by the Accused not to speak to her for several months.
+
+[157]               Sister and brother testified to having to speak secretly, I find this this is a credible and compelling piece of evidence with respect to the claims that the Accused sought to reinforce his control and influence over the family through isolating S.S. in the manner alleged and the evidence on this was consistent and credible from all three Crown witnesses.
+
+[158]               S.S. testified that that when her mother mentioned to the Accused’s wife that she had been speaking with S.S. during this timeframe, the Accused would learn of it and would yell at them. Despite defence suggestions to the contrary, I find nothing remarkable about incidents of shouting or assault occurring in the semi-public areas of the condo building. None of the witnesses, including the Accused testified that that any other building occupant was notably present during these incidents. These locations were deliberately chosen by the Accused to afford what he believed was a sufficient degree of privacy to act as he did. This extended to the even more secluded storage locker areas on the lower floors.
+
+[159]               S.S. presented as an articulate 16-year-old. Understandably, the experience of giving evidence was not one she always found an easy one. Nevertheless, I found that she answered questions honestly and without guile. She was reluctant to speculate and freely acknowledged that she could not recall a number of specifics details such as times or dates with respect to the allegations. She was also willing to make legitimate concessions where appropriate.
+
+[160]               She could not recall in detail how she spent large portions of the time in the car driving around with the Accused that did not form part of the allegations of sexual assault. I find this may well be unremarkable for an adult witness where the allegations involve a frequent pattern of behaviour punctuated by lengthy portions of very little of substance apparently happening. For a young witness, it is even less remarkable.
+
+[161]               While I accept S.S. may have struggled on occasion to articulate these specifics as well as she may have wished, I do not find her credibility is meaningfully undermined by this particular lack of specificity. Similarly, mindful of her age and the surrounding circumstances and frequency of the allegations concerning her, I do not find that her lack of recall on specific dates is concerning. She was consistent in terms of the overarching timeframe in which these allegations occurred and the temporal landmarks she used to anchor them. In this case, those include the stage at which the COVID pandemic was at, her grade in school and when and where she was living.
+
+[162]               The reality is that I found S.S. to present as a very credible witness who was unshaken in the core nature of the allegations that concerned her. She was candid in her description of the sexual abuse she alleged and she painted a picture of grooming and control by the Accused that I found credible and reliable.
+
+[163]               Compelling examples of her evidence aside from that relating to the core allegations included, her eating slowly in the car with the Accused to defer the anticipated abuse, the extent of her fear of the Accused and the reasons for it, her frequent failed attempts to physically resist him and the manner of them and the specific utterances by the Accused that she testified to regarding his claim that sex with her would make her confident and brave in an attempt to break down her resistance.
+
+[164]               Despite the submissions of Ms. Izakelian and her thorough cross-examination, I do not find that S.S.’s evidence or credibility was meaningfully undermined as suggested in a number of regards. Specifically, I do not find that I find S.S. credibility was undermined by any inherent improbability or implausibility flowing from the allegations that sexual assaults occurred S.S. bedroom whilst family members were present in an adjoining space.
+
+[165]               S.S.’s evidence was clear that when this occurred, not only was the bedroom door always closed, but the Accused had placed a chair against the inside of the bedroom door on which he sat preventing entry or exit from the room. Similarly, behaviour of the type alleged against the Accused is not inherently improbable simply because it is alleged to have occurred in the parking lot of a plaza. Predatory sexual behaviour of the nature alleged often occurs in a variety of circumstances and places at which many people might blanche.  It would be an error to conclude that consensual or non-consensual sexual activity is less likely to have occurred simply because it is alleged to have taken place in a motor vehicle.
+
+[166]               Sadly, sexual abuse of young persons by adults, especially by those in a position of trust or control is not confined to the privacy of secluded indoor spaces. S.S. testified that the sexual assault occurred in the car occurred when they were parked at the rear of a Dollarama and that there was no one noticeably nearby. She alleges that the Accused climbed into the back of the car when he pulled down his pants to join her and repeatedly tried to penetrate her. The fact that this is alleged to have happened over several minutes in the back of the car in the plaza in the circumstances she describes is not inherently implausible.
+
+[167]               Nor did I find anything in her description of the mechanics of this “orange skirt” incident undermined her credibility. Her evidence of the movement of the seats is entirely consistent with the Accused leaning against the rear seating and that seating moving or being compressed by the weight or pressure of the Accused holding on to it while the Accused “hovered above her” as she described. Whether or not the rear seating in the Accused SUV was capable of moving back or not through a separate mechanical operation does not in my view undermine a 13-year old’s credible recollection of the central aspects of this alleged incident.
+
+[168]               I also do not find S.S.’s credibility is undermined by her evidence around the Accused physical movements and actions she described in the rear of the car during this alleged sexual assault. I am satisfied that the Accused was physically capable of performing the largely unremarkable movements as alleged in the rear of his SUV. I am satisfied of this notwithstanding any genuine physical injuries he may have suffered in 2018.
+
+[169]               I accept that S.S. was at times inconsistent and apparently confused with respect to the first time she saw the “skirt” in the car and how it got there but I am satisfied that throughout her evidence on this, she provided a satisfactory and credible answer and that it did not undermine her account of the underlying incident.
+
+[170]               Both Crown and defence accept that there were inconsistencies during the course of the evidence of M.S. I agree. These also often related to dates, and times. However, overall despite this, I found M.S. to be a very unsophisticated witness rather than one inherently lacking in credibility or reliability.
+
+[171]                 She speaks little, if any, English and presents largely as an isolated figure within the family as well as the broader community. Her world appears to revolve around her relationships within her family and her significantly disabled husband. I accept that sadly she was ill-equipped educationally, linguistically or socially to more actively participate in life in Canada, even after a significant number of years.
+
+[172]               On the totality of the evidence before me, I am satisfied that this included her inability to engage in any meaningful way with the teachers and the schooling of her two children which I am satisfied was a role increasingly and willingly played by Mr. K. and which facilitated his increasing control over the family as a whole and the three complainants in particular.
+
+[173]               M.S. was clear and consistent as to the abuse she suffered at the hands of the Accused and was, in my view, unshaken with respect to the assault and choking she alleged the Accused inflicted on her as well as the threats he made against her. She described the impact it had on her and why. I accept that she was confused and inconsistent on when she may have seen marks on her daughter’s neck and I disregard her evidence in this regard as being unreliable.
+
+[174]               I do, however, accept MS was credible and reliable with her evidence as to the self-harm her daughter engaged in, its timing and the overall change in S.S.’s personality during this timeframe. I note the observations provided by her son too corroborate her evidence in this regard with respect to his sister’s change in personality at this time and this corresponding with S.S. spending more time with the Accused.
+
+[175]               I accept that the evidence of M.S. and indeed D.S. differed from S.S. with some details about the frequency and timing of the Accused taking out S.S. from the house. S.S. described it being a daily event, M.S. and D.S. described it being very frequent but not necessarily on a daily basis. This inconsistency does not in my view diminish their overall credibility and certainly does not undermine the specific act of sexual assault that S.S. alleged occurred in the “orange skirt” incident or the sexual touching in the home. I am satisfied that the Accused regularly attended at the condo in a pattern of behaviour to take S.S. out for frequent and lengthy periods of time that often resulted in them returning late and to the concern of M.S.
+
+[176]               I also note that M.S. was unshaken on her rejection of the suggestions that she was fabricating her evidence for the reasons alleged by the Accused. She was also consistent in her evidence that related to the control the Accused exercised over her and her family and I find that her actions were consistent with someone who felt subject to that substantial control. Given her lack of English and sense of isolation, it is not surprising that she did not call the police earlier with respect to the behaviour of the Accused nor simply refuse to admit him to her home.
+
+[177]               I found D.S. to present as a very articulate young man who presented his evidence in a composed, undemonstrative and honest fashion. He did not deny his feelings of hostility towards the Accused and, given his evidence that is unremarkable. So too is the support he testified to feeling for his sister, this does not taint his evidence but is part of the credible and candid account that I found D.S. presented. He was unwilling to speculate, gave clear and precise answers and made reasonable concessions when appropriate, as with both S.S.
+
+[178]               I did not find him to be combative or evasive, including in cross-examination and he sought clarification where appropriate. He was remarkably unemotional about the abuse he spoke about and sadly at times appeared to consider some of the punishment or assaults he testified to as inevitable part of his young life. He did not seek to embellish his evidence, including as it related to any injuries he suffered. He also corroborated the abuse that his mother testified to at the hands of the Accused and notably did not seek to develop a supporting narrative of the abuse his sister alleged but was candid that he did not observe this behaviour, which is as the Accused intended.
+
+[179]               D.S.’s evidence also corroborated that of S.S. and M.S. with respect to the Accused either retrieving a chair or having one brought into the bedroom each time he went into the bedroom with S.S. at the condo. I also accept the evidence of M.S. that there were occasions on which she sought to use the washroom and had to wait while the Accused moved the chair from in front of the bedroom to enable this to happen.
+
+[180]               The limited conversations the parties testified they had and when and the mere fact that parties live under the same roof and share a familial relationship is not sufficient to establish collusion nor to raise a reasonable doubt in this case. It was natural and almost inevitable that in such circumstances related parties may have some discussions about their experiences and their acknowledgement of this on the facts of this case do not undermine their credibility or reliability. To have not done so may well have had the reverse affect.
+
+[181]                 For clarity, in the case before me, it is not my finding that a motive to fabricate is legally irrelevant in assessing the credibility of M.S. or the other Crown witnesses. I find that no such motive existed. Given my previous findings with respect to credibility and reliability, I reject Mr. K.’s evidence with respect to the claim that M.S. held any animus towards him because he spurned her advances or owed her money.
+
+[182]               I do not believe or accept any such advances were made by her in 2015 or 2021. I also reject the evidence of the Accused that the allegations are also in part motivated by any outstanding debt in respect of pawned jewellery. I also do not find that there was collusion on the part of the three complainants in respect of the various allegations.
+
+[183]                 With respect to the submission that S.S. was motivated to fabricate, in whole or in part, her allegations because she was upset at the Accused for getting her into trouble with her family after the Google Hangouts incident, I acknowledge that spectre may have existed but based upon my consideration of all of the evidence, I am satisfied that S.S. did not fabricate any of her allegations based upon the ulterior motive that defence counsel suggests.
+
+[184]                 I find that S.S. was not motivated to make the allegations she did because of anything relatively trivial and related to the Google Hangouts incident but was motivated to make them because they occurred and she eventually felt able to disclose them to her family and then the police.
+
+[185]                 I have considered the various inconsistencies in the evidence of the Crown witnesses and find that they do not relate to the core events that are alleged but rather to various surrounding circumstances of the core allegations. I am satisfied that the inconsistencies in the evidence of S.S. and D.S. are understandable and reasonably explicable given their youth and the passage of time and the frequency of the conduct that was alleged. Similarly, as indicated, I found M.S.’s evidence to be highly unsophisticated rather than deceitful. I would also note that discrepancies of the type alleged to be substantial by defence counsel, would reasonably be expected to have been eliminated in any effective conspiracy between the Crown witnesses.
+
+[186]               I accept that Mr. K. was consistent in his denial of the allegations against him. It is also appropriate to make reasonable allowances for witnesses for whom English is not their first language and I have done so for both M.S. and Mr. K. However, it is clear that the Accused has far greater proficiency in English than M.S.
+
+[187]                    Nevertheless, in contrast to S.S., M.S. and D.S., I found the evidence of Mr. K. to be that of an increasingly evasive witness. Even making appropriate allowances for the use of an interpreter, Mr. K. became unwilling or unable to credibly answer simple questions put to him by the Crown and frequently retreated into lengthy unresponsive answers in cross-examination. While Courts obviously need to be careful about the weight they place on the demeanour of any witness, I found the intermittent displays of emotion by Mr. K. when asked probing questions by the Crown to be contrived and unconvincing.
+
+[188]               Aside from the evidence from S.S., D.S. and M.S. as to the Accused manufacturing or exaggerating his injuries to facilitate an insurance claim following his car accident, I note that on the Accused’s own evidence was that his injuries did not result in any extended hospitalization. Any hospital treatment he did receive at the time did not extend beyond an apparently routine examination following the accident an da same day release.
+
+[189]                 I accept that injuries from a motor vehicle accident can manifest themselves in variety of ways for those involved, even without a period of hospital admission or any notable hospital treatment in the immediate aftermath. I also accept that the Accused and S.S., D.S. and M.S. agreed that the Accused attended medical appointment for rehabilitation, physiotherapy and pain management in the period after the accident. It is not the province of this court to express medical opinions nor is it qualified to do so.
+
+[190]               Nevertheless, on the evidence of the Accused and that of the Crown witnesses, I do find that Mr. K. deliberately overstated the extent of any injuries during the relevant timeframe and that his mobility was no bar to performing any of the allegations before the court. This undermines his credibility and reduces the reliance that I place on it.
+
+[191]               Given the nature, breadth and length of his employment history in Canada, the fact that he is a licensed driver and sat his citizenship test in English and the evidence of the Crown witnesses, I find that the Accused deliberately understated his lack of proficiency in the English language. I find he did this to create a false impression of his inability to provide academic support to S.S. and D.S. and his own children as well as an inability to liaise with the schools and teachers on their behalf. The conclusions I draw in no way conflict with the Accused’s right to have the benefit of an interpreter at his trial and I draw no adverse inference from him so doing.
+
+[192]               As someone who was not working and claimed no other obvious calls upon his time apart from medical appointments, I also found the Accused’s claim that he did not have the time to assist either his own children or those of his sister-in-law to lack credibility. Aside from finding that he had the ability, in either English or Tamil to assist them, he clearly had the time available to attend their home and to spend considerable amounts of time driving S.S around during the day and evening. He provided no credible evidence as to how he filled his days. I do not accept the Accused’s evidence that he did not actively involve himself in the education of S.S. and D.S. nor do I find the explanations he proffered to be credible.
+
+[193]                        I now turn to the offence of forcible confinement count. Section 279(2) Criminal Code provides that anyone who without lawful authority confines, imprisons or forcibly seizes another person is guilty of an offence.
+
+[194]               Forcible confinement essentially deprives an individual of the liberty to move from point to point. This offence requires the confinement to have occurred for a significant period of time. Where the Accused prevented the complainant from leaving a room by, for example, momentarily grabbing her hair, this temporal element was not made out and a conviction could not be supported, R. v. Palmer-Coke (2019), 373 C.C.C. (3d) 2018 (Ont. C.A.).
+
+[195]               Ms. McPhedran submits that the offence of forcible confinement is clearly made out on the evidence before the court. She submits that the placement of the chair directly in front of the door not only served to prevent the sudden and unwanted entry of any family members while the Accused was assaulting S.S. but clearly demonstrated to S.S. that she was unable to leave the bedroom until he chose to remove the chair and allow her to leave and that there was a clear and significant element of psychological compulsion that was self-evident. S.S. testified to this and was unshaken on her evidence on this point. I also note the corroborative evidence of her brother and mother on the issue relating to the use of the chair by the Accused.
+
+[196]                    I do not accept Ms. Izakelian’s submission that the evidence of the complainants, particularly S.S. on this issue, is not credible or reliable. I find the contrary to be the case. I am satisfied of the totality of the evidence before me that the Accused used a chair to secure the bedroom door from unwanted visitors when he was in the bedroom with S.S.
+
+[197]               I also find that he positioned the chair by sitting on it in front of the door and by so doing he intended to prevent S.S. from leaving the bedroom. It is also clear from her evidence that S.S. felt unable to leave the room because of this and for the duration of these encounters. It is also clear from the evidence before the court that the Accused intentionally presented himself as an immovable physical barrier to S.S.
+
+[198]               It is important to note that each count on an Information falls to be considered on its own merits. This is the case whether an Information contains one count or many. For each count, the Crown must prove each essential element of each alleged offence. The mere existence of multiple allegations does not render any count inherently more plausible in this case.
+
+[199]                     I have considered the evidence of the three complainants both individually and collectively as well as that of the Accused, Mr. K.
+
+[200]               In addition to the various findings I have made with respect to credibility and reliability in this case, I also note Doherty J.A’s comments in in R. v. J.J.R.D. at para. 53, where he held, “outright rejection of an Accused evidence based on a considered and reasoned acceptance beyond a reasonable doubt of the truth of conflicting credible evidence is as much an explanation for the rejection of an Accused evidence as is a rejection based on a problem identified with the way the Accused testified or the substance of the Accused evidence.”
+
+[201]               Having considered the totality of the evidence, I reject the evidence of the Accused and I do not find that his evidence raises a reasonable doubt as to his guilt with respect to any of the counts before the court.
+
+[202]               I find that the Crown has proven Mr. K. guilty of all 8 counts beyond a reasonable doubt and accordingly I find him guilty on each count.
+
+ 
+
+ 
+
+Released: July 29, 2025
+
+
+
+Justice Michael Waby

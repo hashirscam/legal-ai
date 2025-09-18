@@ -1,0 +1,240 @@
+R. v. Otell, 2025 ONCJ 434 (CanLII), <https://canlii.ca/t/kf0gj>, retrieved on 2025-09-17
+
+WARNING
+
+The court hearing this matter directs that the following notice be attached to the file:
+
+            A non-publication and non-broadcast order in this proceeding has been issued under subsection 486.4(1) of the Criminal Code.  This subsection and subsection 486.6(1) of the Criminal Code, which is concerned with the consequence of failure to comply with an order made under subsection 486.4(1), read as follows:
+
+486.4  Order restricting publication — sexual offences. — (1)  Subject to subsection (2), the presiding judge or justice may make an order directing that any information that could identify the victim or a witness shall not be published in any document or broadcast or transmitted in any way, in proceedings in respect of
+
+   (a)   any of the following offences:
+
+            (i)   an offence under section 151, 152, 153, 153.1, 155, 160, 162, 162.1, 163.1, 170, 171, 171.1, 172, 172.1, 172.2, 173, 213, 271, 272, 273, 279.01, 279.011, 279.02, 279.03, 280, 281, 286.1, 286.2, 286.3, 346 or 347, or
+
+            (ii)  any offence under this Act, as it read from time to time before the day on which this subparagraph comes into force, if the conduct alleged would be an offence referred to in subparagraph (i) if it occurred on or after that day; or
+
+   (b)   two or more offences being dealt with in the same proceeding, at least one of which is an offence referred to in paragraph (a).
+
+ 
+
+(2)   MANDATORY ORDER ON APPLICATION — In proceedings in respect of the offences referred to in paragraph (1)(a) or (b), the presiding judge or justice shall
+
+   (a)   at the first reasonable opportunity, inform any witness under the age of eighteen years and the victim of the right to make an application for the order; and
+
+   (b)   on application made by the victim, the prosecutor or any such witness, make the order.
+
+.   .   .
+
+486.6  OFFENCE — (1)  Every person who fails to comply with an order made under any of subsections 486.4(1) to (3) or subsection 486.5(1) or (2) is guilty of an offence punishable on summary conviction.
+
+
+ 
+
+ONTARIO COURT OF JUSTICE
+
+CITATION:  R. v. Otell, 2025 ONCJ 434
+
+DATE:  2025 08 22
+
+COURT FILE No.:  Ottawa 23-11400110-00
+
+ 
+
+ 
+
+BETWEEN:
+
+ 
+
+HIS MAJESTY THE KING
+
+ 
+
+— AND —
+
+ 
+
+FADI J. OTELL
+
+ 
+
+ 
+
+ 
+
+Before Justice Richard Blouin
+
+Trial Heard on October 1, 2, 3, 4 and 7, 2024.
+
+January 30, 31 and February 6, 2025.
+
+Trial Submissions on April 11, 2025.
+
+Reasons for Judgment released on May 2, 2025.
+
+Submissions on 11(b) #2 July 4, 2025.
+
+Ruling on 11 (b) #2 August 22, 2025.
+
+ 
+
+ 
+
+K. Rad ………………………………………………………. counsel for the Crown
+
+R. Wellington ……………………….……….………… counsel for the Defendant
+
+ 
+
+
+
+ 
+
+BLOUIN J.:
+
+ 
+
+Overview
+
+ 
+
+[1]          The defendant brought an initial Charter application to stay proceedings as a result of a purported violation of his right to a trial within a reasonable time on July 9, 2024, approximately three months before his seven-day trial was to commence.  The application was heard on August 26, 2024.  My ruling was delivered on September 27, 2024, denying the application and confirming that the trial was to commence October 1, 2024, as scheduled.  It did commence that day.
+
+[2]         After the complainant and her cousin had finished testifying, the Crown developed an unforeseen medical issue.  She informed the court on October 4th that she would attempt to continue on October 7th, but it turned out that she was not.  The trial eventually resumed on January 30, 2025 and continued the next day, and February 6, 2025 until the evidence was completed.  Submissions were made on April 11, 2025 and I reserved judgment.  On May 2, 2025, I convicted the defendant on two counts involving the same transaction – a sexual assault and an invitation to sexual touching (the latter was stayed pursuant to R. v. Kienapple).  The matter was remanded to July 4th for sentencing.
+
+[3]         Before sentencing, the defendant filed a second 11(b) application to stay proceedings based on the additional time since October 2024 that added to the delay occasioned before the first application.
+
+[4]         The defendant filed the application on June 2, 2025 and I heard 11(b) submissions from both parties before hearing sentencing submissions the same day – July 4th.
+
+[5]         The defendant submitted that the total delay I ought to scrutinize is the period from January 7, 2023 – when the information was sworn, until the day he was found guilty – May 2, 2025.  However, I agree with the Crown’s position that the total delay ought to be calculated up and until a date when the evidence and submissions were concluded (April 11) and should not include deliberation time.  The 18-month ceiling outlined in Jordan, beyond which delay is presumed unreasonable under s. 11(b), ends at the conclusion of evidence and argument, and does not extend to time required for verdict deliberation (R. v. K.G.K. 2020 1 S.C.R. at paragraph 3).
+
+The Law
+
+ 
+
+[6]         As a result, the delay I must analyze is 27 months and 11 days of total delay.  Justice Coroza in R. v. Musclow, 2024 ONCA 565 borrows from an earlier Court of Appeal summary, at paragraph 22, and outlines the fundamental principles of the analysis.
+
+[22] The framework for assessing unreasonable delay post-Jordan is well-established. It was first summarized by this court in R. v. Coulter, 2016 ONCA 704, 133 O.R. (3d) 433, at paras. 34-40:
+
+A.      The New Framework Summarized
+
+[34] Calculate the total delay, which is the period from the charge to the actual or anticipated end of trial (Jordan, at para. 47).
+
+[35] Subtract defence delay from the total delay, which results in the “Net Delay” (Jordan, at para. 66).
+
+[36] Compare the Net Delay to the presumptive ceiling (Jordan, at para. 66).
+
+[37] If the Net Delay exceeds the presumptive ceiling, it is presumptively unreasonable. To rebut the presumption, the Crown must establish the presence of exceptional circumstances (Jordan, para. 47). If it cannot rebut the presumption, a stay will follow (Jordan, para. 47). In general, exceptional circumstances fall under two categories: discrete events and particularly complex cases (Jordan, para. 71).
+
+[38] Subtract delay caused by discrete events from the Net Delay (leaving the “Remaining Delay”) for the purpose of determining whether the presumptive ceiling has been reached (Jordan, para. 75).
+
+[39] If the Remaining Delay exceeds the presumptive ceiling, the court must consider whether the case was particularly complex such that the time the case has taken is justified and the delay is reasonable (Jordan, at para. 80).
+
+[40] If the Remaining Delay falls below the presumptive ceiling, the onus is on the defence to show that the delay is unreasonable (Jordan, para. 48). [Emphasis in original.]
+
+Analysis
+
+[7]         After calculating the total delay at just over 27 months, I must subtract the defence delay.  This includes tactical choices that delay the trial, and the period of time where the Court and Crown are ready to proceed but the defendant is not (R. v. Jordan, 2016 SCC 27 at paragraph 64).  That period of delay has already been ruled on by me in 11(b) application # 1.  The Crown and Court were ready to schedule the trial March 10, 2023, but the defendant switched counsel who was not able to schedule trial dates until June 20, 2023.  In addition, on June 20, 2023, the Court and Crown were ready to set a trial date with available weeks starting each week from August 13, 2024.  The defendant was not available until October 1 – 11, 2024.  It is important to point out that the Crown was not available either during the week of September 9, 2024.
+
+[8]         While the defendant does not have to keep him or herself in a state of perpetual availability, I attribute four weeks over that seven-week period (August 13 – October 1, 2024) to defence delay.  As a result, when I consider both the periods where the Court and Crown were ready, and the defence was not, I come to slightly over a four-month period of delay attributed to the defendant.  Accordingly, the net delay in this case is 23 months.  Since it exceeds the Jordan ceiling of 18 months, it is presumptively unreasonable.  To rebut the presumption the Crown must establish the presence of exceptional circumstances.  If it cannot rebut the presumption, a stay of proceedings will follow.
+
+Exceptional Circumstances
+
+ 
+
+[9]         On the same date (October 7th) that the last three days of the trial were adjourned because Ms. Rad was unable to continue, the Crown contacted the trial coordinator’s office indicating that three additional days were required to complete this trial.  Mr. Wellington responded on October 11th indicating that the defence was agreeable to non-consecutive dates, if necessary, and to advise before the matter returns on October 15th.  After an October 11th request from the trial coordinator, on October 14th, the Crown counsel provided possible dates in November, December and January with exceptions for some periods when she was not available:  November 4 – 15; November 25 – 29; December 2 – 13 and December 23 – January 1.  She indicated this case was a priority and that she may be able to move “some things around”.  Mr. Wellington provided dates:  October 24, 25, 28-30; December 10-12 and January 29-31.
+
+[10]      Ms. Rad was asked by Mr. Wellington if she was free in October, and to consider January. Ms. Rad replied that she thought January worked best for her. She did not respond to the December 10 – 12 suggestion even though she had indicated that she might be able to move another assignment. Of course, at that point, there was no indication that any of the dates suggested could be accommodated by the trial coordinator.
+
+[11]      When the trial coordinator responded later, on October 15th, he indicated that setting an agreeable date with a per diem non-local judge had increased complexity, and that the trial judge “would really like this trial to continue in November or December”.  However, no dates were made available during those two months. The trial coordinator rightly believed, at that time, that January, February and March were not available to me because, pursuant to the Courts of Justice Act, I had completed my allotment of days, and I could not sit again until April 2025.
+
+[12]      To make things more complicated, around the end of October, the government amended the Act to allow per diem judges to sit an increased number of days. On October 22, Mr. Wellington wrote that his client was eager to continue this matter and was considering another 11(b) application.
+
+[13]      When the trial coordinator became aware that my restricted schedule was no longer an impediment, he provided, on October 28 the trial dates of January 29 – 31.  Ms. Rad was available.  Mr. Wellington suggested January 30th, 31st and February 6th.  Those three days of trial evidence were then agreed to be the final three days.
+
+Adjournment for Submissions and Judgment
+
+ 
+
+[14]      On February 6, 2025, the defendant completed his testimony shortly before lunch, and the defence closed its case.  The Court then indicated that, dependent on counsel’s views, we would proceed to submissions.  Before the break the Crown conceded that she would not make submissions regarding proof of two specific instances of alleged misconduct, and that she would also like to address the Court regarding Browne v. Dunn issues.  I asked that the Crown submit in writing the three alleged violations of that rule for consideration over lunch.  The Court returned at 2:00 p.m.
+
+[15]      After argument regarding Browne v. Dunn, I made a ruling on that issue and then invited submissions on the trial.  Mr. Wellington then indicated that the Crown had just delivered a case book containing 12 decisions that she would be relying on in submissions.  He indicated that he was not able to digest most of them during the lunch break.  I then suggested that I would prefer to receive written submissions given the volume of evidence. I also expressed a desire to get transcripts of the last three days (I had already received transcripts for the first four days in October).  In my view, it was not realistic to have counsel make submissions that afternoon given the volume of evidence – some given recently – and the filing that day of cases the Crown would rely on in her submissions.  Both lawyers appeared to accept that approach.
+
+[16]      Since I was scheduled to be out of the country from February 15th to March 15th, I suggested March 18, 20, and 21 as potential dates to return for submissions.  The Crown indicated that she was engaged in a three-week jury trial March 17 – April 4 but said that she would make herself available in April.  Mr. Wellington indicated March was difficult, but he had dates in early April, specifically April 2nd.  April 11th was the date given for submissions.  After hearing submissions on April 11th, I was able to quite quickly provide a judgment which was delivered on May 2nd.  I might add that to be able to order transcripts and receive written submissions before April 11th, resulted in a much shorter turn around to provide judgment.
+
+Findings
+
+ 
+
+[17]      The Crown submits that the defendant failed to raise the 11(b) issue in a timely manner.  Because the second 11(b) application was filed after the conviction, the Crown submits they are prevented from taking steps to mitigate the delay, since the delay already had occurred.  In my view, this submission has no merit.  The defendant filed an 11(b) motion before the start of the trial and, while it did not succeed, the net delay at that time was close to the 18-month ceiling.  The Crown had to have known that delay continued to be a live issue.  But, in case that was not apparent, the defence made it clear in October 2024 that 11(b) was still in play:
+
+October 21 - appearance in set date court: “counsel indicates that 11(b) may become an issue … as trial coordinator is currently offering April 2025, and counsel is hoping that we can resume this trial sooner than that”.
+
+October 22 - E-mail Mr. Wellington to Ms. Rad and trial coordinator: “My client is eager to continue this matter, if we are looking at dates in April 2025, he is considering renewing his 11(b) application”.
+
+October 28 – appearance in set date court: “counsel does indicate 11(b) may be an issue” and “counsel is not agreeable … to go into the New Year”.
+
+Discrete Events 
+
+ 
+
+[18]       The Defence concedes that the Crown’s illness was a discrete exceptional event.  It was unavoidable and unforeseeable.  He does not have issue with subtracting some time from the net delay to account for it, only that six month is excessive.  I agree.  Here, in my view, the Crown and the justice system generally, did not sufficiently respond to obvious delay concerns.  Paragraph 75 of R. v. Jordan, [2106] 1 SCR 631 is illustrative:
+
+[75] The period of delay caused by any discrete exceptional events must be subtracted from the total period of delay for the purpose of determining whether the ceiling has been exceeded. Of course, the Crown must always be prepared to mitigate the delay resulting from a discrete exceptional circumstance. So too must the justice system. Within reason, the Crown and the justice system should be capable of prioritizing cases that have faltered due to unforeseen events (see R. v. Vassell, 2016 SCC 26, [2016] 1 S.C.R. 625). Thus, any portion of the delay that the Crown and the system could reasonably have mitigated may not be subtracted (i.e. it may not be appropriate to subtract the entire period of delay occasioned by discrete exceptional events).
+
+[19]       In my view, although both the Court (the trial coordinator, the per diem scheduler, the trial judge) and the Crown made significant efforts to arrange dates for continuation, no dates were offered to the defendant that were rejected by him. Periods of time which the Court and the Crown are unavailable will not constitute defence delay, even if the defence is not available (Jordan para. 64). I realize that Mr. Wellington had limited dates available, but the five days in late October, and the three days in December (December 10 – 12) were not offered by the Court.  For reasons Ms. Rad articulated in submissions (she had developed a rapport with the child witness and her family) no other Crown was sought to continue the trial, even though the two most significant child witnesses had testified. I understand the obvious desire and logic to stick with the case, but that must be weighed against the defendant’s 11(b) right – which by this time – was clearly in jeopardy.
+
+[20]      The Crown relied on the recent Ontario Court of Appeal decision of R. v. Dunnett 2025 ONCA 392 regarding family emergencies as an exceptional circumstance applying to a case that was outside the presumptive ceiling. Dunnett also featured a second 11(b) application. In that case the Crown had a family crisis during the two days of a Garofoli hearing.  The hearing was adjourned for one month.  Unfortunately, on that date, the affiant was unable to attend because of a serious medical family situation.  Both situations resulted in a delay of approximately two months later than the original return date upon which the trial judge based his first 11(b) ruling.  In Dunnett there were two adjournments, not one.  The court responded and re-scheduled within a month of the first adjournment.  The second adjournment only extended the trial time by a total of two months.  In my view, this is an example of the system responding to, and prioritizing, a case that was in obvious 11(b) jeopardy.
+
+[21]      A recent Ontario Court of Appeal decision (R. v. v. J.S. 2024 ONCA 794) illustrates this point at paragraphs 78 and 79:
+
+[78] Accordingly, when the need for continuation dates arises, it is incumbent on all justice participants to make best efforts to accommodate the earliest possible dates so that trials can finish close to on-schedule. This will sometimes require the parties to assess and re-assess their priorities and, where possible, adjust their schedules to accommodate the dates offered so as to avoid lengthy adjournments.
+
+[79] In this case, the Defence was offered numerous reasonable continuation dates in November and December 2019. This was not a circumstance where only one or two dates were offered well into the future, or where the trial could not finish close to the date that had been anticipated. Rather, nine dates were put forward as options and, had just one or two more had been taken, the trial would have ended well under the ceiling.
+
+[22]      Unlike J.S., where nine dates were offered, no dates were offered to the defence that were rejected.
+
+Effect of COVID-19
+
+ 
+
+[23]      Although I expressed in application 11(b) #1 the view that backlogs have existed in the OCJ post COVID, I conclude that, in this case, the net delay of 23 months resulted from the inability of the Court to offer continuation dates in a timely manner. And, as discussed in R. v. Kirkopoulos 2024 ONCA 596 at para. 53, there was no evidence proffered to establish any COVID backlog in the trial coordinator’s office or to show if any steps were taken to mitigate the effect of the backlog if one existed.
+
+[24]      The Crown made submissions that R. v. Agpoon 2023 ONCA 449 was an example of the Court recognizing backlogs resulting from COVID. However, that case dealt with jury blackout periods not being accounted for by the trial judge, but in any event, paragraph 20 outlines an important proviso:
+
+Jordan imposed certain conditions on the Crown. For example, the burden is put on the Crown to show that it took reasonable available steps to avoid and address the problem before the delay exceeded the ceiling [at para 70]. But this was clearly impossible in the case of the pandemic. Further, the Court referred to the Crown’s obligation to make efforts to mitigate the delay resulting from a discrete exceptional circumstance. Noting [at para.75] that within reason, the Crown and the justice system should be capable of prioritizing cases that have faltered due to unforeseen events. This principle applies to dealing with the backlog of cases in the emergence of the justice system from the pandemic.
+
+[25]      As a result, I would only accord two months to exceptional circumstances because of the Crown’s illness.
+
+Complexity
+
+ 
+
+[26]      R. v. Jordan also deals with the second category of exceptional circumstances:
+
+[77]   As indicated, exceptional circumstances also cover a second category, namely, cases that are particularly complex. This too requires elaboration. Particularly complex cases are cases that, because of the nature of the evidence or the nature of the issues, require an inordinate amount of trial or preparation time such that the delay is justified. As for the nature of the evidence, hallmarks of particularly complex cases include voluminous disclosure, a large number of witnesses, significant requirements for expert evidence, and charges covering a long period of time. Particularly complex cases arising from the nature of the issues may be characterized by, among other things, a large number of charges and pre-trial applications, novel or complicated legal issues, and a large number of significant issues in dispute. Proceeding jointly against multiple co-accused, so long as it is in the interest of justice to do so, may also impact the complexity of the case.
+
+[78]   A typical murder trial will not usually be sufficiently complex to comprise an exceptional circumstance. However, if an inordinate amount of trial or preparation time is needed as a result of the nature of the evidence or the issues such that the time the case has taken is justified, the complexity of the case will qualify as presenting an exceptional circumstance.
+
+[27]      When I ruled in September 2024, just before trial, that 11(b) had not been violated, I offered the view that this case was not a simple one-day matter that one would expect to be scheduled to trial much sooner than a seven-day case with motions.  That remains the case.  However, the issue that takes this case from below the presumptive ceiling to substantially above it, is the delay from October 7th to April 11th, not the complexity of the case.  In my view, as with “a typical murder trial”, this case was not sufficiently complex to comprise exceptional circumstances.
+
+Conclusion
+
+[28]      Despite the best efforts of all participants, the Court did not provide any trial continuation dates that could conclude the viva voce evidence before four months had expired (October 7, 2024 – February 6, 2025). In addition, the Court was not able to offer a date to hear submissions for another two months (February 6, 2025 – April 11, 2025).
+
+[29]      Accordingly, as decided above, I have reduced the net delay of 23 months by the two months accorded to exceptional circumstances. The remaining delay at 21 months exceeds the Jordan ceiling and the defendant’s right to a trial within a reasonable time has been violated. The only remedy available in law is a stay of proceedings.
+
+[30]      And, although this result is exceedingly unsatisfactory in the circumstances of this case, I am duty bound to follow the law. There will be a stay of proceedings.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Signed: Justice Richard Blouin

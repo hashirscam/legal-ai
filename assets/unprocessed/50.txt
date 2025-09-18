@@ -1,0 +1,166 @@
+R. v. Glasman, 2025 ONCJ 397 (CanLII), <https://canlii.ca/t/kdhfj>, retrieved on 2025-09-17
+
+CITATION:  R. v. Glasman, 2025 ONCJ 397
+
+DATE:  2025.07.25 
+
+ONTARIO  COURT  OF  JUSTICE
+
+BETWEEN:
+
+ 
+
+HIS  MAJESTY  THE  KING
+
+ 
+
+—  AND  —
+
+ 
+
+GREGORY GLASMAN
+
+ 
+
+Before Justice Fergus ODonnell
+
+Reasons for Judgment-Conviction Entered on 3 July, 2025
+
+Jason Chaaya....................................................................................................   for the Crown
+
+Robert Wulkan........................................................   for the defendant, Gregory Glasman
+
+Fergus ODonnell J.:
+ 
+
+Overview
+
+Gregory Glasman is charged with a single count of operating a conveyance with an excess blood-alcohol level on 21 July, 2024.
+ 
+
+The background facts are simple.  The Ontario Provincial Police (OPP) received a call informing them that a vehicle had been stopped for thirty minutes at a rural crossroads and that the driver appeared to be asleep.  When OPP Constable Lyon arrived about twenty minutes later, he and another officer found a vehicle consistent with that description (right down to the plate number) stopped at that intersection.  Mr. Glasman was in the driver's seat, the only occupant of the truck, with the keys in the ignition and the engine running.  The in-car video evidence showed that it took almost a minute for the officers to rouse him.  There was a smell of alcohol from his breath and he seemed disoriented, kind of dazed and confused.  He initially opened the wrong window for the officers and had some trouble finding his door handle.  He had to ask the officers where he was and why he was there.  He had no trouble walking and was able to follow instructions once outside the vehicle.  
+ 
+
+Seven minutes after arriving, Constable Lyon read Mr. Glasman the "approved screening device" (“ASD”) demand.  Mr. Glasman managed that process with no difficulty, but failed the ASD and was placed under arrest--because he was "impaired", to use Constable Lyon’s language.  Constable Lyon read Mr. Glasman his rights to counsel in the full, traditional format including access to duty counsel and Mr. Glasman said he did not want to call a lawyer at that point.
+ 
+
+Constable Lyon transported Mr. Glasman to the OPP detachment.  Mr. Glasman did not ask for counsel at this time but did ask a few times where he was.  At the detachment, Constable Lyon read Mr. Glasman the right to counsel again.  Constable Lyon told the breath technician, OPP Sergeant Mask, his grounds for arrest and Mr. Glasman was handed over to Sergeant Mask.  In the breath room, Sergeant Mask read Mr. Glasman his rights to counsel again and at that point, Mr. Glasman expressed an interest in speaking with duty counsel.  For reasons that are incomprehensible to me, Sergeant Mask said to Mr. Glasman that he would have to provide the breath samples, whether he spoke with a lawyer or not.  However, within a minute of Mr. Glasman’s request to speak with a lawyer, Sergeant Mask called out for Constable Lyon to call duty counsel, which was done right away.   He spoke with duty counsel for about ten minutes.  Mr. Glasman subsequently provided samples that resulted in readings of 160 and 150 mg of alcohol in 100 ml of blood. As a result of those results, Mr. Glasman was charged with "operation over 80 mg of alcohol".
+ 
+
+The interaction between Mr. Glasman and Sergeant Mask was recorded and the video was played during the trial.
+ 
+
+The Witnesses
+
+The three witnesses I heard from were Constable Lyon, Sergeant Mask and Mr. Glasman.  I make the following general observations about their evidence.
+ 
+
+First, Constable Lyon was a very, very green police officer.  Indeed, he had been a police officer for at most a few months at the time of Mr. Glasman's arrest. This trial was the first time he had ever testified.  He had, however, that most attractive characteristic a police officer or any other witness could have:  a complete absence of guile or artifice or agenda, or, put otherwise, evidence that left no doubt about its honesty and the absence of any inclination to evasiveness or cleverness or cuteness or combativeness in his answers.  Those characteristics reflect well upon him and will serve him well in the future.  Would that that were so of all witnesses.
+ 
+
+Sergeant Mask was a far, far more experienced officer and witness than Constable Lyon.  It was contended on Mr. Glasman’s behalf that I should be dismissive of Sergeant Mask’s testimony because he was “often evasive”.  I think that “evasive” is too strong a word, although I understand the exchanges Mr. Wulkan was referring to.  I would concede that other officers faced with Mr. Wulkan’s questions (for example about how Sergeant Mask interpreted words or gestures from Mr. Glasman) might have given different answers or might have been more willing to engage in interpretation of those behaviours.  To do so would be consistent with applying one’s life experience to one’s interactions with others, which can be fair game.  At the same time, another witness might perfectly fairly perceive such questions as being an invitation to speculation and, having seen my share of evasive witnesses, I cannot say that Sergeant Mask’s intent or impact clearly fell into that category.  For the large part, his answers effectively read as, “I can’t read Mr. Glasman’s mind” and the fact that other witnesses might have been comfortable interpreting Mr. Glasman’s reactions in the manner requested by Mr. Wulkan is neither here nor there.  Based on my experience the worst that can be said about Sergeant Mask’s evidence was that he came across as a bit rigid on some occasions.  Excess rigidity can be a precursor or companion characteristic to evasion, but not necessarily so.  I was generally satisfied with Sergeant Mask’s evidence.
+ 
+
+It was suggested that Sergeant Mask was intimidating, both in court and in the breath room video.  This came out both in Mr. Glasman’s testimony and in Mr. Wulkan’s submissions.  It gave rise to perhaps the most trenchant observation made during the trial, by Mr. Chaaya, when he wondered if we were all seeing the same video.  The very same question had already occurred to me, in relation both to Sergeant Mask’s presentation in the breath room and in the courtroom.  The defence characterization of Sergeant Mask as intimidating or overbearing or evasive is not made out by what I saw in either setting.
+ 
+
+Mr. Glasman came across in both settings—the breath room and the courtroom—as generally quiet and mild-mannered.  It was the officers’ evidence that he was cooperative throughout and Constable Lyon noted that Mr. Glasman was expressing remorse from the get-go.  As with all witnesses in this or any trial, in assessing their evidence I have to make determinations of both credibility and reliability. To the outsider those might seem like pure synonyms, but the former refers to a witness’s honesty or a witness’s wilful desire to deceive whereas the latter asks if circumstances including ability to observe, memory, etc. are such that the witness’s evidence, even an honest witness’s evidence, can safely be relied upon.  In the present case, I have no reason to question Mr. Glasman’s honesty, but I have serious reasons to question his reliability, largely because what he describes does not match what is on the breath room video or how Sergeant Mask presented in court.  I do not make that determination lightly and I fully understand that there is an imbalance of power when a citizen deals with the police and that courtrooms are stressful places, but there is nothing in Sergeant Mask’s behaviour in either the courtroom or breath room that could objectively be read as intimidating, even if Mr. Glasman has come to believe that to be true.  With one brief, but avoidable, exception, which I address below, Sergeant Mask behaved flawlessly throughout his interaction with Mr. Glasman.  Otherwise, I do not perceive anything in Sergeant Mask’s words, tone, body language, general demeanour or behaviour that could satisfy the descriptors Mr. Glasman used, which included “agitated” and “intimidating”.  Mr. Glasman’s assertion, for example, that Sergeant Mask became intimidating when Mr. Glasman changed his mind and asked for counsel makes no sense when one considers that within seconds, perhaps a minute of that request and Sergeant Mask’s question about what happened to change Mr. Glasman’s mind about counsel, Sergeant Mask was calling out to Constable Lyon to make the call to duty counsel.  If this was an attempt at intimidation, it was very poorly executed.  I also note that Mr. Glasman testified that Sergeant Mask’s demeanour changed when he asked to speak with counsel; any such change of demeanour is entirely absent from the breath room video.
+ 
+
+The Issues
+
+The argument in this trial focused on the following issues:
+Did Constable Lyon’s failure to identify the “approved screening device” by specific model number undermine his and the court’s ability to rely on the approved screening device test result as providing grounds for Mr. Glasman’s arrest?
+Was Mr. Glasman’s arrest unlawful because he was arrested for impaired driving rather than for excess blood alcohol?
+Did Sergeant Mask interfere with Mr. Glasman’s right to consult with counsel by telling him on more than one occasion that he would still have to provide Intoxilyzer samples, whether he spoke with counsel or not?
+If any of these alleged constitutional shortcomings is made out, what is the appropriate remedy under s. 24(2) of the Charter?
+ 
+
+The “Approved Screening Device”
+
+Constable Lyon testified about the serial number of the device he used to take a reading of Mr. Glasman's breath at the rural intersection, but not the precise model.  He did say it was a Draeger.  When challenged in cross-examination as to how he could be certain it was an approved instrument if he did not know the model number, he replied that he was confident that it was an approved instrument because it is the device used by officers across the province and it was provided to him by his police service.  Mr. Wulkan argues that on the evidence before me I cannot be satisfied that the device used by Constable Lyon was in fact an approved screening device, which means that I cannot rely on the "fail" outcome as grounds for Mr. Glasman's arrest, which means that he was arrested and detained and required to provide samples of his breath without the requisite grounds for detention and search, all in violation of sections 8 and 9 of the Charter.
+ 
+
+I disagree.  More importantly, the highest court in the province disagrees and has done for over thirty years.  The Court of Appeal for Ontario addressed this issue in R. v. Gundy, 2008 ONCA 284, in the course of which Rosenberg J.A. stated for the Court:
+[47]         In my view, cases holding that the officer did not have reasonable and probable grounds because, although the officer referred to the device as an approved screening device, he or she used a shorthand reference to the device or transposed some of the numbers or letters are wrongly decided.  In the absence of some credible evidence to the contrary, it is not reasonable to infer that an officer who says that he or she used an approved screening device actually used an unapproved device.  That was the holding of this court in R. v. Kosa (1992), 42 M.V.R. (2d) 290 at 291:
+
+ 
+
+We are of the view that the manufacturer's model number given by the officer in evidence as Model JA3 rather than Model J3A as set forth in the regulations was no more than an innocent transposition of a number and letter and that the unchallenged assertion by the officer that it was an approved screening device is sufficient proof thereof. If such is the case, there is no need to look further to justify the finding of reasonable and probable grounds. 
+
+[Emphasis added.]
+
+And lest there be any residual doubt from the foregoing, in its closing summary in Gundy of how the admission of evidence that is the object of a Charter argument should be analyzed at trial, the Court proceeded to note:
+
+[50]         To summarize, on a charge of “over 80” or impaired driving, where an issue arises as to the admissibility of the results of the Intoxilizer/Breathalyzer analysis, the trial court should proceed as follows:
+
+Generally
+
+…..
+
+6.         In the absence of credible evidence to the contrary, the officer’s testimony that he or she made a demand with an approved screening device is sufficient evidence that the officer had the requisite reasonable belief.  The officer is not required to give the particular model number or otherwise identify the device.  Obvious errors such as incomplete reference to the model number do not undermine the officer’s testimony that the device was an approved screening device.
+
+ 
+
+There is no credible basis on the record before me upon which to conclude that Constable Lyon was wrong in his assertion that he had used an “approved screening device” to sample Mr. Glasman’s breath at the roadside.  It was suggested to me that because Constable Glasman had been cross-examined on the issue in this case, that Gundy does not govern.  That might be a good argument if the cross-examination had produced “credible evidence” (to use the language of Gundy) creating doubt about Constable Lyon’s assertion, but that did not happen here.  Accordingly, Mr. Glasman’s “fail” result on the approved screening device gave Constable Lyon reasonable grounds to arrest him.
+ 
+
+Arrested for the Wrong Offence?
+
+The next issue chronologically is that Constable Lyon testified that he arrested Mr. Glasman for impaired driving, not for driving with excess blood alcohol.  This, Mr. Wulkan argues, means that Mr. Glasman was wrongfully arrested in violation of his Charter rights.  In support of this Mr. Wulkan relies on his cross-examination of Constable Lyon with respect to the issue of whether he did or did not have grounds to arrest Mr. Glasman for impaired driving.  That cross-examination ranged from Constable Lyon’s own understanding of the grounds for arrest for each offence to whether or not some defendants get charged with one of the two offences without getting charged with the other, something that Constable Lyon agreed occurs with some regularity.
+ 
+
+Constable Lyon agreed that he had not had sufficient grounds to charge Mr. Glasman with impaired operation in light of the objective facts known to him as a result of his attendance on the scene.  If he had had those grounds, he would have gone directly to an arrest for impaired operation and foregone the approved screening device process.  This line of questioning concluded with Mr. Wulkan suggesting to Constable Lyon that if he had had grounds for impaired driving, he would have charged that offence, with Constable Lyon agreeing that was correct.
+ 
+
+ 
+
+The evidence, however, must be assessed in its entirety, not based on one answer to a particular question.  What is not clear in Mr. Wulkan’s question is what time frame he is asking about, i.e. before the approved screening device result, after the result, at the police station with the benefit of reflection or whenever.  However, the entire context of all of the questions leading up to that final question was the process leading up to the decision to administer the approved screening device and there is no indication in this last question that Mr. Wulkan’s time-focus had changed or that Constable Lyon understood it to have changed.  I cannot and do not, therefore, take Constable Lyon’s answer as accepting that he had no reasonable grounds to arrest Mr. Glasman for impaired driving after he had the fail result on the approved screening device.  This is particularly so when I consider Constable Lyon’s very clear rejection of Mr. Wulkan’s suggestion to him that a person failing the approved screening device does not mean the person is impaired.  Constable Lyon was very clear that he considers a person who has failed the approved screening device to be impaired, a conclusion that was entirely reasonable.  That means that as soon as he had the ASD result, in Constable Lyon’s evidence, that was itself proof of impairment by alcohol, which in turn would mean that he subjectively believed he had grounds for arrest for impaired operation.
+ 
+
+Accordingly, I am satisfied that when Constable Lyon arrested Mr. Glasman for impaired operation, he did in totality have grounds to conclude that Mr. Glasman was impaired by alcohol given the condition he was in, asleep in his truck in a live lane of traffic, difficult to rouse, opening the wrong window, having trouble opening the car door, uncertain where he was and having provided a screening sample over the legal limit.  The fact that Mr. Glasman was not staggering about once he got out of his truck is neither here nor there; impairment in the context of motor vehicle operation is not the province of the staggering, falling-down slobbering, incoherent drunkards that one might see in some movies.  That may be one presentation, but a person can be entirely unfit to drive due to impairment without any of those gross manifestations because impairment is defined by much more subtle shortcomings in ability to perceive, judge and react in a timely fashion, all of which are affected by alcohol consumption.  Looked at in the reasonable grounds context Constable Lyon was governed by in his decision to arrest, it is not open to rational dispute that once he knew the minimum level of alcohol in Mr. Glasman’s blood from the ASD result, which he said was over 80,[1] that information, even standing alone, provides reasonable grounds for belief that Mr. Glasman was impaired by alcohol.[2]
+ 
+
+Accordingly, I am satisfied that the evidence establishes that, at the time Constable Lyon arrested Mr. Glasman, he did in fact have grounds to believe his ability to drive was impaired by alcohol and he also believed subjectively that he had those grounds.  This was, therefore, a lawful arrest.
+ 
+
+Moving from there, whether Mr. Glasman was ultimately charged with impaired driving or driving with excess blood alcohol is neither here nor there.  These are decisions that thousands of officers will make in tens of thousands of cases across the country.  They will make charging decisions on a case-by-case basis and any given officer will not have the same charging approach as any other officer.  This is a matter determined by the facts of each case, the experience of each officer and the philosophy of the officer, but the fact that Mr. Glasman was not ultimately charged with impaired driving in no way whatsoever undermines whether or not there were objectively reasonable grounds to have arrested him for that charge or to have proceeded with that charge.  In this case, he was arrested for impaired and the police laid an excess blood alcohol charge.  No constitutional issue arises therefrom.
+ 
+
+I note that even if there had been no grounds to arrest Mr. Glasman for impaired operation, so long as there were the inescapably clear grounds for the “over 80” charge, the significance of any such “false arrest”, while regrettable, would have been trifling because all the negative consequences of such a “false arrest” would have been exactly the same for the “false arrest” (the impaired, in Mr. Wulkan’s argument) and for the clearly valid charge (the “over 80” charge that was ultimately laid).  The idea that such a minor slip of the tongue by a police officer, with no conceivable real-world impact on the defendant should lead to potential exclusion under s. 24(2) would be ambitious in the extreme.
+ 
+
+The Right to Counsel Issue
+
+Mr. Wulkan also argues that Sergeant Mask violated Mr. Glasman's s. 10(b) right to counsel.  This, Mr. Wulkan says, arises out of comments by Sergeant Mask to Mr. Glasman in the breath room to the effect that Mr. Glasman would have to provide two breath samples whether he spoke to a lawyer or not, as well as Sergeant Mask asking Mr. Glasman what had changed between when Mr. Glasman had turned down counsel when it was offered minutes before during parading and him now asking to speak to counsel short minutes later.
+ 
+
+As I said earlier, I am perplexed by why any officer, including an officer of Sergeant Mask’s experience would tell a detainee that he has to provide samples, regardless of whether he speaks to a lawyer or not or would ask a detainee, what has changed in the detainee’s mind since he just declined counsel in the booking process literally minutes earlier.  The statements about the obligation to provide a sample are absolutely true, but the constitutional concern is that it might send the message to a detainee that there is no point in talking to counsel since the detainee will have to provide samples no matter what.  That could be interpreted as demeaning of the utility of counsel or suggesting the futility of bothering to speak with counsel.  All of that is concerning because a detainee is clearly in an imbalance of power and the opportunity to speak with counsel allows him or her a chance to inform him- or herself of their rights, their options, potential consequences and any nuances that the detainee may wish to discuss privately rather than with the police officer.
+ 
+
+The same concern arises with Sergeant Mask’s question to Mr. Glasman about why he had changed his mind about consulting with counsel.  While it may seem odd that a person changes his or her mind that quickly, any such “oddity” is irrelevant.  Subject to what I say later, it is none of the officer’s concern.  Exercising or not exercising one’s right to counsel is not a “one and done” kind of right.  The danger with an officer asking why is again that the question could be seen as an implicit discouragement from exercising a core constitutional right.  If it is true as Sergeant Mask testified, that he simply wanted to understand if there had been anything in his or Constable Lyon’s treatment of Mr. Glasman that had raised concerns (and I think in light of the overall evidence that that is actually true), the time for asking that question while still avoiding any risk of jeopardizing the detainee’s s. 10(b) rights, would be after the entire process is over, just as it would be appropriate after a person has had access to counsel but then refuses to provide a sample, to tell that person that refusal is itself an offence (while leaving counsel out of the sentence entirely).
+ 
+
+In virtually every case where utterances such as these are made the Charter challenge for the Crown would be insurmountable, except for one enormous difference:  Sergeant Mask immediately called out to Constable Lyon to arrange counsel and made it clear to Mr. Glasman that he was not causing any inconvenience by exercising his right. Mr. Glasman then spoke with counsel for about ten minutes before providing the samples.
+ 
+
+There is, necessarily, a chasm between this case and cases where officers make similar comments and the defendant does not exercise his or her right to counsel.  These utterances are still concerning, because of the risk they create, but if the constitutional right to access to counsel is actually satisfied, then there is no breach.
+ 
+
+In this case, however, Mr. Glasman testified that he had limited his time with counsel because he thought there might be “repercussions” from the police in light of how Sergeant Mask had behaved.  Obviously, if I believed that was true, a s. 10(b) breach would be made out, but given the totality of the exchange seen on video and given the serious concerns I have stated about Mr. Glasman’s reliability as a witness, perceiving agitation and intimidation on Sergeant Mask’s part where none such was objectively evident, I reject his assertion that he would have spoken to counsel longer.  Indeed, Sergeant Mask specifically said to Mr. Glasman after arranging for counsel that Mr. Glasman was not inconveniencing him in any way.  Sergeant Mask was very foolish to have said the things he said about the samples regardless of speaking to counsel and for asking the reason for Mr. Glasman’s change of heart, but I do not take anything he said as being insincere.
+ 
+
+It may well be that Mr. Glasman has come to believe he was time-limited, but I do not take that as being even remotely factual, never mind that it is more likely than not.
+ 
+
+In the course of his questions and submissions, Mr. Wulkan sought to portray Mr. Glasman as a submissive, deer-in-headlights sort of character whose vulnerability should have been obvious to anyone, suggesting that his hand gestures, for example, were a marker of submission that Sergeant Mask should have picked up on and that showed a particular vulnerability.  Sergeant Mask did not accept that characterization and neither do I on all of the evidence.  Mr. Glasman was definitely quiet, calm and polite.  He was never argumentative or obnoxious.  He was uncertain about what to do and to some extent sought guidance from Sergeant Mask about that, which Sergeant Mask made clear was not advice he could give.  In other words, Mr. Glasman came across in the same way that the vast majority of impaired-driving detainees come across in the breath room.  Other than the imbalance of power that is always inherent in these situations, there was no particular vulnerability on his part.[3]  To the contrary, I noted that at one point, Mr. Glasman tried to parlay some supposed fraternity between firefighters (his profession) and the police, which can only be taken as a hint at some accommodation that Sergeant Mask might make in recognition of that fraternity.  To his credit, Sergeant Mask made it clear to Mr. Glasman that that was irrelevant to his role as a police officer, but what it shows is that Mr. Glasman was not overwhelmed by the situation.
+ 
+
+I am satisfied that there was no breach of Mr. Glasman’s right to counsel.  To the contrary, while I remain perplexed about Sergeant Mask intermingling any comment about the inevitability of breath samples with access to counsel discussions, I am satisfied on the entirety of the evidence and the entirety of Sergeant Mask’s comments to Mr. Glasman that Sergeant Mask made the availability of counsel clear and facilitated Mr. Glasman’s access to counsel immediately upon Mr. Glasman’s change of mind and that none of Sergeant Mask’s unfortunate comments compromised the quality of Mr. Glasman’s access to counsel, including its duration and coverage of any issues Mr. Glasman may have wanted to discuss privately.
+ 
+
+In the result, no breach of the right to counsel has been made out.
+ 
+
+It is for the foregoing reasons that I conclude that there was no breach of Mr. Glasman’s rights under the Charter.  With respect to the merits, the charge was clearly made out beyond a reasonable doubt, leading me to find Mr. Glasman guilty as charged.
+Released:    25 July, 2025

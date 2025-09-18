@@ -1,0 +1,296 @@
+R. v. McQuaid, 2025 ONCJ 406 (CanLII), <https://canlii.ca/t/kdlfm>, retrieved on 2025-09-17
+
+ONTARIO COURT OF JUSTICE
+
+CITATION:  R. v. McQuaid, 2025 ONCJ 406
+
+DATE:  2025 07 31
+
+COURT FILE No.:  Sudbury 24-40100483-00
+
+ 
+
+ 
+
+BETWEEN:
+
+ 
+
+HIS MAJESTY THE KING
+
+ 
+
+— AND —
+
+ 
+
+MICHAEL McQUAID
+
+ 
+
+ 
+
+ 
+
+Before Justice G. Jenner
+
+Heard on February 10, 2025, February 15, 2025, April 1, 2025, and July 15, 2025
+
+Reasons for Judgment released on July 31, 2025
+
+ 
+
+ 
+
+Sasha Bronicheski............................................................................. counsel for the Crown
+
+David Burke...................................................................................... counsel for the accused
+
+ 
+
+JENNER J.:
+
+I.      Introduction, Issues, and Trial Process
+[1]         Mr. McQuaid is charged with (i) impaired operation of a conveyance, and (ii) dangerous operation of a conveyance. It is alleged that on January 31, 2024, he was driving a Honda CRV at a high rate of speed eastbound along the Kingsway in Sudbury when he failed to respond to the red traffic light ahead and the slowing vehicles in front of him. He rear-ended a truck before veering off the road and coming to rest in a field. An off-duty police officer was the first to check on his welfare and stayed with him until EMS paramedics arrived. Paramedics transported Mr. McQuaid to the hospital, where they were later joined by police.
+
+[2]         The hospital drew and analyzed a blood sample for medical reasons (the “medical sample”). The results of that analysis were later obtained by the police, presumably by search warrant or production order. Expert toxicologists called by both parties opined that, based on that sample, at the time of the collision Mr. McQuaid had a blood alcohol concentration (“BAC”) between approximately 70 and 110 mg of alcohol in 100 mL of blood. The Crown toxicologist opined that Mr. McQuaid’s ability to operate a motor vehicle would be impaired even at the lower end of that range. The defence toxicologist opined that the science does not establish that all individuals will be impaired at the lower end of that range.
+
+[3]         Blood samples were also drawn at the hospital because of a police blood demand, in conjunction with Mr. McQuaid’s arrest, approximately 2.5 hours after the medical sample (the “blood demand samples”). Those samples were later analyzed directly by the Centre of Forensic Sciences and contained no detectable alcohol. This analysis provided an additional data point which both toxicologists agreed tended to position Mr. McQuaid’s BAC at the time of driving towards the lower end of the 70-100 range, based on the time that had passed between samples and expected rates of elimination of alcohol in the body.
+
+[4]         Date, jurisdiction, identity of the accused as the person arrested, the authenticity of medical records, and the continuity of all blood samples obtained were admitted at the outset of trial. At the close of trial, during submissions, the defence further admitted the Crown had proven that Mr. McQuaid was the driver of the Honda CRV involved in the collision.
+
+[5]         The accused brought a Charter application advancing the following arguments:
+
+(1)         That he was arbitrarily detained contrary to s. 9 of the Charter when the police arrested him without reasonable and probable grounds to believe he committed the offence of impaired driving.
+
+(2)         That his s. 8 Charter right to be free from unreasonable search and seizure was breached when police made a demand for samples of his blood without reasonable and probable grounds to believe he committed the offence of impaired driving.
+
+(3)         That as remedy, the evidence should be excluded pursuant to s. 24(2) of the Charter. Specifically, Mr. McQuaid sought to exclude any observations police made of him following the ASD demand, as well as the blood samples obtained and any analysis made.
+
+[6]         The other main issues at trial were:
+
+(4)         Whether, based on the admissible evidence, the Crown has proven Mr. McQuaid’s ability to operate a motor vehicle was impaired by alcohol.
+
+(5)         Whether, based on the admissible evidence, the Crown has proven Mr. McQuaid drove dangerously.
+
+[7]         On consent, the Crown’s evidence with respect to the Charter application and the merits proceeded together in a blended voir dire. The court heard from the following witnesses:
+
+•         Patrick Turpin, a civilian motorist involved in a motor vehicle collision with Mr. McQuaid;
+
+•         Mathieu Lecavalier, an off-duty police officer who arrived at the scene of the collision;
+
+•         John Fennell, an EMS paramedic who responded to the collision;
+
+•         Cst. Weber, a police officer who attended the scene, made an ASD demand, and later a blood demand;
+
+•         Cst. Bennett, who was in training and accompanied Cst. Weber at the hospital;
+
+•         Cst. Pitawanikwat, who attended the scene of the collision and made observations; and
+
+•         James Rajotte and Dr. Joel Mayer, forensic toxicologists who provided opinions with respect to the blood samples obtained and Mr. McQuaid’s level of impairment, if any.
+
+[8]         During closing submissions, the defence was challenged on the nexus between the alleged Charter breaches and the obtaining of the medical sample analysis. The blood demand samples would clearly not have been obtained by the police but for the arrest and blood demand made. If the alleged breaches were made out, there would be no serious issue whether the blood demand samples were “obtained in a manner that infringed any rights or freedoms” within the meaning of s. 24(2). The same could not be said of the medical sample analysis. The court heard no evidence as to how the results of the hospital’s analysis were obtained by police. Presumably a production order or warrant was obtained, but no prior judicial authorization was challenged before the court.
+
+[9]         The defence completed their submissions, but was given time to consider this nexus question, as well as a related quandary: if the Charter application was successful in excluding the blood demand sample detecting no alcohol and not the medical sample analysis, the court would be left with incomplete blood sample analysis data that tended to artificially strengthen the Crown’s case (as the data point tending to show a lower BAC within a range would be absent). The defence opted against making submissions on the nexus issue raised, but advised the court that, after considering the issue and obtaining instructions, the defence was withdrawing the Charter application.
+
+[10]      No objection was raised by the Crown, and I accepted the withdrawal of the application. In these unusual circumstances, however, having heard the evidence and submissions on the alleged Charter breaches, I will nonetheless provide my analysis in respect of ss. 8 and 9 of the Charter. I will do so only because that analysis, which concludes that the alleged Charter breaches are not made out, demonstrates that ultimately nothing would have turned on the question of nexus between the alleged breaches and the medical sample analysis. I make no pronouncement on the validity of any judicial authorization or other process engaged to obtain the medical sample analysis. That question was not before the court.  
+
+II.      Analysis
+ 
+
+Context: how the collision and investigation unfolded
+
+[11]      Mr. Patrick Turpin testified that on January 31, 2024, he was driving a red GMC Sierra eastbound along the Kingsway, a major artery in Sudbury. He was approaching a three-way intersection with Highway 17. Mr. Turpin could not identify the intersection by name. This information was provided by the next witness, Mr. Lecavalier. I find they were clearly speaking about the same location which was the location of the collision. The lane that Mr. Turpin occupied traverses the intersection, which is controlled by a traffic light. A separate lane for vehicles turning right on the highway begins shortly before the intersection, at least 40 to 50 feet beforehand. That lane bypasses the traffic lights and merges onto the highway southbound.
+
+[12]      Mr. Turpin testified that the light was red, and he and other vehicles were coming to a rolling stop, when his vehicle was rear-ended. He said the light had been red for a while, and he was about the sixth or seventh car back from the intersection. He was positioned just about where the merging lane begins. Just prior to the collision, he anticipates he was traveling at 10-20 km/hr and slowing down.  Shortly before the collision, Mr. Turpin looked in his rear-view mirror and there was no vehicle behind him.
+
+[13]       At the time of the collision, Mr. Turpin did not see it coming but recalled hearing a loud bang and feeling his truck be propelled forward. He cranked his steering wheel to the right and his truck struck the vehicle in front of him, a green SUV, with his driver’s side door. His vehicle came to a stop 5-10 feet from where it was impacted. His vehicle was significantly damaged.
+
+[14]      Immediately following the collision, Mr. Turpin put his vehicle in park, shut it off, and wrestled open his driver’s side door. From that position he called 9-1-1.
+
+[15]      Mathieu Lecavalier is a police officer who was off-duty on the day in question. He was driving home when he came upon the collision scene at approximately 6:30 pm. He arrived before the first responders. He was waved down by some bystanders to a vehicle in the ditch, a Honda SUV.  He witnessed a male in the driver's seat. Mr. McQuaid admits he was that driver. There was no one else in the vehicle, though Mr. Lecavalier recalls there may have been a dog. Upon observing if there was anything that was required for first aid, Mr. Lecavalier noticed a strong odour of cannabis from within the vehicle. Mr. McQuaid also had slurred speech and eyes that were a little bit watery and glossy. He appeared restless and seemed to be in some discomfort. Mr. Lecavalier remained with Mr. McQuaid until EMS paramedics arrived.
+
+[16]      Paramedic John Fennell testified that his ambulance was notified of the collision at approximately 6:15 pm. He and his partner arrived on scene at 6:21 pm. At about 6:23 pm, Mr. Fennell approached Mr. McQuaid’s vehicle, which was about 100 feet into the ditch. Mr. McQuaid was standing just outside his opened driver door with one flip-flop on the wrong foot and standing in the snow with a very unsteady gait. Mr. Fennell put a collar on Mr. McQuaid to stabilize his neck and walked him over to the ambulance for assessment and care. He noted a small injury to Mr. McQuaid’s right ear with dried blood. He further noted an odour of alcohol on Mr. McQuaid’s breath. The smell of alcohol became stronger as the two were in closer proximity in the back of the ambulance.
+
+[17]      Mr. Fennell testified that they transported Mr. McQuaid to Health Sciences North, arriving at 6:56 pm. Mr. Fennell remained with Mr. McQuaid until his care was transferred to the hospital staff at 7:32 pm. When Mr. Fennell was asked whether there were other people in Mr. McQuaid’s vehicle, he responded that he did not know about any other people, but said there was a dog that they brought with Mr. McQuaid to the hospital. The presence of the dog is what delayed the transfer of care and caused Mr. Fennell to remain involved longer.
+
+[18]      Cst. Weber, who is a qualified breath technician and drug recognition expert, was on a traffic duty shift partnered with Cst. Bennett who he was training. They did not attend the scene of the collision, but at 7:08 pm received word of the paramedics’ having brought Mr. McQuaid to Health Sciences North. Cst. Weber was told that Mr. Fennell had detected an odour of alcohol on Mr. McQuaid’s breath.
+
+[19]      When Cst. Weber attended Health Sciences North, he spoke with Mr. Fennell, and was directed to a trauma room in the emergency department. Mr. McQuaid was in the washroom at the time but was thereafter brought back to the room in a wheelchair and placed on a stretcher. This occurred at 7:29 pm. Mr. McQuaid had his dog with him.
+
+[20]      I will detail Cst. Weber’s later observations when I address the Charter issues, but note at this juncture that Cst. Weber’s investigation ultimately led to Mr. McQuaid’s arrest.
+
+[21]      Meanwhile. Cst. Pitawanikwat was dispatched to the motor vehicle collision. She described there being tire tracks for 50-70 metres into the field where the Honda CRV came to a rest. The road was clear. There was no precipitation and nothing that would make the road slippery. Cst. Pitawanikwat conducted a search of the Honda CRV after it was towed from its position in the field to be closer to the road. She found an empty can of beer in the driver seat footwell, and elsewhere within reach of the driver seat an opened bag of cannabis edibles, an unopened bag of cannabis edibles, and a container of rolled cannabis joints.
+
+[22]      Cst. Pitawanikwat also took photographs of the Honda CRV and the red GMC Sierra. Those photos corroborate Mr. Turpin’s description of the collision. The Honda CRV has extensive front-end damage. Mr. Turpin’s red GMC Sierra has less significant damage on the rear end and damage along the driver’s side, where he would have impacted the vehicle in front of him. 
+
+The Charter Issues: Reasonable and Probable Grounds for Arrest/Demand
+
+The Evidence
+
+[23]      Cst. Weber was the central Crown witness on the Charter issues. Critical to the Charter issues is what information was known to Cst. Weber at the time he took various investigative steps. Cst. Bennett also testified, but he was in training and working primarily in an observational capacity. His evidence generally corroborated Cst. Weber’s evidence in terms of steps taken and timing but was of little further assistance.
+
+[24]      Prior to attending the hospital, Cst. Weber was told that Mr. Fennell had observed an odour of alcoholic beverage on Mr. McQuaid’s breath. Cst. Weber further testified that when he arrived at the hospital, Mr. Fennell shared that Mr. McQuaid was operating a vehicle that was involved in a three-car collision and had veered off the road. Mr. Fennell also shared that Mr. McQuaid appeared confused and had an unsteady gait. Cst. Weber was told that Mr. McQuaid’s vehicle was a Honda CRV.
+
+[25]      Cst. Weber noticed that Mr. McQuaid was chewing gum. He asked him to remove it. Cst. Weber was concerned that gum could interfere with breath readings, such that a waiting period might be required. Cst. Weber asked Mr. McQuaid about alcohol consumption. Mr. McQuaid responded that he had one drink hours ago.
+
+[26]      At 7:31 pm Cst. Weber made an approved screening device demand. He had a device with him in proper working order. The officer cited, as basis for his suspicion, the odour of alcohol, the collision, the unsteady gait, and Mr. McQuaid’s admitted consumption.
+
+[27]      Cst. Weber next completed a self-test and a demonstration for Mr. McQuaid. Cst. Weber noted Mr. McQuaid had a neck brace on, and wanted to wait for a nurse or doctor to advise he was clear to be able to provide a breath sample. He delayed the taking of a sample because of this safety concern. At 7:55 pm, when a nurse advised Cst. Weber they were not sure if Mr. McQuaid could provide a breath sample, Cst. Weber asked when a doctor would be available.
+
+[28]      At 7:39 pm, Cst. Weber was advised by Cst. Pitawanikwat of the results of her search of the Honda CRV.
+
+[29]      At 8:22 pm, Cst. Weber still had not received word from a doctor and noted that Mr. McQuaid appeared to be in a lot of pain on his side. Cst. Weber testified he was thinking and reflecting on his grounds. He said:
+
+I'm at suspicion thinking that there's an odour of an alcoholic beverage, there’s substances in the vehicle. I have a crash. I'm not sure if he's going to be able to provide samples of breath. I can't put him through, as he's laying in the stretcher wearing a neck brace, I wouldn't be able to put him through a sobriety test, a standard field sobriety test.
+
+I would not be able to do a drug recognition evaluation with him if drugs were suspected, as there is mention of cannabis. So as I'm talking with him, I'm - I recall walking back side to side with him. He couldn't turn his head while I spoke with him. I was watching his eyes as we had this conversation as I walked from one side to the other to watch how they tracked.
+
+[30]      Asked about this last point, the officer explained that he decided to walk around Mr. McQuaid’s stretcher to watch how his eyes tracked. He analogized this to a step usually undertaken during a standardized field sobriety test, the horizontal gaze nystagmus test. He explained that it is validated by study that individuals who present with a horizontal gaze nystagmus have an 88% chance of having a BAC above 80 or of being impaired.
+
+[31]      When he performed this makeshift horizontal gaze nystagmus test, he observed a lack of smooth pursuit in Mr. McQuaid’s tracking of him around the stretcher and noted the involuntary jerking of the eyes “like a windshield wiper on a dry windshield” which he recognized as a clue for horizontal gaze nystagmus.
+
+[32]      Shortly after this, Dr. Ansell arrived and advised Cst. Weber that Mr. McQuaid could provide breath samples. Two attempts were made, but no air was registering in the device. Mr. McQuaid expressed that he was in pain in his chest and abdominal area. Cst. Weber did not believe him, recalling that earlier the dog had jumped on Mr. McQuaid in these areas and there had been no pain. Dr. Ansell was retrieved and advised that while she did not see any medical issues, due to his complaint of pain he would not be able to provide breath samples.  
+
+[33]      Cst. Weber reflected on his grounds:
+
+…at this time, because I made the additional observations in regards to basically the - what I saw with his eyes, the lack of smooth pursuit and accompanied with his right eye having distinct nystagmus. It wasn't, like I said, it wasn't sustained for that period of time, in conjunction with the collision; he was involved in a collision in which he rear-ended another vehicle that was stopped at a light into a third vehicle.
+
+There was alcohol containers, cannabis containers located in the vehicle. We had that information of the odour … on his breath. So looking at the totality of the circumstances, I was confident that although I'd been working on his obtaining a sample, as I read the demand for the approved screening device, and I was working on obtaining that sample, it was at around that time I put everything together and formed grounds that based on it all, I had reasonable grounds to believe he was impaired at the time of the collision.
+
+[34]      At 8:43 pm, Cst. Weber read a blood demand. He also arrested Mr. McQuaid for impaired driving, cautioned Mr. Weber, and read him his rights to counsel. At 10:39 pm and 10:40 pm, blood samples were taken by technician Angel Wei using a standard Centre of Forensic Sciences kit. Mr. McQuaid was released from police custody at 10:53 pm.
+
+[35]      Cst. Weber was cross-examined at length about his makeshift horizontal gaze nystagmus test. There were a number of differences between the steps he took and a horizontal gaze nystagmus test as conducted as a component of a standardized field sobriety test. Of particular note, the officer did not employ a stimulus. He also did not provide any instructions to Mr. McQuaid.
+
+[36]      Under cross-examination, Cst. Weber was clear that before the makeshift horizontal gaze nystagmus test, he possession only suspicion, and needed something “a little bit more” to get him to grounds.
+
+Legal Analysis
+
+[37]      For the arrest and blood demand to be lawful, the Crown must prove, on a balance of probabilities, that Cst. Weber had reasonable and probable grounds to believe Mr. McQuaid had committed the offence of impaired driving. The officer must subjectively believe that there are reasonable grounds for the steps, and the belief must be reasonable from an objective point of view: R. v. Shepherd, 2009 SCC 35, at para. 17.
+
+[38]      I accept Cst. Weber’s evidence that, subjectively, he believed he had grounds for the arrest and demand. His evidence was clear that he began with the indicia which led to the ASD demand, namely the collision, the odour of alcohol, the reported unsteady gait and confused presentation, and the admitted consumption. From there he added his observations during his makeshift horizontal gaze nystagmus test.
+
+[39]      Was his subjective belief objectively reasonable? Yes, in the way that matters. To explain, I agree that, based on all the circumstances known to Cst. Weber, he was possessed of objectively reasonable grounds to make an arrest and blood demand. I disagree with respect to his own thought process on the issue. In my view, the information possessed by Cst. Weber before he undertook the makeshift horizontal gaze nystagmus test was sufficient objective basis to make an arrest and blood demand. The collision, the odour of alcohol, the admitted consumption of alcohol, the unsteady gait, and confused appearance, all known to Cst. Weber, were sufficient objective support for the steps he took. The makeshift horizontal gaze nystagmus test was unnecessary. Moreover, given the critical differences between the makeshift test he performed and the standardized test, I would give the results of that test little to no weight in terms of objectively supporting grounds. There was not, in my view, an objectively reasonable basis for Cst. Weber to seize on his observations during that “test” as the difference-maker that brought him from reasonable suspicion to grounds for arrest.
+
+[40]      The law, however, does not require perfect symmetry between the component parts of an officer’s subjective basis for the arrest and demand, and the component parts of the objective basis. To be sure, the court is not entitled consider information that was not available and not known to the officer at the time of the arrest and demand: R. v. Oduneye, 1995 ABCA 295 (CanLII), [1995] A.J. No. 632 (C.A.), at para. 20, leave refused [1995] S.C.C.A. No. 494; R. v. Mastromartino, 2004 CanLII 28770 (ON SC), [2004] O.J. No. 1435 (S.C.), at para. 25. But that does not mean that the court cannot weigh the components of the information known to the officer differently than the officer has. Indeed, courts do so regularly when they find that an officer has unreasonably failed to consider information that might tend to undermine honestly held subjective grounds. See, for example, R. v. Notaro, 2018 ONCA 449, at paras. 38-43, in the context of residual mouth alcohol and approved screening device tests. In weighing objective grounds, a court does not jettison from consideration facts that the officer was aware of but did not themselves assign weight.
+
+[41]      The ultimate question is not how the officer articulated their grounds, but whether their subjective conclusion was reasonable in light of all the information known to them: R. v. Kiyawasew, 2018 ABPC 114, at para. 32; see also R. v. Censoni, [2001] O.J. No. 5189 (S.C.). Put another way, the inquiry is what a reasonable person would conclude if they considered the information that the officer had at the time: R. v. Storrey, 1990 CanLII 125 (SCC), [1990] 1 S.C.R. 241, at para. 16.  I know of no additional requirement that the reasonable person agree with the officer’s subjective pathways of analysis. That Cst. Weber subjectively undervalued certain information while subjectively overvaluing one particular item does not a Charter breach create, so long as the information known to him, on the whole, provided an objective basis for the steps he took.
+
+[42]      In the result, despite my disagreement with Cst. Weber concerning the value of his makeshift horizontal nystagmus test, I conclude that his subjective belief that Mr. McQuaid was impaired at the time of the collusion was objectively reasonable on the information known to him. Mr. McQuaid was neither arbitrarily detained nor subjected to unreasonable search and seizure. Had the Charter application been maintained, the court would not have reached the question of remedy, or the constituent issue of nexus.
+
+Proof of impairment
+
+The medical sample analysis and estimated BAC range at time of driving
+
+[43]      It was admitted by the parties that the hospital phlebotomist drew blood from Mr. McQuaid at 8:08 pm. This medical blood sample was drawn independent of any demand by police. It is further agreed that this blood was accurately tested and was found to have a result of 17.3 millimoles of alcohol per litre.
+
+[44]      Both Mr. Rajotte, of the Centre of Forensic Sciences and Dr. Joel Mayer were qualified as  forensic toxicologists. Mr. Rajotte was called by the Crown and Dr. Mayer by the defence. Neither party challenged the qualifications of the other’s expert witness. Both witnesses were highly experienced and knowledgeable, and both were fair and balanced in their evidence. There was little difference between their opinions.
+
+[45]      Mr. Rajotte first provided an opinion with respect to converting results of the hospital blood testing to a figure in the scientific units adopted by the Criminal Code, mg of alcohol in 100 mL of blood. His evidence was that 17.3 millimoles/L was equivalent to a BAC of 69 mg of alcohol in 100 mL of blood. Asked about margin of error, Mr. Rajotte testified that the ratio is chosen because it tends not to overestimate BAC. The ratio used tends to underestimate BAC and produces a conservative calculation.
+
+[46]      Of course, this was Mr. Rajotte’s opinion about the BAC at the time of the medical blood sample being drawn, which was 8:08 pm, and not necessarily at the time of driving. Mr. Rajotte was therefore asked to opine about what the BAC was at 6:10 pm, the approximate time of driving. Mr. Rajotte opined that Mr. McQuaid’s BAC would be between 69 and 108 mg of alcohol in 100 mL of blood at that time. That calculation was based on a rate of elimination of alcohol of 20 mg of alcohol in 100 mL of blood per hour and an allowance for a plateau of up to two hours when alcohol is being absorbed into the blood at the same time it is being eliminated.
+
+[47]      The elimination rate is selected because most people fall within a typical range of alcohol elimination rates, making it best practice to use that range for calculations. While some individuals may eliminate alcohol at rates higher than 20 mg/100 mL per hour, using up to 20 mg/100 mL/hr is considered a conservative and standard approach. If a higher elimination rate were used, it would result in a higher estimated peak BAC.
+
+[48]      The two-hour plateau is selected because when someone drinks alcohol, their BAC rises, but the peak level might not occur right away—especially if the alcohol is consumed with food. In some cases, it can take up to two hours before the body starts eliminating alcohol. During this time, BAC may stay level, or "plateau." You may have alcohol being absorbed and eliminated at the same time. To be conservative, one removes up to two hours of elimination of alcohol from the calculation because one cannot be sure if the individual was actually eliminating alcohol at that time.
+
+[49]      Dr. Mayer’s report substantially aligns with Mr. Rajotte’s with respect to rates of elimination and the accounting for a two-hour plateau. Dr. Mayer’s report with respect to converting millimoles/L to BAC also compliments Mr. Rajotte’s evidence:
+
+Hospital laboratories generally test for alcohol in serum/plasma, the liquid portion of blood devoid of red blood cells and other solid cellular components. Since serum/plasma contains more water than whole blood and alcohol is distributed in body fluids in direct proportion to their water content, the serum/plasma alcohol concentration is higher than blood by an average of 15%.
+
+Therefore, the hospital alcohol result must be divided by a factor of 1.15 to obtain the average equivalent blood alcohol concentration. Assuming that the hospital testing is reliable and meets the standards that have gained general acceptance in this area, a serum alcohol result of 17.3 millimoles per litre (mmol/L) and its conversion into units of mg/100 mL, indicates that Mr. McQuaid’s blood alcohol concentration was approximately 70 mg/100 mL when his blood was collected at approximately 20:08, on January 31, 2024.
+
+[50]      Both experts arrive at a nearly identical range of BAC at the approximate time of driving. I accept their evidence on this point, though it is subject to the impact of the blood demand samples, which I will discuss at a later juncture.
+
+[51]      Both calculations are also based on the assumption that Mr. McQuaid did not consume large quantities of alcohol within approximately 15 minutes of the time of driving. If he did, both experts agree his BAC might be rising at the time of driving, rather than plateauing or lowering as alcohol is eliminated. I note the court heard no evidence to support the rapid consumption of a large amount of alcohol. Lastly the calculation assumes Mr. McQuaid did not consume alcohol after the time of driving. I reject this last possibility as unsupported on the evidence.
+
+The impact of the blood demand sample analysis on the estimated BAC
+
+[52]      Both experts also gave evidence with respect to the samples of blood obtained via police blood demand. These samples were analyzed directly by the Centre of Forensic Sciences. These tests detected no alcohol, which indicates in fact that no alcohol was detected above 5 mg / 100 mL of blood. The tests did detect tetrahydrocannabinol (“THC”), which is the main psychoactive component in cannabis products that contain THC. The THC was detected in a concentration of 1.3 ng per mL.
+
+[53]      Asked about potential discrepancy between the medical blood sample BAC and the blood demand samples which detected no alcohol, Mr. Rajotte stressed that the times of collection were different. Alcohol would be eliminated from the body over time. With a little over 2.5 hours between the samples, the samples would not be expected to be the same. A person with an elimination rate of 25mg of alcohol in 100 mL of blood per hour would see their BAC decrease from 69 to below 5 mg of alcohol in 100 mL of blood in that period.  Mr. Rajotte also testified that generally, the earlier sample is regarded as the more accurate sample. Inferring the BAC at the time of driving will be less impacted by assumptions made about the individual’s rate of elimination.
+
+[54]      Both experts agreed that a much higher rate of elimination, such as 45mg of alcohol in 100mL of blood per hour, could be rejected as unsupported by the research and literature. 25mg of alcohol per 100 mL of blood per hour was higher than typical, but plausible. Mr. Rajotte agreed that the combined impact of the analyses of both the medical sample and blood demand sample tended to suggest that Mr. McQuaid had at the approximate time of driving a BAC at the lower end of the 70-110 range. Dr. Mayer was willing to opine that the evidence suggested the extreme low end of that range, around 70 mg of alcohol in 100mL of blood.
+
+[55]      I cannot, and need not, arrive at a firm conclusion as to Mr. McQuaid’s exact BAC at the time of driving. I do find, based on these analyses, that at the time of driving Mr. McQuaid’s BAC was at the lower end of the range, and likely closer to the lower border of 70 mg of alcohol in 100 mL of blood.  
+
+Relating BAC to impairment
+
+[56]      Both experts provided opinions relating BAC to impairment.
+
+[57]      Drawing on a wide range of scientific studies, including lab experiments, driving simulations, real-world driving tests, and epidemiological data, Mr. Rajotte opined that an individual in in the approximate range of 70-110 would be impaired. At a BAC of 50 mg of alcohol in 100mL of blood, an individual would be impaired in their ability to drive safely. At this level, individuals show reduced attention, slower reaction times, impaired decision-making, and difficulty maintaining proper lane position. The risk of motor vehicle collisions increases significantly at or above this BAC, and this level is commonly used in research as a benchmark for impairment.
+
+[58]      Mr. Rajotte was careful to qualify his opinion as general in nature, testifying that:
+
+…all of those things have been shown in studies. As far as a specific individual at a specific time, there’s the possibility that alcohol - if their blood alcohol concentration exceeds 50, these may occur and may be associated with an occurrence happening. But my evidence is general in nature and it goes to what is interpreted in the literature. So applying it directly to a specific situation, a specific time, I’ll leave that to others who would have more information and all the information as well as the legal authority.
+
+[59]      Dr. Mayer’s evidence with respect to impairment was similar. He reports that across 177 studies from the 1950s to 1985, and 109 studies from 1981 to 1998, researchers consistently found that impairment begins at BACs as low as 40 mg/100 mL, with the percentage of studies reporting impairment increasing with higher BACs. By 100 mg/100 mL, nearly all studies showed impairment. A more recent review concluded that there is strong scientific consensus that a BAC of 50 mg/100 mL impairs driving-related faculties, such as attention, reaction time, and vehicle control.
+
+[60]      The critical piece of Dr. Mayer’s evidence, from the defence perspective, is his qualification that the studies and literature referenced do not support the proposition that all individuals will be impaired at a BAC of 50mg of alcohol in 100 mL of blood. Applied to this case, if we ascribe a BAC of 70 to Mr. McQuaid, Dr. Mayer opines only that there is a potential for alcohol to have impaired his driving ability. This is not a departure from Mr. Rajotte’s evidence; he was also careful to say that his evidence was general and not specific to Mr. McQuaid’s physiology.
+
+[61]      I accept the evidence of both experts as they related BAC levels to likelihood of impairment, including the limitations of applying the research to a specific individual. My task, however, is not to determine whether I am satisfied beyond a reasonable doubt of impairment based on the toxicological evidence alone. My task is to consider whether the Crown has proven impairment based on the whole of the evidence, which includes the observations of the police and civilian witnesses in this case. I will return to this analysis in due course, but first wish to address the other aspect of the blood demand evidence, which is focused on cannabis.
+
+The THC evidence
+
+[62]      Asked about the THC level detected, Mr. Rajotte testified it could indicate acute cannabis use within a couple of hours prior to the blood being collected, but it could also represent a residual level, as a result of routine and repeated use that is not recent. Residual presence would be possible without causing any impairing effects. In an acute use situation, there tends to be a rapid increase in the blood THC concentration that will reduce over time. In the span of hours, the THC might move from the blood to the brain and to other very high lipid tissues in the body. This could mean there were impairing effects despite the level detected not being very high. Given the impossibility of determining from the sample alone whether the level detected indicates residual presence or recent use, other evidence about the time of last administration is a more reliable predictor of the actual effects on the person’s ability to operate a motor vehicle.
+
+[63]      Asked about what those impairing effects might be, Mr. Rajotte testified that THC effects can include altered time perception, incoordination, and decreased ability to concentrate.
+
+[64]      Dr. Mayer’s evidence was similar. In his report he states:
+
+The fate of THC in the body is highly variable and complex and does not permit a back calculation. The detected blood THC concentration in this instance may be due to cannabis use several hours prior to the collection of the blood sample or possibly due to residual concentrations associated with past use.
+
+THC is not expected to impair driving ability at the blood concentration reported in this case.
+
+[65]      I am highly suspicious that cannabis use by Mr. McQuaid was a factor in the collision on January 31, 2024. While the toxicological evidence has inherent limits, the odour of cannabis detected by Mr. Lecavalier is concerning. I am not, however, able to determine impairment by cannabis with a high degree of confidence. And, as the indicia of impairment by cannabis, including the collision, is also plausibly explained by impairment by alcohol alone, it is virtually impossible to determine the degree of any role played by cannabis in this case.
+
+Examining the whole of the evidence on impairment
+
+[66]      While I have my doubts concerning the specific role of cannabis in this case, I harbour no doubt that Mr. McQuaid’s ability to operate a conveyance was impaired by alcohol, or a combination of alcohol and cannabis. The element of impairment is made out where the evidence establishes, beyond a reasonable doubt, any degree of impairment: R. v. Stellato, 1994 CanLII 94 (SCC), [1994] S.C.J. No. 51. The following evidence, which I accept, bears on the issue:
+
+(1)         Mr. Lecavalier, the off-duty police officer, observed Mr. McQuaid to have slurred speech shortly after the collision.
+
+(2)         Mr. Lecavalier observed Mr. McQuaid to have watery and glossy eyes shortly after the collision.
+
+(3)         Mr. Lecavalier detected the odour of cannabis in Mr. McQuaid’s vehicle, though there was no evidence to suggest this was the odour of burnt or consumed cannabis rather than fresh cannabis, so this evidence if of limited value.
+
+(4)         Mr. Fennell, the paramedic, observed Mr. McQuaid to have his flip-flop on the wrong foot and was standing in the snow with a very unsteady gait.
+
+(5)         Mr. Fennell noticed an odour of alcohol on Mr. McQuaid’s breath.
+
+(6)         Cst. Pitawanikwat observed an empty beer can and an open bag of cannabis edibles in Mr. McQuaid’s vehicle.
+
+(7)         The toxicological evidence strongly, though not conclusively, indicates a likelihood that Mr, McQuaid had a BAC at the time of driving near 70 mg of alcohol in 100mL of blood, and further indicates a likelihood that an individual’s ability to drive would be impaired at that level.
+
+(8)         Mr. McQuaid’s vehicle was involved in a motor vehicle collision with two other vehicles, for which there is no other explanation in the evidence. Mr. Turpin testified that the weather was clear, the pavement was dry, and the driving conditions were good. There was no ice on the road. It was nighttime and dark. There was no precipitation. The light “had been red for a while.” I find that a sober and attentive driver in Mr. McQuaid’s position would notice the traffic lights and the brake lights of the several stopped or slowing vehicles at the intersection.
+
+[67]      There may be alternate inferences, unrelated to alcohol impairment, available with respect to several of these indicia. For example, physical indicia, such as slurred speech, unsteady gait, watery eyes, might, considered in isolation, be associated with an injury from the accident. Recall Mr. Fennell noted a small injury to Mr. McQuaid’s right ear. Similarly, I have already discussed the limits of the toxicological evidence, which cannot, standing alone, establish to a degree of certainty that Mr. McQuaid would be impaired at a BAC of 70 mg of alcohol in 100 mL of blood. And, of course, though there is no alternative explanation for the motor vehicle collision in the record, in a general sense there are other possible explanations for a driver’s failure to notice a red light ahead of them, besides impairment.
+
+[68]      But, as in any criminal trial, I am not to assess the evidence in a piecemeal fashion. The criminal standard of proof beyond a reasonable doubt applies to the evidence as a whole, and not to individual items of evidence. Examining the totality of the evidence in this case, there is only one reasonable conclusion: Mr. McQuaid consumed alcohol, or a combination of alcohol and cannabis, to a degree which impaired his ability to operate a motor vehicle, and which resulted in his failing to notice or failing to react to the red light and slowing vehicles in front of him, which precipitated a serious motor vehicle collision. The Crown has proven this element of the offence beyond a reasonable doubt.  
+
+Proof of dangerous driving
+
+[69]      Impaired driving and dangerous driving are distinct offences. Impaired driving focuses on the accused’s ability to operate a conveyance, and whether that ability was impaired by drug, including alcohol. Dangerous driving focuses on the manner in which the accused drove and whether it posed a danger to the public. Impairment may explain why a driver drove dangerously but is not an element of dangerous driving: R. v. Ramage, 2010 ONCA 488, at para. 64.
+
+[70]      To convict Mr. McQuaid of dangerous driving, I must be satisfied, beyond a reasonable doubt that, viewed objectively, the accused drove in a manner that was dangerous to the public, having regard to all the circumstances. I must be satisfied that the conduct amounted to a marked departure from the standard of care that a reasonable person would observe in the accused's situation: R. v. Hundal, [1993] 1.S.C.R. 867, at p. 888.
+
+[71]      The defence relies on the case of R. v. Roy, 2012 SCC 26. That case involved an accused who, in snowy and foggy conditions, pulled onto a highway into the path of an oncoming tractor trailer, resulting in the death of his passenger. As the accused’s decision to pull onto the highway was consistent with a simple misjudgment, rather than a marked departure, the court entered an acquittal.
+
+[72]      In my view, Roy is distinguishable on its facts. Here, I find Mr. McQuaid approached, at high speed, a sustained red light, where several vehicles were stopped or slowing. The conditions were clear. It was dark out. I find the red traffic light and the brake lights of the other vehicles would have been clearly visible. A reasonable person taking reasonable care in the circumstances would have observed what lay ahead as they approached the intersection and slowed their vehicle. Failing to do so placed members of the public at risk. The reason for Mr. McQuaid’s failure to do so, his impairment, is not an element of the offence. But neither is it a defence. On the evidence I accept, the Crown has proven dangerous operation beyond a reasonable doubt.
+
+ 
+
+III.   Conclusion
+[73]      The Crown has proven the essential elements of both offences beyond a reasonable doubt. 
+
+Released: July 31, 2025
+
+ 
+
+ 
+
+ 
+
+ 
+
+Signed: Justice G. Jenner
