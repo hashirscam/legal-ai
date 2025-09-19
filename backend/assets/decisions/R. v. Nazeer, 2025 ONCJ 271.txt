@@ -1,0 +1,566 @@
+Link: https://canlii.ca/t/kc5kb
+Date: May 15, 2025
+File number: 998-23-61100623
+Citation: R. v. Nazeer, 2025 ONCJ 271
+Court: Ontario Court Of Justice
+Region: Not found
+Client: Nazeer
+Judge: Mr. Justice Richard H.K. Schwarzl on April 29, 2025
+
+R. v. Nazeer, 2025 ONCJ 271 (CanLII), <https://canlii.ca/t/kc5kb>, retrieved on 2025-09-18
+
+CITATION:  R. v. Nazeer, 2025 ONCJ 271
+
+COURT FILE No.: 998-23-61100623
+
+DATE: May 15, 2025
+
+ONTARIO COURT OF JUSTICE
+
+Central West Region
+
+BETWEEN:
+
+ 
+
+HIS  MAJESTY  THE  KING
+
+ 
+
+—  AND  —
+
+ 
+
+Aaron nazeer
+
+ 
+
+ 
+
+Application Heard Before Mr. Justice Richard H.K. Schwarzl on April 29, 2025
+
+Reasons released on May 15, 2025
+
+Mr. Robert Levan.............................................................................   for the Crown/Respondent
+
+Mr. Ruaridh McCartney.................................................................   for the Defendant/Applicant
+
+SCHWARZL, J.:
+ 
+
+REASONS FOR 11(b) CHARTER RULING
+
+ 
+
+1.0:  INTRODUCTION
+
+[1.]         The Defendant, Aaron Nazeer, was charged with two driving-related offences.  A trial was held before me resulting in verdicts of guilty on the impaired driving charge (Count #1) and not guilty on the charge of failing to provide a breath sample (Count #2). 
+
+ 
+
+[2.]         He made an Application alleging that his right to be tried within a reasonable time as guaranteed by section 11(b) of the Canadian Charter of Rights and Freedoms has been violated.
+
+[3.]         What follows are my reasons for allowing this Application and staying the proceedings.
+
+ 
+
+2.0: APPLICABLE LEGAL PRINCIPLES
+
+[4.]         Applications made under section 11(b) of the Canadian Charter of Rights and Freedoms are to be decided using the principles set out by the Supreme Court of Canada in R. v. Jordan, 2016 SCC 27 and its progeny.  Jordan established that in Provincial Court, a trial must be completed within 18 months to avoid a stay of proceedings for want of prosecution.
+
+ 
+
+[5.]         In R. v. Coulter, 2016 ONCA 704, the Ontario Court of Appeal the following helpful step-by-step analytical framework:
+
+Step
+
+Action
+
+1.
+
+Calculate the Total Delay, being the time between the laying of the Information and the scheduled last trial date.
+
+ 
+
+2.
+
+From the total delay, subtract defence delay, which includes both defence waivers and defence-caused delay.  The result of this arithmetic is known as Net Delay.
+
+ 
+
+3.
+
+Compare the Net Delay to the presumptive ceiling (in this case, 18 months).
+
+ 
+
+4.
+
+If the Net Delay exceeds the presumptive ceiling, the Crown must establish the presence of any Exceptional Circumstances (either discrete events or a particularly complex case) to avoid a stay. 
+
+ 
+
+5.
+
+Subtract any Exceptional Circumstances from the Net Delay, leaving Remaining Delay.
+
+ 
+
+6.
+
+If the Remaining Delay exceeds the presumptive ceiling, the court must consider if the case was particularly complex to justify the delay.
+
+ 
+
+7.
+
+If the Remaining Delay falls below the presumptive ceiling, the onus is on the applicant to show the delay is unreasonable.
+
+ 
+
+ 
+
+3.0:  PRINCIPLES APPLIED
+
+3.1:  What is the Total Delay?
+
+[6.]         The Total Delay for this two-day matter is 743 days or 24.4 months because the Information was sworn on April 27, 2023, and was finished on April 29, 2025. 
+
+ 
+
+3.2:  What Is the Net Delay?
+
+3.2.1:  Positions of the Parties
+
+[7.]         Both sides agree that time must be subtracted from the Total Delay to account for defence caused delay.  However, each made different calculations of that delay.
+
+ 
+
+[8.]         The applicant submits that there is 9 days of defence delay, resulting in a net delay of 734 days, or 24 months.
+
+ 
+
+[9.]         The respondent Crown submits that there is 406 days, as set out in Appendix A of their Response, which they say yields a net delay of 337 days, or 11 months.
+
+ 
+
+[10.]      I will explain why I find the Net Delay in this case is 661 days or 21¾  months.
+
+ 
+
+3.2.2:  Analysis re Net Delay
+
+3.2.2.1: Defence Caused Delay for the Period Between December 6, 2023 (first day one side was available), and August 8, 2024 (last day of the trial) = 27 Days
+
+[11.]      A Trial Scheduling Form (TSF) was completed on October 11, 2023, after the parties had finished usual the judicial pretrial conference (JPT) phase.
+
+ 
+
+[12.]      Part 6 of the October 11, 2023, TSF[1] reads as follows:
+
+Dates Suggested
+
+Crown Available
+
+Defence Available
+
+Comments[2]
+
+November 21, 23 2023
+
+No, No
+
+No, No
+
+ 
+
+December 6
+
+Yes
+
+No
+
+July 4, 22, 24 2024
+
+Yes, Yes, Yes
+
+No, No, No
+
+July 31
+
+Yes
+
+Yes
+
+August 8
+
+Yes
+
+Yes
+
+ 
+
+[13.]      The Trial Coordinator offered the parties eight days spread over a span of eight-and-a-half months.  No dates were offered in the seven months between December 6, 2023, and July 4, 2024.  As Local Administrative Judge I know that this gap was because the calendar of the assigned judge (Mr. Justice G.R. Wakefield) was already full between December to July.[3]
+
+ 
+
+[14.]      The Court was not available on all dates offered between December 2023 and July 4, 2024.  The defence cannot be held responsible for any delay in this seven-month period. 
+
+ 
+
+[15.]      I therefore find that the defence bears responsibility for the delay between July 4 July 31, 2024, being 27 days.
+
+ 
+
+3.2.2.2: Defence Caused Delay for the Period Between August 8, 2024, and October 1, 2024 (the new second day of trial) = 0 days
+
+[16.]      On October 27, 2023, the trial dates of July 31 and August 8, 2024, were placed on the record.
+
+ 
+
+[17.]      Tragically, on November 30, 2023, Justice Wakefield died unexpectedly. Consequently, I was assigned to conduct this trial.  I was available on August 8, 2024 (Day Two of the trial) but was not available on July 31 (Day One of the trial).
+
+ 
+
+[18.]      On March 25, 2024[4], the Trial Coordinator corresponded with the parties advising them that due to His Honour’s passing, the first trial date (July 31) had to be rescheduled to my unavailability.
+
+ 
+
+[19.]      On March 28, 2024, a second TSF was created by the Trial Coordinator.  Part 6 of this TSF states:
+
+Dates Suggested
+
+Crown Available
+
+Defence Available
+
+Comments
+
+May 27, 2024
+
+Yes
+
+No
+
+ 
+
+June 11
+
+Yes
+
+No
+
+ 
+
+October 1
+
+Yes
+
+Yes
+
+ 
+
+ 
+
+[20.]      The Trial Coordinator was only able to offer three dates over a four-and-a-half-month period because my calendar was otherwise fully occupied.  Of the three dates offered, two were earlier than the date being replaced.  Had either of the May or June dates been accepted, the trial could have taken place with the time frame originally set.  Whether it could have been completed in that time is another matter and is subject to consideration later in these reasons.
+
+ 
+
+[21.]      Given that the trial needed to be rescheduled because of the unexpected death of the original trial judge, I find that none of the time between August 8 and October 1, 2004, should be described as defence delay as they bore no responsibility for the rescheduling and they should not have been expected to pivot on short notice.
+
+ 
+
+[22.]      On April 9, 2024, the parties put the replacement date on the record.  The August 8 date now became Day One of the trial and October 1, 2024 was set as Day Two.
+
+ 
+
+[23.]      The trial commenced on August 8, 2024.  Due to directives originating beyond Orangeville[5], the list for that court (like all recent trial courts in Orangeville) was stacked with other matters even though this case was estimated to consume the entire day.  Two relevant things happened on August 8.  First, the Crown prioritized other cases.  Second, I closed court early so that I could attend the swearings-in of new judges, an event that had not been known of when this date was set. 
+
+ 
+
+[24.]      Consequently, this matter received less than half-a-day on the first full day of trial.  Through no fault of the applicant, he did not get the attention he was promised, and the matter was remanded to the second scheduled full day of October 1 with a view to completing it then.
+
+ 
+
+3.2.2.3:  Defence Caused Delay for the Period Between October 1 and December 11, 2024 = 7 days
+
+ 
+
+[25.]      On October 1, 2024, the trial list was overloaded yet again.  A continuing attempted murder preliminary inquiry and other matters that took prosecutorial priority. As a result, this case only received about one-half day of court time on Day Two. 
+
+ 
+
+[26.]      By the end of the second scheduled full day, this trial received the equivalent of one day of time, or half of what was promised.  To no one’s surprise, and again with no fault of the applicant, a continuation date had to be set in the circumstances.  Prior to adjourning for the day, the parties attended upon the Trial Coordinator who prepared a third TSF. Part 6 of this TSF states:
+
+ 
+
+ 
+
+Dates Suggested
+
+Crown Available
+
+Defence Available
+
+Comments
+
+December 4, 2024
+
+Yes
+
+No
+
+ 
+
+December 11
+
+Yes
+
+Yes
+
+ 
+
+[27.]      The Trial Coordinator could only offer two dates within two months because of my other commitments.  The Crown was available on both dates, but the applicant was only available on the second date offered.  In the circumstances, I find defence caused delay in this period is seven days, being the time between the two dates offered (December 4 and December 11).
+
+ 
+
+Defence Caused Delay in the Period Between December 11, 2024, and April 29, 2025 = 48 days
+
+[28.]      This trial limped along on December 11, 2024, being Day Three of a two-day trial.  As usual, the list was overloaded.  This case was relegated by the Crown and was only reached at 4:10 p.m., leaving a mere twenty minutes to cram in a fully day’s work.  The decision by the Crown to prioritize other matters necessitated yet another continuation date.
+
+ 
+
+[29.]      On December 19, 2024, the parties met with the Trial Coordinator (again) at which time the fourth TSF was created.  Part 6 of that TSF reads:
+
+Dates Suggested
+
+Crown Available
+
+Defence Available
+
+Comments
+
+January 20, 22 2025
+
+Yes, Yes
+
+No, No
+
+ 
+
+March 12
+
+Yes
+
+No
+
+April 23, 29
+
+Yes, Yes
+
+No, Yes
+
+ 
+
+[30.]      The Trial Coordinator was only able to offer five dates across a period exceeding four months.  Such meager crumbs of dates was because my schedule was already spoken for on all other days.
+
+ 
+
+[31.]      On December 31, 2024, the continuation date of April 29, 2025, was placed on the record.
+
+ 
+
+[32.]      It is not reasonable that the defence should be expected to accept the January dates given how close they were to the scheduling meeting.  As a result, I conclude that the defence caused the delay between March 12 and April 29, 2025, being 48 days.
+
+ 
+
+[33.]      When this case continued on April 29, being Day Four of a two day trial, there was finally sufficient time to complete it and reach verdicts.  I found the applicant guilty of Count #1.  I found him not guilty of Count #2 and dismissed that charge.
+
+ 
+
+3.2.3: Conclusions re Net Delay
+
+[34.]      For all the reasons outlined above, I find that defence caused delay in this case amounted to 82 days.  As a result, the Net Delay is 661 days or 21¾ months.
+
+ 
+
+3.3:  Has the Crown established any Exceptional Circumstances to avoid a Stay of Proceedings?
+
+[35.]      The sudden death of Justice Wakefield was an exceptional circumstance.  The consequence of this tragedy was that the trial needed to be rescheduled by moving the last day for trial from August 8 to October 1, 2024, being 54 days.  There are no other exceptional circumstances to consider.
+
+ 
+
+[36.]      Therefore, I reduce the Net Delay by 54 days, resulting in a Remaining Delay (Net delay – Exceptional Circumstances) of 607 days or 20 months.
+
+ 
+
+3.4 Is the Complexity of this Case sufficient to bring the Remaining Delay below the Presumptive Ceiling?
+
+ 
+
+[37.]      This is a straightforward drink/drive case without any legal or factual complexity to justify bringing the Remaining Delay below the presumptive ceiling.
+
+ 
+
+[38.]      Since the Remaining Delay exceeds the presumptive ceiling, the applicant is entitled to the remedy of a stay of proceedings.
+
+ 
+
+3.3:  Assuming that the Remaining Delay is Under the Presumptive Ceiling, has the Applicant Established that this Trial Should be Stayed?
+
+ 
+
+[39.]      If I am wrong and the Remaining Delay falls below the presumptive ceiling, it is incumbent upon me to assess whether the applicant has met his burden in such a situation.
+
+ 
+
+[40.]      To succeed in a stay application where the Remaining Delay is under the presumptive ceiling, the applicant must establish both of two conditions. First, that he made a sustained effort to expedite the proceedings to trial. Second, that the case took markedly longer than it should have. A stay of proceedings in cases falling beneath the presumptive ceiling will be granted only in the clearest of cases.
+
+ 
+
+3.3.1: Did the Applicant Make “Sustained Efforts to Expedite the Trial”?
+
+[41.]      For reasons I will explain, I find the applicant made sustained efforts to expedite the trial.
+
+ 
+
+[42.]      In the context of an application of this nature, “sustained” does not mean that the efforts by the defendant need be heroic, herculean, or blind to the needs of other clients of the defendant’s lawyer.  Instead, the efforts must satisfy the court that the defendant was not perpetuating a “culture of complacency” by being either languid or evading his obligations to attentively move the case forward.  In other words, an analysis of whether the defendant’s efforts were sustained necessarily requires consideration not only to the acts or omissions of the defence, but also to the motivation behind them.
+
+ 
+
+[43.]      I make the following observations about the conduct of the applicant.
+
+ 
+
+[44.]      First, he diligently pursued disclosure.
+
+ 
+
+[45.]      Second, he conducted both a Crown Pre-Trial meeting and a JPT without delay. 
+
+ 
+
+[46.]      Third, the court was unable to offer any dates between December 2023 and July 2024. No one can suggest, let alone claim, that he was slacking in his duties when he was not given any dates to turn down or accept.
+
+ 
+
+[47.]      Fourth, on each day that the trial was on the docket, the applicant was ready to proceed.  The respondent Crown submitted that by not wanting to bifurcate the cross-examination of a witness on Day Two, the applicant faltered in his efforts to move the matter forward.  With respect, I disagree.  There was not much time on that day to get very far with the cross-examination. Even if there was some time, counsel for the applicant fairly took the position that splitting the evidence can be difficult for all involved.  Rather than being complacent I find the applicant was pursuing a reasonable tactic in the circumstances to ensure the most efficient conduct of the trial.
+
+ 
+
+[48.]      There is nothing the applicant did, or failed to do, to frustrate the timely scheduling and completion of this case. He appeared to consistently motivated to move the case along expeditiously.  The true cause of delay was the lack of judicial resources that led to a severe impoverishment of scheduling opportunities.
+
+ 
+
+[49.]      I find that when it comes to scheduling trials and continuations, one cannot ignore the reality that at all material times, Orangeville Provincial Court was, and is, suffering from malnutrition of judicial resources.  As Local Administrative Judge, I take judicial notice of the following facts.  First, since 2005 Orangeville has been a two-judge criminal court.  Second, since then we have received no additional judicial resources despite (a) substantial population increases[6] which are proportionally higher than elsewhere in our region, (b) an increase in caseload of over 25% since 2019, and (c) general rising complexity of all trials, including drink/drive cases like this.  The consequence of these facts is that for years, including the time spanned by this case, the ability to offer to trial dates within a reasonable time is becoming more and more difficult.  This situation regarding the scheduling of continuations is even worse.
+
+ 
+
+[50.]      The truth about starved judicial resources in Orangeville is laid bare by the scheduling process in this case.  When it was first scheduled, the Trial Coordinator could not offer any dates to the parties between December 6, 2023, and July 4, 2024.  It was unreasonable to fail to provide the parties dates within seven months.  The same applies to rescheduling the continuation dates. For the first continuation, the Trial Coordinator could only offer three dates for my availability over a four-and-a-half-month period, meaning there was less than one day a month for me to continue this trial.  In scheduling the second continuation date, the Trial Coordinator could only offer five dates in four months.  All of this demonstrates that our present complement of judicial resources is stretched paper thin and this in turn is prolonging matters unjustly.
+
+ 
+
+[51.]      Over a 15-month period, the Trial Coordinator was only able to offer 19 judge days to the parties. The applicant, the prosecution, and the public all deserve to have enough judges to be able to offer more dates over such a period.
+
+ 
+
+[52.]      Looking at the situation as a whole, I find the applicant was never dodging his duty to move the case along in a timely way.  Nor do I find that any delay for which he was responsible demonstrated complacency or a mindset inconsistent with the principles set out in Jordan.  As a result, I find that the applicant made sustained efforts to expedite the trial within the impoverished availability of judges to finish the case sooner than it was.
+
+ 
+
+3.3.2:  Did this Trial “take markedly longer” than it should have?
+
+[53.]      This was a two-day trial that was supposed to start and finish inside a two-month window.  Instead, it took parts four calendar days spread over nearly nine months to complete.  This is markedly longer than it should have for the following reasons.
+
+ 
+
+[54.]      First, each day the trial was on the list, the applicant was ready and willing to proceed but his efforts were thwarted by forces beyond his control.  None of the adjournments were caused by him.
+
+ 
+
+[55.]      Second, there is nothing complex or unusual about this case:  it is a routine drink/drive matter that would very likely have been completed by October 1 had there not been overloaded trial lists.
+
+ 
+
+[56.]      Third, it took the Trial Coordinator three months to notify the parties that the trial had to be rescheduled after the death of Justice Wakefield.  Notification within four weeks would have been reasonable if we had sufficient trial coordination resources.[7]  If the parties were notified sooner, it is likely that earlier dates could have been offered.
+
+ 
+
+[57.]      Fourth, and echoing my findings regarding the sustained efforts of the applicant, the trial took unacceptably long to complete because we do not have adequate judicial resources in the Orangeville Provincial Court.  Given pressures on the court, (too few judges and a mandate to overload trial lists) judicial calendars possess scant clear days to offer trial times for new cases and even fewer days for continuations.
+
+ 
+
+[58.]      Two judges for Orangeville are not enough for this rapidly growing community.  At least three judges are needed to meet current demands. Future needs will likely require even more to respect the rights of defendants and to meet the public interest.  Put plainly, demand for trial time in Orangeville exceeds current judicial capacity to complete them within a reasonable time.
+
+ 
+
+[59.]      Stacking lists with three trials is a counterproductive measure that exacerbates the situation in Orangeville for three reasons.  First, defendants are not as likely to resolve matters in advance knowing that they have a two in three chance of not being reached on the trial date. This, in turn, leads to more trials be set in the first place.  Second, stacking lists in Orangeville without sufficient judicial complement creates a meaningful likelihood that even if commenced, a trial will probably need a continuation because we cannot start the trial on time and must clear out the other matters before starting it.  Third, when trial continuations are required (which is all too often at the moment) the lack of judicial resources means longer wait times for the parties, whatever their schedules might be.  When matters are scheduled for continuation, they are met with both measly availability for the judge and overloaded lists on the return date.  Unlike larger courts, Orangeville has no “assist courts” to handle the overflow caused by too many trials on one list.
+
+ 
+
+[60.]      For years now, Orangeville Provincial Court has been “pouring a quart into a pint jar.”  We are unable to (a) offer a reasonable array of potential trial dates over any given period, (b) reach or complete trials on the days that have been scheduled, and (c) provide suitable continuation dates.  The case at hand is a perfect illustration of this situation which is denying justice to those who are entitled to receive it in a timely way.
+
+ 
+
+[61.]      Orangeville Provincial Court suffers from a chronic deficiency of judicial resources which is getting worse over time.  A central justice stakeholder, the Office of the Crown Attorney, has done its best to manage the logjam caused by the lack of judges.  Within the Province, Dufferin County has one of the highest resolution rates prior to setting a trial in large measure because of the care and attention given by the local prosecutors, who are also under resourced.  I do not ascribe any blame to their office in this case:  each day they are faced with a Sophie’s Choice, meaning that they must choose between equally deserving alternatives. Some cases get timely justice, some don’t.  This is wrong because all cases deserve equal access to timely justice.
+
+ 
+
+[62.]      Applying these realities to this case, I find that the trial took markedly longer to complete than it should have assuming the Remaining Delay is below the presumptive ceiling because too few trial dates were offered by the court.  A system that forces a simple two-day trial to take chunks of four days to complete over nearly nine months is patently unacceptable. 
+
+ 
+
+[63.]      The main cause delay in this case was too few judges with too many cases and too little time to start and finish matters within a reasonable time.  There many other cases in the system likely to be negatively impacted by this state of affairs until the systemic under resourcing is remedied.
+
+ 
+
+[64.]      Taking a “bird’s eye view” of the matter, I am well satisfied that if the Remaining Delay is under the presumptive ceiling, the applicant made sustained efforts to expedite the case and that the matter took markedly longer than it should have.
+
+ 
+
+[65.]      I am further satisfied that is one of those “clearest of cases” that require the remedy of a stay of proceedings as it exposes deep systemic problems in providing timely and fair access to justice in Orangeville.
+
+ 
+
+4.0: CONCLUSION
+
+[66.]      For the reasons set out above, the applicant has satisfied me that his right to be tried within a reasonable time has been violated.  Therefore, his application is granted.
+
+ 
+
+[67.]       Since Count #2 was dismissed, no relief is necessary.
+
+ 
+
+[68.]      The charge for which the applicant was found guilty (Count #1) shall be stayed. 
+
+ 
+
+[69.]      The return date is vacated.
+
+ 
+
+ 
+
+                                                        
+
+                                                                        Richard H.K. Schwarzl,
+
+                                                                        Justice of the Ontario Court of Justice
+
+ 
+
+
+[1] I have marked days accepted by either party in bold.
+
+[2] “Comments” refers to any notations made by the Trial Coordinator during the scheduling meeting.
+
+[3] This gap is important later in these reasons.
+
+[4] There is no evidence why it took the Trial Coordinator three months to reschedule the first day of trial.  However, as Local Administrative Judge for Orangeville, I can say that our trial coordinator resources are often stretched to, and beyond, the breaking point as they have insufficient capacity to cope with our ever-expanding caseload.
+
+[5] Months before this trial was scheduled, provincial courts of small to medium size (such as Orangeville) were directed by the Chief Justice to put the equivalent of three one-day trials on every trial list. A “one-day trial” is defined as four hours, meaning that twelve hours of work is to be placed in a trial court that opens at 10:00 a.m. and closes at 4:30 p.m., or 6.5 hours.  The actual time to hear trials is only 5.0 hours when one deducts time for scheduled lunch and other breaks.
+
+[6] Over the past two censuses, the population of our service grew by nearly 20%.
+
+[7] For example, we are the only courthouse in the Region that requires the Trial Coordinator to handle both Provincial Court and Superior Court.  This obligation to serve two masters results in neither being served well.

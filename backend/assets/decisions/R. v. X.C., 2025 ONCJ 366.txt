@@ -1,0 +1,336 @@
+Link: https://canlii.ca/t/kd116
+Date: 2025 07 07
+File number: Toronto #4810 998 25 Y4810762-00
+Citation: R. v. X.C., 2025 ONCJ 366
+Court: Supreme Court
+Region: Not found
+Client: X.C.
+Judge: Justice Brock Jones
+
+R. v. X.C., 2025 ONCJ 366 (CanLII), <https://canlii.ca/t/kd116>, retrieved on 2025-09-18
+
+ONTARIO YOUTH COURT OF JUSTICE
+
+WARNING
+
+The court hearing this matter directs that the following notice be attached to the file:
+
+This is a case under the Youth Criminal Justice Act and is subject to subsections 110(1) and 111(1) and section 129 of the Act.  These provisions read as follows:
+
+110.  IDENTITY OF OFFENDER NOT TO BE PUBLISHED —(1)  Subject to this section, no person shall publish the name of a young person, or any other information related to a young person, if it would identify the young person as a young person dealt with under this Act.
+
+.   .   .
+
+111.  IDENTITY OF VICTIM OR WITNESS NOT TO BE PUBLISHED —(1)  Subject to this section, no person shall publish the name of a child or young person, or any other information related to a child or a young person, if it would identify the child or young person as having been a victim of, or as having appeared as a witness in connection with, an offence committed or alleged to have been committed by a young person.
+
+.   .   .
+
+129.  NO SUBSEQUENT DISCLOSURE — No person who is given access to a record or to whom information is disclosed under this Act shall disclose that information to any person unless the disclosure is authorized under this Act.
+
+Subsection 138(1) of the Youth Criminal Justice Act, which deals with the consequences of failure to comply with these provisions, states as follows:
+
+138.  OFFENCES —  Every person who contravenes subsection 110(1) (identity of offender not to be published), 111(1) (identity of victim or witness not to be published)  . . .  or section 129 (no subsequent disclosure)  . . .
+
+   (a)   is guilty of an indictable offence and liable to imprisonment for a term not exceeding two years; or
+
+   (b)   is guilty of an offence punishable on summary conviction.
+
+
+ 
+
+CITATION:  R. v. X.C., 2025 ONCJ 366
+
+DATE:  2025 07 07
+
+COURT FILE No.:  Toronto #4810 998 25 Y4810762-00
+
+ 
+
+ 
+
+BETWEEN:
+
+ 
+
+HIS MAJESTY THE KING
+
+ 
+
+— AND —
+
+ 
+
+X.C. (A Young Person)
+
+ 
+
+ 
+
+ 
+
+Application For The Appointment Of Counsel
+
+ 
+
+Youth Criminal Justice Act section 25(4)
+
+ 
+
+Before Justice Brock Jones
+
+ 
+
+Heard and Granted on July 3, 2025
+
+ 
+
+Written Reasons released on July 7, 2025
+
+ 
+
+ 
+
+ 
+
+M. Di Sabatino……………………………………….………………counsel for the Crown
+
+M. Zaffina / I. L. Dallas………………………….………………………….counsel for X.C.
+
+ 
+
+Jones J.:
+
+I.            Introduction
+
+[1]         Most young people involved with the youth criminal justice system come from difficult backgrounds. They are socio-economically deprived and, regrettably, often lack a stable home environment. Many have current or past ties to the child welfare system. Nearly all are underprivileged. Other inequities appear tragically inescapable. Racialized and Indigenous youth “disproportionately interact with the criminal justice system for a complex variety of reasons, which include both direct and systemic racial discrimination within the system”: see R. v. C.P., 2021 SCC 19, at para. 88.
+
+[2]         In recognition of their vulnerable status and the financial constraints faced by provincial legal aid programs, Parliament included a provision in the Youth Criminal Justice Act (“YCJA”) that grants a youth justice court jurisdiction to order state-funded counsel for a young person when certain criteria are met. YCJA section 25(4) orders serve as the final safeguard of fairness and equal protection for disadvantaged young persons who are charged with a criminal offence.
+
+[3]         Yet surprisingly, at what stage of the proceedings a young person can lawfully apply for a YCJA section 25(4) order remains somewhat uncertain. This has led to a debate among youth justice courts, resulting in inconsistent procedures and outcomes. The lack of a uniform approach appears to stem from different interpretations of the statutory requirement that a young person must be “at trial” before a youth justice court has jurisdiction to grant the order. In my view, several reported decisions have unnecessarily restricted the scope of this critical remedial provision.
+
+[4]         On July 3, 2025, X.C. applied for an order appointing Mr. Zaffina and Mr. I. Loui Dallas as his counsel under YCJA section 25(4). He was charged with one count of breaking and entering. He had been denied a legal aid certificate. The application was brought in open court, as is standard practice at present. No one questioned my jurisdiction to make the order, and the Crown did not oppose it being granted. X.C., like any accused person, is presumed innocent, and through Mr. Zaffina indicated his intention to have a trial.
+
+[5]         At this early juncture, X.C. had not yet been arraigned. His case remained in the case management phase, where counsel generally obtains and reviews disclosure materials provided by the Crown. His case was one of eleven YCJA section 25(4) applications I heard that day. In each case, had I denied the application, the young person would have been left without a lawyer.
+
+[6]         In these reasons, I explain why I made the order. I also aim to clarify why YCJA section 25(4) should be given a broad, generous interpretation, consistent with both Parliament’s intent and the values underlying the Canadian youth criminal justice system. Simply put: a young person is considered “at trial” from the moment they decide to contest the allegations against them, in accordance with their constitutionally guaranteed presumption of innocence.
+
+[7]         Furthermore, I offer some guidance as to how these applications should be processed in the future. There is no requirement that an uncontested application for a YCJA section 25(4) order be heard in open court. That demands the attendance of the young person and their intended counsel, as well as the use of limited court time, which is both unnecessary and costly. That time is precious and should be reserved for cases that require detailed attention and consideration. These applications can be handled far more efficiently by filing them electronically with the youth justice court, along with notice to the Crown, and appropriate supporting documentation. Where the Crown does not oppose the application, it can be decided without a formal hearing, thereby obviating the need for an additional, unnecessary court appearance by the young person.
+
+II.            YCJA Section 25
+
+[8]          Section 25 of the YCJA creates a statutory right to counsel for young persons. It has no analogue in the Criminal Code. To determine what Parliament meant by requiring that a young person be “at trial” for an order appointing publicly funded counsel under section 25(4), various parts of section 25 of the YCJA must be carefully considered. I reproduce the relevant portions below, with my emphasis added.
+
+25 (1) A young person has the right to retain and instruct counsel without delay, and to exercise that right personally, at any stage of proceedings against the young person and before and during any consideration of whether, instead of starting or continuing judicial proceedings against the young person under this Act, to use an extrajudicial sanction to deal with the young person.
+
+(2) Every young person who is arrested or detained shall, on being arrested or detained, be advised without delay by the arresting officer of the right to retain and instruct counsel, and be given an opportunity to obtain counsel.
+
+(3) When a young person is not represented by counsel
+
+(a) at a hearing at which it will be determined whether to release the young person or detain the young person in custody,
+
+(a.1) at a hearing held in relation to an order referred to in subsection 14(2) or 20(2),
+
+(b) at a hearing held under section 71 (hearing — adult sentences),
+
+(c) at trial,
+
+(d) at any proceedings held under subsection 98(3) (continuation of custody), 103(1) (review by youth justice court), 104(1) (continuation of custody), 105(1) (conditional supervision) or 109(1) (review of decision),
+
+(e) at a review of a youth sentence held before a youth justice court under this Act, or
+
+(f) at a review of the level of custody under section 87,
+
+the justice or youth justice court before which the hearing, trial or review is held, or the review board before which the review is held, shall advise the young person of the right to retain and instruct counsel and shall give the young person a reasonable opportunity to obtain counsel.
+
+(4) When a young person at trial or at a hearing or review referred to in subsection (3) wishes to obtain counsel but is unable to do so, the youth justice court before which the hearing, trial or review is held or the review board before which the review is held
+
+(a) shall, if there is a legal aid program or an assistance program available in the province where the hearing, trial or review is held, refer the young person to that program for the appointment of counsel; or       
+
+(b) if no legal aid program or assistance program is available or the young person is unable to obtain counsel through the program, may, and on the request of the young person shall, direct that the young person be represented by counsel.
+
+(5) When a direction is made under paragraph (4)(b) in respect of a young person, the Attorney General shall appoint counsel, or cause counsel to be appointed, to represent the young person.
+
+(6) When a young person, at a hearing referred to in paragraph (3)(a) or (a.1) that is held before a justice who is not a youth justice court judge, wishes to obtain counsel but is unable to do so, the justice shall
+
+(a) if there is a legal aid program or an assistance program available in the province where the hearing is held,
+
+(i) refer the young person to that program for the appointment of counsel, or
+
+(ii) refer the matter to a youth justice court to be dealt with in accordance with paragraph (4)(a) or (b); or
+
+(b) if no legal aid program or assistance program is available or the young person is unable to obtain counsel through the program, refer the matter without delay to a youth justice court to be dealt with in accordance with paragraph (4)(b).
+
+(7) When a young person is not represented by counsel at trial or at a hearing or review referred to in subsection (3), the justice before whom or the youth justice court or review board before which the proceedings are held may, on the request of the young person, allow the young person to be assisted by an adult whom the justice, court or review board considers to be suitable.
+
+(8) If it appears to a youth justice court judge or a justice that the interests of a young person and the interests of a parent are in conflict or that it would be in the best interests of the young person to be represented by his or her own counsel, the judge or justice shall ensure that the young person is represented by counsel independent of the parent.
+
+(9) A statement that a young person has the right to be represented by counsel shall be included in
+
+(a) any appearance notice or summons issued to the young person;
+
+(b) any warrant to arrest the young person;
+
+(c) any undertaking entered into before a peace officer by the young person;
+
+(d) [Repealed, 2019, c. 25, s. 364]
+
+(e) any notice given to the young person in relation to any proceedings held under subsection 98(3) (continuation of custody), 103(1) (review by youth justice court), 104(1) (continuation of custody), 105(1) (conditional supervision) or 109(1) (review of decision); or
+
+(f) any notice of a review of a youth sentence given to the young person.
+
+III.         Positions of the Parties
+
+[9]         When applying for the order, Mr. Zaffina highlighted several factors for my consideration. Firstly, his client is presumed innocent and plans to take the case to trial. Secondly, he argued that, as a young person, X.C. cannot be expected to navigate the complex modern criminal justice system alone. The disclosure materials in the case are extensive and include multiple videos, one of which features lengthy surveillance footage. The frequent court appearances during the case management phase have caused difficulties for his client, who has been unrepresented thus far. Once full disclosure is provided and the case is ready to move to the next stage in the fall, his client should be able to focus on school while he handles the trial preparations. 
+
+[10]      Mr. Zaffina noted as well that his client is a marginalized young person, without the level of financial support necessary to afford a lawyer. Having been denied a legal aid certificate, a YCJA section 25(4) order was the only means by which he could obtain counsel and properly defend himself.
+
+[11]      Ms. Di Sabatino consented to the order. She did not dispute any of the submissions made by Mr. Zaffina.
+
+IV.         The Process Of Applying For A Legal Aid Certificate
+
+[12]      After being charged with an offence, a young person may speak with duty counsel at or before their first court appearance. They are screened to determine if they qualify for duty counsel services or a legal aid certificate, which they can use to retain a private lawyer. However, this typically requires the Crown’s office to provide the young person with a screening form and at least an initial disclosure package. This process can take weeks or even months. In Toronto, it is common for at least three months to pass before basic disclosure is provided to an accused person. I have often seen it take six months or more to happen.
+
+[13]      Legal Aid Ontario (LAO) uses its criteria to decide which young people qualify for coverage. These include an evaluation of the young person’s family’s financial situation and the nature of the charges, as well as the likely penalty if they are found guilty. If they do not qualify, they will not be able to access complete duty counsel services or receive a certificate to hire a lawyer. The financial criteria may change, but currently, if the family income exceeds $45,440, they will be rejected.[1]
+
+[14]      A young person may appeal that decision internally within LAO, which often takes several more weeks or even months to process. During this period, the young person is usually required to make multiple court appearances. It is not uncommon for our youth case management courts in Toronto to sit until well after 5 p.m., forcing unrepresented youth to miss entire days of school for what have become routine court appearances while this process unfolds. Concerned parents who wish to attend with their child will need to take time off work, resulting in lost income. Understandably, this time-consuming process can be frustrating.
+
+V.           The Limited Scope of Duty Counsel Services
+
+[15]      Young persons may choose to forgo hiring a lawyer and instead rely on the assistance of duty counsel if they qualify for those services. When the Crown offers extra-judicial sanctions (“EJS”) to resolve a case, this may be adequate to address the young person’s needs. EJS constitute community-based measures that hold young people accountable for their actions through a process that diverts them from the formal court system. A young person willing to accept responsibility for their actions and complete the required programming may conclude they have received sufficient legal advice and assistance from duty counsel. After completing EJS, the charges against them are withdrawn. However, the youth records associated with EJS are retained for two years, as per YCJA section 119(2)(a).
+
+[16]      While duty counsel may help young persons make some initial decisions about their charges and how to proceed, they cannot replace a fully retained lawyer. Duty counsel cannot review the entire Crown’s disclosure package in every case, which is often a monumental task. This review is crucial for thoroughly assessing the strength of the Crown’s case and any potential defences. At most, duty counsel can review a synopsis provided by the Crown and some initial disclosure material, such as officers’ notes. However, that will typically only be the tip of the iceberg. Criminal cases in Toronto now involve enormous amounts of material, including multiple videos in nearly every case. Indeed, the “exponential increase in demand for video disclosure” has contributed to most Jordan applications over the past few years: see, for example, R. v. Kulasingam, 2025 ONSC 3619, at para. 41.
+
+[17]      Importantly, duty counsel cannot represent a young person at trial, as this exceeds their mandate. For any young person who wishes to contest their charges, retaining a lawyer is the only available option. The Law Society of Ontario does not permit licensed paralegals to represent young persons, recognizing their unique need for representation by a lawyer: see also R. v. K.P.D., 2015 ONCJ 88.
+
+[18]      I want to acknowledge the commendable efforts of the duty counsel in this courthouse to assist every young person who relies on their services. Their valiant efforts deserve to be praised. They care and want to help the youth who come before the courts. Duty counsel routinely go above and beyond what is generally expected of their office to fulfill their obligations to the youth justice court. However, there is only so much they can do.
+
+VI.         The Importance of Counsel For Young Persons
+
+[19]      Any self-represented accused person must familiarize themselves with the substantive law applicable to their case and also comply with complex procedural and evidentiary rules. Prior courts and legal commentators have written much about the enormous difficulties this presents, some of which are glaring and obvious. I need not repeat those remarks here.[2] But I emphasize that for young persons, these concerns are greatly amplified. In R. v. D.B., 2008 SCC 25, Justice Abella of the Supreme Court quoted Professor Bala of Queen’s University, who explained that "…adolescents generally lack the judgment and knowledge to participate effectively in the court process and may be more vulnerable than adults”: see para. 64.
+
+[20]      Additionally, distinct legal issues will be present in nearly every youth case, beyond those which arise regularly in adult criminal cases. Like adults, young people will need to understand which defences might be available at trial and how to challenge the admissibility of the Crown’s evidence. In youth court, this requires fluency in the YCJA’s unique statutory provisions, which have no equivalent in the Criminal Code. For example, YCJA section 146 imposes additional burdens on the Crown to establish the admissibility of a statement made by a young person to a person in authority. A young person will also need to know how to challenge the credibility of the Crown’s witnesses, some of whom will be youth or young adults who have their own histories with the youth criminal justice system. To rely upon that information lawfully requires an understanding of the YCJA’s privacy and records provisions—something that can be quite daunting, even for experienced lawyers. Finally, applying the Charter of Rights and Freedoms in a youth criminal trial may necessitate different legal strategies when a young person’s rights are violated compared to those of an adult: see, for example, R. v. K.J.M., 2019 SCC 55.
+
+[21]      If a young person is offered a plea deal, they must understand not only the immediate implications of the sentence proposed by the Crown’s office but also the long-term consequences of a youth finding of guilt. This requires both being able to comprehend the record retention periods outlined in Part VI of the YCJA and having an understanding of how the collateral effects of a youth record may impact the young person’s ability to access social services, educational opportunities, or housing.
+
+[22]      These are just a few examples of the significant obstacles that any self-represented young person would encounter. They emphasize the crucial importance of ensuring that a lawyer represents every young person facing a criminal charge. Indeed, ensuring that young persons have access to counsel when they become entangled in the criminal justice system has been described as nothing less than the “essence of justice”: see Kent v. United States, 383 U.S. 541 (1966), at 561.
+
+[23]      The vast majority of young persons will be unable to obtain financial assistance from a parent or guardian to retain a lawyer. Even for those young persons whose caregivers are willing to support them, hiring a private lawyer represents a substantial financial burden. The option of doing so is often more illusory than real.
+
+[24]      To that end, I observe that the Ontario Court of Appeal has held that sections 7 and 11(d) of the Charter may require the appointment of counsel for an adult accused person who cannot obtain representation by a provincial legal aid plan, if that appointment is necessary for a fair trial: see R. v. Rowbotham, 1988 CanLII 147 (ON CA), [1988] O.J. No. 271, 41 C.C.C. (3d) 1 (C.A.), at p. 66 C.C.C.; R. v. P.C., 2014 ONCA 577, at para. 20. That concern is profoundly greater for a young person than for an adult, and the constitutional values that animate these decisions must also, in my view, breathe life into YCJA section 25(4).
+
+VII.        The Existing Jurisprudence Interpreting YCJA Section 25(4)
+
+[25]      If a young person finds that duty counsel services do not meet their needs and is denied a legal aid certificate, they can apply for a YCJA section 25(4) order. Only a youth justice court judge has the authority to grant the order.
+
+[26]      In R. v. L. S., 2006 CanLII 40609 (Ont. C.A.), a 13-year-old young person charged with uttering a threat applied for a YCJA section 25(4) order. The youth justice court denied him the order, referring him instead to duty counsel. The young person was offered EJS, and the court viewed the consequences for the young person as “minimal.”
+
+[27]      The Ontario Court of Appeal held that a young person can only apply for publicly funded counsel when they are at a “certain stage of proceedings and unable to obtain legal counsel through legal aid,” as stated in para. 9. The Court noted that although a young person can apply for such an order while “at trial,” L.S. had not yet decided if they were going to trial when the application was first submitted to the youth justice court judge. Based on this timeline, the youth court judge’s decision to refuse appointment of counsel was considered appropriate: see paras. 9-11.
+
+[28]      L.S. stands for a straightforward proposition – that a young person should first decide whether they wish to dispute their charges at a trial before submitting an application pursuant to YCJA section 25(4) to a youth justice court judge.[3] However, the case does not otherwise affect the jurisdiction of a youth justice court to make an order appointing state-funded counsel under section 25(4). Nor did it directly address when a young person was “at trial” for the purposes of this subsection, beyond the very narrow factual situation presented on the appeal.
+
+[29]      Subsequent decisions have relied on L.S. and debated when a young person is “at trial” for this section. In R. v. J.N., [2008] O.J. No. 920, Justice Jennis stated that a young person cannot be considered “at trial” simply because they express a desire to have one. This would be “impractical”: see para. 13. In R. v. R.K.S., [2007] O.J. No. 1255, Justice Kukurin noted that the phrase "at trial" indicates a later stage of a criminal case, although identifying the exact start of that stage is difficult: see para. 24. The court in that case rejected an application for a 25(4) order during the case management phase.
+
+[30]      In R. v. J.B., 2019 ONCJ 997, Justice Bentley reviewed these authorities and concluded that a young person is not “at trial” simply because the Crown denies an offer of EJS.  Such an interpretation was “not logical” and would make the provision “meaningless”: see para. 19. Instead, it is only when the young person is arraigned and enters a plea that they can be considered “at trial,” and an order appointing counsel can be lawfully issued.
+
+[31]      I respectfully disagree with these previous decisions. I believe they have mistakenly imposed undue limitations on the authority of youth justice courts to issue YCJA section 25(4) orders.  They did not engage with the entire statutory scheme of the YCJA or Canada’s international law commitments. Additionally, there have been significant developments in the Supreme Court’s jurisprudence since these decisions were rendered. As a result, I do not find that they should be followed on the principle of horizontal stare decisis as they were decided per incuriam: see R. v. Sullivan, 2022 SCC 19, at paras. 73-9.
+
+VIII.      When Is A Young Person “At Trial”?
+
+[32]      When deciding what is meant by the young person being “at trial” for YCJA s. 25(4), certain principles of statutory interpretation must be taken into account. The meaning of a statutory provision is determined by reference to its text, context, and purpose: Piekut v. Canada, 2025 SCC 13, at para. 43. In R. v. Kim, 2025 ONCA 478, the Ontario Court of Appeal explained the correct approach at paras. 32-33:
+
+Statutory interpretation is centred on the intent of the legislature at the time of enactment and courts are bound to give effect to that intent”: Telus Communications Inc. v. Federation of Canadian Municipalities, 2025 SCC 15, 36 Admin. L.R. (7th) 173, at para. 32. Thus, the text of the provision under consideration is always the starting point and the anchor of the analysis: “just as the text must be considered in light of the context and object, the object of a statute and that of a provision must be considered with close attention always being paid to the text of the statute, which remains the anchor of the interpretive exercise”: Commission des droits de la personne et des droits de la jeunesse v. Directrice de la protection de la jeunesse du CISS A, 2024 SCC 43, at para. 24. Furthermore, statutory interpretation requires attending not only to the ends the legislature sought to achieve, but the specific means the legislature chose to achieve that purpose: “The text specifies, among other things, the means chosen by the legislature to achieve its purposes. These means ‘may disclose qualifications to primary purposes, and this is why the text remains the focus of interpretation’”: Québec (Commission des droits de la personne et des droits de la jeunesse), at para. 24, citing M. Mancini, “The Purpose Error in the Modern Approach to Statutory Interpretation” (2022) 59 Alta. L. Rev. 919, at p. 927.
+
+Sometimes the meaning of a word or a sentence is ambiguous, potentially leaving the reader uncertain as to which of two or more meanings was intended. Most semantic ambiguity is easily resolved by reference to the immediate context in which the words are used. Where ambiguity appears irresolvable, extraneous evidence of intent can be permitted. Unlike other forms of textual indeterminacy – such as vagueness – irresolvable ambiguity in legislative drafting is never intentional and is extremely rare: Pong Marketing and Promotions Inc. v. Ontario Media Development Corporation, 2018 ONCA 555, 142 O.R. (3d) 542, at paras. 44-47.
+
+[33]      As a starting point, the words “at trial” contained in the text of YCJA section 25 could be construed to mean literally the commencement of the young person’s trial following their arraignment. But this cannot be correct. Being “at trial” cannot mean that a young person’s chosen lawyer can only be appointed via YCJA section 25(4) on the morning of trial, following the arraignment. That would mean counsel couldn't obtain disclosure, provide advice, or receive instructions prior to the arraignment if such a strict interpretation of "at trial" were to govern. The order appointing counsel must therefore be available at a point prior to the formal commencement of the trial. The question, therefore, is when? By considering the context of some of the remaining provisions of section 25 and analyzing the purpose of the YCJA, the answer can be found.
+
+[34]      YCJA section 25(1) states that a young person has the “right to retain and instruct counsel without delay, and to exercise that right personally, at any stage of proceedings against the young person…”[4]  This section thus establishes a broad statutory right to counsel that applies throughout an entire case. It helps inform what is meant by the term “at trial” in the subsequent sections 25(3) and 25(4).
+
+[35]      Parliament included several different types of hearings for young persons in YCJA section 25(3), which are referenced in 25(4) as being eligible for the appointment of counsel. These are intended to be considered as entirely separate from a trial. They include, for example, bail hearings and hearings for various types of peace bonds. They also include applications for an adult sentence by the Crown and sentence review hearings. Noticeably absent is that Parliament did not include a sentencing hearing (absent an adult sentence application by the Crown) as a distinct type of hearing under 25(3). That is because a standard sentencing hearing was meant to be encapsulated in the definition of being “at trial.” That provides contextual support that the definition of being “at trial” was meant to be more expansive than what the words by themselves might appear to mean at first instance if interpreted narrowly. A young person facing jeopardy with respect to their liberty interests, including possibly a custodial disposition, following a sentencing hearing, must be entitled to counsel even if they are impecunious. 
+
+[36]      Further assistance is found in the original intention and purposes of the YCJA, which are reflected in the preamble and the core principles of the Act. The preamble states that young persons have “special guarantees of their rights and freedoms.”[5] These are not merely empty words. A preamble provides some social context to the policy concerns that Parliament has chosen to address with the legislation in question. As noted by the Ontario Court of Appeal in R. v. Clarke, 2013 ONCA 7, “the words of a statute take their colour and their meaning from their context and the Act’s purpose”: see para. 21. Furthermore, section 13 of the Interpretation Act states that “the preamble of an enactment shall be read as part of the enactment intended to assist in explaining its purport and object.”
+
+[37]      YCJA section 3(1)(b)(iii) forms part of its Declaration of Principle. It states that the youth criminal justice system must emphasize the existence of “enhanced procedural protections to ensure that young persons are treated fairly, and that their rights… are protected”. Section 3(2) states that the Act “shall be liberally construed to ensure that young persons are dealt with in accordance with the principles set out in subsection (1).” In R. v. T.J.M, 2021 SCC 6, the Supreme Court of Canada held that Parliament’s intention when enacting the YCJA was “to provide young persons with enhanced procedural protections throughout the criminal process in recognition of their age, and to create less formal and more expeditious proceedings…”: see para. 26.[6]
+
+[38]      Parliament’s intention is also reflected in the YCJA’s explicit reference to Canada’s international law commitments. The preamble to the Act refers to the United Nations Convention on the Rights of the Child, Can. T.S. 1992 No. 3. In Society of Composers, Authors and Music Publishers of Canada v. Entertainment Software Association, 2022 SCC 30, the Supreme Court held that “[a] treaty should be considered when interpreting statutes that purport to implement the treaty, in whole or in part. The treaty is relevant at the context stage of the statutory interpretation exercise”: see para. 44. The values and principles of the UNCRC “recognize the importance of being attentive to the rights and best interest of children when decisions are made that relate to and affect their future”: see Baker v. Canada (Minister of Citizenship and Immigration), 1999 CanLII 699, at para. 70. The UNCRC has been relied upon by the Supreme Court of Canada in several decisions interpreting the provisions of the YCJA: see R. v. R.C., 2005 SCC 61, at para. 41; R. v. C.D. and C.D.K., 2005 SCC 78, at para. 35; D.B., supra, at para. 60.
+
+[39]      Section 40(2)(b)(ii) of the UNCRC is relevant for determining the scope of YCJA section 25(4). It states that every child accused of having infringed the penal law has the guarantee “to have legal or other appropriate assistance in the preparation and presentation of his or her defence.”[7]
+
+[40]      The United Nations Standard Minimum Rules for the Administration of Juvenile Justice (“The Beijing Rules”)[8] were adopted by the General Assembly on November 29, 1985. The rules have also been referenced by the Supreme Court of Canada when interpreting provisions of the YCJA: see D.B. at para. 85. Rule 7.1 requires that member states ensure that every juvenile accused of a criminal offence has the right to counsel at “all stages of proceedings.”[9]
+
+[41]      In my view, these provisions of both the UNCRC and the Beijing Rules strongly support a broad interpretation of what it means for a young person to be “at trial” for the purposes of YCJA sections 25(3) and (4). Furthermore, the Supreme Court of Canada has consistently adopted an expansive view of children’s rights in its modern jurisprudence, across all areas of law. In D.B.S. v. S.R.G, 2006 SCC 37, Bastarache J. held for the majority that “courts are not to be discouraged from defending the rights of children when they have the opportunity to do so”: see para. 60. In Michel v. Graydon, 2020 SCC 24, Wagner C.J. and Martin J. wrote that children are to be seen as “full rights bearers” who are “made vulnerable by dependency, age, and need”, thus deserving “society’s full protection”: see para. 77. In R. v. Jarvis, 2019 SCC 10, all judges of the Supreme Court approved an interpretation of a Criminal Code provision (the offence of voyeurism) that recognized a broader scope of privacy rights for children than for similarly situated adults, emphasizing their unique need for protection: see para. 86.
+
+[42]      I conclude that a key objective of the YCJA is to ensure that young persons are represented by counsel, in one form or another, throughout all stages of the criminal justice process. While duty counsel may effectively serve that role for many young persons, retaining defence counsel will be necessary for others. A strict and inflexible approach to interpreting section 25 must be rejected. In T.J.M, the Supreme Court noted that certain provisions of the YCJA aim to provide a “measure of flexibility” for young persons that is not always available to adult accused persons: see para. 26. Properly interpreting what it means to be “at trial,” based on these prior authorities, means ensuring the broadest possible application of the values underlying the Act, in line with Parliament’s intent: see YCJA section 3(2).
+
+[43]      Moreover, a fundamental principle of statutory interpretation is that interpretations should avoid absurd results: see R. v. Penunsi, 2019 SCC 39, at para. 41. An absurd result "defeats the purpose of a statute or renders some aspect of it pointless or futile”: see Keatley Surveying Ltd. v. Teranet Inc., 2019 SCC 43, at para. 96. Refusing to order the appointment of counsel during the case management phase of the proceedings and before a formal arraignment, despite the young person’s expressed desire to have a trial in the future, would undermine Parliament’s clear intention to safeguard the fair trial interests of inherently vulnerable youth: see A. B. v. Bragg Communications, 2012 SCC 46, at para. 17.
+
+[44]      I note as well that requiring a young person to be arraigned and enter a plea before being considered "at trial", as held in J.B., creates various difficulties. First, once a young person expresses a desire to challenge the case against them, it is not for a youth justice court to impose barriers to a trial. It is the constitutional right of any accused person to put the Crown to its proof and to rest on the presumption of innocence: Charter section 11(d). Effectively denying a young person their right to legal representation once they express that desire may unduly pressure them into abandoning their right to a trial. They cannot be certain that a future court will grant the order appointing counsel, leaving them in a state of uncertainty regarding their ability to be represented by a lawyer. Many may reluctantly choose to plead guilty, against their true wishes, to bring matters to a conclusion.
+
+[45]      Another practical issue arises if a young person is not considered “at trial” during the case management phase of the proceedings. Suppose a young person has chosen a preferred lawyer who is tentatively prepared to accept an offer of representation. In that case, that lawyer should not be expected to work on the young person's behalf for an indefinite period without a guarantee of compensation. As previously noted, reviewing the disclosure materials alone in most youth cases will require a considerable amount of time and effort. A narrow interpretation of YCJA section 25(4) could discourage lawyers from being willing to represent vulnerable youth, leading to long-term harm to the justice system. It would also place any lawyer in a difficult, possibly impossible, ethical dilemma—having to decide whether they can advise a young person on how to respond to the arraignment without being properly retained. That step should only be taken after counsel has had the opportunity to review the disclosure materials and receive instructions from their client. It is impossible to genuinely separate the pre-trial phase of a case from the trial phase in this context, and attempting to do so would draw an artificial and unhelpful boundary in what is one fluid process.
+
+[46]      By requiring that a young person be “at trial” before a YCJA section 25(4) order may be granted, Parliament simply intended that the youth justice court be satisfied that the young person has decided they wish to contest the charges and will not be accepting any form of resolution that duty counsel could assist them with. 
+
+IX.         A Preferable Procedure
+
+[47]      Traditionally, applications for a YCJA section 25(4) order have been made in open court with an oral hearing. These proceedings take time, even if they are uncontested. Potential counsel must attend and wait to be called on busy court lists. The young person must also be in attendance. In Toronto, youth case management court lists are often quite lengthy, with hundreds of cases scheduled for the day. Currently, after appearing in one of these courts, which is presided over by a Justice of the Peace, the young person and counsel must be adjourned or transferred to a different courtroom, before a Youth Court Judge, for the application to be heard. It is unfortunate that the young person, their family, and counsel must go through this complicated process before the application can be considered on its merits.
+
+[48]      In rare cases, court time may be required to adjudicate these applications properly. For example, if the Crown’s office opposes the application, a youth court judge will need to hold a hearing. However, in the vast majority of these applications, where the Crown’s office does not oppose the application or takes no position on whether it should be granted, there is no reason to allocate valuable court time for a formal hearing.
+
+[49]      When I heard X.C.’s application for a YCJA section 25(4) order, I was presiding in 607Y. That court does not usually have duty counsel present. While many of the applications before me involved private criminal defence counsel assisting their potential clients, a considerable number involved entirely self-represented young persons. They appeared before me, unsure of what to do or how to even explain that Legal Aid had denied them a certificate. Some had a parent with them, while others were alone. Each had to advocate before a court as a teenager. It took hours before all of the applications could be addressed, given the volume of cases. One lawyer chose to adjourn a scheduled application to yet another date, as he could not wait around to be heard due to his other commitments. This was not an efficient use of judicial resources.  
+
+[50]      The same day I heard these applications, I also heard several guilty pleas involving young persons in custody. The time required to complete each of those cases was significant. The young persons had complicated backgrounds, and understanding their personal histories and what led them into conflict with the law was essential to arriving at a just disposition. The parents who attended were actively involved in their children’s lives and were given the opportunity to address the court. In one case, a lengthy section 34 assessment was presented for my consideration. The time required to adjudicate matters of this nature properly must be given priority.
+
+[51]      YCJA section 25(4) applications should be submitted in writing, preferably electronically, along with appropriate supporting documentation to the youth justice court.[10] As officers of the court, counsel assisting the young person with the application must ensure that all necessary materials are included, such as a refusal letter from Legal Aid Ontario, and a written statement confirming the young person has refused EJS (or it was never offered) and will instead go to trial, but is unable to afford private counsel. If the judge reviewing the application is satisfied that the criteria in YCJA section 25(4) are met, the order can be granted, and a signed endorsement confirming this should be provided to counsel.
+
+[52]      Nothing in the YCJA mandates a specific procedure for these applications or requires them to be heard in open court. Youth justice courts are free to develop procedures that they consider appropriate: see R. v. Samaniego, 2022 SCC 9, at para. 20. The Supreme Court of Canada has encouraged trial courts to explore more efficient methods for handling routine or even complex applications. For instance, in R. v. J.J., 2022 SCC 28, the Supreme Court observed that, regarding the procedure mandated by sections 278.92 to 278.94 of the Criminal Code for an application to introduce other sexual history evidence or private records of a complainant, the legislation “does not specify how the Stage 1 inquiry is to be conducted.” The Court determined that the inquiry could proceed “as an application in writing, an oral hearing, or both, as the judge sees fit”: see para. 27.[11]
+
+[53]      There are clear advantages to youth justice courts encouraging written applications, which can be decided outside of regular court hours. Youth cases, more so than adult cases, require careful attention from all involved parties. How a case is resolved could greatly influence a young person’s entire life path. Court time is limited. By managing applications in writing rather than through oral hearings, more focus can be given to cases that need meaningful judicial oversight. Moreover, every unnecessary court appearance for case management purposes is costly and may further entrench a young person in the criminal justice system. It is far better for the young person to spend that time in school, with their family, or linked to community services. This approach helps the young person develop positive social connections, which significantly lowers the chance of re-engagement with the justice system later.
+
+[54]      Youth justice courts should not default to traditional procedures that frustrate, rather than promote, a young person’s rehabilitation. We must be innovative. Indeed, in Jordan, the Supreme Court noted that its concerns about the “culture of complacency towards delay” that had emerged in the criminal justice system stemmed, in part, from the long-standing acceptance of unnecessary procedures and inefficient practices: see paras. 40-41.
+
+[55]      To that end, youth justice courts must also be mindful of the Supreme Court’s admonition in K.J.M. that it remains the responsibility of all justice system participants to ensure that youth criminal cases “proceed expeditiously”, recognizing the “enhanced need for timeliness in youth matters: see paras. 52 and 149. YCJA section 3(1)(b)(v) explicitly states that the youth criminal justice system must emphasize “the promptness and speed with which persons responsible for enforcing this Act must act, given young persons’ perception of time”.  The sooner young persons can retain a lawyer, the sooner their cases will conclude, to the benefit of everyone involved in the case.
+
+X.           Conclusion
+
+[56]      Parliament chose to provide young persons with “enhanced procedural protections” and “special guarantees of their rights and freedoms.” Section 25 of the YCJA reflects a fundamental, incontrovertible belief that our most vulnerable members of society are deserving of unique care and assistance when faced with criminal jeopardy. Youth justice courts must interpret the provisions of the legislation designed to promote the rights of young persons in a manner consistent with that intent. We must ensure these provisions are applied with an understanding that the youth criminal justice system was designed to be different from the adult system and appreciate the values behind that decision.
+
+[57]      A young person is considered "at trial” for YCJA sections 25(3) and (4) once they indicate they do not want to resolve the case through EJS or any other proposed form of diversion and choose to contest the charges. This includes the pre-trial or case management stage, during which young persons have the right to review the Crown’s evidence against them and make strategic decisions with the advice of counsel. It does not necessitate an arraignment, and insisting on one before counsel represents the young person is inappropriate.  
+
+[58]      These applications should be submitted electronically, through the appropriate judicial office, along with supporting materials. The Ontario Court of Justice’s Directive, “Serving and Filing Criminal Court Documents”, must be complied with, along with the requirements found in Rule 3 of the Criminal Rules of the Ontario Court of Justice.[12] If either party requests an oral hearing or if an issue in the application materials concerns the reviewing judge, one can be scheduled.  
+
+ Released:  July 7, 2025
+
+ 
+
+ 
+
+ 
+
+ 
+
+Signed: Justice Brock Jones
+
+
+[1] https://www.legalaid.on.ca/in-briefs/financial-eligibility-for-duty-counsel-services-increases-march-3
+
+[2] For example: The Honourable Madam Justice M. Fuerst, “The Self Represented Accused: The Trial Judge’s Perspective”, July 2007, unpublished, at p. 2 as quoted by The Hon. Patrick J. Lesage and Michael Code, Report of the Review of Large and Complex Criminal Cases, November 2008.
+
+[3] The charge against L.S. was subsequently withdrawn by the Crown.
+
+[4] My emphasis added.
+
+[5] My emphasis added.
+
+[6] My emphasis added in italics each time.
+
+[7] My emphasis added.
+
+[8] United Nations Standard Minimum Rules for the Administration of Juvenile Justice, A/RES/40/33, November 29, 1985
+
+[9] My emphasis added.
+
+[10] Where the young person has not yet located a private lawyer willing to prepare the application and support materials for them, duty counsel should assist the young person.
+
+[11] During submissions, Ms. Di Sabatino noted that many criminal court orders can already be obtained “over the counter” when they are on consent, such as a bail variation.
+
+[12] In particular, see rule 3.3.

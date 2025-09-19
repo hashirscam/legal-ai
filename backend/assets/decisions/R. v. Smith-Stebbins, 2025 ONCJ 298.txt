@@ -1,0 +1,151 @@
+Link: https://canlii.ca/t/kccj9
+Date: 2025 09 18
+File number: Not found
+Citation: R. v. Smith-Stebbins, 2025 ONCJ 298
+Court: Supreme Court
+Region: Not found
+Client: Not found
+Judge: Not found
+
+R. v. Smith-Stebbins, 2025 ONCJ 298 (CanLII), <https://canlii.ca/t/kccj9>, retrieved on 2025-09-18
+
+ONTARIO  COURT  OF  JUSTICE
+
+CITATION:  R. v. Smith-Stebbins, 2025 ONCJ 298
+
+DATE:  2025·05·30
+
+NEWMARKET
+
+ 
+
+ 
+
+ 
+
+BETWEEN:
+
+ 
+
+HIS  MAJESTY  THE  KING
+
+ 
+
+—  AND  —
+
+ 
+
+KYLE JAMES SMITH-STEBBINS
+
+ 
+
+JUDGMENT
+
+Evidence and Submissions Heard: February 6,7, 2025.
+
+Delivered: May 30, 2025
+
+Ms. Roxana Jahani-Geran.....................................................................   counsel for the Crown
+
+Mr. Douglas Lent ..............................................................................   counsel for the defendant
+
+KENKEL J.:
+Introduction
+
+[1]               A license plate query in a local hotel parking lot showed that the plates were not registered to the vehicle they were attached to. P.C. Schwetz looked for the car’s VIN (Vehicle Identification Number) and saw it was covered by a piece of paper. He suspected the vehicle might be stolen given recent criminal activity associated with that hotel including stolen vehicles parked there to “cool off” immediately after a theft.
+
+[2]               A short time later Mr. Smith-Stebbins was stopped as he drove the vehicle towards the parking lot exit. He was arrested for use of unauthorized plates contrary to s 12 of the Highway Traffic Act, RSO 1990, c H.8 (HTA).  When he was identified, the officer learned that there was a warrant outstanding for his arrest. P.C. Schwetz also received information from another officer that the vehicle was stolen.
+
+[3]               Mr. Smith-Stebbins was charged with possession of stolen property with a value over $5000 contrary to s 354(1) and three counts of operating a conveyance while prohibited contrary to s 320.18.
+
+[4]               Constable Schwetz had grounds to arrest Mr. Smith-Stebbins for the possession offence, but the Crown at the close of their case conceded that they did not call sufficient evidence to prove the vehicle was stolen.  
+
+[5]               Section 320.18 prohibits operation of a conveyance while a person is prohibited from doing so by an order made under the Criminal Code, or by any other form of legal restriction imposed by Federal or provincial law in respect of a conviction or discharge under the Criminal Code. The Crown tendered in evidence three sets of documents under seal of the Ontario Ministry of Transportation. The documents marked as Exhibits 1-3 were ruled admissible by the combined operation of s 40 of the Canada Evidence Act, RSC 1985 c C-5 and s 210 of the provincial Highway Traffic Act. The officer’s evidence proved the alleged operation of the vehicle and Exhibits 1-3 proved that Mr. Smith-Stebbins was prohibited from operating a motor vehicle on January 23, 2023, and that restriction was in effect on January 12, 2024.
+
+[6]               The submissions of both counsel identify four remaining issues for decision:
+
+•        Was the stop for an HTA offence in a private parking lot lawful?
+
+•        Did the prohibition apply only to operation in a “public place”? If so, was this parking lot a “public place”?
+
+•        Did the officer breach Mr. Smith-Stebbins’ right to counsel by not reading him right to counsel advice after arresting him on further charges of driving while prohibited?
+
+•        If there was a right to counsel breach, is there evidence “obtained in a manner” to which the 24(2) remedy could apply? Should any evidence be excluded?
+
+Charter ss 8,9 – HTA Stop in a Parking Lot
+
+[7]               The defence submits that the Supreme Court’s decision in R v McColman, 2023 SCC 8 makes it plain that the provincial Highway Traffic Act is not operative in private places like parking lots. The stop of Mr. Smith-Stebbins to investigate the license plate offence was therefore unlawful and contrary to sections 8 and 9 of the Charter. The breach had a serious impact on the accused given the further offences that were revealed after the stop.
+
+[8]               The broad statement that the HTA does not have any application in private places like parking lots was rejected by the Ontario Court of Appeal in the case cited by the Crown, R v Hajivasilis, 2013 ONCA 27. The court held that some sections in the HTA signal that they apply only to the operation of a vehicle on a highway either by specific use of that term “highway” or by reference to other terms like “driver” that s 1(1) of the HTA defines as a person who drives a vehicle on a highway.
+
+[9]               Justice Doherty explained at paras 36-40 that numerous sections of the HTA do not use the word “highway” or any related word. Many of those sections cannot reasonably be contingent or limited to circumstances in which the motor vehicle is used on a highway. The stop in this case was to investigate the use of license plates not authorized for that vehicle contrary to s 12(1)(d) of the HTA. There is nothing in that section either expressly or by implication that limits its operation to a “highway”.
+
+[10]            The decision in McColman considered the random stop power in s 48(1) of the HTA. That section authorizes the stop of “drivers” for the purpose of determining whether there is evidence to justify a demand under sections 320.27 or 320.28 of the Criminal Code.  The definition of “driver” in s 1(1) of the HTA thereby limits the application of s 48 to persons operating a motor vehicle on a highway. McColman considered only the specific HTA provision at issue and did not make any broader statement about other provincial offence investigations.
+
+[11]            Constable Schwetz had authority under s 12(1)(d) of the HTA to stop Mr. Smith-Stebbins in the parking lot to investigate that offence. The stop was not arbitrary, and it did not breach the accused’s rights under sections 8 or 9 of the Charter.
+
+Section 320.24(8) Public Place
+
+[12]            A Criminal Code motor vehicle prohibition order applies only to operation on a “street, road or highway, or in any other public place” (une rue, sur un chemin public ou une grande route ou dans tout autre lieu public) – s 320.24(8). Older cases that discuss the pre-2018 prohibition section 259 remain relevant as that section contained similar wording: “…street, road, highway or other public place”.
+
+[13]            Mr. Smith-Stebbins was stopped after he was driving in the parking lot of a Best Western hotel on Yonge Street in Newmarket. The defence submits that operation in that location is not prohibited by a s 324.24 order as it’s not a street or a public place. It’s a private hotel parking lot. The Crown submits that the offence section s 320.18 does not refer to streets, roads, highways or public places so that’s not an element of the offence. In the alternative, this parking lot is a public place within the meaning of the section.
+
+[14]            While the offence section does not refer to operation on streets etc., the cases cited below have held that the Crown must prove the vehicle was operated contrary to the prohibition, including operation in a place prohibited by s 320.24(8). Whether the vehicle operation in this case was contrary to the accused’s prohibition orders turns on the interpretation of the phrase “any other public place”.
+
+[15]            The defence cites the case of R v Maxwell, 2011 NWTTC 4 where the court held that the term “any other public place” does not mean any other public place. The term read in context was held to mean a place upon which motor vehicles can be driven, to which a significant segment of the public has a right of access and where it can be reasonably anticipated that the motor vehicle will come into close proximity to pedestrians or other motor vehicles” (Maxwell at para 63). The court provided examples of other places that would meet the definition including trails, paths, thoroughfares, parks and other open areas close to the municipal boundaries of a community, explaining at para 64 that public places include areas where snowmobiles or all-terrain vehicles may operate.
+
+[16]            In R v Dunsford, 2013 ONCJ 416 the court agreed with the finding in Maxwell at paragraph 54 of that decision that the purpose of the section is, “…to protect members of the public from disqualified persons operating motor vehicles in places to which the public has ready access”. The court applied the modern (Driedger) approach to statutory interpretation and held at paragraphs 35 and 36 that the term “public place” in this context means:
+
+35. This reading of the section is intrinsically tied to the sentencing sanction of the driving prohibition. There should be a loss of driving privilege on any place where motor vehicles are normally used, namely roads, streets and highways. But in addition, there is a prohibition covering any place where members of the public will be impacted by a prohibited driver operating a motor vehicle.
+
+36. "Public place" in this sense is a place where a non-trivial number of the population can be expected to be present and expect to be protected from exposure to prohibited drivers operating motor vehicles.
+
+[17]            That interpretation was affirmed on Summary Conviction Appeal in R v Keeper, 2014 ONSC 6149, (joint appeal by Keeper and Dunsford on this point). That decision is persuasive and is also binding on this court as to the legal test to be applied. The court agreed with the finding in both cases that while not open to the general public, the roads on the Pikangikum First Nation were both roads and public places within the meaning of the prior s 259(1).
+
+[18]            In Marin c R, 2016 QCCA 1937, the Quebec Court of Appeal cited the decision in Dunsford as consistent with earlier decisions in that province and applying the correct test. In that case the court upheld the trial court’s finding that a parking lot for a building with 20 apartments involved sufficient public access to find that it is a public place within the meaning of the predecessor to the current section. The public had sufficient access to make it a place where the safety of those present might be threatened by a driver subject operating a vehicle while subject to a driving prohibition under the Criminal Code – Marin at para 32. See also: R c Labbé, 2007 QCCQ 21923.
+
+[19]            It makes sense to start with the defence submission that there was little evidence called as to the nature of the parking lot in question, including the numbers of cars at that time. The defence submits that the evidence provides little factual basis for a finding of “public place” regardless of which test is applied. The court cannot speculate as to the circumstances of this parking lot. Lack of evidence was the problem in Maxwell as the Crown did not lead evidence as to the place of operation and whether it was private or a place to which the public had access.
+
+[20]            The evidence showed that the driving occurred in the parking lot of a Best Western hotel on Yonge Street in Newmarket. It requires no speculation to find that the entire business of a Best Western hotel is based on constant, open public access to its premises and parking lot. The accused and the officers as members of the public plainly had access to the parking lot. Yonge street is well known as the major commercial artery in York Region. 
+
+[21]            This hotel parking lot was a place to which members of the public have access and can be expected to be present. The safety of those present could be compromised by a person operating a vehicle while being subject to a Criminal Code driving prohibition. I find this parking lot was a public place within the meaning of s 320.24(8).
+
+Charter s 10 – Right to Counsel
+
+[22]            Mr. Smith-Stebbins was advised of new charges as the investigation progressed. There’s no evidence of a s 10(a) breach.
+
+[23]            After arrest, Constable Schwetz placed Mr. Smith-Stebbins in the back of his patrol car and then read him right to counsel advice. The accused was told he could call any lawyer he wished, or he could speak to duty counsel. Mr. Smith-Stebbins replied, “not now” which the officer took to mean, “not at this particular stage”. The officer told him if he changed his mind at any point he should let the officer know.
+
+[24]            Three minutes later Mr. Smith was re-arrested for a criminal offence – possession of a stolen car. Right to counsel advice was again provided and Mr. Smith-Stebbins said “yes” he understood. He said he didn’t have a lawyer and the officer reminded him he could call any lawyer he wished or call duty counsel for free legal advice. Mr. Smith-Stebbins said he would let the officer know if he wished to speak to a lawyer, but he didn’t want to speak with anyone at that time.
+
+[25]            Ten minutes later Mr. Smith-Stebbins was arrested for three further charges of operating a conveyance while prohibited s 320.18. The officer did not repeat the right to counsel advice as he’d just read it twice and received the same answer. P.C. Schwetz believed that the accused would tell him if he’d changed his mind about speaking with a lawyer. Mr. Smith-Stebbins did not ask to speak to counsel.
+
+[26]            At the station Acting Sgt. Hamilton asked Mr. Smith-Stebbins if he wished to speak with counsel of choice or duty counsel. P.C. Schwetz was present and heard that conversation during booking. At first Mr. Smith-Stebbins said he wanted to speak to duty counsel, but then immediately after booking he changed his mind and said he didn’t want to speak with any lawyer. Constable Schwetz read him a Prosper warning about waiver of the right to speak with counsel.
+
+[27]            The defence challenged Constable Schwetz’s evidence on this point as the exchange at booking was not in his notes. The constable explained that it wouldn’t be in his notes but would be in the Acting Sergeant’s notes. It was also recorded on audio and video and is a routine part of booking. The officer’s evidence was logical, and I accept his evidence as credible and reliable. 
+
+[28]            Mr. Smith-Stebbins was provided right to counsel advice a fourth time when P.C. Schwetz went through a YRP (York Regional Police) Form 51 interview form which advised Mr. Smith-Stebbins that he could speak with a lawyer of his choice or a legal aid lawyer. He again declined to speak with any lawyer.
+
+[29]            Mr. Smith-Stebbins was provided right to counsel advice four times and ultimately chose not to speak with any lawyer.  The only breach is a technical one – the accused was not read right to counsel advice for a third time at the roadside when he was arrested for the driving while prohibited charges. The defence submitted that it’s an extremely serious breach as the accused’s jeopardy changed significantly.
+
+[30]            As the arresting officer conceded, perfect practice would have been to read the right to counsel advice a third time at the roadside, despite the previous answers. Even though the accused was asked if he wanted to speak to counsel two more times at the station, the failure to repeat the advice after the drive prohibited arrest at the roadside is a breach, albeit a very minor one in the overall context.
+
+[31]            It’s not plain though that there is any evidence on the drive prohibited charges that was “obtained in a manner” so as to engage the remedy the defence seeks under s 24(2). The driving prohibitions were imposed by courts well before this investigation. There’s no nexus between the prohibitions and the right to counsel breach. The observation of Mr. Smith-Stebbins operating a vehicle was made before he was even stopped. There does not appear to be any evidence relevant to the remaining counts that was “obtained in a manner” that could engage consideration of s 24(2). The minor breach described could not lead to a stay of proceedings under s 24(1).
+
+[32]            In the alternative, if s 24(2) were applied, the breach was not serious in context. Mr. Smith-Stebbins was provided with right to counsel advice four times. The reason he didn’t speak with a lawyer is because he didn’t want to. The failure to provide right to counsel advice a third time at the roadside had no impact on the accused’s interests protected by s 10(b). Society’s interest in the truth-seeking function of the criminal trial process would outweigh any concern arising from the technical breach. To exclude the evidence of the prohibitions or the observations of the accused driving would bring the administration of justice into disrepute.
+
+Conclusion
+
+[33]            The Possession Over count #1 is dismissed. I find that the Crown has proved the three remaining counts beyond a reasonable doubt.
+
+Delivered: May 30, 2025.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Justice Joseph F. Kenkel

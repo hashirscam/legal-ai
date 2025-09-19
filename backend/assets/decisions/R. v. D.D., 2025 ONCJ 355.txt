@@ -1,0 +1,560 @@
+Link: https://canlii.ca/t/kd06r
+Date: 2025 06 26
+File number: Sudbury 4011-998-21-40100866-00
+Citation: R. v. D.D., 2025 ONCJ 355
+Court: Ontario Court Of Justice
+Region: Not found
+Client: D.D.
+Judge: Justice Leonard Kim
+
+R. v. D.D., 2025 ONCJ 355 (CanLII), <https://canlii.ca/t/kd06r>, retrieved on 2025-09-18
+
+WARNING
+
+The court hearing this matter directs that the following notice be attached to the file:
+
+            A non-publication and non-broadcast order in this proceeding has been issued under subsection 486.4(1) of the Criminal Code.  This subsection and subsection 486.6(1) of the Criminal Code, which is concerned with the consequence of failure to comply with an order made under subsection 486.4(1), read as follows:
+
+486.4  Order restricting publication — sexual offences. — (1)  Subject to subsection (2), the presiding judge or justice may make an order directing that any information that could identify the victim or a witness shall not be published in any document or broadcast or transmitted in any way, in proceedings in respect of
+
+   (a)   any of the following offences:
+
+            (i)   an offence under section 151, 152, 153, 153.1, 155, 160, 162, 162.1, 163.1, 170, 171, 171.1,172, 172.1, 172.2, 173, 213, 271, 272, 273, 279.01, 279.011, 279.02, 279.03, 280, 281, 286.1, 286.2, 286.3, 346 or 347, or
+
+            (ii)  any offence under this Act, as it read from time to time before the day on which this subparagraph comes into force, if the conduct alleged would be an offence referred to in subparagraph (i) if it occurred on or after that day; or
+
+   (b)   two or more offences being dealt with in the same proceeding, at least one of which is an offence referred to in paragraph (a).
+
+ 
+
+(2)   MANDATORY ORDER ON APPLICATION — In proceedings in respect of the offences referred to in paragraph (1)(a) or (b), the presiding judge or justice shall
+
+   (a)   at the first reasonable opportunity, inform any witness under the age of eighteen years and the victim of the right to make an application for the order; and
+
+   (b)   on application made by the victim, the prosecutor or any such witness, make the order.
+
+.   .   .
+
+486.6  OFFENCE — (1)  Every person who fails to comply with an order made under any of subsections 486.4(1) to (3) or subsection 486.5(1) or (2) is guilty of an offence punishable on summary conviction.
+
+
+ONTARIO COURT OF JUSTICE
+
+CITATION:  R. v. D.D., 2025 ONCJ 355
+
+DATE:  2025 06 26
+
+COURT FILE No.:  Sudbury 4011-998-21-40100866-00
+
+ 
+
+ 
+
+BETWEEN:
+
+ 
+
+HIS MAJESTY THE KING
+
+ 
+
+— AND —
+
+ 
+
+D.D.
+
+ 
+
+ 
+
+ 
+
+Before Justice Leonard Kim
+
+Heard on March 17, 18, 20, 24 and 28, 2025
+
+Reasons for Judgment released on June 26, 2025
+
+ 
+
+ 
+
+K. Whillans........................................................................................... counsel for the Crown
+
+D. Michel................................................................................... counsel for the accused D.D.
+
+ 
+
+KIM L. J.:
+
+Overview
+
+[1]         It is alleged that between September 4, 2019, and September 4, 2020, the accused, D.D. (“accused”), committed the offences of Sexual Interference and Sexual Assault upon his biological daughter, H.D., contrary to sections 151 and 271 of the Criminal Code. The trial was heard on March 17, 18, 20, 24 and 28, 2025.
+
+[2]         I have concluded that the Crown has failed to prove beyond a reasonable doubt that the accused committed the offences with which he is charged. I have reached this conclusion because the totality of the evidence presented is not sufficient to meet the criminal standard of proof. In particular, I did not find H.D. to be a sufficiently reliable witness. I will attempt to explain how I came to this conclusion. 
+
+Testimonial Aids
+
+[3]         The Crown brought an application pursuant to s. 715.1 of the Criminal Code seeking to have the complainant’s video admitted for its truth on the trial. After some disclosure issues were resolved, Mr. Denis Michel on behalf of the accused, conceded the pre-requisites to admissibility were met, subject to the child adopting its contents in court. He acknowledged the contents of the video included evidence of the acts complained of and was taken within a reasonable period of time after the alleged offences.
+
+[4]         However, Mr. Michel disputed the weight to be attached. With the consent of counsel, I formally ruled the video statement provided by H.D. on June 30, 2021, was admissible for the truth of its contents, as an exception to the hearsay rule, pursuant to s. 715.1 of the Criminal Code. On consent, H.D. was permitted to testify by CCTV and with the assistance of a support person.
+
+Issues
+
+[5]         The central question I must answer is whether the accused sexually assaulted H.D. Like most cases of this nature, there are few material witnesses. The Crown called the complainant and the accused testified in his own defence. Their respective accounts of what might have transpired contradict each other in many respects. I am required to assess their credibility and reliability. In doing so, I will answer the following questions:
+
+1.            Is H.D.’s evidence sufficiently credible and reliable?
+
+2.            Do I believe the accused?
+
+3.            If I do not believe the accused, am I left with a reasonable doubt on any essential elements of the offences in consideration of his evidence?
+
+[6]         The focus of my analysis will address aspects of the evidence that caused me concern with respect to the reliability of the complainant’s evidence. Additionally, in a careful review of the entirety of the evidence, I was unable to point to any portions of the accused’s evidence that would case me to reject his testimony.
+
+[7]         My analysis of their evidence is not done in silos. I summarize many key aspects of the witnesses’ evidence but if I omit certain portions in these reasons, it does not mean that I did not carefully consider it. I have considered the totality of the evidence upon application of the relevant legal principles.
+
+Position of the Parties
+
+[8]         The accused is H.D.’s biological father and was her primary caregiver for most of her life prior to these proceedings. The Crown alleged that on an evening between September 4, 2019, and September 4, 2020, the accused, H.D. and her older brother watched a movie together and fell asleep. H.D. woke up to her father rubbing his penis on her lower back and buttocks and digitally penetrating her vagina while he lay behind her in bed. The Crown submits that H.D.’s evidence on the core facts were credible and reliable and that any inconsistencies were immaterial when assessed in accordance with the jurisprudence involving child witnesses. The Crown also submits that the accused’s testimony at trial was not forthright and evasive at times, and that it should be rejected.
+
+[9]         The accused insists that this incident as alleged did not happen. As the primary caregiver with sole custody of H.D. and her brother, there were countless occasions where they fell asleep after watching movies together as a family. He has no memory of any incident remotely connected to these allegations. He also submits that the videotaped statement should be given less weight due to the repeated leading questions put to H.D. by the investigating officer. Additionally, he submits that H.D.’s testimony in this trial was inconsistent on material points and contradicted her video statement to police given in June 2021. He submits that H.D. was not credible, and her evidence is unreliable.
+
+The General Legal Principles
+
+[10]      The accused is presumed innocent, and the burden falls solely on the Crown to prove guilt at the standard of beyond a reasonable doubt. It is not enough for me to believe that he is probably or likely guilty.
+
+[11]      In assessing the evidence, I remind myself of the differences between credibility and reliability. Credibility relates to the honesty or veracity of a witness. Specifically, whether the witness is expressing themselves truthfully to the best of their abilities. 
+
+[12]      Reliability relates to the accuracy of the witness’s testimony. In determining this, I must consider their ability to accurately observe, recall and recount the events in issue.  A credible witness may give unreliable evidence.[1] Accordingly, there is a distinction between a finding of credibility and proof beyond a reasonable doubt.[2]
+
+[13]      In assessing the credibility of a witness, I am to consider any inconsistencies in what a witness said at different times.  Inconsistencies on minor matters or matters of detail are normal and do not generally affect the credibility of a witness.
+
+[14]      However, one or more inconsistencies involving material matters can justify concluding that the witness is neither credible nor reliable.  In determining this, it is necessary to look to the totality of the inconsistencies.[3]
+
+[15]      Since credibility is one of the central issues, the principles set out by the Supreme Court of Canada in R. v. W.(D)[4] provide a requisite framework in determining whether the Crown has proven the accused's guilt beyond a reasonable doubt:
+
+1.            If I believe D.D.’s evidence that he did not sexually assault H.D., I must acquit him;
+
+2.            If I do not believe D.D., but his evidence leaves me with a reasonable doubt on any essential element of the offence, I must acquit;
+
+3.            Finally, even if his evidence does not leave me with a reasonable doubt, if after considering all the evidence that I do accept, I am not satisfied beyond a reasonable doubt of his guilt, I must acquit.
+
+[16]      As the trier of fact, I may believe some, none, or all of the testimony of any witness, including that of an accused.
+
+[17]      I must also remind myself that if, after a careful consideration of all of the evidence, I am unable to decide whom to believe, I must acquit.[5]
+
+[18]      The lack of credibility on the part of the accused does not equate to proof of his guilt beyond a reasonable doubt.[6]
+
+[19]      In applying the test in W.(D), I must consider all the sources of reasonable doubt. The sources may include the doubt left by the complainant's evidence, the doubt created by the evidence of the accused, the doubt found in any other evidence or the doubt arising from the combination of those sources. The totality of the evidence must be considered.
+
+Assessing the Evidence of Children
+
+[20]      At trial, H.D. was 11 years old but testified to events that she believes took place when she was six. A further lens must be considered when it comes to the assessment of child witnesses.
+
+[21]      I am mindful of the instructions by the Supreme Court of Canada in B.G.,[7] at para. 48:
+
+“…regarding the credibility of child witnesses, it seems to me that he was simply suggesting that the judiciary should take a commonsense approach when dealing with the testimony of young children and not impose the same exacting standard on [page55] them as it does on adults.
+
+However, this is not to say that the courts should not carefully assess the credibility of child witnesses and I do not read his reasons as suggesting that the standard of proof must be lowered when dealing with children as the appellants submit. Rather, he was expressing concern that a flaw, such as a contradiction, in a child's testimony should not be given the same effect as a similar flaw in the testimony of an adult. I think his concern is well founded and his comments entirely appropriate.
+
+While children may not be able to recount precise details and communicate the when and where of an event with exactitude, this does not mean that they have misconceived what happened to them and who did it. In recent years we have adopted a much more benign attitude to children's evidence, lessening the strict standards of oath taking and corroboration, and I believe that this is a desirable development. The credibility of every witness who testifies before the courts must, of course, be carefully assessed but the standard of the "reasonable adult" is not necessarily appropriate in assessing the credibility of young children.” [emphasis added]
+
+[22]      After the release of B.G., Madame Justice B. McLachlin [as she then was] in W.(R),[8]  highlighted two notable developments in the law affecting the analysis of evidence from children. The first was to remove any notion that the evidence of children was inherently unreliable and must therefore be treated with special caution. As a result of this change in the law, the requirement that a child's evidence be corroborated has been removed from the Criminal Code.
+
+[23]      Justice McLaughlin made it clear at the end of paragraph 23 in W.(R), that “…if a court proceeds to discount a child's evidence automatically, without regard to the circumstances of the particular case, it will have fallen into error.”
+
+[24]      The second notable change in the law towards the evidence of children was a clear understanding that it would be wrong to apply adult tests in assessing credibility to the evidence of children[9]. Justice McLaughlin goes on to explain that children may experience the world differently from adults and that we should not be surprised that details important to adults such as time and place may be missing from the memory of a child. Trial judges are instructed to take a common-sense approach and to not apply the same exacting standard that we would with respect to adult witnesses. This was a reiteration of the Supreme Court's decision in B.G. two years prior.
+
+[25]      Within this context, I am also mindful that peripheral details of a traumatic event can be difficult to recall and accurately describe later.[10] 
+
+[26]      With these principles in mind, I will now address H.D.’s evidence.
+
+Issue #1 – Is H.D.’s evidence sufficiently credible and reliable?
+
+[27]      H.D. is the biological daughter of D.D., the accused. She was born on September 2013 and is 11 years old today. She testified by video through CCTV with a support person seated beside her.
+
+[28]      In this trial, her evidence was provided in two distinct forms: her video statement and viva voce testimony in court. It is important to identify the source of each material assertion made by her because these assertions were expressed at different stages of her child development and in response to questions put to her by the investigating officer and in other instances, the Crown. The manner in which she was questioned impacts my assessment of her evidence.
+
+H.D.’s Video Statement from June 2021
+
+[29]      On June 30, 2021, when H.D. was seven years old, she attended at the Greater Sudbury Police Station and provided a video statement to Detective Constable Jesse Sell (“investigating officer”). She recalled the alleged events dating back to when she was six years old. At the time, she lived with the accused, who had primary care and sole decision-making responsibility for her and her older brother, C.D.
+
+[30]      She explained that after she watched a scary movie of a doctor turning into a green lizard, she fell asleep with her father and her brother in his room. She explained that her father had thought she was his friend and had humped her from behind with his “private part” on her buttocks while naked in bed with her. She later explained that he was rubbing his front private part on her buttocks. 
+
+[31]      She also described that her father had put his hand underneath her pants and in her “private”, while pointing to her crotch. She also specified that she was wearing her Paw Patrol pajama pants.
+
+[32]      H.D. then, without prompting, indicated to the officer that her father said to her, “Rip those effing pants”, while touching her “private.”
+
+[33]      He continued to touch her “private” area for approximately 5 minutes while rubbing his crotch up against her buttocks.  
+
+[34]      She told the officer that this made her feel nervous and scared, and that she tried to move away from him to make him stop but that he just moved his body closer towards her.
+
+[35]      H.D. explained that the touching stopped when her father woke up possibly after 10 minutes. At this point, the officer suggested to H.D. that her words previously expressed as, “he woke up” meant that he physically got out of bed, to which she agreed.
+
+[36]      The officer asked H.D. if her father had ever dated a woman known as “Jamie”, to which she replied, “no.” However, at other points in the video, she explained that he had a friend named Jamie who “turned out to be his girlfriend…” and that she was supposed to come over the night of the alleged incident for a sleep over but didn’t because she was too tired. 
+
+Evidentiary Gaps in the Initial Disclosure
+
+[37]      I can reasonably infer that there was some form of disclosure of this incident communicated by the child to an adult in her life. That disclosure prompted the police to interview H.D. in June 2021. However, there is clearly more to the specific way in which this information first came to the attention of the police. Judging by the content of pages 21 to 26 in the video transcript, the foster mother, BA, was involved in receiving some information from H.D. regarding this alleged incident.
+
+[38]      I am mindful of the limited use of prior consistent statements in criminal trials. These statements are admissible only for the purposes of narrative to assist the trier of fact in understanding the fact and timing of the disclosure which can be relied on to understand the logical framework of the complaint in assessing the truthfulness and credibility of the complainant.[11] In other words, this evidence could potentially provide chronological cohesion and background about the sequence of events from the alleged offence to prosecution and assist me in understanding the conduct of the complainant, the fact and timing of the complaint, and assess her truthfulness.[12] These statements are not admissible for their truth and cannot be used to confirm a complainant’s in‑court testimony.[13]
+
+[39]      There is a gap in the evidence that prohibits me from understanding the circumstances of the initial disclosure from H.D. as originally expressed by her that prompted the police investigation. This is a crucial component of information that would assist me in understanding the allegation in its most authentic form including how and when it came to the attention of the police.
+
+[40]      It would also assist me in ruling out any possibility that H.D. was influenced in any way prior to providing her video statement to the investigating officer, particularly in this case, when significant efforts were required by the officer to compel H.D. to speak of the sexual assault complaint. I am also mindful that she spoke to her older brother, C.D., about topics of a sexual nature in a general sense.
+
+[41]      Several unanswered questions remain that are important for my analysis of H.D.’s credibility and reliability:
+
+a)   If BA or someone else had witnessed the initial disclosure made by H.D, what did they do with that information?
+
+b)   Who else was present at the time of the initial disclosure?
+
+c)   What did the recipient say to H.D. in response to the disclosure?
+
+d)   Who accompanied H.D. to the police station?
+
+e)   What did the investigating officer or any other police officer say to H.D. prior to commencing her video statement?
+
+f)     What did any other trusted adult in H.D.'s life say to her prior to her video statement?
+
+g)   What did her brother C.D. discuss with her prior to the video statement, particularly of a sexual nature?
+
+[42]      I pause here to acknowledge that during the trial, H.D. explained that her C.D. influenced her knowledge of sex after her video statement and that the two of them had suspicions that a woman by the name of Jamie was their father’s girlfriend at some point when he cared for them. This is the same woman whom H.D. says her father made explicit reference to during the commission of the sexual assault committed upon her.
+
+[43]      The circumstances with respect to how the disclosure was expressed by H.D. and whether there was any form of influence or suggestion is a necessary inquiry in this particular case because of the persistent and repetitive efforts made by the investigating officer on the video to initiate a discussion related to these allegations of sexual assault against her father. The probative value of such evidence increases when assessing the highly leading nature of the questions put to her by the investigating officer.
+
+[44]      These gaps within the evidentiary record have adversely impacted my ability to fully assess and critically analyze the circumstances of how the initial disclosure came to light as expressed by her.
+
+[45]      Adding to my credibility and reliability concerns is the fact that H.D. was unable to recall who she first told regarding this incident. She thought she might have told C.D. but if not, she would have told BA.[14] She does not remember telling her foster sister, C.
+
+[46]      Moreover, the circumstances leading up to H.D.’s video statement are vital for my assessment of her credibility and reliability because as I will explain later in these reasons, throughout this trial, she admitted to various leading questions put to her by both lawyers that were directly inconsistent. 
+
+The Leading Nature of the Officer’s Questioning of H.D. on the Video
+
+[47]      Throughout the video statement, there appears to be intersecting involvement with unrelated incidents involving the Children's Aid Society (“CAS”), the accused and H.D., that did not appear to be relevant.
+
+[48]      However, in a discussion focused on the positive attributes about her father, H.D. had told the officer that she did not tell BA anything else. The officer then redirected H.D. to a discussion with BA regarding an unrelated incident when she had smacked C.’s buttocks and asked her again what she told BA. Without letting her respond, he goes on to discuss how H.D. had opened up to BA, and then lead the child into concerning information she had shared with BA that “caused her a little bit worry” about her father and nighttime arrangements.
+
+[49]      H.D. replied by discussing an incident involving the CAS banging on their back door, but the officer cut her off and said to her, “Oh, not about that time.”
+
+[50]      The officer then leads H.D. by stating to her,[15] “It wasn’t about the time that CAS came banging on the door that time, okay? It was something else to do about, um, when – while you were sleeping and dad.”
+
+[51]      At this point, H.D. responded by beginning to explain the alleged incident.
+
+[52]      Later, when H.D. explained that her father was rubbing his “private part” on her buttocks and pointing to her crotch area, the officer asked her what her father was doing while rubbing her butt with his “penis.” It is abundantly clear to me that H.D.’s original intent in what she was attempting to say was clearly in reference to her father’s penis. However, this is not the sexual term that was expressed by this child in her words.
+
+[53]      When the officer attempted to clarify the details of sleeping arrangements and what she was watching on TV, H.D. appeared reluctant with the officer and stated to him,[16] “Um, I don’t remember anything else, and I don’t have anything else to say.”
+
+[54]      I can appreciate that children would be naturally unwilling to discuss this sensitive subject matter, especially with an adult police officer they have no prior rapport with.
+
+[55]      However, these various aspects of the video statement where the officer lead H.D. on the core sexual assault facts are concerning. When the officer had paraphrased what he interpreted the child had said and used a sexual term the child had not used, this approach on its own is not a concern. But when it is part of a broader pattern of leading a child witness, the cumulative impact on the integrity of what a child is trying to express, is compromised. Police officers should be careful in the way in which they obtain this sensitive evidence from a young child, particularly involving sexual assault complaints.
+
+[56]      Asking a child questions in a primarily open-ended manner may take more time and require more questions to get to the heart of the matter, but letting the child guide the conversation in her own way at her own pace, preserves the integrity of her evidence and the court’s ability to independently assess the strength of that evidence.
+
+[57]      This was not done here, and I find it troubling. The habit of leading questions put to H.D. in her video statement causes me great concern. The cumulative impact of the investigating officer’s repeated, leading manner of questioning of a seven-year-old child on key factual portions of her video statement effectively diminishes the weight I can attach to her evidence.
+
+[58]      As a result of these concerns, the weight to be attached to H.D.’s initial complaint of sexual assault against her father in her video statement will be significantly reduced. 
+
+The Alleged Sexual Assault – H.D.’s Examination in Chief
+
+[59]      H.D. testified that the event in question began with a movie night at home with her brother, C.D., and her father. After the movie ended, she fell asleep in her brother’s bed with her father. Her brother C.D. slept nearby on a couch in the same room.
+
+[60]      She expressed that her father has a habit of talking in his sleep. On this specific occasion, the first thing she noticed when she woke up was her father “talking in his sleep” and being unusually close to her. He was also snoring.  
+
+[61]      She attempted to move away closer to the wall. Her hip was touching the wall, and she was lying on her back. He said something about “doing it” with Jamie.  When she had turned to face the wall, she could feel his breath on her neck, and he started humping her from behind. In her words, he attempted to put his front “private area” into her buttocks. She was able to feel his front “private part” touching her lower back or spine and buttocks underneath her pants. He then placed his hand down her pants and used his index finger to rub “The part that you go pee from,” and inserted his finger into her vagina. He said to her, “Rip those f-en pants” and was making really weird noises.
+
+[62]      He attempted to remove her pants down her waist and managed to partially bring her pajama pants down with one hand. She thought her father was naked but later clarified that she had not actually seen her father to be unclothed at the time.
+
+[63]      When he stopped touching her, she wasn’t sure what he was doing but guessed he was asleep peacefully. She later told the Crown that she didn’t know whether her dad was awake or asleep and described him to be half awake and half asleep when he said, “Rip those f-en pants”. He sounded woozy when he spoke, like he was drunk, only he did not have any alcohol to drink that evening and sounded quieter than he usually talked.
+
+[64]      She testified that she “felt scared and weirded out” and didn’t say anything but then got out of bed, changed her clothes and went downstairs for breakfast. Later that same day, her father asked her how she slept, and she replied that it was fine. He then asked her to go downstairs and retrieve a “Rock Star” energy drink for him.
+
+[65]      She had suspicions that Jamie was in fact her father’s girlfriend because her brother believed this and because she was coming by their house every day. On the evening in question, she overheard a phone call where they discussed her coming over to have fun and watch a movie. However, Jamie did not come over because she was too tired.
+
+[66]      At the time of the alleged sexual touching, she thought that her father had mistaken her to be Jamie because every girlfriend that her father has been involved with, he has had sex with.  
+
+Material Contradictions in H.D.’s Evidence
+
+[67]      The case law is clear that I am not to impose the same exacting standard on children as I would an adult. The effect of a flaw in a child’s evidence should not be given the same effect as a flaw in the testimony of an adult. I am to take a commonsense approach. However, I am still required to carefully assess H.D.’s credibility and the standard of proof the Crown must meet remains high.[17]
+
+[68]      With this in mind, there are several aspects of H.D.’s evidence that were materially inconsistent that I must address. These inconsistencies impact my analysis of H.D.’s overall credibility and reliability and whether I can conclude that the accused had committed the offences upon her.
+
+A)   What, if anything, did the accused say during the sexual assault?
+
+[69]      There were inconsistencies in what H.D. recalled her father might have said during the alleged incident. In her video statement, she told the officer that the only thing her father said was, “Rip those effing pants.” The officer asked her if anything else was said, and her response was, “No.”
+
+[70]      However, in her examination in chief, H.D. explained that in addition to these words, he also talked in his sleep, and she wasn’t able to ascertain what her father was saying.
+
+[71]      Later in examination in chief, she explained that when he moved closer to her while lying in bed moments before touching her, he was talking in his sleep and said something about “doing it” with Jamie.
+
+[72]      She then explained to the Crown that her father has a habit of talking in his sleep about various topics including all his girlfriends, his employment, trying different kinds of food and visiting a different country such as Russia.
+
+[73]      However, when questioned by Mr. Michel, H.D. agreed that her father only said, “Rip those effing pants,” and did not make any comments about “doing it” with Jamie during the incident. She also admitted that when she explained that her father was talking in his sleep, those were in reference to other occasions, and not this specific alleged sexual assault incident.  
+
+[74]      Her answers in this regard are in direct contradiction to what she told the officer in the video, the Crown and Defence counsel during this trial. I find these answers to be materially inconsistent on a central component of this case, namely, what the accused said, if anything, during the core sexual assault incident. 
+
+B)   Did the accused attempt to remove H.D.’s pajama pants?     
+
+[75]      H.D. testified in chief that her father had attempted to remove her Paw Patrol pajama pants down her waist and “moved them a little bit down”, in her words. However, in her video statement, when the officer asked her what happened to her pants,[18] her response was “nothing.”
+
+[76]      In cross-examination, she admitted to this discrepancy.  
+
+[77]      I do not hold this material inconsistency against H.D. At the time she provided her video statement, she was clearly uncomfortable and nervous. She appeared to want to end the interview with the investigating officer as soon as possible. She also expressed to this male officer that she was uncomfortable discussing topics of a sexual nature involving her father or referencing private areas of her body. When it comes to the question of whether her pants were slightly lowered by the accused, this is contextually of limited probative value in my overall assessment of H.D.’s credibility and reliability.
+
+[78]      It is entirely reasonable to expect this level of reluctance from a young child of seven years old. For this reason, I cannot eliminate the possibility that she wanted to tell the officer that her father had removed or attempted to remove her pajama pants during the video statement of June 2021. I am reminded that children may not recall precise details and communicate the incident with sufficient exactitude, particularly in cases of a historical nature.
+
+[79]      This material inconsistency will be treated as neutral in my assessment of H.D.’s overall credibility and reliability.
+
+C)   H.D.’s perception regarding whether the accused was asleep
+
+[80]      The question of whether H.D. perceived the accused was awake or asleep has an impact on her reliability. Her evidence was unclear and contradictory in her testimony and video statement. It may in fact be true that she simply cannot say one way or the other. However, her answers came in various forms. It appears that she was reluctant to initially admit that she couldn’t say with certainty if she remembered her father to be awake or asleep. Instead, what I observed was attempts by her to fill in the gaps in her memory or perception of this event combined with a willingness to agree to facts put to her by both lawyers that may not have been true in her mind. 
+
+[81]      For example, she testified in chief that he was talking in his sleep but then later told the Crown that he was “half awake and half asleep”. On the other hand, during cross-examination, she admitted to Mr. Michel that as far she knew, her father was asleep throughout this entire incident.
+
+[82]      Additionally, when asked by the officer how the touching stopped, she responded to this question by stating, “he woke up”. In response, the officer then asked her, “He woke up?”, to which she replied in the affirmative.
+
+[83]      The officer suggested to H.D. that her words, “he woke up” meant that “he got out of bed,” to which she agreed.[19] It appears what she was trying to say was that the sexual touching ceased when she perceived her father to have awoken.[20]
+
+[84]      The natural inference that flows from her assertion is that she subjectively believed that her father was asleep during the alleged sexual touching. H.D.’s initial belief on this specific evidentiary point is buttressed by her testimony in court to the Crown and then later, to the Defence, in this trial.
+
+[85]      Initially during her testimony in chief, she said that her father was talking in his sleep and said something about “doing it” with Jamie. Later the same day in court, she expressed to the Crown that once the touching stopped, she wasn’t sure what he was doing but believed he was asleep peacefully.
+
+[86]      The Crown then asked H.D. when her father had gone back to sleep. This question put to her implied that her father had at some point woken up. However, her videotaped statement and testimony in chief up to this point made no reference to her subjective belief that the accused was awake when the actual sexual touching had occurred. At the court’s direction, the Crown adjusted the wording for this line of questioning and asked H.D. if she was aware whether her father was awake during the sexual touching.
+
+[87]      H.D. went on to explain for the very first time, that she did not know whether he was awake or asleep throughout this incident.
+
+[88]      When asked by the Crown what her father sounded like when he previously talked in his sleep, she described him to sound quieter than he usually spoke. On the date in question, she described him to sound quieter than normal, woozy, like he was drunk, but he did not have any alcohol to drink that evening.
+
+[89]      H.D. believed that her father was beginning to wake up or was half awake because he said the words, “Rip those F-en pants off.”
+
+[90]      After uttering those words, she perceived her father was sleeping peacefully “again”.
+
+[91]      Even when H.D. expressed to the Crown that she felt that her father was half awake and half asleep, any doubt in her own belief was firmly settled during cross-examination when she agreed with Mr. Michel, that as far as she was aware, her father was asleep and fully dressed during this incident as she remembers it:[21] 
+
+“Mr. Michel: As far as you know, your dad was asleep when all this was going on, right?
+
+H.D.: Right.
+
+Mr. Michel: And as far as you know, Dad was dressed, right?
+
+H.D.: Yes.” 
+
+[92]      The evidence illustrates that she subjectively perceived the accused to be asleep during the entire alleged sexual touching but then shifted her responses upon being asked by the Crown at what point her father went back to sleep.
+
+[93]      Her evidence is contradictory in her varying responses to both the Crown, Defence and the investigating police officer. The is not an ancillary component of her evidence when weighed in conjunction with additional inconsistencies because it relates to the actual sexual assault itself as alleged and perceived by her. This impacts the reliability of her evidence. 
+
+D)   Was the accused naked?
+
+[94]      In her video statement, H.D. stated that her father was naked when he “humped” her buttocks or lower back. However, as quoted above in cross-examination, she clarified that she had never actually seen her father naked and clearly admitted to Mr. Michel that as far as she knew, the accused was dressed during this incident.
+
+[95]      She provided several reasons why she assumed her father was naked. To highlight the evolution of H.D.’s answer as to why she thought her father was naked, I quote her direct response to the Crown during re-examination:
+
+“Because it would’ve took him a lot of movement to remove his shorts. Every morning, he would wake up naked. I felt his thighs against my leg. They were long shorts that went that much above the knee [motioning with her hands approx. one inch]. So, I ended up knowing that he didn’t have any shorts on because it was his high thigh that had touched my leg.
+
+[96]      The question of whether or not the accused was naked was put to H.D. in the clearest of terms. Her responses directly contradict each other. There were no qualifications in her direct agreement with Mr. Michel that as far she knew, her father was dressed during the incident.
+
+[97]      I find her to be unsure of the actual truth and to be attempting to fill in these unknown gaps in her testimony. This tendency to want to fill in gaps in her memory appears to be a consistent pattern in her evidence both in court and in her video statement to the police.
+
+E)   Location of the alleged incident (C.D.’s Room)
+
+[98]      H.D. alleged that the incident happened in C.D.’s room and there was a TV there. She provided a detailed description of his room.
+
+[99]      During cross-examination, she initially admitted that she was mistaken in the location of the incident because C.D.’s room never had a TV or couch. 
+
+[100]   However, later in cross-examination, she reiterated her evidence in chief that there was a couch in C.D.’s room and that a TV had been moved to his room from her room, which was previously in IZ’s room.
+
+[101]   When pressed by Mr. Michel on whether a TV was in fact in C.D.’s room during the incident, she acquiesced to the suggestion that C.D. never received a TV in his room after the house fire, which took place years prior to the alleged incident. 
+
+[102]   I remind myself that children interpret their surroundings and the concept of time differently than adults. I do not attach any weight to this inconsistency in H.D.’s own evidence as to the precise room within her home the alleged sexual assault occurred and what specific furniture happened to be present. What I’m focused on is what actually happened and if it did occur, who committed these offences.
+
+[103]   Although the room identified on the upper floor by H.D. is different than the room identified by the accused, it is clear from both witnesses that watching movies together as a family, while lounging in bed, or on a chair or a couch were commonplace in the accused’s bedroom.
+
+F)   The presence of C.D. during the alleged incident
+
+[104]   In her testimony, H.D. stated that her older brother, C.D., was present in the room asleep. He was not called to testify. In fairness to H.D., in her video statement, the officer neglected to ask her if anyone else was present. It is not up to a seven-year-old child to know the degree of particulars to offer about an alleged sexual assault, including an account of who else was present other than the perpetrator. This omission is a by-product of the quality of the police interview, a circumstance totally beyond her control. I attach no weight to this material inconsistency.
+
+G)  The detailed account of the accused touching H.D.’s vagina
+
+[105]   H.D.’s description of her father touching her vagina was more detailed than what she said in her video. She told the officer that her father put his hand inside her “private”, which I interpret to mean her vagina. However, in chief, she told the Crown additional explicit details that her father rubbed side to side and pushed down the part she uses to go pee with his index finger and put his finger in. The level of detail she provided to the Crown was not explored by the investigating officer at the time of the video.
+
+[106]   She explained to Mr. Michel that she was only six or seven when she provided her video statement and didn’t feel comfortable talking about it with the officer. 
+
+[107]   It would be contrary to logic that H.D.’s memory on such core details would improve with the passage of time. These additional details are materially different than what she stated to the officer in June 2021. I acknowledge that H.D. is currently more knowledgeable of sexual activity and anatomy due to a combination of sex-education in Gr. 4-5 and conversations with her older brother, C.D.
+
+[108]   As I explained earlier, there are several portions of her video statement where the officer questioned her in a leading manner. This manner of questioning of a seven-year-old child must be considered in light of the fact that I have little knowledge as to how the disclosure initially came to light, and whether anyone prompted H.D. to come forward with these allegations.
+
+[109]   These omissions on such a fundamental aspect of the evidence deprive me of the ability to assess H.D.’s best memory closest in time with the alleged incident. What I do see in the record before me is that persistent efforts were necessary by the investigating officer to persuade H.D. to speak about these allegations of a sexual nature against her father. Was this due to a general level of discomfort, or was it because she felt compelled to tell the officer something inappropriate had happened but did not occur? 
+
+[110]   Given the vast difference in the amount of detail in the descriptions provided, and my finding earlier in these reasons that H.D. tends to attempt to fill in the gaps in her evidence and make assumptions, I am unable to rule out that she has done the same here on this pivotal evidentiary point regarding digital penetration of her vagina by the accused.
+
+H)   “Rock Star” Energy Drink
+
+[111]   In her examination in chief, H.D. explained that after her father woke up subsequent to sexually assaulting her, he told her to go and get him a “Rock Star” energy drink. There is no mention of this in her video. In cross-examination, she was asked how she remembers this. She admitted to Mr. Michel that her father had a general habit of asking her to go get him a “Rock Star” energy drink, but that this did not actually happen on the date of the alleged incident.
+
+[112]   This is yet another example of H.D. filling in the gaps with general experiences and beliefs as opposed to providing evidence of what she remembers actually transpired during the alleged sexual assault. The difference to the court is fundamental. The difference to H.D., may not be as clear. 
+
+Conclusions regarding H.D.’s Evidence
+
+[113]   Children may perceive the world differently, and their concept of certain details such as time and place may be inaccurate. They may not recall details with the same degree of preciseness one would expect from an adult, but this does not equate to a mistake about what happened to them and by whom.
+
+[114]   To this end, discrepancies that relate to ancillary factors such as which room in the house H.D. recalls being sexually assaulted in and whether a couch or TV were present are of limited probative value. While those discrepancies are considered in my overall assessment of her reliability, they do not carry sufficient weight in my ability to decide the material facts in this trial. 
+
+[115]   I observe that in this case that H.D. was six years old at the time of the alleged incident, seven years old when she gave her video statement, and is 11 years old today. I must interpret her evidence with sensitivity as to how she viewed the world as a younger child then, and how she views the world today as an 11-year-old consistent with her level of development.
+
+[116]   H.D.’s credibility is not a concern to the court. She did her best to honestly recall details of what transpired four and a half to five and a half years ago and explained in detail how her father touched her vagina and lower back or buttocks. She felt the sensation of his breath on her back as he moved himself closer to her after she attempted to move away. She recalled what she was wearing, who was present, what she felt physically and emotionally, and the precise position of her body in relation to that of her father’s.
+
+[117]   Credibility is not the same as reliability, and the accuracy of what she is telling us must be assessed carefully even though I find her to be credible. The reliability of what she perceived, interpreted, and expressed, was significantly questionable.
+
+[118]   There were understandably many gaps in her evidence, likely due to the passage of time as she attempted to explain her recollection going back to the age of six but as a child with her current knowledge and life experience as an 11-year-old. I found her to make several attempts to fill in those gaps with assumptions and generalities disconnected to the allegations.
+
+[119]   Portions of her testimony referred to general experiences with her father such as witnessing him talk in his sleep, wake up naked every morning or direct her to retrieve an energy drink. Upon further questioning, those general experiences turned out to be in no way linked to this alleged event and turned out to be based on assumptions and exaggerations as opposed to actual observations or memories of the event in question.
+
+[120]   The material inconsistencies within her testimony and what she had expressed in her video statement points to a degree of unreliability that I must consider in conjunction with the totality of the evidence before me. I have done so, and weighed this in conjunction with the firm denial by the accused asserting that this incident did not happen.
+
+[121]   Given the extent and significance of these contradictions, H.D.’s own evidence leaves me with a reasonable doubt. When I add to that doubt, the consistent denial from the accused, the depth of this reasonable doubt strengthens. 
+
+[122]   Combined with the degree of leading questions from the officer in her video statement, I have serious questions regarding the reliability of what H.D. remembers four to five years ago. 
+
+[123]   H.D.’s repeated comments to the investigating officer that she doesn’t remember, the lack of evidence to permit me to objectively assess the circumstances surrounding the initial disclosure to rule out any form of influence, the reliability concerns I have with respect to her evidence and the diminished weight I attach to her video statement, leaves me with a reasonable doubt as to whether her recollection of the alleged sexual assault is an accurate reflection of the truth.
+
+[124]   Although at this stage of my analysis, I am left with a reasonable doubt, for the sake of completeness, I will provide my conclusions regarding the testimony of the accused.
+
+Issue #2 – Do I believe the accused?
+
+D.D.
+
+[125]   D.D. testified in his own defence and explicitly denied touching H.D. in a sexual manner at any time and insists that the events alleged never happened. This requires me to assess his credibility in the context of the totality of evidence. 
+
+The Family Dynamics
+
+[126]   During the material time, his family was experiencing significant relationship difficulties and instability. In 2020, he broke up with his fiancé, BR, and she moved out of their residence. He admitted to living at the apartment in Birkdale Village located on Second Avenue during the material times on the Information. Up until March 2021, he had sole custody of both H.D. and C.D. For the entirety of their lives, they had resided in his primary care until an incident of domestic violence where he was charged with assaulting BR in 2020. He ultimately pleaded guilty to that assault as evidenced in his criminal record. 
+
+[127]   At the time of these allegations, he was being supervised by the Children’s Aid Society (“CAS”) with bi-weekly visits to his home to ensure that he was providing a stable and safe home environment for the children, including H.D. As the primary care provider, he was responsible for bathing and putting H.D. to bed at the time of the alleged incident.
+
+[128]   He corroborated H.D.’s memory of a house fire that resulted in them moving into a motel. It was there where H.D.’s biological mother visited them with groceries and gifts.
+
+The alleged location of the incident and presence of furniture
+
+[129]   During the cross-examination of the accused, there were a considerable number of questions put to him by both lawyers that focused on the location of couches, TVs, a movie projector and bedrooms throughout the family home. These questions focused on what the furniture arrangements were that overlapped with a house fire in C.D.’s room in 2017 and the arrival of BR and IZ in January 2018 to March 2021 when BR moved out.
+
+[130]   I listened carefully to the questions put to the accused by both lawyers and studied the floorplan he sketched that is filed as Exhibit 2. These lines of inquiry were intended to establish or refute any opportunity that D.D. may have had to commit these offences. They were also meant to corroborate or discredit the evidence of H.D. 
+
+[131]   I am left with two competing descriptions of the location of furniture on the second floor of the home on Second Avenue but without any independent source to objectively assess that evidence. Both descriptions provided by H.D. and D.D. are plausible and both admit that the location of the furniture was moved on several occasions throughout the years to account for intervening life events, such as a house fire in C.D.’s room or the stepsister, IZ moving out.
+
+[132]   I accept that peripheral details of a traumatic event can be difficult to recall and accurately describe at a later date. It is rather unrealistic to expect the accused and H.D. to recall with exactitude which room and precisely where they were physically situated in those rooms when they watched movies back in the home in 2019 or 2020, unless there was some special reason for them to do so.
+
+The Opportunity Existed
+
+[133]   Although the room identified on the upper floor by H.D. is different than the room identified by the accused, they both acknowledge that watching movies together as a family, while lounging in bed, or on a chair or a couch were commonplace in the accused’s bedroom.
+
+[134]   He was insistent that the children would usually lay in his bed with their pillows and blankets and watch a movie.  He recalled that he would sit in the Lazy Boy chair and passively do chores such as folding laundry or checking his cell phone.
+
+[135]   As it relates to the issue of opportunity, I find it hard to accept that throughout the material times, the children did not fall asleep in D.D.’s bed, the same bed that he admitted his children would watch movies from with their pillows and cushions. I also find it hard to believe that without exception, these movies commenced prior to bedtime, as he insists.
+
+ 
+
+Did D.D. sleep naked with H.D.?
+
+[136]   I turn now to whether I am satisfied D.D. slept naked in his bed with the children present during a movie or anytime they were in his immediate presence.
+
+[137]   D.D. readily admitted that he slept naked when he was engaged in sexual activity with his fiancé at the time, BR. However, he was insistent that he never slept naked any other time and never with the children. He also denied walking around the family home naked in the presence of the children.
+
+[138]   I accept his evidence on this evidentiary point and remind myself that H.D. never did actually see her father naked in bed during the alleged event. She simply assumed this to be the case at the time of the alleged incident when he rubbed his penis against her lower back or buttocks, while she lay facing away from her father.
+
+[139]   To the best of his knowledge, nothing abnormal happened when he slept with the children from time to time.
+
+Conclusions regarding the evidence of the accused
+
+[140]   It became evident during cross-examination that the accused provided different answers in response to questions put to him by the Crown regarding where he watched movies with his children within the home back in 2020 to 2021. He appeared visibly confused and sought clarification on numerous occasions from the Crown when certain possibilities and hypotheticals were put to him.
+
+[141]   He did remember watching a Marvel Spiderman movie with a green lizard in his bedroom with the children on many occasions over the years. However, he does not have a specific memory of an instance of watching it before bedtime in his room with them. 
+
+[142]   He did not watch movies in either H.D. or C.D.’s room because those rooms did not have a TV during the material time. 
+
+[143]   He admitted that he would sleep naked in his master bedroom when he was intimate with his then fiancé but was clothed in the presence of the children outside of that context.
+
+[144]   To the best of his knowledge, he does not have a history of sleepwalking. BR did not make any suggestion that he had a sleep disorder and never told him that he talked in his sleep.
+
+[145]   He did have a female friend by the name of Jamie but was never intimately involved with her and denies inviting her over for a sleep over to their home anytime.
+
+[146]   During cross-examination, the accused admitted to the Crown that he was not able to deny any of the circumstances surrounding the alleged sexual assault because he has no memory of it happening to begin with. 
+
+[147]   He further insisted that if it did occur, he would remember it because it would be life altering. 
+
+[148]   He explained during cross-examination and then again in re-examination that he thought he was responding to hypotheticals put to him by the Crown as opposed to actual events that he recalled. 
+
+[149]   He insisted that none of the circumstances put to him by the Crown actually existed and admitted that he was not in a position to deny any details that he has no memory of. 
+
+[150]   With respect, I did not find this manner of cross-examination of the accused to be helpful. Hypotheticals are one thing, but they do little to assist me in determining what actually happened on the night in question, if at all.
+
+[151]   They are mere theories that are not anchored in an evidentiary foundation in the record before me in this case. The numerous hypothetical questions of habits related to the physical seating arrangements for movies was helpful to assist me in understanding general routines and possibilities, but nothing more. General routines and habits are of limited probative value in my ability to find as a fact what actually transpired.
+
+[152]   Because the accused has no memory of a specific incident linked to the allegations, and he denies any knowledge of it, I attach little weight to his responses to hypotheticals that frankly, did little to advance my ability to make findings of fact.
+
+[153]   I observed the accused to be genuinely confused with the questions put to him by the Crown because of the references to possibilities and hypotheticals as opposed to what he actually knew or witnessed.
+
+[154]   I did not find him to be evasive or deliberately attempting to avoid the questions put to him by the Crown. I found him to be a credible witness, who was genuinely attempting to recall specifics details of factors that changed over the years in circumstances he had no reason to remember some four to five years after the fact. There is nothing in his testimony that causes me to doubt his credibility. 
+
+Conclusion
+
+[155]   For these reasons, I am unable to find beyond a reasonable doubt the accused committed the offences of Sexual assault and Sexual interference upon H.D. 
+
+[156]   Accordingly, there will be a finding of not guilty on both counts.
+
+[157]   I wish to thank Ms. Whillans and Mr. Michel for their advocacy throughout this trial.    
+
+Released:  June 26, 2025
+
+ 
+
+ 
+
+ 
+
+ 
+
+                                                                 Justice Leonard Kim
+
+
+[1] R. v. Morrissey, 1995 CanLII 3498 (ON CA), [1995] O.J. No. 639 (Ont. C.A.) at para 33; R. v. H.C., 2009 ONCA 56 (CanLII), [2009] O.J. No. 214 (Ont. C.A.) at para. 41; R. v. Slatter, 2019 ONCA 807 (CanLII), [2019] O.J. No. 5073 Ont. C.A. at para. 60;
+
+[2] R. v. J.J.R.D., 2006 CanLII 40088 (ON CA), [2006] O.J. No. 4749 (Ont. C.A.) at para 47; R. v. J.W., [2014] O.J. No. 1979 (Ont. C.A.) at para. 26.
+
+[3] R. v. R.W.B., [1993] B.C.J. No. 758 (B.C.C.A.) at para. 29; R. v. A.M., 2014 ONCA 769 (CanLII), [2014] O.J. No. 5241 (Ont. C.A.) at paras. 12 to 13.
+
+[4] R. v. W. (D), 1991 CanLII 93 (SCC), [1991] S.C.J. No. 26 (S.C.C.).
+
+[5] R v. H.(C.W.) (1991), 1991 CanLII 3956 (BC CA), 68 C.C.C.(3d) 146 (B.C.C.A.); followed in R. v. J.H.S., 2008 SCC 30 at para. 12.
+
+[6] J.H.S., at para. 13.
+
+[7] R. v. B.G., 1990 CanLII 7308 (SCC), [1990] 2 S.C.R. 30 at para. 48.
+
+[8] R. v. W.(R), 1992 CanLII 56 (SCC), [1992] 2 S.C.R. 122 at paras. 23-25. 
+
+[9] W.(R), para. 25.
+
+[10] R. v. A.A., 2023 ONCA 174 at para. 17. 
+
+[11] R. v. G.C., 2006 CanLII 18984 (ON CA), [2006] O.J. No. 2245 (C.A.); R. v. Dinardo, 2008 SCC 24 at paras. 36-38. 
+
+[12] R. v. [F. (J.E.)] (1993), 1993 CanLII 3384 (ON CA), 67 O.A.C. 251; 85 C.C.C. (3d) 457 (C.A.). 
+
+[13] Dinardo, at paras. 38-39. 
+
+[14] Counsel and the witnesses referred to this person by her first name only. Pursuant to the ban on publication under 486.4 of the Criminal Code, this person’s first name is abbreviated.
+
+[15] Video Transcript, bottom of pg. 26.
+
+[16] Video Transcript, bottom of pg. 39. 
+
+[17] B.G., at para. 48. 
+
+[18] Video Transcript, pg. 35. 
+
+[19] Video Transcript, pg. 40
+
+[20] The suggestion from the investigating officer to H.D. that her father got out of bed, as opposed to becoming awake from sleeping, changes the entire characterization of what this young child had initially intended to communicate. I find this leading question by the officer on such a fundamentally important evidentiary point to be highly problematic. This leading question by the officer to H.D., seven years old at the time, resulted in a material alteration of the essential meaning of what she had originally expressed to him.
+
+[21] Cross-Examination of H.D., March 20/25 at 2:41:08.

@@ -1,0 +1,125 @@
+Link: https://canlii.ca/t/kcbf5
+Date: 2025 09 18
+File number: Not found
+Citation: R. v. Galati, 2025 ONCJ 293
+Court: Not found
+Region: Not found
+Client: Giuseppe Galati
+Judge: Not found
+
+R. v. Galati, 2025 ONCJ 293 (CanLII), <https://canlii.ca/t/kcbf5>, retrieved on 2025-09-18
+
+ONTARIO  COURT  OF  JUSTICE
+
+CITATION:  R. v. Galati, 2025 ONCJ 293
+
+DATE:  2025·05·28
+
+NEWMARKET
+
+ 
+
+ 
+
+ 
+
+BETWEEN:
+
+ 
+
+HIS  MAJESTY  THE  KING
+
+ 
+
+—  AND  —
+
+ 
+
+GIUSEPPE GALATI
+
+ 
+
+JUDGMENT
+
+Evidence and Submissions Heard: May 28, 2025.
+
+Delivered: May 28, 2025
+
+Mr. Charles Lamy....................................................................................   counsel for the Crown
+
+Mr. Jeffrey Goldglass.......................................................................   counsel for the defendant
+
+KENKEL J.:
+Introduction
+
+[1]               Constable Steinman clocked a van travelling at 139km/hr in a 70 km/hr zone. He turned around and tried to catch up. At the next intersection the van drove into the left turn lane, but when the light went green it drove back into the through lane cutting off another vehicle. The van continued at extreme speed until it slowed as it passed a second police car. Mr. Galati was eventually stopped and arrested for Dangerous Operation.
+
+[2]               Mr. Galati admitted he may have been speeding that day, but not to the extreme described by the officer. He used the left turn lane to get around a vehicle stopped at the red light with its 4-way flashing lights on. He did not drive in a dangerous manner and the officer could have caught up to him at any time. He said the officer’s evidence was absurd and ridiculous.
+
+[3]               The evidence and the submissions of both counsel identify two issues for decision:
+
+•        First, what was the manner of driving? That determination turns primarily on the assessment of the credibility of the witnesses.  
+
+•        Second, Has the Crown proved that the accused’s operation was dangerous within the meaning of s 320.13(1)?
+
+Operation  
+
+[4]               PC Steinman noticed a white Chevrolet van travelling a lot faster than the rest of the traffic southbound on Bathurst Street. As it came closer and passed him, his onboard radar clocked the vehicle travelling at 139 km/hr. The officer stated that the maximum speed on Bathurst is 70 km/hr. It was February, and the road was slushy and wet. He made a U-turn and activated his lights and siren to try to catch up to the van to cause it to stop. It didn’t.
+
+[5]               At the next intersection at Wellington Street the van moved into the left turn lane. It appeared to stop for the red light. When the light turned green the van did not turn left, but instead turned back into the through lane cutting off a car in that lane as it started forward. The van then accelerated to a very high speed.
+
+[6]               The officer followed the van at speeds up to 120 km/hr, but he wasn’t closing the gap with the white van. On the contrary, it appeared to be gaining speed and increasing the distance between them. The officer estimates the van’s speed after Wellington was 140 km/hr, still in a 70 km zone. The driver was “flying past” other cars on the roadway.
+
+[7]               At the next major intersection at Henderson the light was red. The officer said the van appeared to drive through the red light. The officer was careful to explain that he wasn’t close enough to see that, but the officer could see the light was red even at that distance. He did not see Mr. Galati stop. The light was still red when the officer arrived seconds later, and Mr. Galati’s van was no longer there.
+
+[8]               After Henderson there happened to be another York Regional Police car travelling southbound closer to the intersection at McLellan Way. The white van slowed as it passed that car and PC Steinman, still with full lights and siren, was able to catch up and effect the stop.
+
+[9]               The officer’s evidence including his responses in cross-examination on this point showed that the radar device was internally calibrated at 4 different speed levels prior to use. The device produces signals as described by the officer that simulate doppler shifts caused by moving vehicles. This device was confirmed to be in working order at the start of the shift. PC Steinman then confirmed that the device was measuring his own speed properly as he drove. Finally, he ensured that the device measurement of the apparent speed of traffic passing him was consistent with the speed as measured by the device. The Crown has proved that the radar device was in working order and provided a reliable and accurate measurement of speed in this case.
+
+[10]            Constable Steinman followed at distances of up to 200m at one point, and for a few seconds he lost view of the van as it went over certain hills on the way, but the officer’s direct pursuit and the distinctive feature of this van – a large ladder on top – confirm that the van that passed the officer was the one that was stopped further down Bathurst.  
+
+[11]            Constable Steinman was a credible witness. His recollection was aided by reference to detailed contemporaneous notes made at the time of the events. He was acting in a professional capacity at the time. His evidence as to vehicle speed was based not only on his observations and his pacing of the vehicle, but also by measurement by a radar device that was calibrated and confirmed in working order at the beginning of his shift. He’s been a qualified radar operator since 2021. His evidence was not diminished in cross-examination.
+
+[12]            Mr. Galati testified that his van is a work van for his roofing business. It carries 4000lbs of tools and 6 ladders on the roof. He went out to respond to a call that day despite the bad weather. Mr. Galati said the roads were icy not slushy as described by the officer.
+
+[13]            Mr. Galati testified that he saw PC Steinman’s marked police car as he passed travelling in the other direction. He said the officer could have caught up to him at any time. Mr. Galati said he was the only vehicle on Bathurst. He saw the police officer as he passed the cruiser. The officer “wasn’t coming after me” and so he didn’t stop.
+
+[14]            At the intersection with Wellington Street the car in front put his 4-way flashing lights on so Mr. Galati said he went into the left turn lane. He drove back into the through lane simply to go around the stopped car as he thought it was broken down.
+
+[15]            As for his continued driving southbound on Bathurst, Mr. Galati said that he couldn’t see the officer and there was no way the officer could see him. The officer’s evidence that he was travelling at high speed and may have gone through the red at Henderson was absurd and ridiculous. Mr. Galati testified that he’d say he was going 100 km/hr “not that I remember though”.
+
+[16]            When he was south of Henderson Mr. Galati said he was driving by a second police car that was also travelling southbound. Shortly afterwards he stopped in response to Constable Steinman, the officer who wasn’t following him.  
+
+[17]            Mr. Galati testified that he was born and raised in Canada, and he doesn’t break the law. He also testified that he’s not a bad driver, he’s a great driver. In cross-examination he admitted that he has a criminal record. He explained that when he said he doesn’t break the law he meant recently. When the Crown pointed out he had recent convictions his evidence changed again to mean within the past year.
+
+[18]            Mr. Galati said he’s an aggressive driver, but also a “great driver”. He owned a racing company for 30 years and has been driving for 44 years. In cross-examination the Crown showed him an 18-page driving abstract from the Ministry of Transportation showing convictions for various offences. Without reviewing the particulars, Mr. Galati agreed that he had an extensive record of driving convictions, but he still considers himself a good driver. He explained that most of the convictions were dated and he’s 59 years old now. The Crown pointed out that one of the convictions was 10 weeks prior to this incident which Mr. Galati described as crystal clear in his memory, but Mr. Galati didn’t recall that matter.
+
+[19]            Mr. Galati’s repeated assertions of general good character and specific good conduct in relation to driving were proven to be false in cross-examination. The criminal record and the provincial driving abstract were not reviewed in any detail and were not otherwise produced to the court. Reference to both was simply to respond to assertions by the defendant. The Crown properly did not refer to those documents for any other purpose and they otherwise add nothing to the Crown’s case.
+
+[20]            Mr. Galati admitted he was speeding on Bathurst. He doesn’t know what his speed was as he didn’t look at his speedometer. He was also distracted as he said he was talking to his 80-year-old customer “the whole way” down Bathurst. He failed to respond to the lights and siren of PC Steinman’s vehicle even though he said he saw the police cruiser as he passed so was alert to the fact that he just passed an officer while travelling at high speed. His statement that the officer didn’t follow him is contradicted by the credible evidence of PC Steinman and the fact that it was that officer who caused him to stop after direct pursuit. The only reason that Mr. Galati wasn’t stopped earlier was that his extreme speed created a distance between himself and the officer. He maintained that speed and therefore maintained the gap, at times increasing that distance down Bathurst until he realized there was a second police car after the third major intersection. That second car caused him to slow and then stop for the two cars. 
+
+[21]             I find Mr. Galati’s evidence as to his driving including his speed to be unreliable and incredible. His speed travelling past the officer was reliably measured at 139 km/hr. The credible evidence of PC Steinman and Mr. Galati’s agreement that there was a long gap between his car and the officer’s car with lights and siren shows that Mr. Galati continued his speed towards Wellington, slowed and stopped there and then increased his speed afterwards. The fact that PC Steinman was travelling 120 km/hr and Mr. Galati’s van continued to gain ground shows that up to the point of the second cruiser, Mr. Galati was travelling again at a similar speed.
+
+[22]            Constable Steinman maintained observation on the distinctive white van throughout and there is no issue that the van he first measured at 139 km/hr was the one that he eventually was able to stop further south on Bathurst.
+
+[23]            Mr. Galati’s evidence that the car he cut in front of at Wellington was stopped with 4-way flashers on is contradicted by the credible evidence of PC Steinman who did not mention any flashing lights on that vehicle. It’s also contradicted by the fact that the vehicle was not disabled and moved forward into the intersection when Mr. Galati moved in front and cut him off.
+
+Dangerous Operation
+
+[24]            Mr. Galati was driving a commercial van with 4000lbs of tools on board and 6 ladders affixed to the roof. He was driving in wet and slushy winter conditions. He says it was icy. He was distracted the entire way down Bathurst by a conversation with his customer on his cellphone via a Bluetooth connection. He was travelling at an extreme speed that was double the legal limit and would have been a dangerous speed even on a 400 series highway..
+
+[25]            The dangerous driving was not momentary but sustained. While the central danger was the extreme speed, the failure to stop for the officer or perhaps even to notice the police car following with lights and siren shows Mr. Galati was driving aggressively while distracted. Even when stopped, he then managed to cut off another driver when he resumed his travel. The Crown has proved that Mr. Galati drove in a manner that was objectively dangerous.
+
+[26]            The Crown must also prove the mental component – that the dangerous manner of driving was the result of a marked departure from the standard of care a reasonable person would have exercised in the same circumstances – R v Roy, 2012 SCC 26 at para 36.
+
+[27]            In these circumstances, with the heavy loaded vehicle with 6 ladders on top, in those slushy and wet winter conditions, a very experienced driver like Mr. Galati would be well aware of the need for caution. He would have foreseen the risk in travelling at extreme speed, the risk in his aggressive driving and the risk posed when he combined the two with the distraction of a phone conversation. The decision to drive in that manner despite the serious risk it posed to the safety of others was a marked departure from the standard of care expected of a reasonable person in those circumstances.
+
+Conclusion
+
+[28]            I can find no credible evidence that leaves a reasonable doubt. I find the Crown has proved the charge beyond a reasonable doubt.
+
+ 
+
+Delivered: May 28, 2025.
+
+Justice Joseph F. Kenkel

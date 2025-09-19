@@ -1,0 +1,117 @@
+Link: https://canlii.ca/t/kcpn1
+Date: 2025 09 18
+File number: Not found
+Citation: R. v. Foran, 2025 ONCJ 332
+Court: Not found
+Region: Not found
+Client: Paul J. Foran
+Judge: Not found
+
+R. v. Foran, 2025 ONCJ 332 (CanLII), <https://canlii.ca/t/kcpn1>, retrieved on 2025-09-18
+
+ONTARIO  COURT  OF  JUSTICE
+
+CITATION:  R. v. Foran, 2025 ONCJ 332
+
+DATE:  2025·06·16
+
+NEWMARKET
+
+ 
+
+ 
+
+ 
+
+BETWEEN:
+
+ 
+
+HIS  MAJESTY  THE  KING
+
+ 
+
+—  AND  —
+
+ 
+
+PAUL J. FORAN
+
+ 
+
+JUDGMENT
+
+Evidence and Submissions Heard: June 16, 2025.
+
+Delivered: June 16, 2025
+
+Ms. Agatha Mapelli ................................................................................   counsel for the Crown
+
+Mr. Barry Fox ....................................................................................   counsel for the defendant
+
+KENKEL J.:
+Introduction
+
+[1]               Mr. Foran was stopped just after exiting an LCBO liquor store. The officer had several reasons for the stop. An Approved Screening Device (ASD) test was conducted. That test resulted in a “Fail” showing Mr. Foran had a blood alcohol concentration (BAC) of 100mgs or higher. A few minutes later Mr. Foran told P.C. Hyde that, contrary to his earlier statement, he actually had been drinking shortly before the ASD test. Constable Hyde conducted a second ASD test which ended with the same result. Approved instrument tests later at the station measured Mr. Foran’s BAC at 247mgs and 232 mgs. Mr. Foran is charged with having a blood alcohol concentration in excess of the legal limit within 2 hours of operating a conveyance (80+) s 320.14(1)(b).
+
+[2]               Both counsel agree the Crown has proved the count alleged subject to consideration of the following Charter issues:
+
+•        SECTION 8 – LAWFUL DEMAND – The second ASD test was not pursuant to a second demand. Was it a legal search?
+
+•        SECTION 10(B) – HOLDING OFF – Was the second ASD test a breach of s 10(b) as it was conducted after right to counsel advice was given but before access to counsel was provided?
+
+•        SECTION 10(B) COUNSEL OF CHOICE – Did the police “steer” the accused to duty counsel resulting in a breach of his s 10(b) right to counsel of choice?
+
+CHARTER ss 8,10(b) – The Second ASD Test
+
+[3]               P.C. Hyde made several observations including the odour of alcohol coming from the accused that provided the required reasonable suspicion for the roadside ASD test. He asked Mr. Foran if he had consumed alcohol within 15 minutes prior to the stop and Mr. Foran said he hadn’t. The fail of the ASD test led to Mr. Foran’s arrest.
+
+[4]               After his arrest, and after right to counsel advice had been provided, Mr. Foran told P.C. Hyde that he actually had consumed alcohol 5 minutes before the test. Constable Hyde discussed the matter with P.C. Johnson who was at the scene and is a qualified breath technician. They agreed that the possibility of mouth alcohol from recent consumption might affect the validity of the initial result. They decided to conduct another test. Constable Hyde administered a second ASD test that also resulted in a Fail.
+
+[5]               The defence notes that there was no new ASD demand for the second test. The defence submits there was no continuing demand, and the second test was therefore unlawful. Further the test was a breach of s 10(b) because it was an investigative step taken after right to counsel advice had been provided but before implementation of that right.
+
+[6]               The defence described the situation created by the accused’s statement as a “Catch-22”. The officers could no longer rely upon the accuracy of their original test, but nor could they lawfully administer a new test.
+
+[7]               The Crown has proved that P.C. Hyde had the reasonable suspicion required for the ASD demand and test. The information he had at the time showed no reason to doubt the accuracy of the result. The subsequent arrest based on the ASD fail result was lawful. The right to counsel advice given complied with s 10(b) of the Charter.  
+
+[8]               What should happen when a police officer receives new information that causes the officer to question the original grounds for arrest? It’s not unusual for detained persons to tell an officer contradictory things at the roadside. What an officer does next is based on the circumstances of the case and different officers might reasonably arrive at different conclusions.
+
+[9]               Some officers might decide to continue the arrest based on the original information provided. In other cases, the information may cause the officer to have a concern that if the accused’s second statement was the true one, the ASD result might not be valid. That’s what happened. Constable Hyde testified that the odour of alcohol coming from the accused dissipated after he stepped out of his vehicle. His discussion with Constable Johnson led them to offer a second test.
+
+[10]            I disagree with the defence that the accused’s second statement resulted in a legal dilemma for the officer. The defence is right that the accused could not have been compelled to participate in the second test. His arrest was ongoing, and he had already provided the sample required by the demand. The further test was conducted entirely for his benefit, to ensure there was no possibility that the original test was inaccurate. It’s understandable that he chose to comply, even though the test wasn’t legally required.
+
+[11]            Once right to counsel advice has been provided, officers are required to refrain from eliciting incriminating evidence until the accused has had a chance to speak with counsel – R v Bartle, 1994 CanLII 64 (SCC), [1994] SCJ No 74. That rule does not prevent the police from continuing the investigation at the instance of the accused by checking the validity of the grounds for the arrest. The officers here were not eliciting incriminating evidence. They were not required to conduct a further test, but were right to do so in this case to ensure that it was necessary take Mr. Foran to the station for evidentiary testing via Approved Instrument.
+
+[12]            There was no breach of sections 8 or 10(b).
+
+SECTION 10 (b) – Counsel of Choice – Steering
+
+[13]            At the roadside Constable Hyde read the standard right to counsel advice which included the explanation that Mr. Foran had the right to call any lawyer he wished. Mr. Foran responded that he thought he probably should call a lawyer, but he didn’t have a lawyer to call. In cross-examination PC Hyde confirmed that it was his standard practice to advise a detained person that they have the right to call a lawyer other than duty counsel, but he agreed that any conversation on that point beyond the standard advice was not in his notes. He testified that the ICC (In-Car-Camera) video would have recorded the conversation, but it was not played by either party.
+
+[14]            The Crown was unable to play the station videos at trial. PC Hyde did not note the booking conversation that led to the call to duty counsel, in part because that discussion was with another officer (the Staff Sergeant), and in part because it was recorded. He recalled that Mr. Foran requested duty counsel in that discussion. He didn’t recall Mr. Foran asking to speak to anyone else about contacting a lawyer. He didn’t recall any request by Mr. Foran to contact another lawyer.
+
+[15]            The defence notes that there was no direct evidence as to the words spoken by Mr. Foran that resulted in the officers making the call to duty counsel. The defence submits that the officers decided to call duty counsel, not Mr. Foran.
+
+[16]            I agree with the defence that the evidence on this point is minimal. However, the absence of evidence is not necessarily positive evidence of a breach.
+
+[17]            Constable Hyde’s evidence showed that right to counsel advice was properly provided. His evidence that Mr. Foran chose to speak to duty counsel is uncontradicted by any other evidence or circumstance. While the officer did not record the exact words of that discussion, his failure to do so was reasonably explained. To the extent that some trial cases cited by the defence in their Application suggest a duty on the police to go further and review various implementation options with a detained person even if not requested, that approach has been rejected – R v Shen, 2023 ONSC 3847 at para 44, R v Persaud, 2020 ONSC 3413.
+
+[18]            The implementation duty upon the police depends upon what the accused says. The only evidence on this point is that Mr. Foran requested to speak to duty counsel. I agree with the defence that the evidence on this point was minimal, but it is sufficient. Had the defence been in position to call any evidence contesting Constable Hyde’s testimony on this point on the Charter voir dire, the Crown would have had little to point to in response. The burden though is on the defence to establish the breach alleged on the balance of probabilities – R v Collins, 1987 CanLII 84 (SCC), [1987] SCJ No 15.
+
+[19]            I find the evidence fails to prove the breach alleged.
+
+Conclusion
+
+[20]            The Crown has proved the arrest, ASD test and approved instrument tests were lawful. The defence has failed to prove the s 10(b) breaches alleged on the balance of probabilities. The Charter applications are dismissed.
+
+[21]            The Crown has proved the charge beyond a reasonable doubt. There will be a finding of guilt.
+
+Delivered: June 16, 2025.
+
+ 
+
+ 
+
+ 
+
+Justice Joseph F. Kenkel

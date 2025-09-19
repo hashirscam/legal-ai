@@ -1,0 +1,309 @@
+Link: https://canlii.ca/t/kccj8
+Date: May 30, 2025
+File number: 24-61100087
+Citation: R. v. Bhandal, 2025 ONCJ 297
+Court: Ontario Court Of Justice
+Region: Not found
+Client: Jashandeep Bhandal
+Judge: Mr. Justice Richard H.K. Schwarzl at Orangeville
+
+R. v. Bhandal, 2025 ONCJ 297 (CanLII), <https://canlii.ca/t/kccj8>, retrieved on 2025-09-18
+
+CITATION:  R. v. Bhandal, 2025 ONCJ 297
+
+COURT FILE No.: 24-61100087
+
+DATE: May 30, 2025
+
+ONTARIO COURT OF JUSTICE
+
+Central West Region
+
+BETWEEN:
+
+ 
+
+HIS MAJESTY THE KING
+
+ 
+
+—  AND  —
+
+ 
+
+jashandeep bhandal
+
+ 
+
+ 
+
+Heard Before Mr. Justice Richard H.K. Schwarzl at Orangeville
+
+on April 22 and May 1, 2025
+
+Reasons released on May 30, 2025
+
+Ms. Sarah Khan.....................................................................................................   for the Crown
+
+Mr. Brian Brody...............................................................................................   for the Defendant
+
+SCHWARZL, J.:
+ 
+
+REASONS FOR JUDGMENT
+
+ 
+
+1.0:  INTRODUCTION
+
+[1.]         The Defendant, Jashandeep Bhandal, is on trial for two charges:  impaired driving and failing to provide a breath sample, contrary to sections 320.14(1)(a) and 320.15(1), respectively, of the Criminal Code of Canada.
+
+ 
+
+[2.]         On the charge of impaired driving, the sole issue is whether the prosecution has proven beyond a reasonable doubt that the defendant was the driver.
+
+ 
+
+[3.]         With respect to the count of fail to provide, the only issue is whether the police had reasonable grounds to make the breath demand.
+
+ 
+
+2.0:  FACTS NOT IN DISPUTE
+
+[4.]         This matter arises out of a single car crash in the wee hours of December 30, 2023.
+
+ 
+
+[5.]         Sometime between 3:30 and 3:45 in the morning, a motorist was driving home with her fiancé.  As they approached a dark roundabout in rural area, they noticed a car bumper and other car parts laying on the road.  They stopped immediately to investigate.  The motorist called the police while her fiancé went over a dented guardrail and disappeared into a deep ditch to search for the car.  Within a few minutes he located it and reported his finding to her.
+
+ 
+
+[6.]         The motorist called 911 and said that her fiancé found a car with a lone occupant trapped inside the heavily damage vehicle, which was a VW four door Jetta.  All of this was then transmitted to responding police and other emergency personnel.
+
+ 
+
+[7.]         Shortly before 4:00 a.m. two police officers, Constables Brar and Deol, arrived on scene.  Fire and ambulance staff arrived, too.
+
+ 
+
+[8.]         Both officers went into the ditch with the motorist’s fiancé.   They located the car, which was lying on the passenger side making it impossible to get out on that side.  The Jetta was resting precariously, being in real danger of sliding further down the slope.
+
+ 
+
+[9.]         The driver’s door was so damaged that it took enormous effort of at least two men to force it open.  The rear window of the car was missing.
+
+ 
+
+[10.]      The defendant was sitting in the front passenger seat with lots of blood on his face caused by an obvious injury to his head.
+
+ 
+
+[11.]      The priority of the police was to remove the injured defendant from the car. When helping him out the driver’s door, the police observed that the steering wheel airbag and driver’s left side airbag had deployed. The airbag on the passenger’s right side was also deployed, but not the passenger dashboard airbag.
+
+ 
+
+[12.]      In the brief time they were first at the car, the police saw blood on the steering wheel airbag.  They did not notice any blood on the passenger side of the car.
+
+ 
+
+[13.]      Despite his injury, the defendant was conscious and mobile.  He was able to slide across from the passenger seat and exit from the driver’s door.
+
+ 
+
+[14.]      The defendant was obviously impaired to drive safely: he smelled of alcohol, his eyes were red and glossy, he was unsteady on his feet, he was uncooperative and belligerent with the ambulance personnel who arrived on scene, and he declared to the police that he was drunk.
+
+ 
+
+[15.]      While the defendant was in the care of medical attendants, the police went back over the guardrail to look for other potential victims as they wanted to rule out any other occupants who might have been ejected in the accident.  A visual search of the area failed to locate anyone else.  There was insufficient snow to see any footprints.  Firefighters did a thermal scan of the around the Jetta and found no heat signatures.  Consequently, there were no easily identifiable signs of anyone being associated with the crash except the defendant.
+
+ 
+
+[16.]      Just before 5:00 a.m. the defendant was arrested by P.C. Brar for impaired driving.  P.C. Brar made a breath demand, but the defendant outright refused to comply with it.
+
+ 
+
+[17.]      At the time of arrest, P.C. Brar was uncertain if he had checked ownership of the Jetta.  He agreed that the defendant was not in possession of the keys when searched and that he was not sure if the keys were found in or around the car.  The officer also agreed that in his experience, airbags do not always deploy when there is someone seated near them.
+
+ 
+
+3.0:  ISSUE #1:  WAS THE DEFENDANT THE OPERATOR OF THE JETTA?
+
+3.1:  Positions of the Parties
+
+[18.]      The defendant argued that the Crown has failed to prove to the requisite standard that he was the operator of the car that left the road and landed in the ditch.  They submit that the totality of the evidence may raise the suspicion that he was the driver, but nothing more than that.
+
+ 
+
+[19.]      The prosecution submitted that despite any direct evidence the inescapable conclusion in the circumstances is that the defendant was indeed the driver.
+
+ 
+
+3.2:  Applicable Legal Principles
+
+[20.]      To find that a defendant is guilty on the basis of circumstantial evidence, the trier of fact must be satisfied beyond a reasonable doubt that his/her guilt is the only reasonable conclusion that can be drawn from the whole of the evidence after considering all other plausible theories and reasonable possibilities that are inconsistent with guilt:  R. v. Villaroman, 2016 SCC 33 (CanLII), [2016] S.C.J. No. 33.
+
+ 
+
+[21.]      "Other plausible theories" or "other reasonable possibilities" must be based on logic and experience applied to the evidence or the absence of evidence, not on speculation.  A helpful way of describing the line between plausible theories and speculation is that to justify a conviction, the circumstantial evidence, assessed in light of human experience, should be such that it excludes any other reasonable alternative.  The trier of fact should not act on alternative interpretations of the circumstances that it considers to be unreasonable; any alternative inferences must be reasonable, not just possible. The burden on the Crown does not extend to disproving every possible conjecture; reasonable doubt is not to be based on speculation or conjecture:  Villaroman, at para 35 to 43; 50.
+
+3.3:  Principles Applied
+
+[22.]      I find the following facts on the totality of the evidence:
+
+(a)   The defendant was alone in the motor vehicle when others arrived;
+
+(b)   His face was covered in blood;
+
+(c)  Only the driver’s side airbag had blood on it;
+
+(d)  The blood on the driver’s side airbag was obvious;
+
+(e)  The passenger side dashboard airbag was not deployed;
+
+(f)   No blood was observed on the passenger side dashboard or deployed side airbag;
+
+(g)  The car was resting on its passenger side, making it impossible to escape from that side;
+
+(h)  The driver’s door was too damaged for anyone to open it by themselves making it unlikely that any other occupant could exit the car by that door;
+
+(i)   Noone else associated with the vehicle was present notwithstanding a serious crash where an occupant was badly hurt and no one other than a bystander reported it;
+
+(j)   There was an unexplained single car collision on a clear, lightly snow-covered road, with the only occupant being too drunk to drive safely.
+
+ 
+
+[23.]       The defence submits the following evidence, or lack thereof, supports a reasonable possibility that someone else was driving:
+
+(a)   The driver must have sustained a bleeding injury, given blood on the driver’s airbag.  The police did not closely examine the interior of the Jetta, either in time, detail, or good lighting, so that it is reasonably possible they missed seeing blood on the passenger side which may then be consistent with the defendant as passenger.
+
+(b)  Given the same brief and superficial inspection of the car that it is reasonably possible that the actual driver, injured, bleeding and unable to get out the driver’s door, crawled over the front seat, escaped through the open rear window, and took off;
+
+(c)  The police conceded that sometimes airbags do not deploy, even in serious crashes which means that it is reasonably possible that the passenger dashboard air bag did not deploy even with the defendant sitting there; and
+
+(d)  The police did not find car keys on the defendant and there is no evidence the keys were found in the car later on.
+
+ 
+
+[24.]      I agree with the defence that the negative result of the thermal scan is not evidence that supports a finding that the defendant was alone at the time of the collision.  It was a very cold December morning, and the scan was conducted quite some time after the motorist and her fiancé stopped to investigate.  It is plausible and even likely that if someone else was in the car then left the scene that their heat signature would have dissipated at the time of the scan.
+
+ 
+
+[25.]      On the evidentiary record before me, I find that while all things are possible, it is not reasonably possible in this case that someone else was driving.  I find that based on human experience and common sense that had there been someone else driving that they would have known the defendant. I further find that they would not abandon the defendant who had an obvious and serious head wound and leave him to his fate in the freezing cold without offering aid or standing by to help emergency personnel. 
+
+[26.]      The failure of the police to see blood anywhere other than the front interior invites conjecture that there was blood elsewhere that went unnoticed.  The defence submitted that the bloodied so-called driver may have gone out the back window, thus leaving what they say is a trail of blood in his wake that would be easily seen.  To be plausible, this scenario relies on the assumption that escape by the back window was realistically possible, which I find as a fact was not.
+
+[27.]      If there was so-called driver who could escape by the back window then that route was also available to the defendant.  I find that since he was conscious and mobile despite his head injury (after all, he got out of the car on his own steam) that he would have likely escaped with the other person.  This makes more sense than remaining in a car that seemed poised to slip further down and likely lead to serious bodily harm or death.  I therefore find it speculative that escape via the broken rear window was reasonably possible on this evidentiary record.  
+
+[28.]      The evidence regarding the undeployed passenger dashboard airbag and the absence of car keys are entirely neutral and do not raise a reasonable possibility that someone else was driving given my findings of fact, above.  With respect to the keys, one must recall two things.  First, this was violent crash, and the keys could be anywhere.  Second, if the keys were inside the car, the police did not find them because they did not examine the interior in a thorough way due its precarious position.  To suggest that the keys were in the possession of a mystery driver is to invite unjustified speculation.
+
+[29.]      Based on the evidentiary record before me, I find that the only rational conclusion is that the defendant was drunk when he drove, alone, over the guardrail and went deep into the ditch.  The Crown has proven this fact beyond a reasonable doubt.
+
+[30.]      I therefore find the defendant guilty of Count #1.
+
+4.0:  ISSUE #2: ASSUMING THE DEFENDANT WAS NOT ACTUALLY DRIVING WHILE IMPAIRED, WAS IT REASONABLE FOR THE POLICE TO BELIEVE HE WAS THE DRIVER?
+
+4.1:  Preamble
+
+[31.]      Having found as a fact that the defendant was the driver of the Jetta while he was impaired, the only conclusion is that the police had reasonable and probable grounds to make the breath demand, with which the defendant refused to comply.
+
+ 
+
+[32.]      Although this issue is therefore moot, I intend to address for the sake of completeness.
+
+ 
+
+ 
+
+4.2:  Positions of the Parties
+
+[33.]      The defence submits that P.C. Brar ignored facts and lack of evidence that ought to have led him to have nothing more than hunches and guesses that the defendant was the driver.  They submit, for example, that the absence of car keys on the defendant, the failure to examine the interior carefully for blood, the purported escape route out the back window, the failure to check the rear driver’s side passenger door, the obvious futility of a thermal scan, and the failure to check who the owner was, should have cumulatively sparked a meaningful doubt in P.C. Brar’s mind that the defendant was the driver.  The defence submits that while Brar may subjectively and honestly believed he had grounds to make a breath demand, this belief was not reasonable.
+
+ 
+
+[34.]      The prosecution submits that Brar’s reliance on the following information known to him at the time makes his belief reasonable:
+
+(a)  Details of the collision provided by dispatch;
+
+(b)  Not seeing anyone else in the area associated with the car;
+
+(c)   The only frontal airbag deployed was that of the driver;
+
+(d)  The driver’s airbag had blood on it;
+
+(e)  The defendant’s face was covered in blood;
+
+(f)   Blood was not seen anywhere else by P.C. Brar;
+
+(g)  That the collision happened very recently; and
+
+(h)  He considered, then ruled out, a possible ejection of other occupants for two reasons:  the results of the thermal scan and negative results following a search of the area around the car.
+
+ 
+
+4.3:  Applicable Legal Principles
+
+[35.]      Reasonable and probable grounds must be honestly and subjectively held by the officer and his honest belief must be objectively justified: R. v. Canary, 2018 ONCA 304; R. v. Saciragic, 2017 ONCA 91 at ¶ 16; R. v. Shepherd, 2009 SCC 35 (CanLII), [2009] S.C.J. No. 35; R. v. Bernshaw (1995), 1995 CanLII 150 (SCC), 95 C.C.C. (3d) 193 (S.C.C.) at p. 216; R. v. Storrey, 1990 CanLII 125 (SCC), [1990] 1 S.C.R. 241; R. v. Bush, 2010 ONCA 554 (CanLII), [2010] O.J. No. 3453 (C.A.). 
+
+ 
+
+[36.]      The objective inquiry asks whether a reasonable person, standing in the shoes of the police officer, would have believed that reasonable grounds existed: Storrey, at pp. 250-51.  When considering whether an officer’s subjective belief is objectively reasonable, the court looks at the objectively discernible facts through the eyes of a reasonable person with the same knowledge, training, and experience as the officer, bearing in mind any exigent circumstances: R. v. Chehil, 2013 SCC 49, [2013] 3 S.C.R. 220, at ¶ 45-47; R. v. Beaver, 2022 SCC 54, at ¶ 72; R. v. Tim, 2022 SCC 12, at ¶ 24; R. v. Amofa, 2011 ONCA 368, at ¶ 19.
+
+ 
+
+[37.]      Determining whether sufficient grounds exist to justify an exercise of police powers is not a “scientific or metaphysical exercise”, but one that calls for the application of common sense, flexibility, and practical everyday experience: R. v. MacKenzie, 2013 SCC 50 (CanLII), [2013] 3 S.C.R. 250, at ¶ 73; R. v. Desilva, 2022 ONCA 879.  While the reasonable grounds requirement does not rise as high as a balance of probabilities or a prima facie case, mere hunches or intuition based on an officer's experience are not sufficient: R. v. MacKenzie, supra, at ¶ 64.   An officer is entitled to rely on conclusions based on a reasonable belief that certain facts exist even if that belief turns out to be mistaken: R. v. Robinson, 2016 ONCA 402 at para. 40.  
+
+ 
+
+[38.]      The officer is not required to establish a prima facie case for conviction before making the arrest, or to consider all alternative explanations for the observed conduct: R. v. Mitchell, [2004] O.J. No. 435 (S.C.J.) at ¶10; R. v. Bush, 2010 ONCA 554 (CanLII), [2010] OJ No 3453 (C.A.). However, the officer is obligated to consider all information known to them, unless the officer has good reason to find an exculpatory factor to be unreliable: Chehil, at para. 34; R. v. St. Clair, 2021 ONCA 895 at para. 27.
+
+ 
+
+[39.]      The test is met where, based on all of the circumstances known to the officer, “credibly based probability” replaces suspicion: R. v. Debot, 1989 CanLII 13 (SCC), [1989] 2 S.C.R. 1140, at p. 1166; Hunter et al. v. Southam Inc., 1984 CanLII 33 (SCC), [1984] 2 S.C.R. 145 at p. 167; R. v. Dhillon, 2016 ONCA 308 at ¶ 25; R. v Muller, 2014 ONCA 780 at ¶ 33.
+
+ 
+
+[40.]      "Reasonable grounds" is essentially an opinion. As such, the belief, based on perceived facts, is frequently a compilation of a state of facts that are too subtle and complicated to be narrated separately and distinctly. In dealing with probabilities relating to human behaviour, a trained officer is entitled to draw inferences and make deductions based on his experience: R. v. Censoni, [2001] O.J. No. 5189 (S.C.J.).
+
+ 
+
+[41.]      The Court must consider the totality of the evidence for the witness' reasonable ground to believe the subject is impaired, not any individual sign on its own: R. v. Huddle, 1989 ABCA 318 (CanLII), [1989] A.J. No. 1061 (C.A.); R. v. Saulnier, [1990] B.C.J. No. 161 (C.A.); R. v. Elvikis, [1997] O.J. No. 234 (Gen. Div.) at ¶ 24; R. v. McMillan, [2003] O.J. No. 4284 (S.C.J.).
+
+ 
+
+4.4:  Principles Applied
+
+[42.]      I reject the defence submission that P.C. Brar had tunnel vision and ignored obvious evidence or lack of evidence.  To ignore something, one must first perceive it, then choose to set it aside in favour of other considerations.  In this case, I find that P.C. Brar was not paying close attention to such things as the broken rear window.  He did not ignore potential blood all over the interior of the car because he was not looking for it, nor was it reasonable for him to make a close examination.  It was dark.  The car was in danger of sliding further down the slope, making time of the essence to focus on what mattered, which was rescuing the defendant.  This, in turn, made such examinations as he conducted very brief in scope and duration.
+
+ 
+
+[43.]      I agree with the defence that in these circumstances it was unreasonable for P.C. Brar to rely on the negative results of the thermal scan.  However, the remaining factors he considered, including searching and then failing to see anyone else around, were objectively reasonable.
+
+ 
+
+[44.]      It was also reasonable for P.C. Brar to believe the collision happened shortly before the motorist and her fiancé stopped to help.  P.C. Brar disagreed with the suggestion that given the time of day and the rural location of the crash, that it could have happened a long time before help arrived.  The basis for his evidence was that in his experience he would expect traffic at that time and place to go by at least every fifteen minutes.  Not only was this evidence unchallenged, but it was substantially confirmed by the police car dashcam video which revealed that more than five uninvolved cars drove by in only few minutes at the scene.
+
+ 
+
+[45.]      Applying the relevant legal principles to the facts of this case, I find P.C. Brar had ample reasonable grounds to make a breath demand.  I therefore conclude that the breath demand was valid, even assuming a reasonable doubt that the defendant was the driver.
+
+ 
+
+[46.]      I therefore find the defendant guilty of Count #2.
+
+ 
+
+5.0:  CONCLUSIONS
+
+[47.]      For the reasons set out herein, I find Jashandeep Bhandal guilty of impaired driving and of refusing to provide a breath sample.
+
+ 
+
+[48.]      The parties are invited to make submissions as to sentence.
+
+ 
+
+                                                         _______________________________
+
+                                                                        Richard H.K. Schwarzl,
+
+                                                                        Justice of the Ontario Court of Justice

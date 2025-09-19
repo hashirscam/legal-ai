@@ -1,0 +1,665 @@
+Link: https://canlii.ca/t/kdv7g
+Date: 2025 09 17
+File number: Not found
+Citation: R. v. Cousineau, 2025 ONCJ 425
+Court: Supreme Court
+Region: Not found
+Client: Robert Cousineau
+Judge: Justice Mara Greene
+
+R. v. Cousineau, 2025 ONCJ 425 (CanLII), <https://canlii.ca/t/kdv7g>, retrieved on 2025-09-17
+
+The court hearing this matter directs that the following notice should be attached to the file:
+
+            A non-publication and non-broadcast order in this proceeding has been issued under subsection 486.4(1) of the Criminal Code.  This subsection and subsection 486.6(1) of the Criminal Code, which is concerned with the consequence of failure to comply with an order made under subsection 486.4(1), read as follows:
+
+486.4   Order restricting publication — sexual offences.—(1)   Subject to subsection (2), the presiding judge or justice may make an order directing that any information that could identify the complainant or a witness shall not be published in any document or broadcast or transmitted in any way, in proceedings in respect of
+
+   (a)   any of the following offences:
+
+               (i)   an offence under section 151, 152, 153, 153.1, 155, 159, 160, 162, 162.1, 163.1, 170, 171, 172, 172.1, 173, 210, 211, 212, 213, 271, 272, 273, 279.01, 279.02, 279.03, 346 or 347,
+
+              (ii)   an offence under section 144 (rape), 145 (attempt to commit rape), 149 (indecent assault on female), 156 (indecent assault on male) or 245 (common assault) or subsection 246(1) (assault with intent) of the Criminal Code, chapter C-34 of the Revised Statutes of Canada, 1970, as it read immediately before January 4, 1983, or
+
+            (iii)   an offence under subsection 146(1) (sexual intercourse with a female under 14) or (2) (sexual intercourse with a female between 14 and 16) or section 151 (seduction of a female between 16 and 18), 153 (sexual intercourse with step-daughter), 155 (buggery or bestiality), 157 (gross indecency), 166 (parent or guardian procuring defilement) or 167 (householder permitting defilement) of the Criminal Code, chapter C-34 of the Revised Statutes of Canada, 1970, as it read immediately before January 1, 1988; or
+
+   (b)   two or more offences being dealt with in the same proceeding, at least one of which is an offence referred to in any of subparagraphs (a)(i) to (iii).
+
+(2)   Mandatory order on application.—   In proceedings in respect of the offences referred to in paragraph (1)(a) or (b), the presiding judge or justice shall
+
+   (a)   at the first reasonable opportunity, inform any witness under the age of eighteen years and the complainant of the right to make an application for the order; and
+
+   (b)   on application made by the complainant, the prosecutor or any such witness, make the order.
+
+.   .   .
+
+486.6   Offence.—(1)   Every person who fails to comply with an order made under subsection 486.4(1), (2) or (3) or 486.5(1) or (2) is guilty of an offence punishable on summary conviction.
+
+
+ 
+
+CITATION:  R. v. Cousineau, 2025 ONCJ 425
+
+DATE:  2025-08-14
+
+ONTARIO  COURT  OF  JUSTICE
+
+BETWEEN:
+
+ 
+
+HIS  MAJESTY  THE  KING
+
+ 
+
+—  AND  —
+
+ 
+
+ROBERT COUSINEAU
+
+ 
+
+Before Justice Mara Greene
+
+Reasons for Judgment released August 14, 2025
+
+S. Rothman ……………………………………….……………………..….… for the Crown
+
+J. Berkes………………………………………………..................... for Robert Cousineau
+
+ 
+
+Greene, J:
+
+ 
+
+[1] Mr. Cousineau is charged with ten offences all related to items found on a cellular telephone seized from an apartment on Dufferin Street on February 8, 2024.   The charges are: accessing, possessing and making available child pornography, making child pornography x2, sexual assault, sexual interference and three counts of breaching court orders.
+
+ 
+
+[2] The essence of the Crown’s case is that a cellular telephone was found in the living room of unit […] Dufferin Street on February 8, 2024.  At the time the phone was located, Mr. Cousineau and a woman the police claim is Melisa Llamzon were in the unit.
+
+ 
+
+[3] The cell phone had a host of photos and videos on it. It is conceded that some the photos and videos meet the test for child pornography.  The phone also had a number of photographs of Mr. Cousineau, some of which are clearly “selfies”.   The police also found a series of documents on the phone with the name Robert Cousineau on them.  These included a lease for the unit with Mr. Cousineau and Ms. Llamzon listed as tenants, transportation ticket receipts in the name of Robert Cousineau, a CV in the name of Robert Cousineau, what appears to be a work time sheet for a Robert Cousineau and a job letter to a Robert Cousineau.  
+
+ 
+
+[4] The telephone had an application on it called “Teleguard’.   D.C. Tamas testified that she personally opened this application.  Upon opening “Teleguard”, D.C. Tamas found a contact list.  She “clicked” on each name which then opened a screen with lengthy chats between the person listed in the contact list and the user of the phone.   Many of the communications included child pornography and descriptive comments by both the user of the phone and the people writing in about their sexual desires towards young persons.   D.C. Tamas testified that she was able to easily access the contents of “Teleguard”, but conceded that she had no knowledge of how the program worked.  D.C. Tamas took screen shots of all the chats within the Teleguard application and they were made exhibits at trial.
+
+ 
+
+[5] According to D.C. Tamas, a program called Celebrite was used to extract contents of the phone and categorize the contents.    The report generated by the Celebrite program was filed as an exhibit at trial along with the documents identified by the program.
+
+ 
+
+[6] A LACE report was also prepared and made an exhibit at trial.  D.C. Tamas testified that LACE is a tool the police use to categorize images  into three categories, those that are identified as being child pornography, those that need to be investigated further and those that are not child pornography.  The report includes the images and videos so that anyone looking at it can confirm for themselves that the image is child pornography. 
+
+ 
+
+[7] Many of the documents, photographs and videos identified in the LACE and Celebrite reports were also viewed by Det. Rahaman.  According to an agreed statement of fact, these items were found in the phone’s photo gallery and download folder.  Det. Rahaman took photographs of the images and documents he found in the photo gallery and download folder.  These photographs were also made exhibits at trial.
+
+ 
+
+[8] According to the LACE report, 101 images and 45 videos identified as child pornography were located on the phone.
+
+ 
+
+[9] Prior to trial, counsel for Mr. Cousineau filed an application alleging a violation of his rights as guaranteed by sections 10(a) and 10(b) of the Charter.  Mr. Cousineau sought to exclude a statement he made to police after his arrest.   After all the evidence was presented counsel for Mr. Cousineau asked to adjourn the remainder of the trial as he wanted to prepare fulsome submissions on the Charter issue and the trial proper.  He further advised that he wanted a ruling on the Charter issue before making submissions on the trial proper.   After a short recess, Crown counsel advised that he was no longer going to rely on the statement made by Mr. Cousineau to police.  This obviated the need for me to address the Charter issue.  The matter was adjourned to June 24, 2025 for submissions on the trial proper.
+
+ 
+
+[10] On May 22, 2025, some three weeks after the evidence had concluded, counsel for Mr. Cousineau filed a new Charter application repeating the allegation of breaches of  sections 10(a) and 10(b) of the Charter and adding in a section 7 breach.  Pursuant to the new application, Mr. Cousineau was now seeking to either exclude the cellular telephoned seized by police as a remedy under section 24(2) of the Charter,  or a stay of proceedings as a remedy pursuant to section 24(1) of the Charter.
+
+ 
+
+[11] Crown counsel filed a detailed notice of response arguing that given the late filing of the application, it should be summarily dismissed.  In the alternative, Crown counsel argued that while there was a section 10(b) breach, there was no section 7 breach. He further argued that the remedy sought was not appropriate. 
+
+ 
+
+[12] In addition to the Charter issues raised, counsel for Mr. Cousineau  further argued that there was no admissible evidence that the cell phone belonged to Mr. Cousineau and as such the offences have not been made out.  He further argued that the charges of sexual assault and sexual interference were not proven beyond a reasonable doubt because the Crown failed to prove that E.M. was the victim of the offence.
+
+ 
+
+Issues and the Law
+
+Charter issue
+
+(a)  Summary of the evidence
+
+ 
+
+[13] On February 8, 2024, D.C. Kama and D.C. Tamas attended at unit […] Dufferin Street to execute a search warrant in relation to offences of possessing, accessing and making available child pornography.  The warrant was provided to Mr. Cousineau, who was in the unit at the time along with a person the police said was Melissa Llamzon.   Upon receipt of the warrant, Mr. Cousineau sought clarification.  D.C. Tamas responded that they had a warrant to search for electronic evidence in relation to two IP addresses.  Despite the request for clarification, D.C. Tamas  did not verbally list the charges under investigation.
+
+ 
+
+[14] The police arrived at approximately 6:00 a.m.  Shortly thereafter a phone was found in the living room.  The police found child pornography on the phone and immediately arrested Mr. Cousineau for possession of child pornography.  The arrest took place at 6:20a.m. 
+
+ 
+
+[15] Mr. Cousineau was advised of his right to counsel and indicated that he wanted to speak to duty counsel. 
+
+ 
+
+[16] At 7:00 am, D.C. Tamas was shown a video on the seized cellular telephone of Mr. Cousineau kissing a young girl.  She was also shown chats on an application called “Teleguard” that included a picture of Mr. Cousineau touching the same young girl’s buttocks.   As a  result of viewing these videos D.C. Tamas had evidence that Mr. Cousineau committed the additional offences of accessing child pornography, making child pornography, making child pornography available, sexual assault and sexual interference.   Despite having both the information from the search warrant about other offences, and the evidence from the cellular telephone, D.C. Tamas did not arrest Mr. Cousineau for these offences nor was he even alerted to the fact that the police were investigating him for these additional offences.
+
+ 
+
+[17] At 7:15 am, D.C. Tamas and D.C. Kama returned to the police station with Mr. Cousineau.  D.C. Kama contacted duty counsel and advised counsel that Mr. Cousineau was arrested for possession of child pornography.  Mr. Cousineau spoke to counsel and then was interviewed by D.C. Kama.  The interview started at 8:45 am, long after the police had evidence of the additional offences.
+
+ 
+
+[18] During the course of the interview, D.C. Kama advised Mr. Cousineau that he was not attempting to collect evidence and investigate offences.  D.C. Kama conceded that this was a lie.
+
+ 
+
+[19] At trial, D.C. Kama testified that it is the practice of his unit to arrest a person for possession of child pornography as soon as child pornography is located.   While he had suspicion of other offences, he did not advise duty counsel or Mr. Cousineau that he was investigating other offences.  D.C. Kama testified that it was not his decision about what charges should be laid and it was his practice to only notify duty counsel or Mr. Cousineau about the charges laid as opposed to all the charges being investigated.  D.C. Kama further testified that he thought Mr. Cousineau was aware of the charges of making child pornography available and of accessing child pornography because they were listed on the warrant.
+
+ 
+
+[20] D.C. Tamas testified that it is also her practice and the policy of her unit to arrest for possession of child pornography as soon as it is found.  She further testified that after seeing the videos and chats on the phone, which occurred prior to the interview, she had grounds to arrest Mr. Cousineau for  additional offences.  D.C. Tamas testified that she made a conscious decision not to arrest Mr. Cousineau or advise him of these offenses before the interview.  D.C. Tamas testified that there was a victim in the videos, and she wanted to identify this girl.
+
+
+Analysis
+
+ 
+
+[21] I appreciate that Crown’s concern about the late notice of the Charter application.  In my view the remedy was to provide the Crown an opportunity to re-open his case as opposed to summarily dismiss an application that was not frivolous.   Crown counsel advised that he did not wish to call further evidence.  As such, the application was heard on the evidence already before the court. 
+
+ 
+
+(a)  The Charter Breaches
+
+ 
+
+[22] There is no dispute that Mr. Cousineau’s rights as guaranteed by sections 10(a) and 10(b) of the Charter were violated.  At the time of the interview, Mr. Cousineau was detained, and the police had grounds to arrest him for  a series of serious offences.  The police intentionally failed to advise Mr. Cousineau of this and as such, he was unable to obtain meaningful advice from counsel prior  to being interviewed by D.C. Kama.  
+
+ 
+
+[23] Mr. Cousineau also alleged a breach of his section 7 rights. It is alleged that the D.C. Kama’s intentional failure to advise Mr. Cousineau that he was being investigated for additional offences amounted to a dirty trick and undermined Mr. Cousineau’s right to remain silent.  Crown counsel argued that given Mr. Cousineau’s admission that the statement made was voluntary, there is no  s.7 breach.    In R. v. Singh, 2007 SCC 48, the Supreme court of Canada held that in all cases where “an obvious person in authority is interrogating a person who is in detention”  proof beyond a reasonable doubt of voluntariness will be determinative of the s.7 issue (R. v. Singh, supra, at paras 37 and 40).  This is because they are “functionally equivalent”.  I agree with Crown counsel.  In the case at bar, Mr. Cousineau has conceded that even with D.C. Kama’s trickery and his failure to notify Mr. Cousineau of all the charges he was facing, Mr Cousineau exercised his own free will when he spoke to D.C. Kama.  If D.C. Kama’s failure to alert Mr. Cousineau of the extent of his jeopardy and his lie about the nature of the investigation affected Mr. Cousineau’s will to make a statement, then the statement would have been made involuntarily.    In light of this concession, I find no section  7 breach.
+
+ 
+
+[24] Even if I am mistaken about the absence of a section 7 breach, the facts supporting the breach mirror the facts supporting the section 10(a) and (b) breach and as such, it would not meaningfully alter the section 24(1) and 24(2) analysis.
+
+ 
+
+ 
+
+(b)  Remedy
+
+(i)           Section 24(2) of the Charter
+
+ 
+
+[25] The first issue to consider under section 24(2) of the Charter is whether the evidence that counsel seeks to exclude was “obtained in a manner that violated the Charter “.   In assessing whether the evidence was “obtained in manner”, I must be mindful that this is just a gateway issue and as such, I must be generous in the application of this requirement (R. v. Pino, 2016 ONCA 389 at para 54).  In determining if the evidence was “obtained in a manner”, I must consider whether the breach was temporally, causally or contextually linked to the Charter offending conduct. 
+
+ 
+
+[26] In the case at bar, the cellular telephone was located well before the Charter breach.  There is clearly no causal connection between the seizure of the cellular phone and the failure to advise Mr. Cousineau of all the charges he was potentially facing.  There was, in my view, however, a temporal connection in that the breaches occurred within a short time of the seizure of the phone.  I therefore find that the evidence was obtained in a manner that violated the Charter  and as such a section 24(2) remedy is potentially available.
+
+ 
+
+[27] In R. v. Grant, 2009 SCC 32 (CanLII), [2009] 2 S.C.R. 353 the Supreme Court of Canada outlined the test for exclusion of evidence under section 24(2). The Court stated at paragraph 71:
+
+ 
+
+When faced with an application for exclusion under s. 24(2), a court must assess and balance the effect of admitting the evidence on society’s confidence in the justice system having regard to:
+
+(1)  The seriousness of the Charter-infringing state conduct (admission may send a message that the justice system condones serious state misconduct)
+
+(2)  The impact of the breach on the Charter-protected interests of the accused (admission may send the message that individual rights count for little), and
+
+(3)  Society’s interest in the adjudication of the case on its merits.
+
+ 
+
+[28] My role on a section 24(2) application is to balance the assessment under each of these lines of inquiry to determine whether, considering all the circumstances, admission of the evidence would bring the administration of justice into disrepute. 
+
+ 
+
+[29]    Under the first prong of the 24(2) analysis, it is incumbent on trial judges to assess the seriousness of the violation in terms of the “gravity of the offending conduct by state authorities”.  The seriousness of the state-offending conduct lies along a continuum where on the one end the evidence is obtained through inadvertence or minor violations and at the other end evidence is obtained though wilful or reckless disregard for Charter rights.   As was noted in R. v. Grant, supra, at paragraphs 73-74, state conduct falling on this latter side of the spectrum will “inevitably have a negative effect on the public confidence in the rule of law and risk bringing the administration of justice into disrepute”.
+
+ 
+
+[30] In the case at bar, it is my view that the offending conduct was very serious.   In relation to D.C. Kama, it is my view that he was completely unaware of his obligations.  It is surprising that an officer could rise to the ranks of detective constable without knowing the basics of his obligation to alert a detained person of their right to counsel for all offences under investigation. What is additionally aggravating, is that it is clear from D.C. Kama’s evidence that he has done this before.     Moreover, D.C. Kama seemed to think that because Mr. Cousineau had been given a copy of the search warrant, he knew that he was being detained in relation to these additional offences.  In my view this is absurd. First of all, the warrant in the case at bar did not identify a person being investigated.  Secondly, when Mr. Cousineau asked D.C. Tamas to explain the warrant to him, she only told him what the police were looking for. She did not advise of him the charges.  Thirdly, assuming Mr. Cousineau did read the warrant and understood it, a lay person would have no idea that the other charges were still being investigated if he was only arrested for one of the offences.
+
+ 
+
+[31] D.C. Tamas’ conduct, in my view, is even worse.  In my view she was well aware of her obligations, had the grounds to make an arrest and actively chose not to arrest Mr. Cousineau or even notify him that he was under investigation.  She intentionally deprived him of access to meaningful advice in relation to the charges for which he was detained. D.C. Tamas’ choice showed a complete disregard for the Charter  and the protections afforded under it. 
+
+ 
+
+[32] Where the police conduct shows a “systemic disregard” for the Charter, the breach is considered to be even more serious (R. v.  Yaghoubi-Araghi, 2025 ONCA 314 at para 27).  In the case at bar, there is an element of this being systemic in the sense that D.C. Kama admitted that it is his usual practice to only notify the accused and counsel about the charges laid as opposed to those under investigation.   Counsel for Mr. Cousineau argued, however, that the police misconduct extends beyond D.C. Kama’s ignorance.  Counsel for Mr. Cousineau argued that the evidence before the court is that the entire ICE unit always only charges accused persons with one count of possession and intentionally delay arresting for additional offences.   He argued that both D.C Kama and D.C. Tamas admitted that the decision to undercharge the Applicant and interfere with his ability to receive meaningful legal advice from counsel was pursuant to and in accordance with ICE unit policy.  In my view, this is not an accurate summary of the evidence.  D.C. Kama testified that it is his practice and the practice of those in his unit to arrest an accused person with possession of child pornography as soon as any child pornography is found.  He did not testify that the policy was to undercharge nor did he testify that if other evidence was found they intentionally avoid charging until after statements were taken.   Similarly, D.C. Tamas testified that it is the policy of the ICE unit to arrest for possession of child pornography once child pornography is found.  She was then asked if it was a policy of the unit to avoid arresting for anything else to which D.C. Tamas replied “at that point that was the only evidence I had”.    She at no point agreed with the suggestion that this was the policy of the unit.    In light of this evidence, I do not find that there is evidence of a systemic issue within the ICE unit to intentionally undercharge accused persons and deny them access to counsel.
+
+ 
+
+[33] While I am unable to accept counsel’s argument, I want to be clear that I completely reject D.C. Tamas’ evidence that at the time of Mr. Cousineau’s interview she only had evidence of possession of child pornography.  In my view, D.C. Tamas was intentionally dishonest with the court when she gave this evidence.   Prior to the interview,  D.C. Tamas saw the video of Mr. Cousineau kissing a young girl and saw messages on the phone where the user of the phone sent the video to others with sexual comments.  When pressed, D.C. Tamas reluctantly admitted that she did have evidence that Mr. Cousineau committed the offences of making  child pornography, making child pornography available, sexual assault and sexual interference and yet failed to advise him of this prior to D.C. Kama’s interviewing him.   D.C. Tamas made a conscious decision to hold back this information.  In  my view, This is deplorable conduct for a police officer. 
+
+ 
+
+[34] This prong strongly militates in favour of exclusion of the cellular telephone.
+
+ 
+
+[35] The second prong under section 24(2) of the Charter is to consider the impact of the Charter breach on the right being protected.  In the case at bar, the breach went to the heart of what section 10(a) and 10(b) are meant to protect.   Access to counsel is viewed as the lifeline for those arrested and held in police custody.  The impact in the case at bar, however, is reduced by a number of factors.  Firstly, while Mr. Cousineau did not know the full extent of his jeopardy when he spoke to counsel, he still did have an opportunity to speak to counsel generally.  While not knowing the extent of one’s jeopardy can impact a choice to speak to police, Mr. Cousineau would still have been well positioned to receive general legal advice from duty counsel.  Secondly, there is no causal connection between the finding of the cell phone and the Charter violation.  As was noted in R. v. Miller 2019 ONSC 7417, the impact of a Charter  breach is more serious where there is a causal connection between the 10(b) violation and the discovery of evidence.  The court stated at para 43 of R. v. Miller,  “considering the existence or strength of any causal connection between the Charter breach and the discovery of evidence at this stage of the s.24(2) analysis is just another way of giving effect to the concept of discoverability.  The fact that the firearm was discoverable without the Charter breach lessens the impact of the breach and tends to weigh against the exclusion of evidence”.     Similarly, in R. v. Yaghoubi-Araghi, supra,  the court held, “where evidence could have been obtained in any event without the Charter-infringing conduct, the impact of the breach is lessened and the admission [is] more likely”.  (R. v. Yaghoubi-Araghi, at para 119).
+
+ 
+
+[36] Moreover, the fact that the Crown is not relying on the statement made by Mr. Cousineau further lessens the impact of the Charter breach.  As was stated by the Court of Appeal in R. v. Yaghoubi-Araghi, supra, at para 29, “[t]wo matters that the case law has confirmed lessen the negative impact of a Charter breach were present in this case.  The first is that the Crown would not rely on any statements made by the appellant.  Such voluntary exclusion lessens the impact of a breach: Hamouth, at paras. 42-45, 45-49; R. v. Trough, 2025 ONCA 69, at paras. 57-58”.
+
+ 
+
+[37] In my view, when I consider all these factors, this prong weakly favours exclusion.
+
+ 
+
+[38] The final prong is the interest society has on having a trial on the merits.  The charges in the case at bar are very serious and relate directly to the safety of children.   There is a strong public interest in this matter being decided on its merits.   I further find that the fairness of the trial will not be impacted by the admission of the cellular telephone at trial.  The  cellular telephone was found prior to the   statement being made and there is no evidence that the statement obtained as a result of the breach of Mr. Cousineau’s rights led the police to evidence that they did not already possess. This prong strongly favours admission of the evidence.
+
+ 
+
+[39] The final step of the 24(2) analysis is to balance all these factors. As was noted in R. v. Pino 2016 ONCA 389, the 24(2) analysis requires the court to consider the “longer-term repute of the justice system and society’s confidence in our system”. In my view, when I look at all the evidence, while the breach was very serious, the absence of a causal connection, the fact that the Crown voluntarily did not lead the statement made by Mr. Cousineau, the fact that the cellular telephone was otherwise lawfully obtained pursuant to a valid search warrant, it is my view that admitting the evidence would not put the administration of justice into disrepute.  This is not one of those cases where the court’s need to dissociate itself from the police conduct is greater than society’s interest in prosecuting Mr. Cousineau for the very serious offences before the court.
+
+ 
+
+Section 24(1) remedy stay of proceedings
+
+ 
+
+[40] Pursuant to section 24(1) of the Charter, a court can impose any remedy that the court deems appropriate and just in the circumstances. A stay of proceeding can be an appropriate and just remedy, but it is the most drastic remedy.   The Supreme Court of Canada has consistently stated that a stay of proceedings is a remedy that should only be resorted to in the clearest of cases given society’s interest in having matters tried on their merits.   In R. v. Babos, [2014] S.C.C. 16, the Supreme Court of Canada summarized the relevant legal principles as they relate to a stay of proceedings:
+
+ 
+
+(1)  There must be prejudice to the accused’s right to a fair trial or the integrity of the justice system that “will be manifested, perpetuated or aggravated through the conduct of the trial, or by its outcome” (Regan, at para 54).
+
+(2)  There must be no alternative remedy capable of redressing the prejudice; and
+
+(3)  Where there is still uncertainty over whether a stay is warranted after steps 1 and 2, the court is required to balance the interests in favour of granting a stay, such as denouncing misconduct and preserving the integrity of the justice system, against “the interest that society has in having a final decision on the merits”.
+
+ 
+
+[41] Where, there is no issue about trial fairness, the question is whether the state has engaged in conduct that is “offensive to societal notions of fair play and decency and whether proceeding with a trial in the face of that conduct would be harmful to the integrity of the justice system” (R. v. Babos, supra, at para 35, R. v. Somerville, [2017] ONSC 3311 at para 115).
+
+ 
+
+[42] As noted in R. v. Somerville, supra, at the second stage the question is whether a remedy short of a stay of proceedings is capable of redressing the prejudice.  At the third stage, the court must assess whether “the integrity of the administration of justice is better protected by a stay or by a trial, despite the impugned conduct”.  (R. v. Somerville, supra, at paragraph 118)
+
+ 
+
+[43] In my view, there is no prejudice to Mr. Cousineau’s right to a fair trial by the conduct of the police since the evidence obtained as a result of the breach – the statement – was not tendered at trial.   I am also of the view that the integrity of the justice system will not be impacted if this proceeding continues. As previously stated, this is not a systemic issue within the ICE unit, nor does the conduct , while very serious, rise to the level where the court must disassociate itself form the conduct by stopping the proceedings.  As a result, Mr. Cousineau’s application for a stay of proceedings is denied.
+
+ 
+
+Trial Proper
+
+ 
+
+[44] Mr. Cousineau faces a number of different charges that have different essential elements.  While the charges are all different, they are all dependant on the Crown proving beyond a reasonable doubt that Mr. Cousineau was in possession of the cellular phone where the child pornography was found.  In addition to having to prove that Mr. Cousineau had knowledge and control over the contents of the cellular telephone, for a number of the charges, the Crown must also prove beyond a reasonable doubt that Mr. Cousineau was the person who sent messages on a program on the phone called “Teleguard”.     Counsel for Mr. Cousineau argued that the Crown failed to prove these two key facts and as such, Mr. Cousineau must be found not guilty of all charges.
+
+ 
+
+General legal principles
+
+ 
+
+[45] The starting point in understanding any decision in a criminal court is understanding the burden of proof.  The burden lies on the Crown to prove each essential element of the offence beyond a reasonable doubt.  This is a high standard.   Reasonable doubt is based upon reason and common sense.  It is logically connected to the evidence or the lack of evidence. It is not enough for me to believe that Mr. Cousineau is possibly or even probably guilty.  Reasonable doubt requires more.  As a standard, reasonable doubt lies far closer to absolute certainty than it does to a balance of probabilities.   In order to convict, a trial judge must be sure that every essential element of the offence has been made out.
+
+ 
+
+[46] In the case at bar there is no direct evidence as to who owned and used the cellular telephone that was seized from the residence.  This is a purely circumstantial case.  As such, in order to convict, I must be satisfied that the only inference available from all the evidence is that Mr. Cousineau possessed the phone and that Mr. Cousineau sent the messages identified in the “Teleguard” program.  In assessing the presence or absence of alternative inferences, I must consider if other plausible theories inconsistent with guilt exist.   As long as there is an air of reality to an alternative theory, then the Crown will have failed to prove guilt beyond a reasonable doubt.
+
+ 
+
+[47] Counsel for Mr. Cousineau argued that the Crown has failed to prove beyond a reasonable doubt that Mr. Cousineau was the sole user of the cellular telephone and that he was the person using the “Teleguard” program.  Counsel argued that a person named Mr. Barnes and Ms. Llamzon were both sufficiently connected to the phone to raise an air of reality to the argument that either Mr. Barnes, Ms. Llamzon or some other person used this phone. 
+
+ 
+
+Preliminary issues:
+
+Hearsay
+
+ 
+
+[48] The Crown in the case at bar made a decision to only call as witnesses the two officers who attended the scene and seized the phone in question.  The bulk of the evidence linking Mr. Cousineau to the phone, comes from the phone itself.   Defence counsel argued at trial that I cannot rely on the contents of the phone as proof of the identity of the owner/user of the phone  because it is hearsay.  Respectfully, I disagree.
+
+ 
+
+[49] In order to be considered hearsay, the evidence in issue must be used for the truth of its contents.  In the case at bar, the evidence in question is not being tendered for its truth.  Instead, it is being tendered for the fact that items bearing Mr. Cousineau’s name and likeness were found on the phone is circumstantial evidence that Mr. Cousineau was the person that used the phone and had knowledge and control over the contents of that phone. This is much like a driver’s license or mail being found in a drawer of a room alleged to belong to an accused person.  This kind of evidence is frequently tendered, not for the truth of the contents of the document, but merely for the fact that the presence of such items in a room is some evidence that the person named in the document has some meaningful connection to that room.  
+
+ 
+
+[50] I therefore find that the documents on the phone are admissible for a non-hearsay purpose – that is as circumstantial evidence that Mr. Cousineau was the main person that used the phone and had knowledge and control over its contents.
+
+ 
+
+Dangers of electronic evidence
+
+ 
+
+[51] Counsel for Mr. Cousineau further argued that since the entirety of the Crown’s case is based on the contents of a cellphone without any expert testimony, I should be left with a doubt about the ownership, user and content of the phone.  This is because digital evidence, absent some expert evidence, is inherently suspect. 
+
+ 
+
+[52] In R. v Aslami, 2021 ONCA 249, Nordheimer J. held that there is a real danger in relying on digital information like text messages or other types of messages in the absence of expert evidence to explain how the systems work. This is because of the real risk of doctoring or manipulating data.  Nordheimer J. stated that “it is too easy to use various pieces of software to create, or manipulate, messages such that they can appear to be from someone when, in fact, they emanate from an entirely different person.  Similarly, the timing of the messages can be altered to suit a particular purpose” (R. v. Aslami, supra, at para 11).
+
+ 
+
+[53] Similarly, in R. v. McKinley, 2022 ONCJ 323,  Jones J. commented that courts must be rigorous in their evaluation of digital evidence in light of how easy it is to manipulate electronic messages. 
+
+ 
+
+[54] I agree with counsel’s argument that I must be cautious in using the digital evidence in this case.  I have no expert evidence about any of the programs used and no witnesses saw Mr. Cousineau use this phone.   This does not mean that the Crown can never rely on digital evidence alone.  Instead, it is just one factor to consider when assessing the case as a whole. 
+
+ 
+
+Analysis – Count by count
+
+Counts 1 and 2:  Possession and Accessing Child Pornography.
+
+ 
+
+[55] In order to make out both the offences of possession and accessing child pornography, the Crown must prove beyond a reasonable doubt that Mr. Cousineau was the person who had knowledge and control over the phone and its contents.  It is conceded by Mr. Cousineau that child pornography  was in fact found on the phone that was seized by police.  As such, the only issue at trial was whether the Crown has proven beyond a reasonable doubt that Mr. Cousineau had knowledge and control over the phone on the dates identified in the information.  Counsel for Mr. Cousineau argued that the Crown has failed to prove this beyond a reasonable doubt.
+
+ 
+
+Summary of the evidence  
+
+ 
+
+[56] On February 8, 2024 D.C. Kama, D.C. Tamas and others executed a  search warrant at unit […] Dufferin Street in Toronto.   Upon arrival,  Mr. Cousineau and Ms. Llamzon were present.  They were both detained while the search warrant was executed.  
+
+ 
+
+[57] At 6:10 am, D.C. Robbins found a Huawei smartphone in the living room of the unit.   Officers took a quick look at the phone and found one photo that was clearly child pornography.  The phone was not password protected.
+
+ 
+
+[58] The phone was subsequently viewed by D.C. Rahaman and D.C. Tamas.  Two programs were also employed to help categorize the contents of the phone: Celebrite and Lace.  The following items were located on the phone:
+
+ 
+
+i)            A facebook account with the account name of Robert Cou
+
+ii)            Transaction /bill documents from Ontario Northland Transportation in the name of Robert Cousineau as customer from June 10, 24, 30,July 15, and September 26, 2022. 
+
+iii)           An amendment to a lease document for Melissa Llamzon for unit […] Dufferin Street.  Robert Cousineau and Melissa Llamzon are listed as the tenants. 
+
+iv)           A private and confidential letter dated May 10, 2022 to Robert Cousineau offering temporary employment at Pride Marine.  On page 6 of the document is a place for “crew member signature” and Robert Cousineau is written beside this. On the next page titled DigiSigner, the email address of Robertcou715@gmail.com is listed and the name Robert Cousineau written beside the email address and under the heading “signature”.
+
+v)            A document that appears to be a CV with the name Robert Cousineau at the top and Orillia as the address.
+
+vi)           A payworks time sheet with the name Robert Cousineau at the top from November.
+
+vii)         A series of photographs including: an Image of Robert Cousineau naked; an image of Robert Cousineau in a bed; and, images of Robert Cousineau outside.  Some of these images appear to be “selfies” – for example DSC06094.JPG, DSC06127.JPG is a screen shot of number of photos some of which appear to be selfies).
+
+viii)        A photo of Mr. Cousineau on a chair on a deck.
+
+ix)           Images of Robert Cousineau masturbating.
+
+x)            A Photo of Robert Cousineau with a young girl.
+
+xi)           Instant messages received on the phone  from February 7, 2024 indicating sending zoom link to robertcou715@gmail.com.
+
+xii)         Two instant messages on August 13, 2023 wishing Robbie happy birthday.
+
+xiii)        An outgoing message from the owner of the phone which states “off to final farewell to melissa’s family as they leave for the Philippines tomorrow”.
+
+xiv)        Outgoing message on September 17, 2023 stating “hi Aurora its Robert” and another message sent on September 28, 2023 stating, “Aurora, this is Rob”.
+
+xv)         An incoming message on September  22, 2023 stating ,“hi Robert, this is Rihanna from LV”.
+
+xvi)        The home page on the phone has a photo of Mr. Cousineau with a woman.
+
+xvii)      Some of the photos on the phone are of a penis in front of a television screen with a young girl on it.  The penis is placed near the young girl’s mouth.    The table that the TV screen is on and the TV screen itself appear to be the same TV screen and table located in the unit where Mr. Cousineau was arrested (see SOCCO photo number 22 and photograph from phone DSC06023.JPG.
+
+xviii)      Under the “personal info” area of the phone, a photograph of Mr. Cousineau is listed as the “profile picture”, the phone’s nickname is listed as “Robert Cou”, the gender is listed as male, the birthday is listed as August 13, 1981 (which according to the information is Mr. Cousineau’s birthday), and the email address is listed as robertcou715@gmail.com.
+
+ 
+
+ 
+
+Analysis
+
+ 
+
+[59] In assessing whether the cumulative, non hearsay effect of all these items prove beyond a reasonable doubt that Mr. Cousineau was the user of the cell phone seized and that he had knowledge and control over its contents, I am mindful of the dangers of mis-using electronic evidence or relying on facts not otherwise proven.  For example, I place no weight on the instant messages wishing Robbie a happy birthday.   I have no evidence that Mr. Cousineau goes by the nickname Robbie.  In my view, this is not circumstantial evidence that Mr. Cousineau possessed the phone.    The series of photographs of Mr. Cousineau that are not obviously selfies are also of little value, since it is plausible that someone who is not Mr. Cousineau would have photos of him on his or her phone.  People frequently have photographs of friends and family on their phone.   
+
+[60] Mindful of these dangers, I am nonetheless satisfied beyond a reasonable doubt that Mr. Cousineau was the person that used  this phone and had knowledge and control over its contents.   I reach this conclusion for a number of reasons.
+
+ 
+
+[61] Firstly, many documents  found on the phone can be linked to Mr. Cousineau. For example, the lease, the train tickets, the CV and pay stub are all in Mr. Cousineau’s name.  In my view, the volume of documents found on the phone in Mr. Cousineau’s name provides strong support  for the inference that Mr. Cousineau used that phone. 
+
+ 
+
+[62] Secondly, there were a number of photographs that on their face look like selfies (for example: DSC06094.JPG, DSC06127.JPG). In these images, Mr. Cousineau is looking at the camera with one arm held out in front of him as though he is holding the phone and taking a picture of himself.   This further supports the inference that the Mr. Cousineau is the owner and user of the phone.  While it is possible that one might take a selfie on someone else’s phone, this is something more often done on one’s own phone. Thirdly, the home page is a photograph of Mr. Cousineau with a woman.  This provides an additional link between Mr. Cousineau and contents of the phone.   Fourthly, there are photographs on the phone that were taken in the living room of the unit where Mr. Cousineau was arrested.  The TV and table in photographs on the phone are the same as the TV and table found in the living room of the unit where Mr. Cousineau was arrested.   Fifthly, there are text messages to a “Robert” on the phone and text messages sent from a “Robert” on the phone.  Fifthly,  Mr. Cousineau was in the residence with only one other person at 6:00 am when the phone was located.  
+
+ 
+
+[63] Counsel for Mr. Cousineau argued that I should be left in a doubt about whether Mr. Cousineau was the user and possessor of the phone because:
+
+ 
+
+-      D.C. Tamas testified about a third party who advised that he originally owned the phone but had never used it;
+
+-      The phone was not password protected so anyone could have used the phone;
+
+-      There were two people in the apartment where the phone was found either one of them could have used the phone.
+
+[64] In my view, the above evidence does not leave me with a reasonable doubt about whether Mr. Cousineau was the main person that used this phone and had knowledge and control over its contents. Firstly, nothing on the phone suggests it belongs to a woman or to a Ms. Llamzon in particular.  In fact, the images and the contents of the phone are all linked to Mr. Cousineau.  In light of this, it is my view there is no air of reality to the suggestion that Ms. Llamzon (or the unidentified woman found in the unit with Mr. Cousineau since there is no direct evidence that the woman was Ms. Llamzon) used this phone. Secondly, the absence of a password on a phone by itself means very little.   All this means is that someone else can access it.  It is not evidence that someone else did in fact access it or that even if someone else used the phone occasionally, that they stored any meaningful items on it.   The absence of a password by itself does not provide an air of reality to the suggestion that someone other than Mr. Cousineau was in possession of the phone and its contents or that someone else put the significant amount of child pornography on the phone without Mr. Cousineau’s knowledge.  
+
+ 
+
+[65] In relation to the suggestion that the Crown has failed to prove possession because some person spoke to D.C. Tamas about owning this phone, in my view, this is not evidence that someone else did in fact own this phone.  Any conversation D.C. Tamas had with potential witnesses  outside of court are not admissible for the truth of their contents.   This is not evidence that Mr. Barnes did in fact own or possess this phone. 
+
+ 
+
+[66] In my view, the documents on the phone bearing Mr. Cousineau’s name, the selfies of Mr. Cousineau on the phone, the profile picture being of Mr. Cousineau and the ingoing and outgoing messages referencing Robert all support the inference that Mr. Cousineau used this phone and had knowledge and control over its contents.  It is my view, when all the items found on the phone are considered along with the fact that Mr. Cousineau was found in the same unit where the phone was located,  the only inference is that Mr. Cousineau was the main user of this phone and that he had knowledge and control over its contents.
+
+ 
+
+[67] In relation to the charge of possessing child pornography, having found that Mr. Cousineau was the main user of the cellular phone and that he had knowledge and control over the contents of the phone, the only inference is that he had knowledge and control over the child pornography on the phone.  Counsel for Mr. Cousineau argued that since the phone was not password protected, someone else could have put the child pornography on the phone without Mr. Cousineau’s knowledge.  In my view, that is not a reasonable inference in this case.  There were over 100 images of child pornography on the phone.   In my view, the volume of child pornography on the phone makes it unreasonable to conclude that  the main user of the phone, Mr. Cousineau, did not know about the presence of child pornography on that phone.
+
+ 
+
+[68] In relation to the offence of accessing child pornography, the Crown must prove that Mr. Cousineau “knowingly caused child pornography to be viewed by, or transmitted to, himself or herself”.   I have no direct evidence that Mr. Cousineau ever viewed the child pornography found on his phone.  Having said that, I am still satisfied beyond a reasonable doubt that this offence is made out.  The only inference available given the evidence in the case at bar is that the images were put on the phone by Mr. Cousineau for the purpose of him looking at them.  Firstly, many images were located in the photo gallery.  This is tangibly different from downloading a host of documents onto a memory stick without looking at the documents.  Secondly, some of the photos in the photo gallery are of a male watching child pornography in the living room where Mr. Cousineau was arrested.  This is further evidence that Mr. Cousineau was engaging with the child pornography.   Finally, the video of Mr. Cousineau kissing the young girl was taken by Mr. Cousineau the only reason to take this video was to view it at a later date. 
+
+ 
+
+[69] I therefore find Mr. Cousineau guilty of both possessing and accessing child pornography.  
+
+ 
+
+[70] In relation to the time frame identified in the information, Mr. Cousineau was in possession of the phone at the time of his arrest.  I am therefore satisfied that the offence of possession occurred in the time frame identified in the information.  In relation to the charge of accessing child pornography,  the photographs in the photo album all have a date stamp attached to them as do the messages in Teleguard.  In the absence of evidence to the contrary, I am satisfied that the dates are accurate.  It is common knowledge that cellular phones record dates on which photos are taken or items are downloaded.  There is no basis to find that the dates are not accurate.
+
+ 
+
+Count 3:  Make Child Pornography Available (November 8, 2023 to February 7, 2024)
+
+ 
+
+[71] Mr. Cousineau is charged with making child pornography available to others between November  8 2023 and Feb 7, 2024.  This charge relates to messages sent using the application “Teleguard” on the cellular telephone seized by the police in the unit where Mr. Cousineau was found.    The messages are all dated.  The dates fall within the time frame particularized in the information.
+
+[72] All the evidence about Teleguard came from D.C. Tamas.  She had no knowledge about how Teleguard works.  D.C. Tamas was only able to testify about what she found when she opened the application.  D.C. Tamas testified that when viewing the phone, she clicked on an icon identified as “Teleguard”.  When this application opened, a contact list was exposed.  When D.C. Tamas “clicked” on the individual names in the contact list, lengthy chats came up with dates and times attached to the messages.    The messages sent on Teleguard were photographed by D.C. Tamas and filed as evidence at trial for my review.  The messages included comments sexualizing young girls and often included discussions of sexually abusing young girls.   Many of the messages sent and received make reference to sending images that would meet the test for child pornography.  These images, however, are not visible in the material filed at trial. There were, however, a few occasions where the images were displayed.  It is conceded that some of these images meet the test for child pornography. 
+
+ 
+
+[73] Counsel for Mr. Cousineau argued that I should be left in a reasonable doubt about whether Mr. Cousineau was the person who sent the messages found on “teleguard”.  This is because no expert evidence was  called about how the program worked.  As such I cannot exclude a third party as being the person that  used “Teleguard” and wrote the messages.  Counsel for Mr. Cousineau argued that someone else could have sent these chats remotely or, because the phone was not password protected, anyone near the phone could have used the phone to send the messages.  
+
+ 
+
+[74] Before engaging in my analysis, I will first address the evidentiary value of the content of the messages on “Teleguard”.  In the ordinary course, a statement cannot be used against an accused for the truth of its contents unless it has been proven that the accused did in fact make the statement.  With this is mind, if one of the messages states “I am going to the park”, the message is not proof that Mr. Cousineau went to the park unless it is first proven that Mr. Cousineau made this statement.   I can, however, use comments in the “Teleguard” chat for the fact that it was said.   Used in this manner, if Mr. Cousineau was seen in the park shortly after sending  a message “I am going to the park”, the fact that it was said, coupled with Mr. Cousineau’s location shortly thereafter is circumstantial evidence that the person making the utterance is in fact Mr. Cousineau (see R. v. Evans, 1993 CanLII 102 (SCC), [1993] 2 S.C.R. 629).
+
+ 
+
+[75] With this in mind, the following evidence satisfies me beyond a reasonable doubt that Mr. Cousineau is the person who sent the messages on Teleguard”.
+
+ 
+
+(a)   It is Mr. Cousineau’s phone.
+
+ 
+
+[76] I have already found beyond  a reasonable doubt that Mr. Cousineau was the main person using this phone.  I have further found that as the main user of the phone, he had knowledge and control of the child pornography downloaded on the phone and in the photo albums of the phone.  This is one piece of circumstantial evidence linking Mr. Cousineau to the messages sent on “Teleguard”.    
+
+ 
+
+ 
+
+(b)  The content of some of the messages support a finding that it is Mr. Cousineau sending the messages. 
+
+ 
+
+[77] The content of some of the outgoing messages point either directly to Mr. Cousineau or provide evidence that the messages are being sent directly from the phone.  For example, image 389 of the “Teleguard” messages is a chat with a person named Jess.  The outgoing message provides a phone number where the person sending the outgoing message can be reached.  This phone number is 705-500-3828.  This is the phone number of the phone seized by police.  Evidence was presented at trial that an officer called the above phone number, at which point the seized phone rang.   The fact that the outgoing message references the number linked to the phone is some evidence that the user of the phone is the person sending the outgoing messages on “Teleguard”.
+
+ 
+
+[78] Additionally, image 812 depicts a chat message with the outgoing message stating, “I’m about to shower also” and then a photo is attached.  The photo is of the accused.  This is further evidence that the user of the phone, Mr. Cousineau, sent the messages in “Teleguard”.  There is a similar message sent to Achilesisback.  The outgoing message states, “shower with phone time” and a photo of the accused, naked in the shower was sent along with the text.   I find as a fact that this particular photograph was taken by Mr. Cousineau.   In the photograph, Mr.  Cousineau’s arm is held out in front of him and Mr. Cousineau is looking in the direction of where the hand is  in the way one would if taking  a selfie.  This is further evidence that Mr. Cousineau is the person sending the messages on Teleguard.   It is not admissible for the truth that Mr. Cousineau is about to take as shower, but instead the fact that it was sent along with a self taken photograph of Mr. Cousineau naked in the shower is some evidence that Mr. Cousineau sent that message.
+
+ 
+
+[79] Image 186 from the “Teleguard” images, is another example of content from the phone that points to Mr. Cousineau as the sender.  This image is a screen capture of a photograph sent to the person listed as John in the “Teleguard” program.  The photograph is of a person, with his penis in his hand, watching a screen of a young girl engaging in a sexual act.  The face of the person holding his penis is not visible.    This same photo was found in the photos located by D.C. Rahaman in the camera/photo gallery of the phone.  This supports the inference that the image was sent directly from the phone as opposed to an outside source.    Moreover, the TV screen and table from this image are identical to the TV and table found in the unit where Mr. Cousineau was arrested.  In other words, the photo in image 186 was taken in the living room where Mr. Cousineau was arrested.  This is strong support for the inference that Mr. Cousineau was involved in creating this photo, stored it on the phone in the photo gallery and then sent that message to John through “Teleguard”.   Similarly, photos sent to the person listed as “silent ninja” were also found by D.C. Rahaman in the camera roll/photo gallery of the phone. In my view this is strong evidence that the user of the phone sent the messages from that phone. 
+
+ 
+
+[80] When I consider all this evidence combined,  it is my view that  the only reasonable inference is that the person who was the main user of the phone was the person who sent the messages on “Teleguard” and that this person is Mr. Cousineau.  Since the messages sent include images that meet the test for child pornography, I am satisfied beyond a reasonable doubt that Mr. Cousineau committed the offence of making child pornography available.   In my view, there is no air of reality to the assertion that someone else other than Mr. Cousineau sent these messages.  I am mindful that in the frequently asked questions portions of the “Teleguard” program, it states that messages can be sent remotely, but given my findings above, I am satisfied that even though messages can be sent remotely, they were not done so in this case.
+
+ 
+
+[81] I further find the messages were sent in the time identified in the information.  Each message is dated, and these dates fall within the time frame identified in the information.  In my view, I can rely on the date stamp of the messages.  Date stamps are commonplace on messaging systems.  Absent some evidence that the date system on the phone is inaccurate, these dates can be relied upon. 
+
+
+[82] I therefore find the Crown has proven this count beyond a reasonable doubt.
+
+ 
+
+Count 4 and Count 10 – make child pornography
+
+ 
+
+[83]  Count 4 was withdrawn as it is subsumed in count 10.
+
+ 
+
+[84]  Count 10 relates to  a charge of making child pornography.   In his submissions, Crown counsel identified the video of Mr. Cousineau kissing a young girl as an image created by Mr. Cousineau which makes out this offence.   Counsel for Mr. Cousineau argued that this video does not meet the test for child pornography and that there is insufficient evidence to find that Mr. Cousineau even made this video.
+
+ 
+
+[85] Child pornography is defined under section 163.1(1) of the Criminal Code,  as a representation:
+
+(i)            That shows a person who is or is depicted as being under the age of eighteen years and is engaged in or is depicted as engaged in explicit sexual activity, or
+
+(ii)         The dominant characteristic of which is the depiction, for a sexual purpose, of a sexual organ or the anal region of a person under the age of eighteen years.
+
+ 
+
+[86] In R. v. Sharpe, 2001 SCC 2 at para 49, the Supreme Court of Canada defined “explicit sexual activity” as,
+
+….acts involving nudity or intimate sexual activity, represented in a graphic and unambiguous fashion, with persons under or depicted as under 18 years of age.  The law does not catch possession of visual material depicting only casual sexual contact, like touching, kissing, or hugging, since these are not depictions of nudity or intimate sexual activity. Certainly, a photo of teenagers kissing at summer camp will not be caught.  At its furthest reach, the section might catch a video of a caress of an adolescent girl’s naked breast, but only if the activity is graphically depicted and unmistakenly sexual”.
+
+ 
+
+[87] The video of Mr. Cousineau kissing a young girl, in my view, was made by Mr. Cousineau.   He is looking directly at the camera as he kisses the young girl on the lips.  The way he is positioned, and the movement made by Mr. Cousineau at the end of the video establishes that Mr. Cousineau was the person filming the kiss and then at the end, he turned off the video.   Crown counsel alleges that the video shows Mr. Cousineau’s tongue in the young girl’s mouth.  I cannot see this when I watch the video.  I am nonetheless still satisfied that this video meets the test for child pornography in that it shows a person under the age of 10 engaged in explicit sexual activity.  The kiss, while not long, does not look like a quick family “peck”. The length of time of the kiss coupled with the look on Mr. Cousineau’s face during the kiss, makes the kiss, in my view, sexual as opposed to a platonic sign of affection or the type of kissing identified in Sharpe as escaping criminal sanction.   As Crown counsel pointed out, this is not a video of teenagers kissing at summer camp.  No reasonable observer would characterize the kiss captured on the video as not being explicit sexual activity.  
+
+ 
+
+[88] Crown counsel argued that I should also find that the photographs of the person masturbating to child pornography on the television in Mr. Cousineau’s living room are also evidence that he made child pornography.   I agree.  The photographs were clearly taken in Mr. Cousineau’s living room and were found on his phone.  The only reasonable inference is that Mr. Cousineau participated in some way in the making of these photographs.  I make a similar finding about the photographs on the phone that capture a young girl on the TV screen in Mr. Cousineau’s living room and a penis in front of the TV screen where the girl’s mouth is.  This image in my view, meets the test for child pornography.  It is a person under the age of 18 where the dominant characteristic is for a sexual purpose. In my view it is explicitly sexual.   Since it was filmed in Mr. Cousineau’s living room and found on his phone, the only inference is that he either took this photograph himself or was otherwise involved in the making of this photograph. 
+
+ 
+
+[89] I therefore find Mr. Cousineau guilty of making child pornography.
+
+ 
+
+Counts 5 and 6 – Sexual assault and sexual interference.
+
+[90] These two counts relate  to the video Mr. Cousineau made of himself kissing a young girl.   I am satisfied beyond a reasonable doubt that Mr. Cousineau is the person in the video kissing the young girl and that he is the person who recorded this video.  Mr. Cousineau’s face is clearly visible in the video.  Moreover,  watching the video you can see his hand out and he is looking in the direction of the phone camera as he kisses this young girl.   I am mindful that not all kisses would meet test for “sexual in nature” nor are all kisses engaged in for “a sexual purpose”, but for the reasons already noted above, it is my view Mr. Cousineau engaged in this kiss for the purpose of sexual gratification.   As such I have no doubt that this act is sexual in nature and was done for a sexual purpose.
+
+ 
+
+[91] The only real issue raised at trial by counsel for Mr. Cousineau was that the Crown failed to prove that the person in the video is E.M., as particularized in the information.   Crown counsel argued that he was not required to prove that the victim was E.M. as it was not an essential element of the offence.   In the alternative, Crown counsel seeks to amend the information to substitute the phrase “female unknown” for the name “E.M.”.   
+
+ 
+
+[92] This issue of whether the name of the victim as particularized in the information is an essential element of the offence was addressed by the Ontario Court of Appeal in R. v. R. v. Sadeghi-Jebelli, 2013 ONCA 747. In that case the court held that unless the particularization relates to something that is not essential to the offence, the Crown must prove the fact particularized in the indictment.  The court stated  at paragraphs 23-24,
+
+[23]      When the Crown charges an accused with an offence, and particularizes the way the offence was committed, it must prove the offence as particularized in the charge.  The Supreme Court of Canada affirmed this principle in R. v. Saunders, 1990 CanLII 1131 (SCC), [1990] 1 SCR 1020 at 1023.  McLachlin J. said:  “It is a fundamental principle of criminal law, that the offence, as particularized in the charge, must be proved”.  So, for example, if the Crown charges an accused with trafficking in heroin, it cannot, without an amendment to the charge, obtain a conviction for trafficking in cocaine. 
+
+[24]   This principle is grounded in fairness.  Particulars permit “the accused to be reasonably informed of the transaction alleged against him, thus giving him the possibility of a full defence and fair trial”.  See R. v. Côté, 1977 CanLII 1 (SCC), [1978] 1 SCR 8 at 13.  This principle is subject to an exception for “mere surplusage”, or information in the indictment that is not essential to the offence, but that exception does not apply here.  See R. v. Vézina, 1986 CanLII 93 (SCC), [1986] 1 SCR 2 at para. 49.
+
+[93] It follows that if the name of the victim is not essential to the offence, the Crown need not prove it.   In R. v. Ferguson-Cadore, 2020 ONSC 7094, the court held that when the Crown particularizes the name of the victim, then the Crown must prove the victim’s identity (at paragraph 9). A similar conclusion was reached by the court of appeal in R. v. Melo, 1986 Canlii 4706 (C.A.).  In Melo, the Court of Appeal held that the “naming of Vincent Pilleci was an essential averment only in the sense that the victim having been named in the charge perhaps his identity had  to be proved”.   Citing from R. v. Austin (1955), 1955 CanLII 470 (ON CA), 113 C.C.C. 95 (C.A), the court stated that “the name was to ‘be regarded as a particular furnished  by the Crown, and it was made by the Crown a material part of the charge against the accused”.   The Court Melo further citing from R. v. Austin, held “… the Court, upon the trial of the indictment, could properly have permitted an amendment to be made to the indictment so as to make it conform to the evidence…and in the absence of power in this Court to make it, the case for the prosecution failed for want of proof of the charge as made against the accused”. 
+
+ 
+
+[94] Following these cases, it is my view that having particularized the name of the victim, the Crown, absent an amendment, was required to prove the identity of the victim.   Having failed to call any evidence about the identity of the victim, absent an amendment, Mr. Cousineau must be found not guilty of these two offences.
+
+ 
+
+[95] This leads me to the Crown’s request to amend the information from E.M. to “female unknown”.  Crown counsel provided numerous cases where courts allowed the Crown to amend the information to change the name of a victim to conform to the evidence at trial.  In all those cases, the application to amend was made at the close of the Crown’s case.  In the case at bar, Crown counsel only applied to amend the information during his reply submissions.  Given the late timing of the application, counsel for Mr. Cousineau argued that his client has suffered real prejudice and as such the application should be denied.
+
+ 
+
+[96] Pursuant to section 601(4) of the Criminal Code,  in deciding whether to grant an application to amend an information, the court shall consider:
+
+-      The evidence taken at trial,
+
+-      The circumstances of the case,
+
+-      The presence or absence of prejudice to the accused in making a defence,
+
+-      Whether the amendment can be made without an injustice being done.
+
+ 
+
+[97] In the ordinary course, where the Crown, at the close of their case, seeks to amend the information in relation to the name of the victim to conform to the evidence, the application is granted because there is no reasonable prospect of prejudice to the accused.   These types of amendments rarely impact any substantive defence being put forward.   The prejudice, in my view, looks very different when the application is only brought after the defendant has elected to not call any evidence and has made fulsome submission on the trial proper.   When such applications are raised only after final submissions are in, the accused is not afforded a real opportunity to address it.  In some cases, allowing the defendant to re-open may be a reasonable way to address any potential prejudice, but it is not a fair result in this case where Mr. Cousineau is in custody.  
+
+ 
+
+[98] Given the very late timing of the application, it is my view that the potential for actual prejudice to a fair trial exists and I will not allow the application. 
+
+ 
+
+[99] Mr. Cousineau is therefore found not guilty of sexual assault and sexual interference.
+
+ 
+
+ 
+
+Count 7 – Breach of s.161 order – use of internet
+
+ 
+
+[100] At the time of his arrest, Mr. Cousineau was bound by a s.161 order that included the term that he not use the internet unless he is the presence of Sara and Richard Cousineau.  Crown counsel argued that the use of the Teleguard application is using the internet.  I disagree.  I am not confident that the Teleguard app is any different then sending text messages.   As such I am left in  a reasonable doubt about this offence.
+
+ 
+
+Counts 8 and 9 – Breaching 161 orders – contact and attending playground/pool
+
+ 
+
+[101] At the time of the offences, Mr. Cousineau was bound by a section 161 order that included the terms a) no contact with persons under 16 unless supervised by Sara or Richard Cousineau and b) not to attend any public park or public swimming area unless in the presence of Richard or Sara Cousineau.  
+
+ 
+
+[102] I am satisfied that the Crown has proven beyond a reasonable doubt that Mr. Cousineau was alone with a person under the age of 16 and that Sara and Richard Cousineau were not present.   The video of Mr. Cousineau kissing a young girl in my view is sufficient to prove this breach.  He is clearly with someone under the age of 16.  Moreover, in my view, it is inconceivable that a responsible adult was with him when this video was filmed.  Secondly, in his chats with Achilesisback, Mr. Cousineau wrote that he had been alone with “E.[…]”, someone who he has identified as a young person.  Having found beyond a reasonable doubt that Mr. Cousineau was the author of these texts, the content of the communications are admissible for their truth.  I therefore find that Mr. Cousineau was alone with E.[…], a person under the age of 16 and as such violated this term of his section 161 order.
+
+ 
+
+[103] In relation to the term that he not attend at a public park or pool, the Crown argued that there are two avenues to conviction.  In the messages sent on Teleguard, Mr. Cousineau wrote that he went to the pool in his condo.  He also wrote that he went to a playground. There is nothing in these  communications to suggest whether or not Sara or Richard Cousineau were present.   The burden is on the Crown to prove that they were not present.  Having elected to call no additional evidence on this point, the Crown has not proven this breach beyond  a reasonable doubt.  I appreciate that there must be some air of reality to the suggestion that Sara or Richard Cousineau were present, but in the case at bar where there is no evidence one way or another, in my view, this standard is met.   I am therefore left in a reasonable doubt about this breach.  I therefore find Mr. Cousineau guilty of count 8 but not guilty of count 9.   
+
+ 
+
+Conclusion
+
+ 
+
+[104]  In light of all my findings, Mr. Cousineau is found guilty of counts 1,2,3,8 and 10. Count 4 was withdrawn at the request of the Crown.  Mr. Cousineau is found not guilty of counts 5,6,7 and 9.
+
+ 
+
+ 
+
+Released August 14, 2025                                                            _____________________
+
+Justice Mara Greene

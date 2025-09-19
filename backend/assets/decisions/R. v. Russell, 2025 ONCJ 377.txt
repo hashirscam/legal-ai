@@ -1,0 +1,281 @@
+Link: https://canlii.ca/t/kd6zt
+Date: 2025 07 14
+File number: Pembroke 24-37100746
+Citation: R. v. Russell, 2025 ONCJ 377
+Court: Ontario Court Of Justice
+Region: Not found
+Client: Ashley Russell
+Judge: Justice J.R. Richardson
+
+R. v. Russell, 2025 ONCJ 377 (CanLII), <https://canlii.ca/t/kd6zt>, retrieved on 2025-09-18
+
+ONTARIO COURT OF JUSTICE
+
+CITATION:  R. v. Russell, 2025 ONCJ 377
+
+DATE:  2025 07 14
+
+COURT FILE No.:  Pembroke 24-37100746
+
+ 
+
+ 
+
+BETWEEN:
+
+ 
+
+HIS MAJESTY THE KING
+
+ 
+
+— AND —
+
+ 
+
+ASHLEY RUSSELL
+
+ 
+
+ 
+
+ 
+
+Before Justice J.R. Richardson
+
+Heard on June 11, 2025
+
+Reasons for Judgment released on July 14, 2025
+
+ 
+
+ 
+
+Richard Morris and Grace Dazé.................................................... Counsel for the Crown
+
+Nemee Bedar................................................................................ Counsel for the defendant
+
+ 
+
+Richardson, J.:
+
+Introduction
+
+[1]         This is my ruling on whether a Crown witness, Constable Emmanuelle Boucher of the Ontario Provincial Police (“OPP”), can testify remotely at the trial in this matter. 
+
+[2]         The accused is charged with operating a conveyance while being prohibited from doing so contrary to section 320.18(1)(a) of the Criminal Code.  The offence is alleged to have taken place on June 20, 2024 at the City of Pembroke. 
+
+[3]         The Crown proceeded summarily.
+
+[4]         The matter is set for trial on September 8, 2025. 
+
+[5]         The Crown makes the Application for the following reasons:
+
+a)   At the time of the incident, Constable Boucher was assigned to the Upper Ottawa Valley Detachment of the OPP.  She is now assigned to Thunder Bay. 
+
+b)   If required in person, Constable Boucher would be required to be away from her position in Thunder Bay for a “prolonged period.” 
+
+c)   By affidavit evidence, which was not contested, Constable Boucher stated that she has the technology and a private space where she can testify without interference.  She suggests that she give evidence by Zoom.
+
+[6]         Defence opposes the application for the following reasons:
+
+a)   The trial is only scheduled for one day.  Constable Boucher will, therefore, not have the sort of uncertainty as to when she would testify which she would have if the matter was a multi-day trial.
+
+b)   There is plenty of time for her to make travel arrangements to appear for trial – the trial is in September and the application was heard in June.
+
+c)   Constable Boucher would appear by making a “short flight” to Ottawa or Toronto and then driving to Pembroke.
+
+d)   Constable Boucher is the only officer who interacted with Ms Russell.  She is the Officer in Charge of the investigation.
+
+e)   There was confusion at the scene as to whether Ms Russell was prohibited.
+
+f)     Ms Russell was detained at the scene for over an hour and a half while this determination was being made. 
+
+g)   The Crown is seeking a custodial sentence on conviction.  This is, therefore, a serious matter.
+
+h)   “In person” evidence is “different” and “adds something” to the quality of the evidence that is not captured when a witness testifies remotely. 
+
+[7]         During argument, the parties agreed as follows:
+
+a)   The authenticity of transcripts, court documents, transcript of previous conviction are all admitted. 
+
+b)   Ms Russell was operating a conveyance when she was pulled over by Constable Boucher.
+
+c)   Ms Russell made admissions to Constable Boucher about driving.
+
+d)   There was confusion at the scene as to whether Ms Russell was prohibited. 
+
+e)   The issue at trial will be whether Ms Russell had a “reasonable excuse”.    
+
+Analysis
+
+            Trials Are Presumed to Take Place in Person
+
+[8]         Section 715.21 of the Criminal Code states:  “Except as provided in this Act, a person who appears at, participates in or presides in a proceeding shall do so in person.”
+
+[9]         Thus, there is a presumption in the Code that witnesses will testify in person. 
+
+[10]      Bad habits attributable to COVID-19 have resulted in an environment where participants feel entitled to appear remotely.  It has been difficult to put the Zoom genie back in the bottle.  
+
+Section 714.1 – When the Presumption of In-Person Evidence for Witnesses Can be Overcome
+
+[11]      Section 714.1 of the Criminal Code states:
+
+A court may order that a witness in Canada give evidence by audioconference or videoconference, if the court is of the opinion that it would be appropriate having regard to all the circumstances, including
+
+(a) the location and personal circumstances of the witness;
+
+(b) the costs that would be incurred if the witness were to appear in person;
+
+(c) the nature of the witness’ anticipated evidence;
+
+(d) the suitability of the location from where the witness will give evidence;
+
+(e) the accused’s right to a fair and public hearing;
+
+(f) the nature and seriousness of the offence; and
+
+(g) any potential prejudice to the parties caused by the fact that the witness would not be seen by them, if the court were to order the evidence to be given by audioconference.
+
+[12]      After considering the argument in this case, I find that this is a case which will largely turn on two issues:
+
+a)   Whether Ms Russell was in fact prohibited.
+
+b)   Whether Ms Russell knew that she was prohibited. 
+
+General Interpretation of Section 714.1 and the Issue of Credibility
+
+[13]      This case does not, on the limited record before me, appear to be a case that turns on the credibility of Constable Boucher. 
+
+[14]      The Courts of Appeal of three provinces have weighed in on the interpretation of section 714.1.
+
+[15]      In R. v. SDL, 2017 NSCA 58 at paragraph 32, the Nova Scotia Court of Appeal established the following principles when considering section 714.1 applications:
+
+1.                 As long as it does not negatively impact trial fairness or the open courts principle, testimony by way of video link should be permitted. As the case law suggests, in appropriate circumstances, it can enhance access to justice.
+
+2.                 That said, when credibility is an issue, the court should authorize testimony via 714.1 only in the face of exceptional circumstances that personally impact the proposed witness. Mere inconvenience should not suffice.
+
+3.                 When the credibility of the complainant is at stake, the requisite exceptional circumstances described in #2 must be even more compelling.
+
+4.                 The more significant or complex the proposed video link evidence, the more guarded the court should be.
+
+5.                 When credibility will not be an issue, the test should be on a balance of convenience.
+
+6.      Barring unusual circumstances, there should be an evidentiary foundation supporting the request. This would typically be provided by affidavit. Should cross examination be required, that could be done by video link.
+
+7.      When authorized, the court should insist on advance testing and stringent quality control measures that should be monitored throughout the entire process. If unsatisfactory, the decision authorizing the video testimony should be revisited.
+
+8.      Finally, it is noteworthy that in the present matter, the judge authorized the witnesses to testify “in a courtroom…or at the offices of Victims’ Services…”. To preserve judicial independence and the appearance of impartiality, the video evidence, where feasible, should be taken from a local courtroom.
+
+[16]      In R. v. KZ, 2021 ONCJ 321 at paragraph 11, Justice Kenkel of this Court declined to follow SDL for the following reasons:
+
+•      The SDL decision considered a prior version of s 714.1 that set out minimal criteria for the order. 
+
+In the subsequent amendments, Parliament expanded the relevant considerations but did not adopt a special, discrete test for witness credibility cases.
+
+•                  Criminal trial courts have decades of experience in assessing the credibility of complainants and other witnesses who testify by way of video technology. Courts have gained further experience during the COVID pandemic. No special test is required beyond the statutory criteria.
+
+•                  During the pandemic in a province where lockdown stay-at-home orders are in place and courtrooms have added restrictions for public health and safety, the use of videoconference technology can provide a better opportunity to assess credibility than in-person testimony.
+
+•                  Videoconference technology shows and records both the demeanour and the responses of a witness. When evaluating concerns about the ability to fully assess demeanor, it’s important to remember the limited role demeanour plays in assessing witness credibility.
+
+•                  In my view, courts should decline to add a special, highly restrictive test that will be often be applied in matters of alleged sexual assault such as SDL and this case, that would limit access to videoconference technology where an application otherwise meets the statutory criteria.
+
+[17]      In R. v. JLK, 2023 BCCA 87, the British Columbia Court of Appeal declined to follow SDL on the basis of Justice Kenkel’s decision in KZ.  Most recently, in R. v. DMS, 2025 MBCA 16, the Manitoba Court of Appeal followed suit.  As Simonsen, J.A. wrote in DMS at paragraph 84:
+
+The goal of section 714.1 is to balance the practical and logistical issues of testifying in court with any potential impact from remote testimony on the fairness of the trial and on an accused person’s right to make full answer and defence (see JLK at para 50).  An order is appropriate having regard to the circumstances when it strikes this balance.  It is not necessary to have the best trial, but rather a fair trial.  (Emphasis mine)
+
+[18]      Thus, even if Constable Boucher’s credibility is in issue, given the issues in this particular case, I am not satisfied that her personal attendance in Pembroke is necessary. 
+
+[19]      I agree with the principles first enunciated by Justice Kenkel and followed in JLK and DMS.  I agree that the Court must take a flexible approach to applications of this nature, particularly in cases such as this.
+
+The Location and Personal Circumstances of the Witness
+
+[20]      There is no evidence that Constable Boucher will suffer any personal hardship if she were required to appear personally in Pembroke.  I am not satisfied that she will have to be absent from Thunder Bay for “a prolonged period” in order to testify in Pembroke.  This factor works in favour of requiring her to appear personally.
+
+The Costs that would be incurred if Constable Boucher were to Appear Personally
+
+[21]      Her employer, the Ontario Provincial Police, or the Crown, would be responsible for covering the cost of her flights and accommodations. 
+
+[22]      I am mindful, however, of the need to be prudent with the public purse when considering these applications.  In 2025, the notion of the “unlimited resources of the state” is not necessarily accurate.  Courts should not be seen as being unnecessarily spendthrift with the public purse. 
+
+[23]      I find that if Constable Boucher is required to testify personally, travelling and testifying will likely consume three days:  one day for travel from Thunder Bay to Pembroke (which will involve flying to Toronto and/or Ottawa and renting a car), one day for her evidence, and one day for travel to return to Thunder Bay from Pembroke. 
+
+[24]      Thus, the Crown would be required to go to the expense of Constable Boucher’s flights, rental car, overnight accommodations, meals and incidentals in addition to two additional days away from her work as a police officer in Thunder Bay.  This is not insignificant.
+
+[25]      This factor works in favour of permitting her to appear virtually.
+
+The Suitability of the Location from Which Constable Boucher Would Give Evidence
+
+[26]      I am satisfied that if the Order permitting Constable Boucher to testify remotely is made, she will be able to appear from a suitable location. 
+
+[27]      I note, in passing, that it is not appropriate for police witnesses who testify remotely to appear from their police car or a busy squad room.  
+
+[28]      Testifying remotely is a privilege, not a right. 
+
+[29]      This factor works in favour of permitting her to appear virtually.
+
+The Accused’s Right to a Fair and Public Hearing
+
+[30]      I further find that Ms Russell’s right to a fair and public hearing will not be compromised if Constable Boucher testifies remotely.  I say that for the following reasons:
+
+a)   On the limited record before me, the case appears to be largely a technical one and turns on whether the Crown can prove the offence beyond a reasonable doubt.
+
+b)   As I have pointed out, on the limited record before me, it does not appear that Constable Boucher’s credibility will be a live issue.  Even if it is, observing Constable Boucher give evidence will not be of much assistance to the Court given the limited weight of observations of a witness’ demeanour[1].
+
+c)   Everyone else involved in this trial will be appearing personally.  Only Constable Boucher will be appearing remotely.  Members of the public can also observe the proceedings remotely.
+
+d)   There is no concern that Constable Boucher will have to be monitored while she is giving evidence to ensure that other persons do not contaminate her evidence or that she does not contaminate the evidence of other persons.  
+
+The Nature and Seriousness of the Offence
+
+[31]      I accept that in light of the fact that the Crown is seeking a period of custody, for Ms Russell, this is a serious matter.  Her liberty is potentially at stake.
+
+[32]      In the grand scheme of the nature of the offences that this Court routinely hears, however, this is not so serious as to require that all witnesses are to appear personally. 
+
+[33]      This factor is neutral.
+
+Prejudice to the Parties if the Witness Testifies by Audioconference
+
+[34]      In light of the fact that Constable Boucher will appear by Zoom, with a fully operable camera, the provisions of section 714.1(g) do not apply.  I will not permit Constable Boucher to appear by audioconference only.  
+
+Any Other Applicable Factor that Favours Remote or In Person Testimony
+
+[35]      The law is clear that the factors set out in section 714.1 are not exhaustive and the Court is free to consider any other factors necessary to make the determination of whether the order for remote testimony should be made:  R. v. JLK, supra, at para. 52 and R. v. DMS, supra, at para 86.
+
+[36]      I am not aware of any other factor that would work to the advantage of either cause in this case.  No other factors were pointed out to me by counsel in their submissions.
+
+Order to Go
+
+[37]      Accordingly, I find that the presumption that Constable Boucher will testify in person has been overcome and the following Order is made:
+
+a)   Subject to the terms of this Order, Constable Emmanuelle Boucher may testify remotely from Thunder Bay at the trial of this matter.
+
+b)   Constable Boucher shall give her evidence in the following manner:
+
+i)         By audio and videoconference (Zoom), at coordinates to be provided by the Court prior to giving evidence.
+
+ii)         She shall testify in a quiet place where the public is excluded.  She will be the only person in the room when she testifies.
+
+iii)           She may not testify from a motor vehicle.
+
+iv)           She shall test the computer equipment with the Court at least seven days in advance of the trial. 
+
+v)            She will not look at her notes, reports or any other documents until she is advised by the Court that she may do so.  If referring to notes, reports or other documents, they shall be visible and she shall make it clear that she is referring to them.
+
+c)   Crown and defence counsel shall ensure that all documentary evidence on which Constable Boucher will be questioned, or might reasonably be questioned will be in appropriate electronic form so that it may be produced in Court and referred to by Constable Boucher without undue delay. 
+
+Released:  July 14, 2025
+
+ 
+
+ 
+
+ 
+
+ 
+
+Signed: Justice J.R. Richardson
+
+
+[1]          On this point, see most recently, the decision of the Court of Appeal in R. v. Reimer, 2024 ONCA 519 at paragraphs 91 to 93.

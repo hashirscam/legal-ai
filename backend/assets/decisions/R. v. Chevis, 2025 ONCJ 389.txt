@@ -1,0 +1,223 @@
+Link: https://canlii.ca/t/kdbjr
+Date: 2025 07 18
+File number: Elliot Lake 22-12200289-00, 23-12200085-01
+Citation: R. v. Chevis, 2025 ONCJ 389
+Court: Ontario Court Of Justice
+Region: Not found
+Client: Stephenie Chevis
+Judge: Justice G. Jenner
+
+R. v. Chevis, 2025 ONCJ 389 (CanLII), <https://canlii.ca/t/kdbjr>, retrieved on 2025-09-18
+
+ONTARIO COURT OF JUSTICE
+
+CITATION:  R. v. Chevis, 2025 ONCJ 389
+
+DATE:  2025 07 18
+
+COURT FILE No.:  Elliot Lake 22-12200289-00, 23-12200085-01
+
+ 
+
+ 
+
+BETWEEN:
+
+ 
+
+HIS MAJESTY THE KING
+
+ 
+
+— AND —
+
+ 
+
+STEPHENIE CHEVIS
+
+ 
+
+ 
+
+ 
+
+Before Justice G. Jenner
+
+Heard on December 2, 10, and 11, 2024; January 24, 2025; July 18, 2025
+
+Released orally and in writing on July 18, 2025
+
+ 
+
+ 
+
+Leila Mehkeri....................................................................................... counsel for the Crown
+
+Sharon Sabourin..................................... counsel for the defendant, Stephenie Chevis
+
+ 
+
+JENNER J.:
+
+REASONS RE:
+ADMISSIBILITY OF EVIDENCE AND APPLICABILITY OF SOLICITOR-CLIENT PRIVILEGE
+
+I.      Introduction
+[1]         Ms. Chevis has pleaded guilty to fraud. These reasons address an evidentiary issue that arose in the course of a Gardiner hearing at sentencing, wherein the Crown is seeking to adduce evidence of aggravating features of the fraud, specifically its full quantum. The evidentiary issue relates to the scope of potential solicitor-client privilege, and to the extent it does apply, whether that privilege might be pierced.
+
+II.      Procedural History
+[2]         Ms. Chevis was originally scheduled to proceed to trial in relation to allegations of fraud. Allegedly, over a 10-year period, while employed as a secretary with bookkeeping responsibilities at Brown and Fabris Law Office (BFLO), she fraudulently took funds from the law firm’s general and trust accounts, by issuing cheques to her benefit. The trial was scheduled on a with-or-without counsel basis, and Ms. Chevis was self-represented in the months leading up to the trial dates.
+
+[3]         Shortly before trial, Ms. Chevis hired counsel, Ms. Sabourin, and the court was informed that the matter would now be for guilty plea, but that some of the dates set for trial would be needed for a Gardiner hearing, as the parties were not agreed on the full quantum of the fraud.
+
+[4]         On December 2, 2024, Ms. Chevis pleaded guilty to one count of fraud over $5,000.  Ms. Chevis agreed she took at least $60,000. At the sentencing hearing, the Crown would lead evidence to seek to establish their theory that Ms. Chevis was responsible for fraud in excess  $800,000. There was an Agreed Statement of Facts (ASF) provided pursuant to s. 724(1) of the Criminal Code.
+
+[5]         Evidence was heard on December 2, 10, and 11, 2024. The court heard from the following Crown witnesses:
+
+(1)         James Yakimovitch, forensic accountant;
+
+(2)         Colleen Cowan, a Chartered Professional Accountant (CPA) and expert in PC Law, the accounting software used by BFLO;
+
+(3)         Cst. Pritchard, who was the case managing officer for the investigation;
+
+(4)         Zoe Fabris, who is now a lawyer, but during the relevant time was employed intermittently as a summer student with BFLO, and is also the daughter of Mr. Antoine-René Fabris, the managing partner of BFLO; and
+
+(5)         Linda Browne, a clerk employed by BFLO during much of the relevant time.
+
+III.   Admitted Circumstances of the Offence
+[6]         The following facts were presented in the ASF.
+
+[7]         Ms. Chevis was previously named Stephenie Fisher, and was previously married to Robert Fisher. During the time of the offence, her spouse was Jason Lecompte.
+
+[8]         In 2007, Ms. Chevis was hired at BFLO. BFLO provides a range of legal services. Mr. Fabris was the sole legal practitioner during the offence period. Ms. Chevis became a secretary whose responsibility included some bookkeeping and remained in that position until her employment was terminated in June 2017.
+
+[9]         Ms. Chevis was in the habit of working later at night, explaining that she found it easier to do her accounting software work at night when no other employees were using the computer.
+
+[10]      Towards the end of 2016, Mr. Fabris began encountering difficulties with Ms. Chevis’s work performance and became concerned about the amount of money coming into the firm. Despite working full-time, he found he was unable draw personal funds from the business, as the firm’s general account was dipping into the negative. Mr. Fabris’s concerns caused him to install security cameras in the office in January 2017, and to instruct Ms. Chevis to discontinue her after-hours work habit. In April and May 2017, Ms. Chevis was surveilled entering the office after midnight and she was terminated from employment in June 2017.
+
+[11]      Following Ms. Chevis’ departure, Mr. Fabris hired CPA Colleen Cowan to assist with the firm’s monthly reconciliations, a process required by the Law Society of Ontario (then Law Society of Upper Canada). Ms. Cowan had previously performed services for the firm in 2007, including providing instruction to Ms. Chevis in relation to bank reconciliations and PCLaw, the accounting software used by BFLO.
+
+[12]       Ms. Cowan quickly discovered that there had been a manipulation of accounting records for some time, and that the firm had been defrauded of funds. In conducting her reconciliation of the trust account, she noted the following:
+
+•         Certain trust cheques which had been printed and drawn on the trust account had not been recorded anywhere in PCLaw. Ms. Cowan created a specific account within PCLaw with the designation “99999” to record such specific cheques in PCLaw.
+
+•         Certain trust cheques were altered after being printed and were recorded in PCLaw with different information. Sometimes the payee had been changed. Other times the amount had been changed.
+
+•         Certain deposits were recorded in PCLaw, but not received by the bank.
+
+[13]      Ms. Cowan noted similar issues with respect to the general account. Ms. Cowan worked alongside Zoe Fabris (Mr. Fabris’s daughter) to compile the accounting records.
+
+[14]      Mr. Fabris contacted Ms. Chevis to ask her what had been going on. Ms. Chevis broke down and told him she had stolen some money the previous year, in the amount of $60,000 to $70,000.
+
+[15]      Mr. Fabris hired a lawyer, Nidia Liva, and notified the Law Society of the misappropriation of client funds. Ms. Liva in turn retained a forensic accountant, James Yakimovich, to fully identify errors and improper entries made by Ms. Chevis during her employment. Mr. Yakimovich’s received the compiled documents from Ms. Cowan, and his investigation confirmed funds misappropriated from both the firm’s trust and general accounts.
+
+[16]      Ms. Chevis was arrested on September 7, 2022. During a video interview with the North Bay OPP, she explained that her conduct was the result of drug and gambling addictions. She admitted to taking $60,000.
+
+[17]      That remains the extent of Ms. Chevis’s admission, and the basis for her plea of guilt. She agrees that over the course of her employment with BFLO, she fraudulently took funds from the law firm’s general and trust accounts. She did so by issuing cheques either explicitly to her benefit, or indirectly to her benefit, such as by issuing cheques to her then-spouse.
+
+[18]      The following additional facts concerning BFLO are admitted:
+
+•         PCLaw could only be accessed from a standalone computer at the back of the BFLO office. Ms. Chevis told another employee (Ashley Akers) that accessing unrelated files on PCLaw could cause problems with the accounting.
+
+•         Mr. Fabris discovered in his review of BFLO accounting records that fictitious client files had been created in PCLaw.
+
+•         BFLO employee Linda Browne noticed on occasion that numbered trust cheques were missing or were not in sequence. For example, PCLaw would indicate that the next available trust cheque should be a certain number, but that number would be missing.
+
+•         The only person who was a signatory for the trust account was Mr. Fabris. Both Mr. Fabris and Ms. Browne were signatories for the general account.
+
+•         Ms. Chevis would buy and sell houses and her real estate transactions were handled by BFLO. Ms. Chevis would bring in cheques and deposit them into the trust account in anticipation of a house purchase. Sometimes Ms. Chevis would leave money in the trust account from the sale of the home. Ms. Chevis sometimes had as many as seven houses.
+
+[19]      As part of their own investigation, the OPP obtained bank records connected to Ms. Chevis. D/C Pritchard compiled the financial information. Many of the fraudulent cheques were made out directly to Ms. Chevis. Others did not specially name her. The following facts are admitted with respect to those cheques:
+
+•         The law firm cheques: Cheques totaling $75,914.53 were made out to three separate law firms: Don Kirsh Law, Caitons Law, and Rose and Rose Law. These three law firms sent emails containing collections correspondence to Ms. Chevis’s attention at BFLO. The firms sought payment from Ms. Chevis for unknown services and mortgages in default. The payment amounts in these communications correspond to the amounts on the fraudulent cheques identified.
+
+•         The City of Elliot Lake cheques: Cheques totalling $29,966.59 were made out to the City of Elliot Lake. They were not related to BFLO business. Correspondence from the City of Elliot Lake showed the money was credited to Ms. Chevis’s accounts with the City of Elliot Lake.
+
+•         The Jason Lecompte cheques: Two unauthorized cheques ($1,200 and $5,630) were made out to Ms. Chevis’s then-spouse, Jason Lecompte, and were deposited into his accounts.
+
+•         The Robert Fisher cheque: One unauthorized cheque for $2,000 was made out to Ms. Chevis’s former spouse, Robert Fisher, and was deposited into Ms. Chevis’s bank account.
+
+•         The Guelph Wrestling cheque: One fraudulent cheque for $400 was made out to Guelph Wrestling. Ms. Chevis’s son was a member of the Guelph Wrestling Club.
+
+•         The Hydro One Network cheque: One fraudulent cheque for $3,250 was made out to Hydro One Network. The cheque was credited to Ms. Chevis’s account at Hydro One.
+
+[20]      Additionally, the review of fraudulent cheques showed many unauthorized cheques made out to the benefit of various financial institutions. The ASF does not speak to the cumulative quantum of these cheques but indicates that D/C Pritchard’s review showed the cheques went to Ms. Chevis’s accounts at the various institutions.
+
+[21]      Lastly, as a result of the fraud, Mr. Fabris was required to personally replenish the shortfall in his firm’s trust account. In addition to cash on hand, he had to rely on a line of credit, remortgage his personal residence, and liquidate over $300,000 in RRSPs.
+
+IV.   The scope of the Gardiner hearing shifts and solicitor-client privilege is raised
+[22]      Based on the ASF, the court understood the issue for determination in the Gardiner hearing to be limited to the quantum of the fraud committed, and in a secondary sense the extent to which Ms. Chevis benefitted. I pause here to note that that while the extent Ms. Chevis benefitted may be a relevant as evidence she was responsible for a certain transaction or quantum of fraud and may be a factor bearing on the appropriate sentence, a personal financial benefit to the offender is not an essential element of the offence of fraud.
+
+[23]       The court’s understanding of the issues to be determined was based on a consistent description in the ASF of the transactions at issue as “fraudulent” or “unauthorized” and the stipulation, at para. 5 of the ASF, that “[i]t is agreed that Chevis was solely responsible for this fraud.” Nonetheless, as the hearing proceeded, it became clear that the issues to be determined in the Gardiner were wider in scope.
+
+[24]      On December 10, 2024, Ms. Sabourin, on behalf of Ms. Chevis, paused her examination of former BFLO employee Linda Browne, to raise an evidentiary issue with the court. She sought to elicit evidence from the witness concerning three transactions. On two occasions, Ms. Sabourin indicated, a client of BFLO was an estate client for whom Mr. Fabris held a power of attorney. Ms. Sabourin also alluded to private mortgages that had been issued on behalf of clients of the firm. She further indicated that a client of the firm had come into a significant amount of money, had willed funds to both Mr. Fabris and Ms. Chevis, and Mr. Fabris had not executed that will as written, but instead had used that client as a private mortgagee for Ms. Chevis.
+
+[25]      Both the defence and the Crown recognized that these inquiries raised potential issues of solicitor-client privilege. It is important to note that Ms. Chevis explicitly waived any solicitor-client privilege she may have had in respect of any of these transactions or any of her business with BFLO. The privilege concerns were with respect to BFLO’s other clients as potential privilege-holders.
+
+[26]      When this issue arose, my concern was not initially limited to questions of solicitor-client privilege. The areas being probed in cross-examination, including this new area being canvassed, seemed to run contrary to my own understanding of the admissions in the ASF and the issues to be determined in the Gardiner hearing. Questions had been posed to explore whether persons other than Ms. Chevis might have had the opportunity to commit some of the alleged fraud, whether some of the identified transactions were legitimate rather than fraudulent, and now whether Ms. Chevis was being framed, so to speak, for the fraud or poor bookkeeping of others. Mindful that the ASF stipulated that “Chevis was solely responsible for this fraud” and that the cheques in issue were consistently described as “fraudulent” not “allegedly fraudulent,” I sought clarification from the parties as to the ASF and their understanding of the issues for my determination.
+
+[27]      Hearing from the parties, it was clear they were not ad idem with respect to the proper interpretation of the ASF. The Crown, despite being potentially prejudiced by the defence’s strained interpretation of the ASF, did not request procedural or substantive relief from the court. The Crown, rather retreated from its interpretation of the ASF, and agreed that the defence was clearly putting the Crown to its onus on the total quantum of the fraud. The Crown agreed that I should not read the ASF as excluding the possibility that a legitimate transaction was mis-posted and labeled as fraudulent or that another person may have been responsible for a fraud attributed to Ms. Chevis.  
+
+[28]      The parties were not able to immediately address the question of solicitor-client privilege, and as the court day was coming to an end, I instructed the parties to prepare five-page written submissions addressing the procedural and substantive issues of solicitor-client privilege. On the subsequent date, January 24, 2025, Ms. Sabourin was ill, and the hearing could not continue. Only the Crown had filed submissions with respect to solicitor-client privilege. I ordered that the outstanding submissions be provided by February 13, 2025, which was a date selected to confirm continuation dates.
+
+[29]      In those submissions, which were subsequently provided, the defence indicates it wishes to explore the following areas in cross-examinations and potentially in leading its own evidence:
+
+(1)         Whether a client of BFLO, who I will refer to as “the Lottery Winner”, won a large sum of money in a lottery, was found not to have capacity, and whether the firm took over carriage of the individual’s finances through a trust account;
+
+(2)         Whether private mortgages were thereafter given by the firm to Ms. Chevis using the Lottery Winner’s funds;
+
+(3)         Whether there are other private mortgages given to Ms. Chevis using another unnamed client’s funds; and
+
+(4)         Whether an estates client being assisted by BFLO had funds deposited to Ms. Chevis’ account as benefits owing to her.
+
+[30]      Ms. Chevis proclaims to have knowledge of these transactions already. She is not seeking production. She is simply seeking to elicit the evidence.
+
+[31]      In written submissions defence suggests that these areas of questioning engage solicitor-client confidentiality and solicitor-client privilege, but suggests the innocence at stake exception can be applied within a Gardiner hearing, and asks the issue of whether the questioning will be permitted be explored in an in camera hearing, with documents with client identifiers redacted or removed.
+
+[32]      In the Crown’s written submissions, they characterize the defence theory as being that a client instructed the firm to administer a will in a certain fashion, and the firm departed from those instructions. The Crown is concerned that the proposed areas of questioning engage solicitor-client privilege. The Crown argues, however, that the innocence at stake exception does not apply. To engage the exception, the Crown submits, an accused must show that she is otherwise unable to raise a reasonable doubt as to her guilt and that there is a risk of wrongful conviction. The Crown emphasizes that a finding of guilt has already been made in this case, and the proceedings before the court involve sentencing. In any event, the Crown, argues, Ms. Chevis would need to demonstrate that breaching the privilege is the only way to raise a reasonable doubt as to guilt. In other words, if breaching the privilege could raise a doubt, but another defence or source of doubt is also viable, the exception does not apply.
+
+[33]      The Crown submits that if the exception could be applied within a sentencing hearing, the proper approach to the question is to hold a two-stage analysis. First, the accused must demonstrate an evidentiary basis to conclude that a communication exists that could raise a reasonable doubt as to their guilt. If they succeed, the judge is to examine the privileged communication to determine whether, in fact, it is likely to raise a reasonable doubt as to the accused’s guilt.
+
+V.     Issues
+[34]      To resolve this dispute raised by the defence’s request, I am required to consider the following questions:
+
+1.            Is the evidence sought to be adduced covered, partially or wholly, by solicitor-client privilege?
+
+2.            If the answer to question 1 is yes, is an exception to the near-absolute rule against breaching solicitor-client privilege engaged? The only exception advanced by the defence is the innocence at stake exception, as articulated in R. v. McClure, 2001 SCC 14 (CanLII), [2001] S.C.J. No. 13. This question therefore turns on the following two sub-questions:
+
+(a)         Can the innocence at stake exception apply in a Gardiner hearing at the sentencing stage?
+
+(b)         Is the evidence in question the only way to raise a reasonable doubt about Ms. Chevis’s ‘guilt’?
+
+3.            If all the preceding questions are answered in the affirmative, the court must consider whether Ms. Chevis has demonstrated an evidentiary basis that the communications exist which could raise a reasonable doubt. If it does, I must examine the communication to determine if it is, in fact, likely to raise a reasonable doubt.
+
+VI.    Analysis
+Is the evidence at issue protected by solicitor-client privilege?
+
+[35]       Solicitor-client privilege protects communications between a lawyer and their client for the purpose of seeking or giving legal advice which is intended to be confidential: John H. Wigmore, Wigmore on Evidence, McNaughton rev. ed. (Boston: Little Brown, 1961); R. v. McClure, 2001 SCC 14, at para. 36. It does not generally protect facts or acts, subject to limited circumstances and difficult cases: see, for example, Maranda v. Richer, 2003 SCC 67 (CanLII), [2003] S.C.J. No. 69, at paras. 30-31. Whether it protects client identity is context-driven: Lavallee, Rackel & Heintz v. Canada (Attorney General), 2002 SCC 61 (CanLII), [2002] S.C.J. No. 61, at para. 28.
+
+[36]      It is, therefore, critical to accurately define the nature of the evidence sought to be led. The question of whether the privilege applies is not an all-or-nothing exercise. It could be that some, but not all the evidence in issue is protected.
+
+[37]      Any communications between BFLO and a client, the Lottery Winner or otherwise, exchanged in the seeking of legal services are clearly protected by solicitor-client privilege. But what of the existence of a will that is administered or a private mortgage that is established? A will that has been prepared but has not been administered may well be protected by solicitor client privilege. I have difficulty, however, with the notion that a legal instrument such as a will, a power of attorney, or a private mortgage, could possibly remain covered by solicitor client privilege once the instrument is acted on, and enters the public sphere. A will has beneficiaries. A power of attorney must be disclosed to third parties, including financial institutions, such that they can be satisfied of the attorney’s authorization to act. A private mortgage necessarily involves a third party, in this case the proposed mortgagor, Ms. Chevis.  Indeed, when this question was put to the parties, they agreed that it would seem illogical to protect the existence of such public-facing instruments within the scope of the privilege.
+
+[38]      The question of whether the identity of a client of BFLO is privileged is related. While there are circumstances in which the identity of a client is protected by the privilege, these tend to be connected to the nature and context of the advice sought. For example, a hit and run driver who consults a lawyer and confidentially discloses his identity is protected: Thorson v. Jones, 1973 CanLII 1105 (BC SC), [1973] B.C.J. No. 489. A client who intends for their lawyer to establish a legal instrument on their behalf that will involve third parties, is not similarly positioned, once those instruments are actioned.  
+
+[39]      I conclude that the identity of clients of BFLO who have engaged BFLO’s services to effect a legal instrument that obviously contemplates sharing the fact of that instrument with third parties are not protected by solicitor-client privilege. Subject to relevance, I am prepared to permit Ms. Chevis to give or elicit evidence that identifies clients in that category. I am further prepared to permit Ms. Chevis to give or elicit evidence with respect to the existence of those legal instruments, and how they were administered, again, subject to relevance. If she was a mortgagor or beneficiary under one or more of those instruments, I cannot see how the other party’s claim to solicitor-client privilege could prevent her from saying so. That she was also an employee of the law firm providing services does not, in my view, change that equation.
+
+[40]      That said, I must remain mindful of Ms. Chevis proposed dual role as party to such legal instruments and employee of BFLO. She may have, in her capacity as an employee, been privy not only to the clients’ identities and the existence of certain legal instruments, but also communications between those clients and BFLO relating to the purpose of seeking or obtaining legal advice. The presence of an employee of a lawyer does not defeat the confidential nature of communications: Descotaux v. Mierzwinski, 1982 CanLII 22 (SCC), [1982] S.C.J. No. 43. Such persons are necessary to assist the lawyer in providing legal advice. If Ms. Chevis was acting in her capacity of an employee supporting BFLO’s provision of legal advice, communications she was privy to that were otherwise protected by solicitor-client privilege remain so. Those communications would certainly be protected by solicitor client privilege and cannot be explored in evidence unless one of the narrow exceptions to privilege applies.
+
+[41]      Ms. Sabourin has indicated in oral submission today that Ms. Chevis was not seeking to elicit such information, and so there is no need for me to conduct an analysis of whether the privilege might be pierced, under the innocence at stake exception, or otherwise, at this time.
+
+[42]      I thank counsel for their vigilance with respect to this issue and instruct counsel to apply that vigilance in the formation of their questions to be put to witnesses. Care must be taken not to pose questions that could tend to elicit evidence that remains covered by the privilege.
+
+Released July 18, 2025
+
+ 
+
+ 
+
+ 
+
+ 
+
+Signed: Justice G. Jenner

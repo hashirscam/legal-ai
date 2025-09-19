@@ -1,0 +1,384 @@
+Link: https://canlii.ca/t/kbv91
+Date: 2025 04 28
+File number: Windsor 23-81105156
+Citation: R. v. Cobb, 2025 ONCJ 237
+Court: Ontario Court Of Justice
+Region: Not found
+Client: Brian Cobb
+Judge: Justice S. G. Pratt
+
+R. v. Cobb, 2025 ONCJ 237 (CanLII), <https://canlii.ca/t/kbv91>, retrieved on 2025-09-18
+
+ONTARIO COURT OF JUSTICE
+
+CITATION:  R. v. Cobb, 2025 ONCJ 237
+
+DATE:  2025 04 28
+
+COURT FILE No.:  Windsor 23-81105156
+
+ 
+
+ 
+
+BETWEEN:
+
+ 
+
+HIS MAJESTY THE KING
+
+ 
+
+— AND —
+
+ 
+
+BRIAN COBB
+
+ 
+
+ 
+
+ 
+
+Before Justice S. G. Pratt
+
+Heard on 21 March 2025
+
+Reasons for Judgment released on 28 April 2025
+
+ 
+
+ 
+
+Janelle Clayton.................................................................................... Counsel for the Crown
+
+Brian Cobb..............................................................................................   On His Own Behalf
+
+ 
+
+RULING ON APPLICATION TO STAY PROCEEDINGS
+
+Pratt J.:
+
+[1]              On 11 March 2025 I found the Applicant Brian Cobb guilty of one count of uttering a threat to cause bodily harm.  Prior to trial, the Applicant had filed an application to stay the proceedings against him on the basis of alleged violations of the Charter of Rights and Freedoms (“the Charter”).  I elected to delay hearing that application until after a verdict was reached for two reasons.  First, if I had gone on to find the Applicant not guilty of all charges, the application would have been moot.  Second, had I elected to hear the application at the start of trial, it would have prevented the case being heard on its merits in the allotted time.  Future trial dates would have needed to be set.  As the charges related to an incident in October 2023, and the Applicant was detained in custody on this matter, I did not want to add further delay by embarking on a course of action that would have required an adjournment of the trial.
+
+[2]              As a result, the application was argued on 21 March 2025.  This is my ruling.
+
+[3]              I begin by reminding myself that the burden in this application lies on the Applicant.  He must establish on a balance of probabilities that one or more rights guaranteed by the Charter has been violated, or that the prosecution against him is otherwise an abuse of process.  If he meets that burden on either front, he must then show why he is entitled to the relief he seeks.  In this case, that relief is a stay of proceedings.
+
+Chronology of Events
+
+[4]              To place the Applicant’s claims in context, it is necessary to set out a detailed chronology of events in this case.  These details are taken either from the relevant transcripts, or were provided by the Applicant in the course of his submissions and were not challenged by the Respondent.
+
+[5]              22 August 2023: the Applicant was arrested on unrelated charges and released on bail.
+
+[6]              4 November 2023: the Applicant was arrested on other unrelated charges and held in custody.  He has been in custody ever since his arrest.
+
+[7]              16 November 2023: the Applicant was charged with the offences before me.  They relate to conduct on 31 October and 1 November 2023.
+
+[8]              4 December 2023: following a bail hearing, the Applicant was detained in custody.  The Justice of the Peace ordered detention on the secondary ground noted in s. 515(10), according to the submissions of the Applicant.
+
+[9]              6 December 2023: the Applicant was charged with a further unrelated offence.
+
+[10]         3 January 2024: the Applicant was again detained on the secondary ground following a bail hearing.  In late January, trial dates were set for the matter currently before me.  Those dates were 15 September and 15 and 16 October 2024.
+
+[11]         1 May 2024: the Applicant was detained following a bail review in the Superior Court of Justice, again on the secondary ground.
+
+[12]         6 August 2024: the Applicant’s mandatory detention review under s. 525 was, according to the Applicant, vacated.
+
+[13]         8 September 2024: a friend of the Applicant filed a habeas corpus application on his behalf in the Superior Court of Justice.
+
+[14]         12 September 2024: the application was dismissed for non-compliance with the Courts of Justice Act.  A review under s. 525 was set for 24 September.  I was not advised of the outcome of this review, if it did take place.
+
+[15]         16 September 2024: this was the first trial date, before Justice Bondy.  After arraignment and after evidence was received, Justice Bondy declared a conflict and recused herself from hearing the matter.  Her Honour adjourned the case to the second day set for trial in the hopes that another judge could be put in place to hear the trial.
+
+[16]         10 October 2024: counsel Evan Weber was removed as counsel of record.  The trial dates of 15 and 16 October were left in place.  Justice Murphy made an order appointing counsel under s. 486.3 to cross-examine the Complainant.  The upcoming trial dates of 15 and 16 October were vacated by the Court.  The 15th was retained but only as a speak-to date to determine if any counsel had taken the appointment.  The Applicant objected strongly to the vacating of the dates and told the Court he was prepared for trial on the dates set.
+
+[17]         15 October 2024: new counsel Ken Golish appeared, willing to take the s. 486.3  appointment.  He was ready to begin trial, having met with the Applicant to prepare.  The Applicant expressed confusion over why the trial was not beginning and why he was appearing only by video and not in person.  Justice Bondy reviewed the status of other outstanding matters and confirmed the matter was not set to begin trial on that day.  The Applicant asked for summary dismissal of the charges.  That request was denied.  Trial co-ordination was asked about new trial dates and the soonest dates that could be offered were 28 and 29 April 2025.  Rather than take dates six months away, Justice Bondy adjourned proceedings to 18 October before Her Honour to confirm new dates.  In the meantime, the Crown and Mr. Golish would meet with trial co-ordination to discuss availability.  At the conclusion of the appearance, the Applicant asked about release.  Crown counsel responded that if he wished to discuss resolving the matter, his s. 486 counsel could speak to the Crown on his behalf.
+
+[18]         18 October 2024: the Applicant appeared before Justice Bondy again, and asked that another judge hear his case as Justice Bondy had already declared a conflict.  It was at this appearance the Applicant first made the argument that the trial against him had been, in his words, “abandoned” (see page 12, line 25).  Justice Bondy confirmed her conflict and advised this appearance was only procedural.  Crown counsel stated that dates had been discussed between his office, Mr. Golish, and the Trial Co-ordinator.  Trial dates in November 2024, and January and March 2025 were considered, though Mr. Golish advised he was not available for the November dates and that if they were chosen, the Applicant would have to be given different counsel.  The Applicant did not want to set any dates as in his submission, the matter was at an end and by continuing to be involved, Justice Bondy was perpetuating the conflict and causing an injustice.  In the end, 25 and 26 November 2024 were set on the information before me.  The Applicant spoke on the record about his belief that allegations had been fabricated against him and that he was being held as a result of a set-up by the police.  The remaining informations were adjourned into another court to be addressed as Justice Bondy did not want to take any further action on them given her conflict.
+
+[19]         22 October 2024: Justice Bazylko addressed the matter, primarily with regard to s. 486.3 appointments on other files.  His Honour also confirmed that the appointment order had already been made on the information before me.
+
+[20]         25 October 2024: the s. 486.3 issue was again before Justice Bazylko.  The Applicant expressed concern over his trial dates being further adjourned as a result of the uncertainty around those appointments given that he is in custody.  Matters were adjourned to 29 October for the Applicant to review a list of possible counsel.
+
+[21]         29 October 2024: this appearance began with the Applicant advising the Court of his concerns about how the police had treated him and people connected to him.  He also provided a Form 1 application to the Crown and the Court.  That application set out his opposition to the manner in which the s. 486.3 application was dealt with on the information before me (the order made by Justice Murphy).  Justice Bazylko adjourned that application to a date before Justice Murphy.  This is the appearance where the Applicant first advised that Christina Sweet would be involved as appointed counsel.  Justice Bazylko confirmed the November trial dates on the present information and noted Ms. Sweet as appointed counsel.  The Applicant again alerted the Court to the length of time he’d been in custody and confirmed his wish to be released on bail.
+
+[22]         7 November 2024: before Justice Murphy, the Applicant served a new application, the application to which this ruling pertains.  In his submission, the Applicant believed this application rendered his 29 October application moot.  As part of his submissions to Justice Murphy on that day, the Applicant repeated his contention that when the trial dates were vacated, “the charges have been cancelled, so they’re discharged” (see page 8, lines 7-9).  He confirmed with Justice Murphy that in his view the charges had been “nullified” (see page 8, line 29).  After reviewing his claims regarding the decisions made by herself and Justice Bondy, Justice Murphy told the Applicant he would need to bring his concerns to the Superior Court of Justice.   His request for bail would need to go there as well.  The remainder of the application was referred to the trial judge, as was the 29 October application.
+
+[23]         25 November 2024: the trial of this information was set to begin before Justice Bazylko.  His Honour received this application and needed time to review it.  It appeared Crown counsel on the day had also not reviewed it.  The matter was adjourned to the following day.
+
+[24]         26 November 2024: the s. 486.3 application related to the Crown witness Katherine Marsh was addressed.  Ms. Marsh testified.  Following submissions, Justice Bazylko denied the application as it related to Ms. Marsh.  As the allotted trial time was used on the application, the matter was adjourned for trial on 27 February and 3 March 2025.
+
+[25]         8 January 2025: the trial dates were confirmed.
+
+[26]         27 February 2025: the trial began.
+
+[27]         The evidence on the trial concluded on 3 March 2025, and I provided my verdict to the parties on 11 March.
+
+Abuse of Process
+
+[28]         The Applicant argues his treatment at the hands of the state throughout this prosecution amounts to an abuse of the Court’s process.  His rights under s. 7 have been violated, the prosecution has been manifestly unfair, and as a result he seeks a stay of the proceedings against him.
+
+[29]         The doctrine of abuse of process has been part of Canadian law for nearly 150 years.  Starting with the case of Re: Sproule 1886 CanLII 51 (SCC), [1886] 12 S.C.R. 140, Chief Justice Ritchie noted the following at paragraph 2:
+
+This writ having been issued out of this court, under the seal of the court, and tested in the name of the Chief Justice (and I know of no other way in which, the writ of habeas corpus could be issued on the flat of a judge of this court), was a proceeding in this court, and every superior court, which this court unquestionably is, has incident to its jurisdiction an inherent right to inquire into and judge of the regularity or abuse of its process.
+
+[30]         Over the course of the following century, the doctrine was developed and in particular, its applicability to criminal law was confirmed.
+
+[31]         In the case of R. v. Young [2024] O.J. No. 196 (C.J.) I set out the history of the doctrine in Canada, at paragraphs 17 – 28.  I will not repeat it here, but I summarize the current law as follows:
+
+(1)              A Court has the discretion to stay proceedings when those proceedings violate the fundamental principles of justice that underlie the community's sense of fair play and decency (see: R. v. Young (1984) 1984 CanLII 2145 (ON CA), 46 O.R. (2d) 520 (C.A.)).
+
+(2)              An abuse may impact Charter-protected rights.  The specific rights engaged may vary from case to case (see: R. v. O’Connor 1995 CanLII 51 (SCC), [1995] 4 S.C.R. 411).
+
+(3)              Separate from its impact on Charter rights, a prosecution may be abusive if it is so unfair or vexatious that it compromises fundamental notions of justice and the integrity of the judicial process (see: R. v. O’Connor, supra).
+
+(4)              An applicant does not need to show misconduct or improper motive on the part of the Crown to establish an abuse of process (see: R. v. Keyowski 1988 CanLII 74 (SCC), [1988] 1 S.C.R. 657)
+
+[32]         A stay of proceedings should only be granted in the clearest of cases (see: R. v. Jewitt 1985 CanLII 47 (SCC), [1985] 2 S.C.R. 128).
+
+Grounds for the Application
+
+[33]         The Applicant sets out six distinct headings in his claim for Charter relief.  I will address the issues according to these headings and in the order he argued them.
+
+ 
+
+1.                  Interference in Solicitor-Client Relationship
+
+[34]         The Applicant initially had Evan Weber as his counsel.  As noted above, on 10 October 2024, Mr. Weber was removed as counsel of record.  It is clear from the transcript that the Applicant had, in the words of Justice Murphy, lost confidence in Mr. Weber.  The Crown took no position regarding Mr. Weber’s removal.  The Applicant did voice one concern about the application.  At page 4 of the transcript, the Applicant confirmed he would represent himself at trial.  He then stated:
+
+BRIAN COBB:           But I’d like to ask Mr. Weber how he found out that or where he asserts that I said he was [indiscernible].  How did he find that out?
+
+[35]         The Applicant was not permitted to pursue that issue in court that day, but it is expanded upon in his argument and in his materials.
+
+[36]         According to the affidavit submitted in support of this application, the Applicant filed materials with the Court of Appeal for Ontario.  In those materials, he referred to Mr. Weber and another lawyer, Ed Burlew, as “ineffective and incompetent”.  These materials were never provided to Mr. Weber by the Applicant, and the Applicant posits that Mr. Weber was alerted to the Applicant’s words by the Crown.  This, he says, was inappropriate.  By telling Mr. Weber what was in the Court of Appeal filing, the Crown violated his right to counsel by “poisoning” his relationship with Mr. Weber.
+
+[37]         The Applicant further argues the Crown “knowingly conspired to cause Mr. Evan Weber to remove himself as counsel of record, with intent and malice to create disruption and delay in the trial proceedings and to continue unlawful imprisonment of the accused, Brian Cobb, and to sabotage the accused’s right to retain and instruct counsel” (see: paragraph 6 of the affidavit).
+
+[38]         In response, Crown counsel Mr. Lesperance did not dispute the allegation that it was the Crown who told Mr. Weber about the Applicant’s statement.  He argues there was nothing stopping the Crown from sharing that information with the person who was at that point still counsel of record.  More than that, as the Applicant’s opinion of Mr. Weber could have made any subsequent trial proceedings vulnerable to a claim of ineffective assistance of counsel, he says it was entirely proper for the Crown to do what it did.
+
+[39]         In essence, this is a claim for relief under ss. 7 and 10(b) of the Charter.  By doing what it did, the Applicant argues the Crown violated his right to life, liberty, and security of the person through their intent to create disruption and delay in the Applicant’s trial and to continue his imprisonment.  They further violated his right to retain and instruct his counsel of choice by telling Mr. Weber what the Applicant had said about him.
+
+[40]         To decide this issue, I must only consider the evidence before me.  I can draw inferences from that evidence, but those inferences must be reasonable.  I cannot speculate or fill in blanks with suspicion.
+
+[41]         I have seen no evidence of any intent on the part of the Crown to disrupt these proceedings.  Throughout, the Crown has sought to keep the matter moving forward despite the various obstacles that have arisen.  At no point did any one Crown counsel, or the state more broadly, ever take any intentional steps to subvert the trial process or compromise the Applicant’s rights.
+
+[42]         In his application to be removed from the record, Mr. Weber said the following:
+
+Mr. Cobb has filed a Notice of Appeal in the Ontario Court of Appeal related to proceedings in the Superior Court of Justice of September 12, 2024.  In the Notice and accompanying materials filed on behalf of Mr. Cobb, he repeatedly asserts that counsel Evan Weber is ineffective and/or incompetent.
+
+[43]         The proceedings referred to from 12 September 2024 were the dismissal of the Applicant’s habeas corpus application by Justice Carroccia for lack of compliance with the Courts of Justice Act.
+
+[44]         The question of whether the Crown should have told Mr. Weber what was in the Applicant’s materials is a difficult one.  Mr. Lesperance argues there was nothing preventing them from doing so.  That is true.  He also argues that the Applicant’s words created the possibility of an eventual appeal based on the ineffective assistance of counsel.  I find that to be somewhat speculative but not entirely without foundation.
+
+[45]         At the time the Crown received the materials, Mr. Weber would still have been counsel of record.  It is not surprising that they would speak to him about them.  Certainly, they created a potentially awkward and difficult situation.  But, given Mr. Weber’s status as counsel of record, I find no fault in the Crown sharing the materials with him.
+
+[46]         I find no breach of either s. 7 or 10(b) of the Charter on this ground.
+
+2.         The Events of 10 October 2024
+
+[47]         Three things happened on 10 October 2024: Mr. Weber was removed as counsel of record, the upcoming trial dates of 15 and 16 October were vacated, and the Court appointed counsel under s. 486.3.  The Applicant argues that all of these events played a role in the violation of his Charter rights.  Again, I would consider this ground to be based on s. 7.
+
+[48]         The Applicant argues the removal of counsel five days before what he says was the trial date is prejudicial to him.  It left him without a lawyer less than a week before the start of trial.  Such a removal would be prejudicial to any defendant, but it’s all the more so when that defendant is in custody.  I would agree that suddenly being without counsel five days before trial is an even bigger problem for an in-custody defendant whose ability to retain new counsel is likely diminished.
+
+[49]         The difficulty for the Applicant is that when asked his position on Mr. Weber’s removal, he was not opposed to it.  This is from the transcript of that day, page 4, lines 13-17:
+
+BRIAN COBB:           Well, my position is that I have trial in five days.  So, I’m not moving the trial, so that’s going to proceed no matter what, whether or not Mr. Weber’s there, I’ll represent myself in that matter.
+
+[50]         While I agree the removal of counsel shortly before trial can be prejudicial to a defendant, in this case the Applicant did not have any issue with it.  He was ready to proceed to trial whether Mr. Weber was there or not.  The Applicant has not shown a breach of his s. 7 rights on the basis of the removal of counsel
+
+[51]         After counsel was removed, Crown counsel Ms. Landine expressed concern about the approaching trial dates.  The Applicant needed to receive his disclosure as a self-represented litigant, and she also advised the Crown needed to bring a s. 486.3 application.
+
+[52]         To the first point, the Applicant assured the Court that he’d reviewed his disclosure and was prepared to proceed to trial.  The sole remaining issue was the need for the appointment of counsel to cross-examine the complainant.
+
+[53]         The information before me contains two counts: breaching a release order under s. 145 and uttering a threat under s. 264.1.  Each count relates to a different complainant.  Neither complainant was under 18 years old pursuant to s. 486.3(1) and neither count was an enumerated count under s. 486.3(2).  An order for appointment of counsel for cross-examination would therefore be governed by ss. 486.3(3) and (4).  The sections state:
+
+(3) In any proceedings against an accused, the judge or justice may, on application of the prosecutor in respect of a witness who is not entitled to make an application under subsection (1) or (2), or on application of such a witness, order that the accused not personally cross-examine the witness if the judge or justice is of the opinion that the order would allow the giving of a full and candid account from the witness of the acts complained of or would otherwise be in the interest of the proper administration of justice. If the order is made, the judge or justice shall appoint counsel to conduct the cross-examination.
+
+(4) In determining whether to make an order under subsection (3), the judge or justice shall consider
+
+(a) the age of the witness;
+
+(b) the witness’ mental or physical disabilities, if any;
+
+(c) the nature of the offence;
+
+(d) whether the witness needs the order for their security or to protect them from intimidation or retaliation;
+
+(e) the nature of any relationship between the witness and the accused;
+
+(f) society’s interest in encouraging the reporting of offences and the participation of victims and witnesses in the criminal justice process; and
+
+(g) any other factor that the judge or justice considers relevant.
+
+[54]         On 10 October 2024, there was no application before the Court.  Likewise, there was no affidavit setting out evidence related to the factors listed in s. 486.3(4).  Ms. Landine acknowledged there may not have been an application filed but did send a draft order to the court clerk.
+
+[55]         The order sought by the Crown was discretionary.  To obtain it, the Crown had to show on a balance of probabilities that it was needed to allow for the giving of a full and candid account by the witnesses in question.  This required the calling of reliable and trustworthy evidence (see: R. v. Tehrankari [2008] O.J. No. 5652 (S.C.J.); R. v. Doherty [2025] O.J. No. 947 (C.J.))  The Applicant should have been given an opportunity to cross-examine any affiant and make submissions on the point (see: Doherty, supra, citing R. v. Almiri cited as 2024 ONSC 5036).  Instead, the order was made summarily with no evidentiary record or input from the Applicant.  It seems he would have had submissions to make had he been asked, as he was asked about that order on 22 October 2024 by Justice Bazylko.  At page 12, line 20 of that day’s transcript, he was asked about the order granted on this information.  He said:
+
+BRIAN COBB:           Yeah.  Those – I would like to know the section that they used and, in particular, I would probably like to question on that one because for – that one – that one I would object to.
+
+[56]         To be abundantly clear, the steps taken on 10 October, by both the Crown and the learned Justice, were motivated by the twin goals of safeguarding the Applicant’s fair trial rights and keeping his case moving forward in a rapidly evolving (and arguably deteriorating, given Mr. Weber’s departure) situation.  The granting of the order as it related to Maisam Al-Rais was entirely reasonable.  It was the way in which this order came about that causes concern.
+
+[57]         I find the Applicant has shown a breach of his s. 7 rights based on the manner in which the s. 486.3 application was addressed.
+
+[58]         Because the s. 486.3 order was made, it became necessary to vacate the trial dates.  It was not unreasonable to assume no counsel would be able to take the appointment, familiarize themselves with the case, and be available for trial five days later.
+
+[59]         The Applicant argues that when the trial dates were vacated, the matter came to an end.  Vacating trial dates is, he says, tantamount to dismissing the charges.
+
+[60]         The Applicant represents himself in these proceedings.  I would not expect him to be conversant in the language of the legal system.  The term “vacating trial dates” is used regularly in our courts.  “Vacate” does not mean what the Applicant thinks it means, when used in this context.  It is not the equivalent of a stay of proceedings or the withdrawal of a charge.  Both of those steps would indeed bring an end to a prosecution.  Saying trial dates are vacated, however, does no such thing.  It is functionally the same as saying the original dates are to be replaced without immediately setting new ones.  Vacating trial dates merely removes them from the trial schedule; it does not foreclose the setting of future dates.
+
+[61]         There is little caselaw on this point.  The decision of Justice Henry in the case of R. v. Goldrick [1974] O.J. No. 202 (H.C.J.) dealt with a similar issue.  There, His Lordship considered a defendant who had been released on an undertaking.  Some time after his release, he was charged with breaching two listed conditions.  After being charged with the breaches, a new release was entered, and the original release was vacated.  It was argued at the trial of the breaches that vacating the initial release had the effect of nullifying the prior breaches.
+
+[62]         In rejecting that argument, Justice Henry stated at paragraph 30:
+
+30  The question is whether, by using the word "vacate" in Section 457.5, Parliament intended that the reviewing Judge should void the order ab initio so as to negative its effect for all purposes, or whether, by use of this language, it merely intended that the reviewing Judge should terminate the order and substitute another order effective from the date of his decision. While the variation in the use of language is puzzling, it does not appear to me that Parliament intended that by vacating the existing order, pursuant to Section 457.5(7), the reviewing Judge renders it void ab initio. No reason has been advanced, nor do I see any, that would render such a result logical, reasonable or desirable…
+
+[63]         And at paragraph 31:
+
+31  I conclude therefore, that the word "vacate" used in Section 457.5 means nothing more than that the order is to be cancelled, or terminated, by the reviewing Judge, but that its prior operation is not impaired.
+
+[64]         Applying the reasoning in Goldrick to the present case, vacating a trial date, in the sense that that word is commonly used in the courts, does not mean the entire underlying proceeding is halted.  It means only that the existing trial dates are to be cancelled and replaced.
+
+[65]         There is no basis to find that the prosecution met its end when the trial dates of 15 and 16 October 2024 were vacated.  The continuation of the case after those dates were vacated is not a breach of any Charter-protected right.
+
+3.         The Conduct of Justice Bondy
+
+[66]         As noted in the chronology above, the Applicant found himself back before Justice Bondy on the 15th and 18th of October.
+
+[67]         Regarding the events of the 15th, the Applicant contends that Her Honour saying the word “Language” while reviewing the information is evidence of the Court covering up an error.  At paragraph 24 of the Applicant’s affidavit, he states:
+
+At this time, on October 15, 2024, Bondy S. recognizes that a major error has occurred and begins the cover up of this error by first correcting the language on record from “Trial Proceedings Cancelled” to “Trial Proceedings Adjourned” thus, breaching her Oath of office under the Courts of Justice Act, committing Fraud upon the Court, and breach of trust by a Public Official.
+
+[68]         Also on the 15th, the Applicant requested a dismissal of the charges.  Justice Bondy denied that request.  This led to an exchange between the Applicant and the Court.  In his affidavit, the Applicant argues that by making that ruling, Her Honour was acting improperly given her previously declared conflict.  He also disputes Justice Bondy attempting to set trial dates over his objection and her use of s. 486.3 counsel to set those dates on the Applicant’s behalf.
+
+[69]         On the 18th, the Applicant returned before Justice Bondy.  He argues that by confirming the dates that had been set by the Crown and Mr. Golish, Her Honour was perpetuating a miscarriage of justice.  This is based on two points: Justice Bondy should not have had any further involvement in the case given her conflict, and the charges had been voided when they were vacated.
+
+[70]         The accusations made by the Applicant against Justice Bondy are of the utmost gravity.  He accuses Her Honour of breaching her oath of office and committing a fraud.  In a sense, this could be framed as a complaint of judicial bias, as the Applicant argues Justice Bondy was acting against him by dismissing his request and continuing to exercise control over his case despite her conflict.  As Justice Farrar of the Nova Scotia Court of Appeal said in R. v. Nevin 2024 NSCA 64 at paragraph 49:
+
+Proving a reasonable apprehension of judicial bias requires clearing a high bar, in large part owing to the strong presumption of judicial impartiality which is a cornerstone of our legal system. The legal principles engaged by reasonable apprehension of bias claims were described by Saunders J.A. in Nova Scotia (Attorney General) v. MacLean:
+
+[39] First, as a matter of law, there is a strong presumption of judicial impartiality, which is not easily displaced. Second, there is a heavy burden of proof upon the person making the allegation to present cogent evidence establishing "serious grounds" sufficient to justify a finding that the decision-maker should be disqualified on account of bias. Third, whether a reasonable apprehension of bias exists is "highly fact-specific". Such an inquiry is one where the context, and the particular circumstances, are of supreme importance. The allegation can only be addressed carefully in light of the entire context. There are no shortcuts. See Wewaykum Indian Band v. Canada, 2003 SCC 45.
+
+[71]         Justice Farrar’s words deal only with a reasonable apprehension of bias, not with actual bias.  That is, even showing the potential for suspected bias is a daunting challenge.  In the present case, the Applicant seeks to show actual bias and misconduct.
+
+[72]         Dealing first with his contention regarding Justice Bondy’s utterance of the word “Language”, I find no support for his argument.  At the time Her Honour said the word, she was reviewing the information before her.  In all criminal proceedings in Canada, defendants have the right to select either of the official languages.  Her Honour was reviewing the history of the case to that point.  Her saying the word, “Language” can only reasonably be interpreted as reviewing the language election the Applicant would have made.  In any event, he has offered no evidence for an alternative interpretation.  There is no support whatsoever for his contention that the word was the start of a cover up where the Court changed the word “cancelled” to “adjourned” regarding the vacated trial dates.  He is free to hold that opinion, but there is no evidence to support it.
+
+[73]         I see no issue with Justice Bondy denying the Applicant’s request for a dismissal of the charges.  Summarily disposing of charges is an extraordinary step seldom taken and seldom left undisturbed on appeal (see: R. v. Sohi [2005[ O.J. No. 1931 (S.C.J.); R. v. Siciliano [2012] O.J. No. 1207 (C.J.)).
+
+[74]         Faced with a situation where criminal charges had not been addressed on the first trial date, Justice Bondy acted appropriately by engaging the Trial Co-ordinator and attempting to set new dates.  When Her Honour learned the first available dates were in April of the following year, she adjourned the matter for three days to allow further dates to be canvassed.  In doing so, Her Honour acted properly.
+
+[75]         This was by no means an appropriate case for the summary dismissal of the charges.  Trial dates had been set.  The trial did not proceed because of an unforeseen conflict.  The Court then began attempting to set new dates and took steps to secure those dates as quickly as possible.
+
+[76]         The Applicant has provided no evidence to support his exceptionally serious accusations.  I find as a fact that throughout, Justice Bondy took appropriate steps to move the Applicant’s matter forward.  There is no breach of any Charter-protected right on the basis of the Court’s conduct.
+
+4.         The Conduct of Crown Counsel Jayme Lesperance
+
+[77]         The Applicant further takes issue with the conduct of Crown counsel Jayme Lesperance on that day.  He accuses counsel of extortion by making any release from custody contingent on a guilty plea.  His continued detention also amounts, he says, to kidnapping and forcible confinement.
+
+[78]         Mr. Lesperance’s participation on 15 October got off to a rocky start when he called the Applicant’s submissions “wholly untrue”.  He was referring to the Applicant stating that he thought his trial was going to begin that day.  (In fairness, it is not clear where the Applicant would have gotten that impression as the transcripts from the prior days are clear that the 15th had been changed only to a speak-to date.  There was no reason to expect a trial to commence that day.)  The Crown may have felt the Applicant’s position was unsupported or unreasonable, but calling it “wholly untrue” likely did nothing to mitigate the tension in court that day.
+
+[79]         From the transcript, it appears that Mr. Lesperance and the Applicant were talking past each other when the subject of the Applicant’s release was brought up.  When the Applicant sought bail at page 26, line 20 of the transcript, Mr. Lesperance responded by addressing resolution.  Later in the transcript it becomes unclear what the Applicant is referring to when he says at page 28, line 9 and onward, “Yeah.  That’s what I’m saying.  If trial dates aren’t going to be pushed in a reasonable time until 2025, that we should be able to…come to an agreement on pleas.”  So perhaps he was discussing resolution.  Or perhaps, bail pending sentence.  It was never clarified by anyone.  In any case, there was nothing extortive in Mr. Lesperance’s words.  The Applicant asked about release and the Crown responded with talk of resolution.  At worst, this was a misunderstanding of each other.  It was not an attempt to force a guilty plea from the Applicant.  I find no misconduct on the part of Mr. Lesperance.
+
+[80]         Another ground of complaint regarding the Crown was Mr. Lesperance being the third Crown counsel to appear on the matter since the initial trial date of 16 September.  At paragraph 19 of his affidavit, the Applicant states:
+
+The appearance of three (3) Crown Agents/Officers since the commencement of Trial September 16, 2024 demonstrates the Crown and his Agents/Officers are working as a team to prosecute and this unfair ganging up on a self-represented Litigant shows prosecutorial misconduct, with intent.
+
+[81]         The Essex County Crown Attorney’s office is staffed by more than two dozen lawyers.  It is one of the busiest offices in the West Region of the province.  It is not surprising at all that different Crowns would be involved in a case, especially a case that is adjourned from its trial dates and needs new dates.  Such matters are typically adjourned to days convenient to either defence counsel or the Court, or, if sent to date-setting court, are put to the day of the week when matters starting with the defendant’s surname initial are heard.  There is nothing nefarious in different Crown lawyers appearing on a file.  Crown staffing of courts is the responsibility and purview of the Crown Attorney and there is no requirement that the same prosecutor follow a case from start to finish across all appearances.  Such a requirement, in fact, would likely lead to additional delay and prevent cases from being heard in a timely manner when date setting is placed at the mercy of a busy prosecutor’s schedule.
+
+[82]         Finally, as it relates to the Applicant’s continued detention, the transcripts reveal that he’d been through multiple bail hearings and reviews.  He clearly disagreed with his detention, but the issue was being addressed according to law.  It was in no way a kidnapping or forcible confinement.
+
+[83]         The Applicant has not established a breach of any Charter-protected right related to Mr. Lesperance’s conduct.
+
+5.         The Conduct of Counsel Ken Golish
+
+[84]         The Applicant contends that Mr. Golish, appointed only under s. 486.3, stepped far beyond the confines of his appointment when he participated in setting trial dates on the Applicant’s behalf.  He accuses Mr. Golish of breaching an oath under the Courts of Justice Act and of committing professional misconduct, fraud, and breach of trust in so doing.
+
+[85]         I begin my analysis of this point by observing that counsel appointed under s. 486.3 often have a difficult job.  They are not the defendant’s counsel.  They are appointed to assist unrepresented defendants in the cross-examination of certain witnesses.  That is the entire scope of their appointment.  In practice, many of the lawyers who take such appointments go beyond the four corners of their role in an effort to further assist.  This additional assistance is often invaluable and appreciated by all parties.
+
+[86]         In the present case, Mr. Golish accepted the appointment.  According to the transcript, he met with the Applicant to prepare for trial.  When it became clear the trial was not going to proceed, he was involved in the canvassing of new dates.  He attended the Trial Co-ordinator’s office for that purpose.  The earliest dates to come out of that discussion were in November 2024, when Mr. Golish was not available.  He said the Applicant would have to secure different counsel as a result.  That was the last time Mr. Golish appeared on the matter.
+
+[87]         The Applicant takes issue with Mr. Golish’s appointment and with his subsequent actions.  He says he was denied any input on who the appointed counsel would be, and that Mr. Golish should not have tried to obtain trial dates without the Applicant present.
+
+[88]         I agree with the Applicant that he should have had input into who would be appointed.  That said, the Applicant seemed content with Mr. Golish as when he appeared in court on 15 October, he had met with him and was, he said, prepared to begin the trial.  Consequently, any error or Charter breach related to Mr. Golish’s selection seems to have had no negative effect on the Applicant.
+
+[89]         In my view, it is all too easy to over-rely on counsel appointed under s. 486.3.  They provide a crucial service to the Court, to the defendant, and to the administration of justice.  The attractiveness of having a lawyer involved in the prosecution of an otherwise unrepresented litigant is often irresistible.  That cannot mean, however, that the appointment process is a rubber stamp, and that appointed counsel is de facto defence counsel  for all purposes.  When, for example, Mr. Lesperance invited appointed counsel to embark on resolution discussions with the Crown, he went well beyond the parameters of the appointment.  It does not appear, however, that any harm was occasioned by this suggestion as no resolution discussions ever took place as a result.
+
+[90]         I am concerned, however, about Mr. Golish attending at the Trial Co-ordinator’s office to canvass dates in the absence of the Applicant.  It must be remembered that the Applicant was representing himself.  He had no retained counsel defending him.  Mr. Golish was there solely to cross-examine certain witnesses.  All date-setting actions taken in the case should have happened in the presence of the Applicant.  There is no evidence the Applicant delegated the setting of dates to Mr. Golish; on the contrary, the Applicant was entirely against that idea.  This is not as serious as a defendant being excluded from a portion of his trial, but it is still important.  It is all the more important when a defendant is in custody and time to trial is of the essence.  The Applicant should have been present when dates were discussed.
+
+[91]         On the evidence before me, there is no support for the argument that Mr. Golish ever acted contrary to his obligations as an officer of the Court.  At no time did he commit professional misconduct, fraud, or breach of trust.  Throughout, I find as a fact that Mr. Golish attempted to assist the Applicant to the best of his ability.  He ought to have insisted the Applicant be present for date-setting with the Trial Co-ordinator.  Failing to do so does not equate to misconduct or fraud.
+
+[92]         I ascribe no ill will or bad faith to any justice system participant on the issue of Mr. Golish’s involvement in this case.  All were acting in accordance with accepted practices.  The issue as I see it is that those practices could benefit from review.
+
+[93]         While I have found some areas of concern regarding counsel’s appointment and subsequent actions, the Applicant has failed to show that those concerns rise to the level of a Charter breach.
+
+6.         The Crown’s Responding Factum
+
+[94]         In his response to the Crown’s factum, the Applicant largely repeats the arguments made in his initial application.  He also addresses certain statements made by the Crown and argues they are further evidence that this prosecution is an abuse of process.
+
+[95]         He points to the Crown alluding to other possible offences arising from the Applicant’s affidavit.  Specifically, paragraph 5 of the Crown’s factum states:
+
+As the Accused is self-represented, the Crown feels obliged to outline two of the sections of the Criminal Code of Canda [sic] for his benefit that he may of [sic] violated, subjecting himself to potential further criminal liability, based on the affidavit Mr. Cobb has filed with the Court and served upon the Crown:
+
+[96]         The Crown then sets out the offences of perjury pursuant to s. 131 and the swearing of a false affidavit pursuant to s. 138.
+
+[97]         In response, in argument, the Applicant alleges the Crown’s conduct amounts to a breach of trust by a public officer, pursuant to s. 122.  As well, as noted above, the Applicant also accused several parties of fraud, breach of trust, kidnapping, and forcible confinement.
+
+[98]         Including accusations of criminality and veiled threats of criminal charges in the pleadings or argument of any party is unhelpful and should be discouraged in the strongest terms.  This goes for all parties, but is especially so in Crown pleadings, where the Crown represents the broader state that actually has the ability to lay such charges.
+
+[99]         The tone in all pleadings from both sides in this case is angry and aggressive.  I am grateful that this approach did not extend to appearances before me.  In court, all parties have been professional and respectful.  I sincerely appreciate that.  It is unfortunate this reserve did not extend to the written materials filed.
+
+[100]     The Applicant has likened the Crown’s words to those employed by Crown counsel in the case of R. v. Babos 2014 SCC 16 (CanLII), [2014] 1 S.C.R. 309.  In that case, the Crown threatened additional charges if the defendant did not plead guilty.  If there was no plea, she said, the defendant would be “hit by a train”.  At paragraph 61, Justice Moldaver called this a “bullying tactic” that “was reprehensible and unworthy of the dignity of her office.”  Justice Moldaver concluded his appraisal of the Crown’s conduct by saying:
+
+In threatening to charge Mr. Piccirilli with more offences if he did not plead guilty, Ms. Tremblay betrayed her role as a Crown. Manifestly it is the type of conduct the court should dissociate itself from.
+
+[101]     While I am troubled by the tone and content of the Crown’s responding factum, it is clearly different from what was said in Babos.  The Crown’s words are in response to what amounts to a 21-page attack by the Applicant on the integrity of the justice system and all participants.  It is not a threat made early in a proceeding to coerce a guilty plea.  It is, at most, an overexuberant defence after the personal professionalism and honour of multiple counsel and judges was assailed repeatedly.
+
+[102]     On that note, I pause to observe that it may have been advisable for a Crown other than Mr. Lesperance to draft the responding factum.  Given his repeated mention in the Applicant’s materials, it was not impossible that he could have become a witness in these proceedings.  Having another, unrelated Crown counsel step in to respond may have been a better course of action.
+
+[103]     The remainder of the Crown’s responding factum is devoted to setting out the law and putting the Applicant to the proof of his case.  Taking the entirety of the Crown’s response into account, I find the Applicant has not established a breach of any Charter-protected right related to it.
+
+Analysis
+
+[104]     In Babos, supra, Justice Moldaver confirmed the two categories of abuse set out in O’Connor: the main category which deals with trial fairness, and the residual category, which deals with the overarching integrity of the judicial process.
+
+[105]     The Applicant does not differentiate between the categories in his submissions.  I do not hold that against him as this area of law is complicated and I would not expect a self-represented litigant to be acquainted with the differences between them.
+
+[106]     His argument is that the multitude of unfair events he has endured must lead to a finding that the entire prosecution is an abuse.  From the time of his initial arrest to the start of the trial, he submits that he’s experienced repeated oppression and disregard for his rights.  Taken as a whole, the entirety of his experience makes out his claim of abuse and entitles him to a stay of proceedings.
+
+[107]     I will first consider abuse through the lens of the Charter.
+
+[108]     The only Charter violation the Applicant has established is related to the appointment of counsel under s. 486.3.  I have found that the manner in which this appointment was made denied him the ability to be heard.
+
+[109]     This breach, like all Charter breaches, is serious.  Its seriousness is attenuated, however, by the fact that had the proper procedure been followed, the application would likely have been granted in any event.  The order was discretionary, but the grounds for it, had they been presented, were strong.  The witness to whom it pertained was the Applicant’s former spouse.  Given the relatively low bar set out in the section – the Crown need only show it “would allow the giving of a full and candid account from the witness of the acts complained of or would otherwise be in the interest of the proper administration of justice” – I am confident that the order would have been made.  This significantly reduces the seriousness of the breach.
+
+[110]     In the end, the Applicant was content with Mr. Golish being involved until he was no longer available for trial.  Ms. Sweet, the counsel who took up the appointment did so with the Applicant’s blessing, and represented him well.
+
+[111]     Regarding the other areas argued by the Applicant, I have not found any to rise to the level of a Charter breach.  I find the one established s. 7 violation is not so grave as to constitute an abuse of process.
+
+[112]     That does not mean, however, that the history of the case is meaningless.  Even if events do not disclose a Charter breach, they could still show an abuse under the residual category.
+
+[113]     The Applicant has pointed to the actions of various justice system participants to support his claim of abuse.  I remind myself that he does not need to show improper conduct or motive on the part of the state to establish an abuse.  If the entire prosecution is shown to be unfair or vexatious to the point that it undermines fundamental notions of justice and the integrity of the judicial process, it may still be abusive even if no malice or intent is shown.
+
+[114]     I have considered all of the evidence called on this application.  I have reviewed the chronology of events, the transcripts, and the many steps this case has taken.  Over nearly two years, the Applicant has been through the bail process multiple times, including reviews in the Superior Court.  He has been through the date-setting process.  He has retained and lost counsel.  He has had counsel appointed, and seen that appointment transferred to other counsel.  He has been given trial dates and seen them adjourned.  He has dealt with numerous Crown counsel and been before several judicial officers.
+
+[115]     To be sure, the progress of his case has not been smooth.  It has been complicated and has gone down many side roads on the way to trial.  After careful deliberation, however, I find that neither the manner in which the Applicant has been prosecuted, nor the manner in which his case has been addressed by the Courts, have been unfair or vexatious to the point that they undermine notions of justice or the judicial process itself.  Has it been perfect?  No.  But perfection is not the standard.  To show an abuse of process, the Applicant must show a level of unfairness (through Charter violations, inherent unfairness, or both) that renders the entire prosecution an affront to the public’s sense of fair play and decency.  It is a very high standard not easily met.  It has not been met in the present case.
+
+[116]     Assessing the Applicant’s areas of complaint individually and cumulatively, I find they do not constitute an abuse of process pursuant to the residual category.
+
+[117]     As I have not found an abuse of process in this case, no stay of proceedings is warranted.
+
+[118]     The application will be dismissed.  We will proceed to sentencing.
+
+Released:  28 April 2025
+
+ 
+
+ 
+
+ 
+
+ 
+
+Signed: Justice S. G. Pratt

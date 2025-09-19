@@ -52,7 +52,7 @@ class PruningAgentNode(AsyncParallelBatchNode):
 QUERY: {user_query}
 
 DOCUMENT: {document_name}
-CONTENT: {full_document[:3000]}{"..." if len(full_document) > 3000 else ""}
+CONTENT: {full_document[:5000]}{"..." if len(full_document) > 5000 else ""}
 
 INSTRUCTIONS:
 1. Carefully analyze if this legal case addresses the issues raised in the query
@@ -173,13 +173,16 @@ LEGAL CASE: {document_name}
 FULL CONTENT: {doc_content}
 
 INSTRUCTIONS:
-1. Identify all sections, paragraphs, and legal principles relevant to the query
+1. Identify all sections, paragraphs, any Important Information, and legal principles relevant to the query
 2. Extract key facts, legal reasoning, and conclusions
 3. Include relevant quotes with specific references
 4. Organize information clearly and concisely
 5. If the case sets precedent or cites other relevant cases, include that information
 
 PROVIDE A STRUCTURED SUMMARY:
+
+**Summary of information relevant to the query:**
+[Summary of All the information from the case relevant to the query]
 
 **Case Overview:**
 [Brief description of the case and its relevance to the query]
@@ -305,6 +308,7 @@ class AggregationAgentNode(Node):
         
         aggregation_prompt = f"""You are a senior legal research assistant providing a comprehensive response based on relevant case law. Your response will be displayed in a web interface that supports markdown formatting.
 
+User asked the following question.
 USER QUERY: {user_query}
 
 RELEVANT LEGAL CASES AND SUMMARIES:
@@ -325,43 +329,51 @@ CRITICAL INSTRUCTIONS:
 
 REQUIRED STRUCTURE (use markdown formatting):
 
-## 📋 Executive Summary
+## SUMMARY
+[GIVE Brief Response to the Query Containing all relevant information for the USER from the given summaries (the whole point of making this summary is that the user has to read less. so first of all provide answer JUST TO ANSWER user's query directly based on the information from Summaries you have).
+This first information should be self sufficient.]
+
+Then you move forward with "DETAILED INFORMATION" section.
+
+## DETAILED INFORMATION
+
+### 📋 Executive Summary
 Provide a comprehensive overview directly answering the user's query, citing key cases with hyperlinks.
 
-## ⚖️ Legal Framework
+### ⚖️ Legal Framework
 
-### Applicable Legal Principles
+#### Applicable Legal Principles
 List and explain key legal principles, citing cases with hyperlinks.
 
-### Statutory Context
+#### Statutory Context
 Note relevant statutes mentioned in the cases.
 
-## 📚 Case Law Analysis
+### 📚 Case Law Analysis
 
-### [Organize by themes - create appropriate headings]
+#### [Organize by themes - create appropriate headings]
 Detailed analysis with case citations using hyperlinks.
 
-## 🔍 Key Findings
+### 🔍 Key Findings
 
-### Established Precedents
+#### Established Precedents
 - Use bullet points with case hyperlinks
 - Clear legal rules from the cases
 
-### Factual Distinctions
+#### Factual Distinctions
 Important differences between cases.
 
-## 💡 Practical Implications
+### 💡 Practical Implications
 How these precedents apply to similar situations.
 
-## 🎯 Conclusion
+### 🎯 Conclusion
 Synthesized legal position based on all cases reviewed.
 
 ## 📖 Cases Referenced
 List all cases with hyperlinks and brief relevance descriptions.
 
 IMPORTANT NOTE: 
-- Use ONLY the case citation format (e.g., "R. v. Smith, 2025 ONCJ 123") - do NOT include URLs or markdown links
-- Do NOT use asterisks (*) around case names - write them as plain text
+- Use ONLY the case citation format (e.g., "R. v. Smith, 2025 ONCJ 123") - do NOT include URLs or markdown links, or ** symbols for emboldening
+- Do NOT use asterisks (*) around case names or anywhere - write them as plain text
 - The frontend will automatically convert case citations to clickable links
 - Do NOT include URLs in parentheses after the case name
 - Do NOT add paragraph references after the case citation
