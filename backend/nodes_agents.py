@@ -1,7 +1,7 @@
 from pocketflow import AsyncParallelBatchNode, Node
-from utils.call_llm import call_llm, call_llm_async
-from utils.progress import get_progress_tracker
-from settings import get_system_config
+from backend.utils.call_llm import call_llm, call_llm_async
+from backend.utils.progress import get_progress_tracker
+from backend.settings import get_system_config
 import asyncio
 import logging
 import os
@@ -104,16 +104,33 @@ class ReadingAgentNode(AsyncParallelBatchNode):
     async def prep_async(self, shared):
         relevant_documents = shared.get("relevant_documents", [])
         user_query = shared.get("user_query", "")
+        retrieved_chunks = shared.get("retrieved_chunks", [])
         
         if not relevant_documents or not user_query:
             logger.error("No relevant documents or query for reading")
             return []
         
+        # Calculate chunk information for each document
+        chunk_info = {}
+        for doc in relevant_documents:
+            # Count total chunks for this document
+            doc_chunks = [chunk for chunk in retrieved_chunks 
+                         if chunk.get('metadata', {}).get('file_name') == doc]
+            total_chunks = len(doc_chunks)
+            
+            # Count relevant chunks (those that were retrieved)
+            relevant_chunks = len(doc_chunks)  # All retrieved chunks are considered relevant
+            
+            chunk_info[doc] = {
+                'total_chunks': total_chunks,
+                'relevant_chunks': relevant_chunks
+            }
+        
         tracker = get_progress_tracker()
         tracker.update_stage("reading", 
                            f"Reading {len(relevant_documents)} documents",
                            "Extracting relevant information")
-        tracker.update_reading_start(relevant_documents)
+        tracker.update_reading_start(relevant_documents, chunk_info)
         
         # We'll read metadata directly from files during exec_async
         return [(doc, user_query) for doc in relevant_documents]
@@ -223,11 +240,6 @@ SUMMARY:"""
         shared["document_summaries"] = document_summaries
         shared["document_metadata"] = document_metadata
         
-        tracker = get_progress_tracker()
-        tracker.update_stage("aggregation", 
-                           "Synthesizing findings",
-                           "Preparing comprehensive response")
-        
         logger.info(f"Reading completed for {len(document_summaries)} documents")
         return "default"
 
@@ -238,16 +250,25 @@ class AggregationAgentNode(Node):
         user_query = shared.get("user_query", "")
         document_summaries = shared.get("document_summaries", {})
         document_metadata = shared.get("document_metadata", {})
+        
+        # Update progress to show aggregation stage is starting
+        tracker = get_progress_tracker()
+        tracker.update_aggregation()
+        
         return (user_query, document_summaries, document_metadata)
     
     def exec(self, prep_data):
         user_query, document_summaries, document_metadata = prep_data
         
         tracker = get_progress_tracker()
-        tracker.update_aggregation()
         
         if not document_summaries:
             return "I apologize, but I could not find any relevant legal cases for your query. Please try rephrasing your question or providing more specific details."
+        
+        # Update progress to show we're building the response
+        tracker.update_stage("aggregation", 
+                           "Synthesizing findings", 
+                           "Building comprehensive legal analysis")
         
         # Build case information with metadata
         case_info_list = []
@@ -279,8 +300,8 @@ class AggregationAgentNode(Node):
             for case in case_info_list
         ])
         
-        # Create list of available citations for the LLM
-        available_citations = "\n".join([f"- {case['citation']} → {case['hyperlink']}" for case in case_info_list])
+        # Create list of available citations for the LLM (without showing URLs)
+        available_citations = "\n".join([f"- {case['citation']} → {case['citation']}" for case in case_info_list])
         
         aggregation_prompt = f"""You are a senior legal research assistant providing a comprehensive response based on relevant case law. Your response will be displayed in a web interface that supports markdown formatting.
 
@@ -294,12 +315,12 @@ AVAILABLE CASE CITATIONS WITH HYPERLINKS:
 
 CRITICAL INSTRUCTIONS:
 1. Provide a thorough synthesis of ALL relevant cases
-2. When citing cases, use EXACTLY the hyperlink format provided above (e.g., [R. v. Smith, 2025 ONCJ 123](https://canlii.ca/link))
-3. Always use the EXACT hyperlink format from the "AVAILABLE CASE CITATIONS" list when mentioning any case
-4. Your response will be rendered as markdown, so hyperlinks will be clickable
+2. When citing cases, use ONLY the case citation format (e.g., "R. v. Smith, 2025 ONCJ 123") - do NOT include URLs
+3. Do NOT use asterisks (*) around case names - write them as plain text
+4. The frontend will automatically make case citations clickable
 5. Structure your response professionally with clear headings using markdown (##, ###)
 6. Use bullet points and formatting to make it easy to read
-7. Include specific paragraph references where available
+7. When referencing specific paragraphs, include them BEFORE the case citation (e.g., "As stated in paragraph 5 of R. v. Smith, 2025 ONCJ 123")
 8. Ground ALL statements in the provided case law
 
 REQUIRED STRUCTURE (use markdown formatting):
@@ -338,11 +359,21 @@ Synthesized legal position based on all cases reviewed.
 ## 📖 Cases Referenced
 List all cases with hyperlinks and brief relevance descriptions.
 
-IMPORTANT NOTE: DON'T MAKE UP LINKS YOURSELF. ONLY ADD THE LINKS THAT ARE PROVIDED IN THE "AVAILABLE CASE CITATIONS" LIST AND THAT TOO ONLY WITH FILE NAMES.
+IMPORTANT NOTE: 
+- Use ONLY the case citation format (e.g., "R. v. Smith, 2025 ONCJ 123") - do NOT include URLs or markdown links
+- Do NOT use asterisks (*) around case names - write them as plain text
+- The frontend will automatically convert case citations to clickable links
+- Do NOT include URLs in parentheses after the case name
+- Do NOT add paragraph references after the case citation
 
 COMPREHENSIVE RESPONSE (in markdown format):"""
 
         try:
+            # Update progress to show we're calling the LLM
+            tracker.update_stage("aggregation", 
+                               "Synthesizing findings", 
+                               "Generating comprehensive legal response")
+            
             response = call_llm(aggregation_prompt)
             
             # Add a footer with quick access links

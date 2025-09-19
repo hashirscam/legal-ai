@@ -13,6 +13,8 @@ class ProgressTracker:
         self.progress_data = {}
         self.start_time = None
         self.stage_start_time = None
+        self.stage_durations = {}  # Track duration of each completed stage
+        self.document_processing_times = {}  # Track processing time for each document
         self.callbacks = []
         self._lock = threading.Lock()
         
@@ -68,23 +70,30 @@ class ProgressTracker:
             activity: Current activity description
         """
         with self._lock:
-            if self.current_stage != "idle":
+            current_time = time.time()
+            
+            if self.current_stage != "idle" and self.stage_start_time:
+                # Calculate and store duration of previous stage
+                previous_stage_duration = current_time - self.stage_start_time
+                self.stage_durations[self.current_stage] = previous_stage_duration
+                
                 # Mark previous stage as completed
                 if self.current_stage not in self.progress_data.get('stages_completed', []):
                     self.progress_data.setdefault('stages_completed', []).append(self.current_stage)
             
             self.current_stage = stage
-            self.stage_start_time = time.time()
+            self.stage_start_time = current_time
             
             self.progress_data.update({
                 'stage': stage,
                 'status': status,
                 'stage_elapsed_time': 0,
-                'current_activity': activity or status
+                'current_activity': activity or status,
+                'stage_durations': self.stage_durations.copy()
             })
             
             if self.start_time:
-                self.progress_data['elapsed_time'] = time.time() - self.start_time
+                self.progress_data['elapsed_time'] = current_time - self.start_time
         
         self._notify_callbacks()
         logger.info(f"Stage updated: {stage} - {status}")
@@ -145,23 +154,35 @@ class ProgressTracker:
         self._notify_callbacks()
         logger.info(f"Pruning progress incremented: {new_completed}/{total}")
     
-    def update_reading_start(self, documents: List[str]):
+    def update_reading_start(self, documents: List[str], chunk_info: Dict[str, Dict] = None):
         """
         Update when reading stage starts
         
         Args:
             documents: List of document names being read
+            chunk_info: Optional dict with chunk information for each document
         """
         with self._lock:
             # Initialize document statuses
             document_statuses = {doc: "pending" for doc in documents}
+            
+            # Initialize chunk information if provided
+            document_chunks = {}
+            document_relevant_chunks = {}
+            if chunk_info:
+                for doc in documents:
+                    doc_chunk_info = chunk_info.get(doc, {})
+                    document_chunks[doc] = doc_chunk_info.get('total_chunks', 0)
+                    document_relevant_chunks[doc] = doc_chunk_info.get('relevant_chunks', 0)
             
             self.progress_data.update({
                 'documents_being_read': documents.copy(),
                 'document_statuses': document_statuses,
                 'total_readings': len(documents),
                 'completed_readings': 0,
-                'current_activity': f'Reading {len(documents)} relevant documents'
+                'current_activity': f'Reading {len(documents)} relevant documents',
+                'document_chunks': document_chunks,
+                'document_relevant_chunks': document_relevant_chunks
             })
             self._update_times()
         
@@ -215,16 +236,31 @@ class ProgressTracker:
             status: Status of the document ("pending", "reading", "completed", "error")
         """
         with self._lock:
+            current_time = time.time()
+            
             if 'document_statuses' not in self.progress_data:
                 self.progress_data['document_statuses'] = {}
             
+            # Track document processing start time
+            if status == "reading" and document_name not in self.document_processing_times:
+                self.document_processing_times[document_name] = {'start_time': current_time, 'duration': 0}
+            
+            # Calculate processing duration when completed
+            if status in ["completed", "error"] and document_name in self.document_processing_times:
+                start_time = self.document_processing_times[document_name]['start_time']
+                duration = current_time - start_time
+                self.document_processing_times[document_name]['duration'] = duration
+                self.document_processing_times[document_name]['end_time'] = current_time
+            
             self.progress_data['document_statuses'][document_name] = status
+            self.progress_data['document_processing_times'] = self.document_processing_times.copy()
             
             # Update activity message based on status
             if status == "reading":
                 self.progress_data['current_activity'] = f'Reading {document_name}'
             elif status == "completed":
-                self.progress_data['current_activity'] = f'Completed {document_name}'
+                duration = self.document_processing_times.get(document_name, {}).get('duration', 0)
+                self.progress_data['current_activity'] = f'Completed {document_name} ({duration:.1f}s)'
             elif status == "error":
                 self.progress_data['current_activity'] = f'Error reading {document_name}'
             
@@ -253,6 +289,13 @@ class ProgressTracker:
             final_message: Final status message
         """
         with self._lock:
+            current_time = time.time()
+            
+            # Finalize current stage duration
+            if self.current_stage != "idle" and self.stage_start_time:
+                final_stage_duration = current_time - self.stage_start_time
+                self.stage_durations[self.current_stage] = final_stage_duration
+            
             self.current_stage = "completed" if success else "failed"
             status = final_message or ("Research completed successfully" if success else "Research failed")
             
@@ -261,7 +304,9 @@ class ProgressTracker:
                 'status': status,
                 'current_activity': status,
                 'completed': True,
-                'success': success
+                'success': success,
+                'stage_durations': self.stage_durations.copy(),
+                'document_processing_times': self.document_processing_times.copy()
             })
             self._update_times()
         
@@ -294,6 +339,33 @@ class ProgressTracker:
         with self._lock:
             self._update_times()
             return self.progress_data.copy()
+    
+    def get_stage_duration(self, stage: str) -> float:
+        """
+        Get the duration of a specific stage
+        
+        Args:
+            stage: Name of the stage
+            
+        Returns:
+            Duration in seconds, or 0 if stage not found
+        """
+        with self._lock:
+            return self.stage_durations.get(stage, 0.0)
+    
+    def get_document_processing_time(self, document_name: str) -> float:
+        """
+        Get the processing time of a specific document
+        
+        Args:
+            document_name: Name of the document
+            
+        Returns:
+            Processing time in seconds, or 0 if document not found
+        """
+        with self._lock:
+            doc_timing = self.document_processing_times.get(document_name, {})
+            return doc_timing.get('duration', 0.0)
 
 # Global progress tracker instance
 _progress_tracker = None
@@ -327,9 +399,9 @@ def update_progress_pruning(completed: int, total: int):
     """Update pruning progress"""
     get_progress_tracker().update_pruning(completed, total)
 
-def update_progress_reading_start(documents: List[str]):
+def update_progress_reading_start(documents: List[str], chunk_info: Dict[str, Dict] = None):
     """Update reading start"""
-    get_progress_tracker().update_reading_start(documents)
+    get_progress_tracker().update_reading_start(documents, chunk_info)
 
 def update_progress_reading(document_name: str, completed_count: int):
     """Update reading progress"""
@@ -376,8 +448,8 @@ if __name__ == "__main__":
         tracker.update_reading_progress(doc, i + 1)
         time.sleep(0.5)
     
+    # Test aggregation stage (removed duplicate call)
     tracker.update_stage("aggregation", "Finalizing response")
-    tracker.update_aggregation()
     time.sleep(1)
     
     tracker.complete_session(True, "Research completed successfully")

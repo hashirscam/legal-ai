@@ -61,8 +61,8 @@ class SystemConfig:
     """General system configuration"""
     
     # Directories
-    DOCUMENTS_DIR = "assets/decisions"
-    CHROMA_DB_PATH = "./chroma_db"
+    DOCUMENTS_DIR = "backend/assets/decisions"
+    CHROMA_DB_PATH = "backend/chroma_db"
     
     # Logging
     LOG_LEVEL = "INFO"
@@ -100,7 +100,6 @@ if __name__ == "__main__":
     print(f"Chunk Size: {config.CHUNK_SIZE}")
     print(f"Overlap Size: {config.OVERLAP_SIZE}")
     print(f"Strategy: {config.STRATEGY.value}")
-    print(f"Paragraph Split Threshold: {config.PARAGRAPH_SPLIT_THRESHOLD}")
     print(f"Split on Sentences: {config.SPLIT_ON_SENTENCES}")
     print(f"Preserve Paragraph Numbers: {config.PRESERVE_PARAGRAPH_NUMBERS}")
     
