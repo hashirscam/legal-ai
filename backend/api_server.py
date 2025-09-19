@@ -1,7 +1,3 @@
-"""
-FastAPI server to bridge the Legal AI backend with the Next.js frontend
-"""
-
 from fastapi import FastAPI, HTTPException, WebSocket, WebSocketDisconnect, BackgroundTasks
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
@@ -10,14 +6,14 @@ import asyncio
 import json
 import uuid
 import os
-from datetime import datetime
+from datetime import datetime, timedelta
 import logging
 
 # Import our existing backend components
-from flow import create_offline_indexing_flow, create_online_research_flow
-from utils.progress import get_progress_tracker
-from settings import get_system_config, get_vector_db_config
-from utils.vector_db import create_vector_db
+from backend.flow import create_offline_indexing_flow, create_online_research_flow
+from backend.utils.progress import get_progress_tracker
+from backend.settings import get_system_config, get_vector_db_config
+from backend.utils.vector_db import create_vector_db
 
 # Setup logging
 logging.basicConfig(level=logging.INFO)
@@ -37,6 +33,30 @@ app.add_middleware(
 # Global state
 active_sessions: Dict[str, Dict] = {}
 websocket_connections: Dict[str, List[WebSocket]] = {}
+
+def cleanup_old_sessions():
+    """Remove sessions older than 1 hour to prevent memory leaks"""
+    current_time = datetime.now()
+    sessions_to_remove = []
+    
+    for session_id, session_data in active_sessions.items():
+        created_at = session_data.get("created_at", current_time)
+        if current_time - created_at > timedelta(hours=1):
+            sessions_to_remove.append(session_id)
+    
+    for session_id in sessions_to_remove:
+        del active_sessions[session_id]
+        if session_id in websocket_connections:
+            del websocket_connections[session_id]
+        logger.info(f"Cleaned up old session: {session_id}")
+
+@app.on_event("startup")
+async def startup_event():
+    """Clear any stale connections on startup"""
+    global websocket_connections, active_sessions
+    websocket_connections.clear()
+    active_sessions.clear()
+    logger.info("Server started - cleared stale sessions and websocket connections")
 
 # Pydantic Models
 class SystemStatus(BaseModel):
@@ -228,7 +248,7 @@ def extract_citations_from_response(response: str, document_summaries: Dict) -> 
         canli_url = None
         try:
             # Read the file to get the actual CanLII link
-            file_path = f"assets/decisions/{doc_name}"
+            file_path = f"backend/assets/decisions/{doc_name}"
             if os.path.exists(file_path):
                 with open(file_path, 'r', encoding='utf-8') as f:
                     first_lines = f.read(500)  # Read first 500 chars
@@ -284,7 +304,7 @@ async def start_indexing(request: IndexingRequest, background_tasks: BackgroundT
         try:
             # Create shared store for offline processing
             shared = {
-                "documents_directory": "assets/decisions",
+                "documents_directory": "backend/assets/decisions",
                 "processed_files": [],
                 "total_files_processed": 0,
                 "vector_db": None,
@@ -310,7 +330,11 @@ async def start_indexing(request: IndexingRequest, background_tasks: BackgroundT
 @app.post("/api/research/query")
 async def start_research(query: ResearchQuery, background_tasks: BackgroundTasks):
     """Start a research query"""
+    # Clean up old sessions periodically
+    cleanup_old_sessions()
+    
     session_id = str(uuid.uuid4())
+    logger.info(f"Creating research session {session_id} for query: {query.query[:100]}...")
     
     # Store session info
     active_sessions[session_id] = {
@@ -325,6 +349,7 @@ async def start_research(query: ResearchQuery, background_tasks: BackgroundTasks
             progress=0.0
         )
     }
+    logger.info(f"Session {session_id} stored in active_sessions. Total sessions: {len(active_sessions)}")
     
     async def run_research():
         try:
@@ -533,7 +558,7 @@ async def start_research(query: ResearchQuery, background_tasks: BackgroundTasks
             # Note: Completion notification is sent by AggregationAgentNode.post() method
             
         except Exception as e:
-            logger.error(f"Research error: {e}")
+            logger.error(f"Research error for session {session_id}: {e}", exc_info=True)
             error_result = ResearchResult(
                 success=False,
                 query=query.query,
@@ -623,6 +648,15 @@ async def websocket_progress(websocket: WebSocket, session_id: str):
             websocket_connections[session_id].remove(websocket)
             if not websocket_connections[session_id]:
                 del websocket_connections[session_id]
+
+@app.get("/api/debug/sessions")
+async def debug_sessions():
+    """Debug endpoint to check active sessions"""
+    return {
+        "active_sessions": list(active_sessions.keys()),
+        "session_count": len(active_sessions),
+        "websocket_connections": list(websocket_connections.keys())
+    }
 
 @app.get("/")
 async def root():

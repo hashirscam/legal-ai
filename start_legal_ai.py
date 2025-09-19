@@ -12,6 +12,8 @@ import time
 import signal
 from pathlib import Path
 
+FRONTEND_DIR = "frontend"
+
 def check_dependencies():
     """Check if required dependencies are installed"""
     try:
@@ -60,12 +62,16 @@ def check_dependencies():
 
 def check_env_file():
     """Check if .env file exists with required variables"""
-    env_file = Path(".env")
+    env_file = Path("backend/.env")
     if not env_file.exists():
-        print("❌ .env file not found")
-        print("Creating .env file with default settings...")
+        print("❌ .env file not found in backend directory")
+        print("Creating backend/.env file with default settings...")
         
-        with open(".env", "w") as f:
+        # Create backend directory if it doesn't exist
+        backend_dir = Path("backend")
+        backend_dir.mkdir(exist_ok=True)
+        
+        with open(env_file, "w") as f:
             f.write("# Legal AI Research System Environment Variables\n")
             f.write("OPENAI_API_KEY=your-openai-api-key-here\n")
             f.write("\n")
@@ -73,14 +79,14 @@ def check_env_file():
             f.write("# DOCUMENTS_DIR=assets/decisions\n")
             f.write("# CHROMA_DB_PATH=./chroma_db\n")
         
-        print("📝 Created .env file. Please add your OpenAI API key to the .env file")
+        print("📝 Created backend/.env file. Please add your OpenAI API key to the backend/.env file")
         return False
     
     # Check if OpenAI API key is set
-    with open(".env", "r") as f:
+    with open(env_file, "r") as f:
         content = f.read()
         if "your-openai-api-key-here" in content or "OPENAI_API_KEY=" not in content:
-            print("❌ Please set your OPENAI_API_KEY in the .env file")
+            print("❌ Please set your OPENAI_API_KEY in the backend/.env file")
             return False
     
     print("✅ Environment file configured")
@@ -88,9 +94,9 @@ def check_env_file():
 
 def install_frontend_deps():
     """Install frontend dependencies"""
-    frontend_dir = Path("frontend")
+    frontend_dir = Path(FRONTEND_DIR)
     if not frontend_dir.exists():
-        print("❌ Frontend directory 'frontend' not found")
+        print("❌ Frontend directory 'legal-ai' not found")
         return False
     
     package_json = frontend_dir / "package.json"
@@ -114,7 +120,7 @@ def install_frontend_deps():
 
 def create_frontend_env():
     """Create frontend environment file"""
-    frontend_dir = Path("frontend")
+    frontend_dir = Path(FRONTEND_DIR)
     env_file = frontend_dir / ".env.local"
     
     if not env_file.exists():
@@ -127,18 +133,28 @@ def create_frontend_env():
 def start_backend():
     """Start the FastAPI backend"""
     print("🚀 Starting FastAPI backend on http://localhost:8000")
+    # Set PYTHONPATH to include current directory so backend module can be imported
+    env = os.environ.copy()
+    env['PYTHONPATH'] = os.getcwd()
+    
+    # Use the virtual environment's Python interpreter
+    venv_python = os.path.join(os.getcwd(), "legenv", "bin", "python")
+    if not os.path.exists(venv_python):
+        # Fallback to system Python if venv not found
+        venv_python = sys.executable
+    
     return subprocess.Popen([
-        sys.executable, "-m", "uvicorn", 
-        "api_server:app", 
+        venv_python, "-m", "uvicorn", 
+        "backend.api_server:app", 
         "--host", "0.0.0.0", 
         "--port", "8000", 
         "--reload"
-    ])
+    ], env=env)
 
 def start_frontend():
     """Start the Next.js frontend"""
     print("🚀 Starting Next.js frontend on http://localhost:3000")
-    frontend_dir = Path("frontend")
+    frontend_dir = Path(FRONTEND_DIR)
     
     return subprocess.Popen([
         "npm", "run", "dev"
