@@ -1,0 +1,412 @@
+Link: https://canlii.ca/t/kd02c
+Date: June 25, 2025
+File number: Not found
+Citation: R. v. Allen, 2025 ONCJ 350
+Court: Ontario Court Of Justice
+Region: Not found
+Client: Trevor Allen
+Judge: the seizure of a suspect’s breath sample by the administration of an ASD test can be Charter complaint, it must be pursuant to a lawful demand. That demand is only lawful if it is made “immediately” upon the officer developing reasonable grounds to suspect that the suspect has alcohol in their body. Section 320.27; R. v. Breault, 2023 SCC 9; R. v. Woods, 2005 SCC 42.
+
+R. v. Allen, 2025 ONCJ 350 (CanLII), <https://canlii.ca/t/kd02c>, retrieved on 2025-09-18
+
+CITATION:  R. v. Allen, 2025 ONCJ 350
+
+DATE:  June 25, 2025
+
+ONTARIO COURT OF JUSTICE
+
+Toronto
+
+ 
+
+BETWEEN:
+
+ 
+
+ 
+
+ 
+
+HIS MAJESTY THE KING
+
+ 
+
+ 
+
+ 
+
+—   AND  —
+
+ 
+
+ 
+
+ 
+
+TREVOR ALLEN
+
+ 
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+For the Crown
+
+ 
+
+T. Yin
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+For the Defendant
+
+ 
+
+ 
+
+A. Longueville
+
+ 
+
+ 
+
+Heard:
+
+May 1-2, 2025
+
+ 
+
+ 
+
+REASONS for JUDGMENT
+
+ 
+
+RUSSELL SILVERSTEIN, J.:
+
+ 
+
+A.              INTRODUCTION
+
+[1]            Mr. Allen is charged with impaired operation of a conveyance and with having a blood alcohol concentration equal to or exceeding 80 mg in 100 mL of blood within two hours of ceasing to operate a conveyance.
+
+[2]            The charges arise out of an investigation into Mr. Allen that began with an ambulance attending near St. Clair Avenue and Avenue Road in Toronto, Ontario on October 6, 2022. Someone had called 911 to report that a man (who turned out to be Mr. Allen) was unresponsive behind the wheel of a parked car. Police also attended. As a result of the police investigation Mr. Allen was arrested and, once back at the station, he eventually provided two samples of his breath, both times registering 270 mg of alcohol in 100 mL of blood, according to the certificate of analysis.
+
+[3]            Ms. Longueville, on behalf of Mr. Allen, has brought a Charter application alleging that:
+
+(1)  The arresting officer, P.C. Snider, did not promptly inform Mr. Allen of the reason for his detention, thus violating his section 10(a) Charter rights.
+
+ 
+
+(2)  P.C. Snider failed to promptly inform Mr. Allen of his right to consult counsel and failed to promptly implement that right, in breach of s. 10(b) of the Charter.
+
+ 
+
+(3)  The seizure of Mr. Allen’s breath samples at the roadside constituted a s.8 Charter breach because the demand for that sample was unlawful, not having been made immediately upon P.C. Snider developing the requisite reasonable suspicion.
+
+ 
+
+(4)  As a result of the s.8 breach at the roadside, P.C. Snider lacked reasonable grounds to make a demand that Mr. Allen provide breath samples into an approved instrument at the police station, rendering that seizure a further s. 8 breach.
+
+ 
+
+(5)  The seizure of Mr. Allen’s breath samples at the police station was not done as soon as practicable.
+
+ 
+
+[4]            Ms. Longueville further argues that the numerous Charter violations support the exclusion of the breath sample readings pursuant to s. 24(2) of the Charter.
+
+[5]            Mr. Yin argues that Mr. Allen’s Charter rights were not violated, but if they were, the violations do not support the exclusion of the breath sample readings.
+
+B.               THE EVIDENCE
+
+(a)              Introduction
+
+[6]            The trial proceeded in a blended fashion. The evidence relevant to the Charter and trial issues consists of police video and audio of their interaction with Mr. Allen, the testimony of Sheng Ze Xu, who was the  EMT who dealt with Mr. Allen, and the testimony of P.C. Snider, the arresting officer. Mr. Allen did not testify nor call any evidence on the Charter application or the trial proper.
+
+(b)              Mr. Xu’s testimony
+
+[7]            Mr. Xu responded to a 911 call made by a passer by. When he arrived on scene Mr. Allen was speaking to firefighters from the driver’s seat of a motor vehicle that was parked up against the curb.
+
+[8]            Mr. Xu escorted Mr. Allen to the back of his ambulance to be medically assessed. Mr. Allen appeared responsive and alert, although his heart rate was elevated, and he seemed to be somewhat anxious.
+
+[9]            Mr. Xu did not note that Mr. Allen had any trouble walking nor any speech or gait issues although Mr. Xu was not looking for signs of alcohol consumption.
+
+[10]         Mr. Allen was confused as to where he was, believing he was on Danforth Avenue. He told Mr. Xu he had been parked in his car drinking vodka.
+
+(c)               The salient details of Mr. Allen’s interaction with police
+
+[11]         Most, but not all, of Mr. Allen’s interactions with police are clearly captured on video or audio, making fact finding relatively straight forward.
+
+[12]         P.C. Snider drove to the scene in response to a radio call to the effect that there was a man passed out and unresponsive in the driver’s seat of a car at St. Clair Avenue and Avenue Road. As P.C. Snider arrived on scene at 20:51 he saw Mr. Allen being assisted into the back of an ambulance by Mr. Xu.
+
+[13]         Shortly after 20:52 P.C. Snider entered the back of the ambulance as Mr. Xu was in the midst of his medical evaluation. P.C. Snider listened as Mr. Allen told Mr. Xu that he had received a call from his lawyer, then left work and went to the liquor store. P.C. Snider then asked Mr. Allen if he’d had anything to drink. Mr. Allen said yes and told P.C. Snider that he had consumed a mickey. He also said that he had pulled his car over to drink.
+
+[14]         P.C. Snider left the ambulance at 20:53:23 without saying anything to Mr. Allen. Immediately upon exiting the ambulance, P.C. Snider told another officer on scene that they would need an approved screening device (ASD), which he did not have with him.
+
+[15]         P.C. Snider then walked a few meters to Mr. Allen’s car and looked inside with the help of a flashlight. He saw opened and unopened liquor bottles in the car.
+
+[16]         At 20:54:09 P.C. Snider radioed for an ASD to be delivered to him. Mr. Allen was still in the ambulance.
+
+[17]         At 21:08, just after the arrival of the ASD, P.C. Snider re-entered the ambulance and learned from Mr. Xu that the medical assessment was over. He had a discussion with Mr. Allen who again admitted that he had been drinking but said he did so outside the car and had not been “drinking and driving”. P.C. Snider directed Mr. Allen to come out of the ambulance and, at 21:09:20 asked for his I.D. which Mr. Allen clumsily produced from his wallet.
+
+[18]         At 21:10, when Mr. Allen was standing in front of the police car, P.C. Snider read him a formal demand for a breath sample into the ASD which had by then arrived and had been prepared. Mr. Allen, after a couple of failed attempts, provided a sample and registered a “fail” at 21:13:20. At 21:14 P.C. Snider placed Mr. Allen under arrest and at 21:14:50 informed him of his rights to counsel. Mr. Allen said he understood his rights and when asked if he wished to call a lawyer, he shook his head, indicating that he did not.
+
+[19]         P.C. Snider then read a caution and made a formal demand for a breath sample into an approved instrument. Mr. Allen was then placed in the back of P.C. Snider’s police car. At 21:22 P.C. Snider began the drive to Traffic Services, which he was told was the closest police station with a breath technician.  
+
+[20]         They arrived at Traffic Services at approximately 21:51. At 22:02 Mr. Allen‘s parade before the staff sergeant began. He was again read his right to counsel, and he asked for his phone so that he could call a lawyer. He was told that he would have that opportunity after the booking procedure.
+
+[21]         When again asked at 22:04 if he wanted to speak to a lawyer he said “I will” and was told that he only had to speak to one of the officers and that would be arranged through access to his cell phone. He was again told about the availability of duty counsel and that he would have reasonable access to the phone.
+
+[22]         The booking sergeant asked Mr. Allen a host of questions concerning his health and the amount of alcohol he had consumed. He was subjected to a level two search and his belongings were inventoried. At 22:15 he was taken to investigative room #3. Duty counsel was called immediately.
+
+[23]         P.C. Snider testified that at 22:35 duty counsel returned a call placed to them by the police. Mr. Allen spoke in private to duty counsel. Mr. Allen provided his first breath sample at 22:42.
+
+[24]         Even though P.C. Snider did not tell Mr. Allen that he was detained, he would not have allowed Mr. Allen to leave the scene after first encountering him in the ambulance. He did not read Mr. Allen his rights to counsel while he was in the ambulance because Mr. Allen was still undergoing a medical assessment. P.C. Snider felt that after speaking to Mr. Allen in the ambulance he had reasonable and probable grounds to suspect that Mr. Allen had committed the offence of impaired care and control.
+
+C.               THE ALLEGED SECTION 10(a) VIOLATION
+
+[25]         Regardless of whether Mr. Allen was detained when P.C. Snider first dealt with him in the back of the ambulance (which is discussed more fully below), there is no doubt that Mr. Allen must have appreciated that he was being investigated for a drinking and driving offence by P.C. Snider. This would have been immediately apparent from the questions posed by P.C. Snider in the back of the ambulance. R. v. Evans, 1991 CanLII 98 (SCC), [1991] S.C.J. No. 31 at para. 35; R. v. Gardner, 2018 ONCA 584 at para. 26.
+
+D.              THE ALLEGED SECTION 8 VIOLATIONS
+
+(a)              Introduction
+
+[26]         Ms. Longueville’s s.8 arguments come down to these assertions:
+
+(1)  The seizure of Mr. Allen’s breath samples at the roadside constituted a s.8 Charter breach because the demand for that sample was unlawful, not having been made immediately upon P.C. Snider developing the requisite reasonable suspicion.
+
+ 
+
+(2)  As a result of the s.8 breach at the roadside, the ASD “fail” must not be considered when deciding whether P.C. Snider had reasonable grounds to make a demand that Mr. Allen provide breath samples into an approved instrument at the police station. Without the ASD “fail”, the officer lacked the necessary grounds to make a demand for a breath sample into an approved instrument, rendering that seizure a further s. 8 breach.
+
+ 
+
+(3)  The seizure of Mr. Allen’s breath samples at the police station were not taken as soon as practicable.
+
+ 
+
+[27]         Mr. Yin disagrees with those assertions.
+
+[28]         The parties correctly agree that the warrantless seizure of Mr. Allen’s breath samples will only be Charter compliant if the Crown demonstrates, on a balance of probability, that the search was authorized by law - in this case, s. 320.28 of the Criminal Code. R. v. Collins 1987 CanLII 84 (SCC), [1987] 1 S.C.R. 265; R. v. Guenter, 2016 ONCA 572 at para. 85.
+
+(b)              Did P.C. Snider make a lawful screening device demand?
+
+[29]         Insofar as P.C. Snider relied on the ASD fail for grounds to make his arrest and subsequent demand for a breath sample into an approved instrument it is necessary to determine whether the ASD seizure was Charter compliant.
+
+[30]         Before the seizure of a suspect’s breath sample by the administration of an ASD test can be Charter complaint, it must be pursuant to a lawful demand. That demand is only lawful if it is made “immediately” upon the officer developing reasonable grounds to suspect that the suspect has alcohol in their body. Section 320.27; R. v. Breault, 2023 SCC 9; R. v. Woods, 2005 SCC 42.
+
+[31]         Exceptionally, unusual circumstances may justify giving the word “immediately” a more flexible interpretation than its usual meaning demands. Breault at paras. 7, 53-60. (In Breault the Court was addressing the word “forthwith” as it appeared in the predecessor section, while acknowledging that forthwith and immediately have the same meaning.)
+
+[32]         In my view, the fact that Mr. Allen was being assessed by EMS meant that it was appropriate for P.C. Snider to wait until that assessment was completed before making the ASD demand. Put another way, given this unusual circumstance, P.C. Snider’s delayed demand was nonetheless “immediate”. The demand was lawful, and the seizure of the ASD sample was thus Charter compliant.
+
+(c)               Did P.C. Snider make a lawful demand for a sample into an approved instrument?
+
+[33]         This issue comes down to whether P.C. Snider had reasonable grounds to believe that Mr. Allen had operated his motor vehicle while impaired by alcohol. Given my findings regarding the Charter compliance of the ASD demand, I find that the arrest and subsequent demand for a sample into an approved instrument were also Charter compliant.
+
+(d)              Was the seizure of Mr. Allen’s breath samples at the police station taken as soon as practicable
+
+[34]         The approximate 30-minute delay in getting Mr. Allen to Traffic Services was not prima facie unreasonable and is explained by the fact that that was the closest station with a qualified breath technician.
+
+[35]         The subsequent delays such as waiting at the sally port and waiting for the breathalyzer to be prepared were short. The booking procedure was performed with alacrity. The breath samples were taken as soon as practicable.
+
+[36]         In the result, I find that the seizure of Mr. Allen’s breath samples into an approved instrument at Traffic Services was not in breach of his s. 8 Charter rights.
+
+ 
+
+E.               THE ALLEGED 10(b) VIOLATIONS
+
+(a)              Introduction
+
+[37]         To reiterate, Ms. Longueville alleges that P.C. Snider failed to promptly inform Mr. Allen of his right to consult counsel and failed to promptly implement that right.
+
+ 
+
+(b)              When did Mr. Allen’s detention begin?
+
+[38]         It is now well settled law that the police must inform a detainee of his rights to counsel immediately upon detention, unless to do so poses undue risk to the safety of officers or the public. R. v. Debot, 1989 CanLII 13 (SCC), [1989] 2 S.C.R. 1140 at paras 3 and 42; R. v. Suberu, 2007 ONCA 60 at paras 47-48; R. v. Pino, 2016 ONCA 389.
+
+[39]         It is thus a critical first step to determine when Mr. Allen’s detention began.
+
+[40]         Mr. Allen was not physically restrained in the ambulance. P.C. Snider did not tell Mr. Allen that he was not free to leave. If he was detained, his detention could only have been of a psychological nature.
+
+[41]         Whether Mr. Allen was psychologically detained after his initial encounter with P.C. Snider in the back of the ambulance is principally governed by four Supreme Court judgments: R. v. Lafrance, 2022 SCC 32, R. v. Le, 2019 SCC 34,  R. v. Grant, 2009 SCC 32, and R. v. Suberu, 2009 SCC 33. The law on this issue can be succinctly stated as follows: even absent physical restraint by the state, a detention exists in situations where a reasonable person in the accused's shoes would feel obligated to comply ... and that they are not free to leave". Le, at para. 26. Not every encounter between the state and a citizen effects a detention. Suberu, at para. 3; Le, at para. 27.
+
+[42]         Three factors are to be considered and balanced:
+
+1. The circumstances giving rise to the encounter as they would reasonably be perceived by the individual;
+
+2. The nature of the police conduct; and
+
+3. The particular characteristics or circumstances of the individual where relevant
+
+Lafrance at para. 22; Grant, at para. 44; Le, at para. 31.
+
+[43]         Mr. Allen had just been discovered by emergency personnel passed out behind the wheel of his car, which contained several open liquor bottles. P.C. Snider entered the ambulance and asked him questions concerning his consumption of alcohol.
+
+[44]         There is no doubt that Mr. Allen realized at the time that he was not free to go and that the investigation into his possible criminal liability had only just begun. Moreover, this realization was objectively reasonable.
+
+[45]         Mr. Allen was detained upon P.C. Snider’s first question to him in the back of the ambulance.
+
+(c)               Was Mr. Allen’s right to be informed of his right to counsel upon his detention breached?
+
+[46]         Section 10(b) of the Charter requires police to inform a detainee of his right to counsel “without delay”. The Supreme Court made it clear in Suberu, supra, at para. 42 that “without delay” means immediately.
+
+[47]         While “immediately” does not mean instantaneously, and police are allowed to take certain public safety issues into account, there was nothing preventing P.C. Snider, once he learned that Mr. Allen had been drinking and occupying the driver’s seat of his car, from informing Mr. Allen that he was detained and that he had the right to consult counsel. R. v. Fisk, 2020 ONCJ 88; R. v. Agnihotri, 2019 ONCJ 551; R. v. Bernard, 2018 ONSC 5134.
+
+[48]         P.C. Snider breached Mr. Allen’s right to be informed of his right to counsel upon his detention without delay.
+
+(d)              The alleged failure of the police to facilitate access to counsel without delay.
+
+[49]         The duty to facilitate access to a lawyer arises immediately upon the detainee’s request to speak to counsel. Where the police delay access to counsel the Crown bears the burden of demonstrating that the delay was reasonable in the circumstances. R. v. Taylor, 2014 SCC 50, at para. 24; R. v. Desilva, 2022 ONCA 879.
+
+[50]         In Mr. Allen’s case, when he was read his right to counsel (albeit not immediately), he clearly told P.C. Snider that he did not want to contact counsel. When, later at the station he raised the possibility of wanting counsel, the police made it quite clear to him that he could use his cell phone and a telephone to find the number to his counsel of choice, or he could speak to duty counsel, which he did in fact do very soon after the booking was completed.
+
+[51]         No evidence was led to support the defence argument that Mr. Allen’s desire to speak to counsel was ever thwarted by the police. In so far as it might be concluded that Mr. Allen did ask to speak to counsel while being booked, it was perfectly acceptable for the police to finish the booking before setting up a call to counsel. R. v. Samuels, 2024 ONCA 786 at paras. 36-37.
+
+F.               SECTION 24(2)
+
+[52]         Section 24(2) of the Charter reads as follows:
+
+Where, in proceedings under subsection (1), a court concludes that evidence was obtained in a manner that infringed or denied any rights or freedoms guaranteed by this Charter, the evidence shall be excluded if it is established that, having regard to all the circumstances, the admission of it in the proceedings would bring the administration of justice into disrepute.
+
+ 
+
+[53]         There is no dispute as between the parties that if the alleged breach occurred, the breath results were obtained in a manner that infringed Mr. Allen’s Charter rights. R. v. Tim, 2022 SCC 12 (CanLII), [2022] S.C.J. No. 12
+
+[54]         Whether the admission of the evidence would bring the administration of justice into disrepute is governed by the test first articulated in the Supreme Court’s decision in R. v. Grant, 2009 SCC 32 at para. 71:
+
+[W]hether the admission of evidence obtained in breach of the Charter would            bring the administration of justice into disrepute engages three avenues of inquiry, each rooted in the public interests engaged by s. 24(2), viewed in a long-term, forward-looking and societal perspective. When faced with an             application for exclusion under s. 24(2), a court must assess and balance the effect of admitting the evidence on society’s confidence in the justice system    having regard to: (1) the seriousness of the Charter -infringing state conduct (admission may send the message the justice system condones serious state misconduct), (2) the impact of the breach on the Charter-protected interests of the accused (admission may send the message that individual rights count for little), and (3) society’s interest in the adjudication of the case on its merits. The court’s role on a s. 24(2) application is to balance the assessments under each of these lines of inquiry to determine whether, considering all the circumstances, admission of the evidence would bring the administration of justice into disrepute.
+
+See too R. v. Tim, 2022 SCC 12 (CanLII), [2022] S.C.J. No. 12
+
+(a)              The seriousness of the breach
+
+[55]         I have found one Charter breach.
+
+[56]         A delay in informing a detainee of his right to contact counsel is always somewhat serious, but in this case the seriousness of the breach is mitigated by several factors:
+
+•        P.C. Snider did not purposely set out to trample on Mr. Allen’s Charter rights. His missteps were well intentioned.
+
+•        The delay in advising Mr. Allen of his right to counsel was not particularly long.
+
+•        No attempts were made to elicit evidence from Mr. Allen during the delay.
+
+•        All the officers who dealt with Mr. Allen that night were kind to him. He was treated with dignity and respect. The police arranged a call to Duty Counsel.
+
+•        There was no evidence at trial that the Charter-infringing conduct was systemic.
+
+[57]          I find that the breach lies at the less serious end of the seriousness spectrum. The breach mildly favours exclusion.
+
+(b)              The impact of the breach on Mr Allen’s Charter protected interests
+
+[58]         Mr. Allen did not learn of his right to contact counsel as soon as he should have. Yet, when he was informed of that right after a short, albeit unconstitutional delay, he clearly told P.C. Snider that he did not want to contact counsel. There is no evidence to support the proposition that the impact of the breach of the informational component of P.C. Snider’s s. 10(b) obligations was anything other than trivial. There is nothing to suggest that had he been properly informed when in the back of the ambulance, he would have opted to contact a lawyer.
+
+[59]         This second Grant factor neither favours admission nor exclusion.
+
+(c)               Society’s interest in the adjudication of the case on its merits
+
+[60]         The Supreme Court in Tim, supra at para. 96 said this:
+
+The third line of inquiry considers factors such as the reliability of the impugned evidence and its importance to the Crown's case. It asks "whether the truth-seeking function of the criminal trial process would be better served by admission of the evidence, or by its exclusion" (Grant, at para. 79). Reliable evidence critical to the Crown's case will generally pull toward inclusion (see Grant, at paras. 80-81; Harrison, at paras. 33-34)
+
+[61]         The Supreme Court in Harrison, 2009 SCC 34, at paras. 33 and 34, deals with this factor as follows:
+
+At this stage, the court considers factors such as the reliability of the evidence and its importance to the Crown’s case.
+
+ 
+
+The evidence of the drugs obtained as a consequence of the Charter breaches was highly reliable. It was critical evidence, virtually conclusive of guilt on the offence charged. The evidence cannot be said to operate unfairly having regard to the truth-seeking function of the trial. While the charged offence is serious, this factor must not take on disproportionate significance. As noted in Grant,       while the public has a heightened interest in seeing a determination on the merits where the offence charged is serious, the public also has a vital interest in a justice system that is beyond reproach, particularly where the penal stakes for the accused are high. With that caveat in mind, the third line of inquiry under the s. 24(2) analysis favours the admission of the evidence as to do so would promote the public’s interest in having the case adjudicated on its merits.
+
+ 
+
+[62]         The evidence (the breath samples and readings) is crucial to the Crown’s case and is highly reliable.
+
+[63]         Society has an interest in seeing trials of this nature dealt with on their merits given the terrible toll impaired driving takes every year.
+
+[64]         I find that the third Grant factor favours admission of the evidence.
+
+(d)              Balancing the three Grant factors
+
+[65]         The Supreme Court in Harrison, supra, at para. 36 explains the proper approach to balancing the three Grant factors:
+
+The balancing exercise mandated by s. 24(2) is a qualitative one, not capable of mathematical precision. It is not simply a question of whether the majority of the relevant factors favour exclusion in a particular case. The evidence on each line of inquiry must be weighed in the balance, to determine whether, having regard to all the circumstances, admission of the evidence would bring the administration of justice into disrepute. Dissociation of the justice system from police misconduct does not always trump the truth‑seeking interests of the criminal justice system. Nor is the converse true. In all cases, it is the long-term repute of the administration of justice that must be assessed.
+
+ 
+
+[66]         The breach of Mr. Allen’s s. 10(b) Charter rights was moderately serious and mildly favours exclusion of the evidence. The impact of the breach was minor and neither favours inclusion nor exclusion. The reliability of the evidence, its importance to the Crown’s case, and the public interest in an adjudication of this case on its merits favour admission of the evidence.
+
+[67]         Balancing these factors, I find that the admission of the evidence would not bring the administration of justice into disrepute.
+
+[68]         The breath samples are admitted.
+
+[69]         Mr. Allen is guilty on count #2 on the information.
+
+ 
+
+G.              THE IMPAIRED CHARGE
+
+[70]         Mr. Allen was at the wheel of his car when found by emergency personnel. The car contained liquor bottles, several of them empty. His speech was slow and deliberate. His skin was flushed, and his eyes seemed glossy to P.C. Snider. He told EMS Xu that he thought he was on Danforth Avenue. He struggled to remove his I.D. from his wallet. He told EMS Xu that before the ambulance arrived, he had been parked in his car drinking vodka.
+
+[71]         This evidence convinces me beyond a reasonable doubt that Mr. Allen’s ability to operate a motor vehicle was impaired by alcohol at the material time and that he was in care or control of his car at the time. Per s. 320.11 of the Criminal Code, the word “operate” means “to drive…or have care or control”.
+
+[72]         I find Mr. Allen guilty of impaired operation of a conveyance; Count #1 on the information.
+
+ 
+
+Released on June 25, 2025
+
+ 
+
+                                                                                                                        
+
+ 
+
+Justice Russell Silverstein

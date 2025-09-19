@@ -1,0 +1,189 @@
+Link: https://canlii.ca/t/kcmq2
+Date: June 11, 2025
+File number: Brampton 998 23 31113362
+Citation: R. v. G.C., 2025 ONCJ 322
+Court: Ontario Court Of Justice
+Region: Not found
+Client: G.C.
+Judge: Justice G.P. Renwick
+
+R. v. G.C., 2025 ONCJ 322 (CanLII), <https://canlii.ca/t/kcmq2>, retrieved on 2025-09-18
+
+ONTARIO COURT OF JUSTICE
+
+CITATION:  R. v. G.C., 2025 ONCJ 322
+
+DATE:  June 11, 2025
+
+COURT FILE No.:  Brampton 998 23 31113362
+
+ 
+
+ 
+
+BETWEEN:
+
+ 
+
+HIS MAJESTY THE KING
+
+ 
+
+— AND —
+
+ 
+
+G.C.
+
+ 
+
+ 
+
+ 
+
+Before Justice G.P. Renwick
+
+Application was Heard on 09 and 10 June 2025
+
+Reasons for Judgment were released on 11 June 2025
+
+ 
+
+ 
+
+R. Mullins.............................................................................................. counsel for the Crown
+
+A. Kahlon and S. DiClemente.......................................... counsel for the Defendant G.C.
+
+ 
+
+RULING ON VOLUNTARINESS OF THE DEFENDANT’S STATEMENT TO POLICE
+
+RENWICK J.:
+
+INTRODUCTION
+
+[1]         At the start of his trial, I am being asked to determine if a statement made by the Defendant to the police while he was under arrest at the police station was voluntary.
+
+[2]         The statement was given during the investigation of a motor vehicle collision (“MVC”) that occurred on 22 October 2023. The Defendant was initially detained and arrested for dangerous operation of a conveyance. Subsequently, after several hours in police custody, the Defendant was re-arrested for dangerous operation causing death.
+
+[3]         Once he had been re-arrested, the Defendant was asked by the Officer-in-Charge, Detective Constable (“D.C.”) Aimee Colvin, whether he wished to provide additional information beyond what she required of him as an involved motorist. Though the Defendant declined to speak to the police, he did provide answers to some of the officer’s questions. These utterances are at issue.
+
+GENERAL PRINCIPLES
+[4]         The Supreme Court of Canada has recently reiterated the legal principles that govern the fact-finding process engaged during a trial.[1]
+
+[5]         In order to find a Defendant’s statement to police was voluntarily given, the court must be satisfied that the voluntariness has been proven beyond a reasonable doubt. A reasonable doubt is not an imaginary or frivolous doubt. It must be based upon reason and common sense and it logically derives from the evidence or the lack of evidence adduced during a hearing. While likely or even probable voluntariness is not enough to meet the high threshold, proof of voluntariness to an absolute certainty is inapplicable and unrealistic.
+
+[6]         The Supreme Court of Canada has cautioned that there is no mathematical precision to proof beyond a reasonable doubt, but it lies much closer to absolute certainty than to proof on a balance of probabilities.[2] If after considering all of the admissible evidence, I am sure that the Defendant spoke voluntarily to the police, then I may find that the statement is admissible. Conversely, if I am unsure, or if a reasonable doubt remains on the issue of voluntariness arising from the evidence or the lack of evidence adduced during the voir dire, I cannot find that the statement is voluntarily made and it will become inadmissible in the trial for all purposes.
+
+[7]         Triers of fact must consider both credibility and reliability in determining the facts in a given hearing. Credibility is shorthand for truthfulness and believability. Reliability is the lens through which one evaluates the accuracy of evidence. Trial judges must be careful not to conflate credibility with reliability, otherwise the fact-finding net might entangle even the least reliable piece of evidence.
+
+[8]         In assessing credibility and reliability I have considered the general capacity of the witness to make observations, to remember what was perceived, and the ability to accurately testify and communicate one’s recollections. It is also important to determine whether the witness was trying to tell the truth and whether the witness was sincere, candid, biased, reticent, or evasive. A court may accept some, none, or all of what a witness says while testifying.
+
+[9]         A valuable means of assessing the credibility of any witness is to examine the consistency between what the witness said throughout their testimony. I must also assess what is testified to in the context of all of the evidence adduced on the hearing and not on an isolated basis. This is true for any inconsistencies and whether these are significant or inconsequential to the determination at hand. If an inconsistency is significant, then I must pay careful attention to it when assessing the reliability of the witness' testimony.
+
+[10]      Admissibility and the weight attached to evidence are two distinct considerations. The probative value of evidence is not presumed. In all cases, a trier of fact must determine the appropriate weight to give each piece of evidence and what, if anything, is established or proven and to what degree. I have reminded myself to treat the evidence of all witnesses the same. There is no preference for nor status conferred upon police testimony. 
+
+[11]      Given the credibility issues at play, I must apply the principles articulated by the Supreme Court of Canada in R. v. W.D., 1991 CanLII 93 (SCC), [1991] S.C.J. No. 26:
+
+i.      If I believe evidence that is inconsistent with the Defendant’s voluntariness, I cannot admit the statement;
+
+ 
+
+ii.      Even if I do not entirely believe evidence inconsistent with the Defendant’s voluntariness, if I cannot decide whether that evidence is true, there is a reasonable doubt and the Defendant’s statement has not been proven voluntary;
+
+ 
+
+iii.     Even if I entirely disbelieve evidence that is inconsistent with the Defendant’s voluntariness, the mere rejection of that evidence does not prove voluntariness; and
+
+ 
+
+iv.     Even where I entirely disbelieve evidence that is inconsistent with the Defendant’s voluntariness, the statement should not be found to be voluntarily made unless the evidence that is given credit proves the Defendant’s voluntariness beyond a reasonable doubt.
+
+EVIDENCE
+[12]      The prosecution called police officers Tahmina Said Dawod, Harjot Singh, and Aimee Colvin to testify on the voir dire. The Defendant did not lead any evidence directly.
+
+Constable Tahmina Said Dawod
+[13]      Police Constable (“P.C.”) Said Dawod testified that she attended the scene of the MVC and interacted with the Defendant, who identified himself as the driver of the Lexus involved in the collision. She asked the Defendant what happened, and he stated that he was driving westbound on Queen Street, he guessed that the road was wet, his vehicle spun out, and he could not recall anything else about the collision. Officer Said Dawod did not observe any signs of impairment or confusion on the part of the Defendant.
+
+[14]      During cross-examination, P.C. Said Dawod confirmed that the Defendant volunteered that he was the driver of the Lexus and she testified that she had briefed her supervisors, including Sergeant Ricci and D.C. Colvin, about her interaction with the Defendant. Her testimony established that she was not aware of any threats or inducements made to prompt the Defendant to speak with the police.
+
+Constable Harjot Singh
+[15]      Police Constable Singh testified that he arrested the Defendant for dangerous operation of a conveyance after observing a video from a Tesla vehicle which had captured the collision. Upon the arrest, P.C. Singh read the Defendant his rights to counsel and a caution that anything said could be given in evidence. He testified that the Defendant indicated that he understood his rights. Constable Singh facilitated the Defendant's contact with duty counsel once they arrived at the police station.
+
+[16]      During cross-examination, P.C. Singh confirmed that he did not recall specific details of the Defendant's utterances but he noted that the Defendant understood his rights. The officer did not observe any signs of impairment and neither he, nor others in his presence, made any threats or promises to the Defendant.
+
+Detective Constable Aimee Colvin
+[17]      Officer Colvin testified that she was called to investigate the MVC due to the severity of the injuries and her role in the Major Collision Bureau. She conducted a formal interview with the Defendant at the police station, during which she informed him that the charge had been upgraded because the other motorist had died. The charge for which the Defendant was now under arrest was dangerous operation causing death. Officer Colvin read the Defendant his rights to counsel again and provided a secondary caution. For the third time that day, he then spoke to a lawyer, before the interview continued.
+
+[18]      During cross-examination, D.C. Colvin acknowledged that her notes erroneously referenced a doubt concerning the grounds for the charge. She testified that she had used the wrong word and there was no doubt in her mind that there were reasonable and probable grounds to arrest the Defendant for dangerous operation, but she had meant to convey that she wanted more information before charging the Defendant. She also testified that by the time of the interview she had decided to release the Defendant unconditionally. Officer Colvin confirmed that she did not inform the Defendant and she had no memory or note whether she had informed his counsel of her decision to release him unconditionally prior to the formal part of the interview. She also testified that she did not turn her mind to what effect the news of the fatality may have had upon the Defendant during his interview.
+
+POSITIONS OF THE PARTIES
+
+The Prosecution
+
+[19]      The prosecution argued that the Defendant’s statement was proven voluntary, beyond a reasonable doubt. It was emphasized that the police provided the Defendant with his rights to counsel, that he spoke to counsel no less than three times, and he received a secondary caution from both P.C. Singh and D.C. Colvin. The prosecution contended that there was no evidence to suggest that there were any threats, promises, or inducements made to the Defendant to encourage or induce him to speak to police, and the circumstances under which he spoke were not unusual or oppressive, nor did they have any effect upon his choice to answer some of the investigator’s questions. Moreover, it was argued that D.C. Colvin acted reasonably and with sensitivity toward the Defendant, and his responses to her (some of which resisted answering) were cogent, indicating that he understood his rights and the situation he was in, before making a conscious, voluntary decision to speak to police.
+
+The Defence
+
+[20]      The Defendant argued that the statement was not truly voluntary and several factors were raised which cast doubt upon the voluntariness of the statement. It was highlighted that there was a prolonged delay (from approximately 10:00 a.m. until approximately 4:00 p.m.), while the Defendant remained in police custody, until his interview with D.C. Colvin. It was submitted that this created an oppressive atmosphere that should not easily be discounted.
+
+[21]      Further, it was submitted that D.C. Colvin questioned whether there were reasonable grounds for the arrest, which is supported by her decision to unconditionally release the Defendant after his interview. This factor is significant, it was argued, because the plan to release the Defendant without a charge was never communicated to the Defendant or his counsel, prior to the interview, despite that this decision was made much earlier. Again, this circumstance would have left the Defendant, after several hours in custody, wondering about his legal jeopardy (would he be detained until a bail hearing, for instance), and the logic of declining to speak to police.
+
+[22]      Third, it was argued that the decision to inform the Defendant about the other motorist’s death at the start of the interview, some six hours after this unfortunate circumstance was known, was calculated to induce strong emotions, in order to reduce the Defendant’s will.
+
+[23]      Lastly, the mischaracterization of key pieces of the investigation would also have impacted the Defendant’s perception of the strength of the charge he was facing and the futility of refusing to cooperate with police. This was also coupled with an inducement that his explanation would be given “consideration,” leaving the implication that he may benefit by participating in the request for a statement. The mischaracterization of the investigation, including the Defendant’s utterance at the scene, coupled with the consideration to be given for his cooperation, it was suggested, was coercive, and when combined with other police tactics, would have made it untenable for even the strongest-willed person to maintain confidence and remain steadfast in refusing police questioning.  
+
+FINDINGS
+Constable Tahmina Said Dawod
+[24]      Constable Said Dawod’s testimony was consistent, credible, and reliable. There was no significant challenge to her testimony during cross-examination or submissions. She did not observe any coercion or threats during her interaction with the Defendant.
+
+Constable Harjot Singh
+[25]      Constable Singh’s testimony was also credible. Again, there was no significant challenge to his testimony. This officer apparently followed proper procedures in arresting the Defendant and ensuring that he understood his rights. Similarly, he did not observe any threats or inducements made to the Defendant.
+
+Detective Constable  Aimee Colvin
+[26]      Detective Colvin’s testimony was detailed and somewhat consistent. She appeared conscientious and respectful during her interaction with the Defendant. However, there are concerns with the timing of the news of a fatality and the upgraded charge for which he was re-arrested and the possible impact of this information on his ability to make a voluntary statement.
+
+[27]      I accept that there was no actual plan to keep the Defendant in the dark about his eventual release from custody that day. I believe D.C. Colvin’s testimony that she was not trying to conceal this fact for tactical purposes during the interview. However, the fact remains that the six-hour delay during the Defendant’s detention in custody, the failure to advise him that he was not being charged that day, the Defendant’s increased legal jeopardy upon his re-arrest, and the news of a fatality, all would have had a significant impact upon the Defendant’s decision whether to remain mute or to participate in the police investigation.
+
+[28]      When I consider the totality of the evidence, I find that I am left with a residual, reasonable doubt whether the Defendant truly answered the police questions with the free-will of an operating mind. To be clear, I have a reasonable doubt about the Defendant’s decision to answer the questions he did in light of the following factors:
+
+i.      The Defendant’s age and lack of prior dealings with police;
+
+ii.     The trauma of the significant MVC and the Defendant’s role in that event;
+
+iii.   The length of time that the Defendant was held in police custody prior to his interview and the likely effect this had upon his resolve;
+
+iv.   The impact and timing of the news that the other motorist had died. The Defendant was understandably shaken by this information, which is obvious by his demeanor and his words throughout the interview;
+
+v.     The increased gravity of the charge for which the Defendant was re-arrested, including the timing of the re-arrest; and
+
+vi.   The failure to advise the Defendant at the start of the interview that it was likely that he would be released shortly, pending further investigation.  
+
+[29]      I am not troubled by the suggestions made by D.C. Colvin that it was inevitable that she would find that the Defendant had been speeding. Nor do I find that D.C. Colvin intentionally mischaracterized the Defendant’s words in order to create an impression that it was futile to remain silent. Moreover, while unfortunate, the use of the word “consideration” did not necessarily imply that there was to be a quid pro quo that would benefit him if the Defendant chose to provide his understanding of the collision to D.C. Colvin. To the contrary, this officer was sensitive to the physical needs of the Defendant, his right to know his full legal jeopardy, and the necessity that he consult his lawyer again.
+
+CONCLUSION
+[30]      In the end, there is evidence which casts doubt upon the voluntariness of the Defendant’s statement to police. The Defendant advised the officer that he should not say much. This undermines the suggestion that he understood that he did not have to say anything to assist the police. On the contrary, the Defendant continued and eventually made several potentially damning admissions. Again, this seems inconsistent with his stated intention to decline answering incriminating questions. There is enough in the circumstances of the taking of his statement that raises a reasonable doubt about the Defendant’s ability (at that time) to freely decide whether or not to speak to the police.
+
+[31]      For these reasons, I do not find that it is proven beyond a reasonable doubt that G.C. spoke voluntarily with the police on 22 October 2023.
+
+[32]      The Application fails and the Defendant’s statement is inadmissible at trial.
+
+ 
+
+Released:  11 June 2025
+
+ 
+
+ 
+
+ 
+
+ 
+
+Justice G. Paul Renwick
+
+
+[1] R. v. Kruk, 2024 SCC 7 at paras. 59-62.
+
+[2] R. v. Starr, 2000 SCC 40 (CanLII), [2000] S.C.J. No. 40 at para. 242.

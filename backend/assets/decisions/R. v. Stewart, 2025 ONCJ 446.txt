@@ -1,0 +1,212 @@
+Link: https://canlii.ca/t/kf4mj
+Date: 2025 08 28
+File number: Toronto 4811 998 23 10002160
+Citation: R. v. Stewart, 2025 ONCJ 446
+Court: Ontario Court Of Justice
+Region: Not found
+Client: Holly Stewart
+Judge: Justice Paul F. Monahan
+
+R. v. Stewart, 2025 ONCJ 446 (CanLII), <https://canlii.ca/t/kf4mj>, retrieved on 2025-09-17
+
+ONTARIO COURT OF JUSTICE
+
+CITATION:  R. v. Stewart, 2025 ONCJ 446
+
+DATE:  2025 08 28
+
+COURT FILE No.:  Toronto 4811 998 23 10002160
+
+ 
+
+ 
+
+BETWEEN:
+
+ 
+
+HIS MAJESTY THE KING
+
+ 
+
+— AND —
+
+ 
+
+HOLLY STEWART
+
+ 
+
+ 
+
+Before Justice Paul F. Monahan
+
+Heard on July 7 and 8, 2025
+
+Reasons for Judgment on a Directed Verdict Application and a Charter Application Released on August 28, 2025
+
+ 
+
+ 
+
+Ms. Maya Sengupta Murray............................................................ Counsel for the Crown
+
+Mr. Adam Little............................................................................ Counsel for the defendant
+
+ 
+
+MONAHAN J.:
+
+Introduction
+
+[1]         The defendant Ms. Holly Stewart is charged with refusing to comply with a breath demand made by a peace officer under section 320.27 or 320.28 of the Criminal Code contrary to section 320.15 (1) of the Criminal Code. The alleged offence date is February 1, 2023.
+
+[2]         The trial was held before me on July 7 and 8, 2025. The defence brought a Charter application alleging Charter violations under section 7, 8, 9, 10(a) and 10(b). The trial and the Charter application were held on a blended basis on consent.
+
+[3]         The Crown called two witnesses: Ontario Provincial Police (“OPP”) Officer John Vallinga and OPP Officer Brittni Lewis. The defence called Ms. Stewart on the Charter application.
+
+Timing of Submissions and Rulings
+
+[4]         At the end of the Crown’s case, the defence brought an application for a directed verdict. I deferred my ruling on the directed verdict. The defence proceeded to call Ms. Stewart on the Charter application and reserving the right to call her on the trial proper if the defence was unsuccessful on the directed verdict application and the Charter application.
+
+[5]         Some of the Charter issues raised by the defence relate to issues at the roadside and other Charter issues relate to right to counsel issues at the police station. On July 8, 2025, the defence and the Crown argued the directed verdict application and the section 10(b) Charter application as concerns the issues arising at the police station namely the lack of access by Ms. Stewart to her cell phone and/or the internet for the purposes of obtaining counsel of choice.
+
+[6]         I indicated that I would endeavour to provide my decision on August 28, 2025 related to the directed verdict application and, if necessary, my decision on the section 10 (b) issues relating to the issues at the police station namely the cell phone and internet access issues. It was understood that if the defence was unsuccessful on the directed verdict application and the section 10(b) cell phone/internet police station issues, the Court would then hear arguments on the Charter issues arising at the roadside.
+
+Ruling on the Directed Verdict application
+
+[7]         These are my reasons on the directed verdict application.
+
+[8]         As concerns the directed verdict application, the defence submitted that there was no evidence that there was a breath technician available or an approved instrument ready to go and that no steps were taken to bring Ms. Stewart before any breath technician to provide a breath sample in response to the approved instrument demand. The defence relied, by analogy, upon the Supreme Court of Canada’s decision in R. v. Breault 2023 SCC 9. In Breault, the Supreme Court indicated that as concerns an approved screening device (“ASD”) demand, if the police make an ASD demand they must be in a position to receive the sample right away and therefore need an ASD must be on hand. The defence submitted that the same must be true with respect to an approved instrument demand.
+
+[9]         The test on a directed verdict application is whether or not there is some evidence upon which a reasonably instructed jury could convict beyond reasonable doubt. In my view, the directed verdict must be dismissed. Officer Vallinga called for a Breath technician from the roadside and there were multiple references to the breathroom at the station. Ms. Stewart was asked to provide a sample more than once and she clearly said she would not do so without speaking to counsel.
+
+[10]      The law is clear that there is no requirement that the approved instrument be warmed up and tested as operational. Further, where there is an outright refusal the Crown does not even need to demonstrate that the device in question was an approved screening device or that it was immediately available to the police: see R. v. Danychuk (2004) 2004 CanLII 12975 (ON CA), 183 C.C.C. (3d) 337 (Ont. C.A.) at paras 19-20. Breault has not changed this law for approved instrument demands. Even if it has, in my view there is some evidence from which it can be inferred that an approved instrument was on-site in the breathroom and if Ms. Stewart had been willing, a breath sample could have been received into it in a timely manner.
+
+[11]      The directed verdict standard is met by the Crown and, as a result, the directed verdict application is dismissed.
+
+Overview of the Facts
+
+[12]      I am not going to summarize all of the evidence. I will give a brief overview and I will expand upon aspects of the evidence in my discussion and consideration of the issues below. In some cases in this section I will make findings of disputed facts.
+
+[13]      On February 1, 2023, at 9:39 PM the OPP were dispatched to a disabled vehicle on Highway 404 near Steeles Avenue. The call was later revised from a disabled vehicle to a single motor vehicle accident. A vehicle, driven by the defendant Ms. Stewart, had ended up in the ditch. There was conflicting information as to how the accident had occurred.
+
+[14]      Officer Vallinga arrived on scene at 10:19 PM. Ms. Stewart was being attended to by paramedics. Officer Vallinga spoke to Ms. Stewart but it was not until 10:35 PM that he detected alcohol on her breath which resulted in an approved screening device demand and a failure.
+
+[15]      Ms. Stewart was placed under arrest at about 10:42 PM and read her rights to counsel. She initially indicated that she did not wish to speak to a lawyer at that time. Ms. Stewart was transported to the Toronto OPP detachment at 2682 Keele Street in Toronto. When she arrived at the police station, Ms. Stewart indicated that she had not been provided her right to counsel but my view is that she is mistaken and she was read her right to counsel at the roadside. At 11:06 PM she was read rights to counsel again this time at the police station and this time she requested to speak to counsel Catherine Shoniker and she provided a phone number for Ms. Shoniker. The police confirmed this phone number using a Google search on the internet. The police determined that Ms. Shoniker’s legal office was permanently closed and Ms. Stewart was so advised.
+
+[16]      After learning that Ms. Shoniker’s office was permanently closed Ms. Stewart made  at least two clear requests to have access to her phone in order to assist her in finding a lawyer on the internet. On my view of the facts, the police understood that Ms. Stewart wanted her phone to access the internet or to otherwise be given access to the internet in order to find a lawyer. The police were not prepared to give her access to the internet, whether on her phone or not, and whether supervised or not. I also infer that Ms. Stewart would have been fully satisfied with supervised access to the internet in any form. It did not have to be on her phone.
+
+[17]      By and large the interactions with Ms. Stewart and the police were not recorded. However, one part of the conversation was recorded on one occasion when the breathroom recording system picked up the discussion in the cells which was as follows:
+
+Ms. Stewart: “give me my cell phone, let me get my own legal advice and I’ll figure it out from there.
+
+Officer Lewis: that is not how it works.
+
+Ms. Stewart: okay, so you guys have all the cards. I wanted my lawyer. You telling me that my lawyer is no good, so what are my options?
+
+Officer Lewis: (muffled)
+
+Ms. Stewart: I am not doing duty counsel.
+
+Officer Lewis: okay, that’s fine, do you want, like is there another lawyer that you know of, or somebody…
+
+Ms. Stewart: give me my cell phone and I’ll find one at 11 o’clock at night (next word sounds like “or” but it is muffled) it’s not going to happen until tomorrow morning.”
+
+[18]      The police asked Ms. Stewart repeatedly if she had the names of any other lawyers and she did not. Ms. Stewart testified on the Charter application that she had never been charged with a criminal offence in the past and did not know any criminal lawyers other than Ms. Shoniker who had assisted her ex-husband in the past.
+
+[19]      As I will explain below, the police offered her an outdated lawyers directory which she declined to use on the basis that she assumed it would have nothing more than names and phone numbers but no lawyer biographical information. The actual content of the lawyers’ directory was never established before me beyond an indication that it contained the names and phone numbers of many lawyers. There is no evidence that it contained any biographical information concerning the lawyers in the book.
+
+[20]      Throughout her dealings with police, Ms. Stewart made it clear that she did not wish to consult duty counsel. She wanted private counsel and she wanted to use the internet to find one. She wanted to use the Google search engine to find information about lawyers having experience in drinking and driving cases. She also wanted to see biographical information outlining the experience of the lawyers and reviews by other members of the public who had used the lawyers identified on the Google search.
+
+[21]      Officer Vallinga suggested in cross-examination that he would have been prepared to conduct internet searches for “top DUI lawyers” for example but this would only be if the detained person asked for it. It was never suggested to Ms. Stewart when she was in police custody that the police could do Google searches on her behalf to try to find a top impaired driving lawyer. Moreover, on my view of the facts, it could not be practically done by having the officer conduct a search and then relay the content of the search back to Ms. Stewart and then have her digest the content and direct further searches and view further links. In any event, on my view of the facts the police including Officer Vallinga were not about to do this. I note that Officer Vallinga had never assisted a detained person in this way in the past and I’m certain that he was not prepared to do so with Ms. Stewart, whether she asked for it or not. It is clear to me that Ms. Stewart was given only three options:(i) give police the name of a lawyer and they would look up their contact information and help try to reach that person; (ii) look at a lawyers’ book containing thousands of lawyers’ phone numbers and tell police who she would like to call and the police would facilitate that call; or (iii) speak to duty counsel.
+
+[22]      Officer Lewis did say that she and Ms. Stewart could have “formulated a plan” to allow Ms. Stewart to conduct Google searches on her phone while being supervised by Officer Lewis. While I don’t question Officer Lewis’ honesty, I don’t believe she was prepared to supervise access by Ms. Stewart to the internet. Her statement above to the effect that “that is not how it works” indicates otherwise. Officer Lewis never offered to give Ms. Stewart supervised access to the internet.
+
+[23]      As indicated above, I find as a fact that on at least two occasions Ms. Stewart asked for access to her phone to use the internet to try to find a lawyer. Further, on my view of the facts, both Officer Vallinga  and Officer Lewis knew that Ms. Stewart wanted access to her phone for this purpose. Officer Vallinga testified that he never gave access to anyone’s cell phone not because this was his training but because some other officer had told him on some previous occasion that the police were not allowed to do that. As indicated above, Officer Lewis testified that she would have facilitated allowing Ms. Stewart to use her cell phone to search the internet if she and Ms. Stewart had “formulated a plan” and the use of the phone was supervised. As I have already said above, while I do not question Officer Lewis’ honesty I don’t believe she was actually prepared to give Ms. Stewart supervised access to her phone and she never offered to do so. I do accept Officer Lewis’s testimony that looking back on it now she realizes that it was a “mistake” for her not to have offered Ms. Stewart supervised access to the internet via Ms. Stewart’s phone or otherwise. 
+
+[24]      Ultimately, Ms. Stewart was never given access to her cell phone or other internet access and as a result she never spoke to counsel. She was not prepared to provide a breath sample without consulting with counsel and as a result she was charged with a refusal to provide a breath sample contrary to section 320.15(1).
+
+The 10(b) application concerning access to her cell phone or the Internet
+
+ 
+
+(i)           Introduction on this Issue
+
+[25]      As mentioned briefly above, I find that Ms. Stewart at least twice sought access from the police to her cell phone in order to try to find a lawyer on the internet. Ms. Stewart wanted to use Google to do this. As I have already said, while Ms. Stewart requested access to her phone, what she was really asking for was internet access in any manner whether by use of her phone or otherwise. The police understood that she was seeking access to the internet to find a lawyer and they were not prepared to allow such access. Ms. Stewart testified that the day she was released at the station after she was charged with the refusal offence under section 320.15, she went home and performed a Google search for a “24 hour top DUI lawyer”. This led to multiple responses resulting from the Google search engine. It took Ms. Stewart about 20 minutes to review and consider the results of the Google search and for her to determine that she would like to contact Mr. Adam Little and to speak to Mr. Little. As the reported cases disclose, Mr. Little is a well known and well respected lawyer who has a particular expertise in the impaired, over 80 and refusal area of the law. As I say, Ms. Stewart indicated that she was able to speak to Mr. Little within 20 minutes of doing her Google search and I accept her evidence in this regard. He became her lawyer in this case and was her lawyer at trial.
+
+(ii) The Actus Reus for a Refusal
+
+[26]      It is the defence’s submission that where a detained person seeks access to counsel prior to or shortly after “refusing” to provide a breath sample and that access is denied, the actus reus of a refusal is not made out. I agree with the defence on this point and I will explain why.
+
+[27]      In R. v. Mandryk 2012 ONSC 3984 Justice Code held that the actus reus for a refusal must be interpreted in a “flexible and fair manner”. Where an accused seeks access to counsel shortly before or shortly after a “refusal”, the “refusal” is only provisional. It is only after the consultation with counsel occurs or there is waiver with respect to access to counsel, that the provisional refusal becomes final or definitive; see Mandryk at paras 65-68; R. v. Wannamaker 2019 ONSC 6459 at paras 51-52; and R. v. Doobay 2019 ONSC 7272 at paras 58-59.
+
+[28]      Accordingly, in my view, if a detainee makes a request for access to counsel in order to obtain advice as concerns a demand for a breath sample into an approved instrument, and that request for counsel is a reasonable one and public safety is not an issue and the accused person has acted diligently, then if access to counsel is not provided in response to the detainee’s request, the actus reus for a refusal is not made out.
+
+(iii) Positions of the Parties
+
+[29]      In the case at bar, the Crown submits that Ms. Stewart was entitled to resources to help her find counsel but that Ms. Stewart was not entitled to dictate the precise form of those resources. The Crown submits that Ms. Stewart was offered a “lawyers’ book” and that she refused access to that book because she assumed it would just be a book of lawyer’s names and phone numbers with no further information concerning the particular expertise of the lawyers. The Crown submits that the accused was not diligent in refusing access to the lawyers’ book and that she was not entitled to insist on access to her cell phone or to search the internet. The Crown therefore submits that the accused was not duly diligent and that there was no section 10(b) breach thereby making the refusal a final one and requiring a conviction in this case.
+
+[30]      The defence submits that while there may be no obligation to advise an accused person when rights to counsel are first given as to the availability of resources such as a lawyers’ phone book or access to the internet, once a request for access to resources to find counsel is made by the detainee to the police and the request is a reasonable one in the circumstances, the defence submits that the failure to provide access in these circumstances is a breach of section 10(b). In this case, the defence submits that the request by Ms. Stewart to access the internet via her phone or otherwise in order to find a lawyer was entirely reasonable and that the police were obliged to comply with that request for access to the internet via her cell phone or other means. The failure to do so, the defence submits, was a breach of Ms. Stewart’s right to counsel and that the refusal is not made out as the refusal was provisional only, pending access to counsel.
+
+(iv) The Law Regarding Access to the Internet to Obtain Counsel
+
+[31]      The Supreme Court of Canada in R. v. Bartle, [1993] 173 at pages 191-92 held that section 10(b) of the Charter requires that the police, on arrest or detention of a person,
+
+(i)            “inform the detainee of his or her right to retain and instruct counsel without delay and as to the existence and availability of legal aid and duty counsel;
+
+(ii)         if a detainee has indicated a desire to exercise this right, to provide the detainee with a reasonable opportunity to exercise the right (except in urgent and dangerous circumstances); and
+
+(iii)         to refrain from eliciting evidence from the detainee until he or she has had that reasonable opportunity.”
+
+[32]      The first duty set out above is informational and the second and third obligations are implementational duties that are triggered only if the detainee indicates an intention to exercise the right to counsel (see Bartle at page 192).
+
+[33]      When rights to counsel are initially given to a detainee, there is no obligation to advise of the resources available to find counsel: see R. v. Dickson 2021 ONSC 6374 at paras 95-96 (per Durno J.). See also R. v. Zoghaib, [2005] O.J. No. 5947 (per Fragomeni J.) affirmed at [2006] O.J. No. 1023 (C.A.); and R. v. Henry 2019 ONCJ 437 at para 63 (per Silverstein J.).
+
+[34]      However, where a detained person indicates a desire to obtain private counsel, even if they do not have the name of counsel, then there is a duty to tell the detainee of the resources available to contact a lawyer: see Dickson at para 99. I note that Justice Akhtar in R. v. Persaud 2020 ONSC 3413 at para108 stated that “if the detainee does not have a lawyer but requests an opportunity to find one, they should be given the chance and means to do so either through a phone directory or Internet access”.
+
+[35]      In R. v. Edwards 2024 ONCA 135 the Ontario Court of Appeal clarified the law as concerns the obligation on police when the detainee seeks access to private counsel. The Court of Appeal in Edwards rejected the case law which had suggested that the police have an obligation to pursue access to counsel, “as the detainee would personally have done so”. The Court of Appeal held that if this was the proper approach it could lead to a breach of the right to counsel even if the police acted reasonably because they failed to do something the detainee would have done: see Edwards at para 37. The Court of Appeal in Edwards held that the test for police conduct in assisting a detainee to obtain counsel remains one of  “reasonable diligence” and not a determination of what a detainee would have done if it was left up to them (see para 38).
+
+[36]      The Court of Appeal in Edwards stated at para 36 that “[t]he obligation on the police to facilitate contact with counsel and the responsibility on the detainee to take reasonable steps to contact counsel work in tandem.”
+
+[37]      The Court of Appeal in Edwards observed further that the content of the “reasonable diligence” standard applicable to the police is be informed by the particular circumstances including the extent to which police have assumed control of the detainee’s ability to contact counsel. “If the police assume that control, it is reasonable to expect that the police will take a more active role in contacting counsel” (Edwards at para 42).
+
+[38]      Finally, on my review of the law, while the onus of proving a section 10(b) breach is on the accused, where a detainee asserts the right to counsel and acts properly, the onus of establishing a change of mind indicating that the detainee no longer wanted to consult counsel is on the Crown to prove unequivocal waiver: see Wannamaker at para 34.
+
+(v) Application of the Law to the Case at Bar
+
+[39]      Although Ms. Stewart initially said at the roadside that she did not wish to speak to counsel, by the time she reached the police station she clearly indicated that she wished to consult with private counsel. She never waived her right to counsel. She made it clear that she did not wish to speak to duty counsel. She explained in her testimony on the Charter application that she had had a bad experience with duty counsel when she was dealing with a family law matter years earlier. She did not explain this past issue to the police but as I have said she made it plain to the police that she would not be consulting duty counsel. She made it equally clear that she wanted private counsel. As I have indicated above, when she was told her choice of counsel, Catherine Shoniker, was no longer practicing, she requested access to her phone at least twice for the purpose of trying to find a lawyer on the internet. She was simply asking for access to the internet On my view of the evidence, the police knew this was why she wanted her phone.
+
+[40]      There was considerable testimony regarding a “lawyers’ list” and a “lawyers’ book” which were said to be available at the OPP Police detachment on Keele Street in Toronto. Officer Vallinga testified that there was a “lawyers list of criminal lawyers” available at the station and that this was offered to Ms. Stewart. He referred to it as a list of “local lawyers”. On the other hand, Officer Lewis made no such reference to a “lawyers list” being available at the station on Keele Street. She said there was an outdated “lawyers’ directory” with lawyers’ names and phone numbers. Ms. Stewart confirmed that she was offered and declined a “lawyers’ book”. It is apparent to me that Officer Vallinga is mistaken when he said there was a “local list” of criminal lawyers at the police station. It is obvious that when you are dealing with the entire City of Toronto it makes no sense to talk about a list of “local lawyers”. Publicly available information indicates that there are currently approximately 57,000 lawyers in Ontario including at least 25,000 lawyers in Toronto. This would not be much different in 2023 at the time of the alleged offence. Officer Vallinga was unable to tell the Court anything of substance regarding the content of the so-called local list of lawyers available at this Toronto police station. Officer Vallinga is now working in Essex where he said they do have such a list of local lawyers. This makes sense as Essex is an area where there is a smaller number of lawyers dealing with criminal cases. I am satisfied that Officer Vallinga is mistaken when he says there was a local list of criminal lawyers at the OPP Toronto police detachment on Keele Street in Toronto. Officer Lewis is correct namely that there was an outdated “lawyers’ book” at the detachment. The Crown had an opportunity to produce this directory but never did so. It is difficult to know what the precise content of it was. Officer Lewis said the directory was outdated and had names and addresses and phone numbers for lawyers but she could not say if there was biographical information about the lawyers in the directory.
+
+[41]      In my view, Ms. Stewart’s request on at least two occasions for access to her phone in order to use the internet to try to find a lawyer was an entirely reasonable request. After learning that her first counsel of choice was no longer practising law, the police repeatedly asked Ms. Stewart if she had another lawyer who she knew who could advise her and she repeatedly told him that she did not. This makes sense as Ms. Stewart had never been in trouble with the law before. The police repeatedly asking Ms. Stewart who had never needed a criminal lawyer in the past if she knew the name of another criminal lawyer was a meaningless exercise because she made it clear that she knew no one and needed access to the internet to find a lawyer.
+
+[42]      Both Officer Vallinga and Officer Lewis testified that there were no officer or public safety concerns with allowing Ms. Stewart access to her phone to use the internet. Officer Lewis suggested that she did not know Ms. Stewart’s purpose for requesting access to her phone namely to use the internet. As I have already said, I reject his testimony. Officer Lewis is mistaken in this regard. I believe that Officer Lewis did understand that Ms. Stewart was asking for access to the internet via her phone. Officer Lewis also said it was a “mistake” for her not to have given Ms. Stewart her phone for this purpose. While it is for the Court, not the police, to determine the content of the reasonable diligence standard applicable to police, Officer Lewis’s acknowledgement that it was a mistake not to give Ms. Stewart access to the internet by her phone supports my view that the police were not reasonably diligent in this case as concerns the implementation of Ms. Stewart’s right to counsel.
+
+[43]      I am aware of Justice Richetti’s decision in R. v. Wijesuriya 2020 ONSC 253 where he states at para 58, among other things, that a detained person “has no right to use their own phone”. However, he was addressing a different issue namely the argument that is sometimes made that police generally insist that when a traditional telephone call is being placed, it is to be done on the police phone rather than the detained person’s phone. He was observing that this is appropriate. Justice Richetti was not dealing with the situation where a detained person did not have a lawyer and they wished to use the internet in order to find one. In any event, as I’ve already said, Ms. Stewart was asking for access to the internet via her phone or otherwise. She wasn’t insisting that she be able to place a call using her personal phone which was the point that was being addressed by Justice Richetti in Wijesuriya.
+
+[44]      The police had an obligation to implement Ms. Stewart’s desire to exercise her right to counsel. Ms. Stewart wanted to do something which in the modern world makes perfect sense: she wanted to search the internet to find a lawyer. This was an entirely reasonable request in the circumstances. As I have said, there were no officer safety or public safety issues with giving Ms. Stewart access to the internet. The evidence is uncontradicted that after she was charged she was released and she was able to search the internet the next day at her home on her computer and it took all of 20 minutes for her to find and speak to a well respected experienced lawyer familiar with this area of the law. This could have and should have happened at the police station before Ms. Stewart was charged with the refuse charge.
+
+[45]      Ms. Stewart’s desire to consult private counsel couldn’t be satisfied by simply repeatedly asking her if she knew the name of another lawyer or by offering her to look at an outdated lawyers’ phone book. The Crown says that Ms. Stewart did not act with reasonable diligence because she didn’t take the police up on the police offer to look at the outdated phone book. However, the Crown is not even in a position to prove the content of the lawyers’ phonebook beyond saying that it contained the name and contact information of lawyers. In my view, any lawyers’ phonebook, outdated or otherwise, must have had the names and phone numbers of thousands of lawyers in it.  There is no evidence that any such book contained biographical information such that a detainee could realistically use the book to obtain private counsel with the confidence that such private counsel had expertise in this area. If the Crown wanted to have any success with the argument that Ms. Stewart was not diligent because she did not seek to review the lawyers’ directory, the Crown should have established the content of the directory. If it had contained detailed biographical information about the lawyers then perhaps it might have allowed Ms. Stewart to contact a properly qualified lawyer of choice and this might have satisfied the obligation on the police to implement Ms. Stewart’s right to counsel with reasonable diligence. The Crown had ample opportunity to produce the lawyers’ phonebook and were even invited to do so as late as during the course of the trial but they didn’t do so. In my view, they can not now fairly make the argument that if Ms. Stewart had only accessed the lawyers’ directory, she could have retained private counsel and her failure to do so is evidence of a lack of diligence on her part.
+
+[46]      The police had a duty to assist Ms. Stewart in implementing her desire to speak to counsel. The police had taken control of all of Ms. Stewart’s communications with the outside world. Ms. Stewart wanted to use the internet to access counsel and she specifically made this request known to the police on at least two occasions. Ms. Stewart was acting diligently in this regard and the police’s failure to provide her with access to the internet via her phone or otherwise failed to meet the reasonable diligence standard imposed on the police. This does not mean that access to the internet needs to be provided in all cases. It will depend upon what amounts to reasonable diligence for the police in the circumstances of a given case and whether the detained person is acting with reasonable diligence. I note that the police officers themselves who had custody of Ms. Stewart were using the internet to determine that Ms. Stewart’s first choice of counsel was not available. This is not surprising as the internet is the way most people access information in the modern world. In the face of Ms. Stewart’s express request to use the internet in order to exercise her right to counsel, the failure to allow Ms. Stewart to access to the internet on the facts of this case was a breach of her rights to counsel. The police should have let Ms. Stewart have supervised use of the internet on her phone or provided her with other internet access.
+
+Conclusion
+
+[47]      The Crown has failed to prove the actus reus for the refusal offence under section 320.15(1) of the Code. Ms. Stewart’s refusal to provide a breath sample was a provisional refusal only which would only be finalized or definitive after she had had the opportunity to consult counsel. She testified that if she had been able to obtain private counsel and they had advised her to provide a breath sample, she would have done so. I accept her evidence in this regard. Ms. Stewart was only provisionally refusing to provide a breath sample because she wanted legal counsel before deciding how to respond to the breath demand.  She was entitled to legal counsel. She acted with reasonable diligence in exercising her right to counsel and she never waived her right to counsel. The police failed to meet the standard of reasonable diligence applicable to them as concerns their obligation to facilitate Ms. Stewart’s expressed right to access counsel.
+
+[48]      There is no section 24(2) Charter analysis required in this case (see Doobay at para 60). If I am wrong and a section 24(2) analysis is required, I would nevertheless exclude the evidence of the refusal pursuant to section 24(2). In this case, while the police acted in good faith the Charter breach was a serious one as Ms. Stewart was denied her access to counsel which she had repeatedly requested. The police understood and could have easily facilitated Ms. Stewart’s request for access to the internet in order to find counsel and they should have done so. The impact on Ms. Stewart’s Charter rights was significant as she was left without counsel. She was “at sea” not understanding what her legal obligations were. The third Grant factor does favour admission of the evidence. However, balancing all of the factors together the long-term integrity of the justice system will be better served by the exclusion of the evidence of the refusal.
+
+[49]      The Crown has failed to prove the actus reus of the refusal offence. If I am wrong on this point, I rely on my section 24 (2) analysis above to exclude the evidence of the refusal. In the circumstances, there will be a not guilty finding on the refusal charge.
+
+Released: August 28, 2025
+
+ 
+
+ 
+
+ 
+
+ 
+
+Signed: Justice Paul F. Monahan

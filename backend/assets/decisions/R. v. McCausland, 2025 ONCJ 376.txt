@@ -1,0 +1,141 @@
+Link: https://canlii.ca/t/kd6b5
+Date: 2025 09 18
+File number: Not found
+Citation: R. v. McCausland, 2025 ONCJ 376
+Court: Superior Court Of Justice
+Region: Not found
+Client: Nathaniel Mccausland
+Judge: a court concludes that a contract has been established, it must be satisfied that the parties concluded their negotiations and settled the fundamental terms of their bargain” – Electek Power Services Inc. v Greenfield Energy Centre Limited Partnership 2022 ONSC 894 at para 106.
+
+R. v. McCausland, 2025 ONCJ 376 (CanLII), <https://canlii.ca/t/kd6b5>, retrieved on 2025-09-18
+
+ONTARIO  COURT  OF  JUSTICE
+
+CITATION:  R. v. McCausland, 2025 ONCJ 376
+
+DATE:  2025·07·14
+
+OTTAWA
+
+ 
+
+ 
+
+ 
+
+BETWEEN:
+
+ 
+
+HIS  MAJESTY  THE  KING
+
+ 
+
+—  AND  —
+
+ 
+
+NATHANIEL MCCAUSLAND
+
+ 
+
+ABUSE OF PROCESS APPLICATION
+
+Evidence and Submissions Heard: July 3,14, 2025.
+
+Reasons Delivered: July 14, 2025.
+
+Mr. Lorne Goldstein.........................................................   counsel for the Crown/Respondent
+
+Mr. David Anber..............................................................   counsel for the Defendant/Applicant
+
+KENKEL J.:
+Introduction  
+
+[1]               On April 21, 2023, Mr. McCausland crashed into an OC Transpo bus. He is charged with Impaired Operation Causing Bodily Harm, Dangerous Operation Causing Bodily Harm and six Highway Traffic Act offences. The trial is scheduled to commence September 2, 2025.
+
+[2]               Mr. McCausland applies for a stay of proceedings or other remedy under s 24(1) of the Charter for an alleged abuse of process. He submits that the Crown offered a plea agreement to resolve these charges by way of a conditional sentence. The Crown subsequently reneged on that offer in circumstances so tainted by bad faith or improper motive that to allow the Crown to proceed to trial on these charges would tarnish the integrity of the judicial system and thus amount to an abuse of process.
+
+[3]               This application was heard on July 3, 2025. The defence completed their evidence on the application, but there wasn’t time to hear the Crown’s evidence. The Crown applied at that point for dismissal of the application as the defence had failed to show that there was a plea agreement. The Crown agreed that if its application failed, they would be bound by the finding that there was a plea agreement that was reneged upon and would not be permitted to revisit that point when the application continued with their evidence.   
+
+[4]               There are three potential issues for decision. The applicant must show that a plea agreement was offered, entered into by the defendant and subsequently revoked by the Crown. Once that has been established, the evidentiary burden shifts to the Crown to show the circumstances behind that decision. The ultimate burden of proving an abuse of process remains on the applicant – R v Nixon, 2011 SCC 34 at para 63. If the applicant proves there has been an abuse of process, the third step would be to determine the appropriate remedy under s 24(1). The “clearest of cases” test would apply to the request for a stay of proceedings –  R v Nixon at paras 37, 42.
+
+[5]               I agreed with the Crown that as the defence evidence on this application was complete, and the Crown was not seeking to call evidence on this point, it would be logical and efficient to rule on the threshold issue. The further issues arise only if the applicant has proved the existence of an agreement subsequently revoked by the Crown. If an agreement is proved, then the next phase of the hearing would focus entirely on the Crown’s reasons for repudiation and the remedy if those reasons are shown to amount to an abuse of process.
+
+[6]                On the last day, full submissions on the Crown’s motion were heard from both counsel. Mr. McCausland then asked to speak to the matter directly and add further points. He was permitted to do so, and permitted to do so today his comments showed that he followed the application closely.
+
+[7]               After the matter was adjourned for a ruling, I am advised Mr. McCausland discharged his counsel. He is representing himself for any further proceedings in relation to this application.
+
+Abuse of Process  
+
+[8]               Courts have a duty to protect the integrity of the justice system by dissociating themselves from state conduct that constitutes an abuse of the judicial process – R v Brunelle, 2024 SCC 3 at para 1. Abuse of process refers to Crown conduct that is egregious and seriously compromises trial fairness (main category) and/or conduct that affects the integrity of the trial justice system (residual category).
+
+[9]               The decision to resile from a plea agreement falls within the scope of prosecutorial discretion, reviewable only for abuse of process. “In the absence of any prosecutorial misconduct, improper motive or bad faith in the approach, circumstances, or ultimate decision to repudiate, the decision to proceed with the prosecution is the Crown's alone to make. Reasonable counsel may … differ on whether a particular disposition is in the public interest in the circumstances of the case.”  – R v Nixon, 2011 SCC 34 at para 68. The repudiation of plea agreements should nevertheless be a rare occurrence.
+
+The Evidence  
+
+[10]            The applicant’s evidence of a plea agreement is based on the testimony of the defence lawyer acting for Mr. McCausland at that time, Mr. Jason Gilbert. Mr. Gilbert was a credible witness who testified in a detailed and thoughtful manner. I fully accept his testimony.  
+
+[11]            On September 14, 2023, Mr. Gilbert attended bail court in Ottawa and spoke with an Assistant Crown Attorney (hereinafter “the bail Crown”). He advised the Crown that Mr. McCausland was seriously injured in the crash and the bail Crown was sympathetic. Release terms were agreed upon, but Mr. Gilbert testified that the Crown went further and said that he thought the charges could be resolved by way of a conditional sentence. The bail Crown invited Mr. Gilbert to provide information about Mr. McCausland’s medical condition that might support such an approach and that might help the Crown “justify that position” to others in his office.  
+
+[12]            Mr. Gilbert testified that he “didn’t have a great recollection of the bail conversation”. That’s understandable given the context. We don’t really know what was said by either party. There was no email afterwards confirming details of any plea agreement. However, I accept Mr. Gilbert’s evidence that the notion of a possible resolution via a conditional sentence originated solely with the bail Crown. Mr. Gilbert knew nothing of the case and had simply shared what little information he had about his client’s injuries as relevant to bail – whether Mr. McCausland continued to pose a threat to public safety. He had not reviewed the evidence in the case, and he agreed in cross-examination there was no basis to enter into plea negotiations at that time. He said, “It’s not like there was an agreement that Mr. McCausland would plead”.
+
+[13]            It’s necessary to pause here and consider the circumstances in detail because this is the “offer” the applicant now seeks to enforce. The applicant submits that a plea agreement was extended by the Crown in broad terms during this bail discussion. The “offer” of resolution for a conditional sentence was ongoing from this point onward. While the defence could not accept any such “offer” at the bail stage, the applicant submits that subsequent communication with the bail Crown shows both parties were working on the details of the proposed resolution.
+
+[14]            It’s not plain how or why an Assistant Crown Attorney in a busy Ottawa bail court would turn their mind to the ultimate resolution of a serious case at that stage. In considering the applicant’s submission that a plea agreement was initiated, it’s important to review the details. It does not appear that the bail Crown could have conducted an assessment of the public interest so early in the case:
+
+•        The bail Crown knew almost nothing about the file. The central disclosure document in this case contains 5,072 pages. Both the bail Crown and defence were working from a few paragraphs in a synopsis prepared for the bail hearing.
+
+•        The bail Crown did not know the blood alcohol readings, which are a significant aggravating factor in this case and are typically essential to the formulation of any Crown resolution position.
+
+•        Mr. Gilbert provided some information about his client’s injuries, but the bail Crown specifically asked for further detailed information including treatment information.
+
+•        If the bail Crown had only very limited information about the accused’s injuries, they had even less information about the injuries inflicted upon his passenger and the impact of the crash on the persons in the OCTranspo bus that was hit at 176km/hr. The impact of the offences upon the victims is typically considered by the office of the Crown Attorney before the negotiation of a plea agreement.
+
+•        The Criminal Code prohibits a conditional sentence where an accused like Mr. McCausland has been convicted of two previous impaired driving offences. To enter into an agreement to resolve the matter by way of a conditional sentence, the bail Crown would have had to first obtain authorization from the Crown’s office not to file the Notice of Increased Penalty.  No such authorization was ever given in this case.
+
+[15]            Mr. Gilbert recognized that a conditional sentence would be “highly unusual” in these circumstances and an “exceptional” sentence. He kept in touch with the bail Crown in the weeks that followed. He provided further information about Mr. McCausland’s medical conditions and his course of treatment.
+
+[16]            Initially there was communication about a 6-month conditional sentence. Then in further emails the bail Crown indicated that he didn’t think a 6-month conditional sentence would be adequate or would be approved by his office. The bail Crown then considered a 12–18-month conditional sentence. By November Mr. Gilbert had reviewed the file to the point where he emailed the Crown to ask whether they could move this matter towards resolution. The evidence showed Mr. Gilbert was seeking a formal Crown offer to resolve that he could take to his client for instructions.  
+
+[17]            That prompted the bail Crown to send an email overview of the case on November 14, 2023, to a senior Crown Mr. Lem. That process was referred to indirectly in Mr. Gilbert’s evidence. The email was directly referred to by Mr. McCausland in his further personal submissions. The November 14th email set out a proposed plea to 4 charges for a conditional sentence of what was now 2 years less 1 day, 3 years probation and a 10-year driving prohibition. Further details were provided. Mr. Gilbert’s evidence shows that the bail Crown’s suggested offer was never approved. The case was transferred to the senior Assistant Crown Attorney Mr. Lem shortly afterwards. It was still just two months since the bail hearing.
+
+[18]            Mr. Lem advised Mr. Gilbert that the Crown was proceeding by indictment, and they were seeking a penitentiary sentence. Resolution discussions continued, but eventually trial dates were set. Mr. Gilbert was discharged by Mr. McCausland. He was removed as counsel of record in September of 2024.
+
+Analysis
+
+[19]            There’s an important difference between plea discussions and a plea agreement. The distinction is crucial as courts have no basis to review the exercise of core Crown discretion during plea negotiations. It is only where a plea agreement has been offered, accepted by the defence then subsequently revoked that the court has a limited jurisdiction to review Crown conduct for a potential abuse of process.
+
+[20]            There’s no evidence of a plea agreement in this case. Although resolution discussions were initiated by the bail Crown, the evidence as to that discussion is vague. The subsequent emails and discussions never progressed to the point where the Crown made an offer to the defence indicating the counts on which the accused was to plead guilty, the facts that had to be admitted, the exact sentence the Crown was seeking, the fact that the Crown would not tender the notice that would preclude a conditional sentence, the specific terms of any conditional sentence, the length and terms of any probation and the ancillary orders the Crown would be seeking. There was never any authorization given to the bail Crown to make such an offer to the defence.
+
+[21]            Mr. McCausland is correct that the email he referred to in his further personal submissions does contain specific information that could amount to a Crown resolution offer. However, the Crown’s office did not approve that suggestion, and it was never conveyed to the defence.
+
+[22]            Contrast the “plea agreement” in this case with the circumstances in Nixon. In that case the Crown’s resolution offer came after a preliminary hearing where both parties were fully informed about the circumstances of the case. The Assistant Crown Attorney obtained advice from colleagues in the office before making the offer. The Crown sent the defence counsel for Ms. Nixon a written offer confirming they would accept a guilty plea to a specific provincial offence for a joint recommendation for a specific penalty and a withdrawal of the criminal charges – R v Nixon, 2008 ABPC 20 at para 4. The defence formally accepted that offer, abandoned their election for trial by jury, and re-elected trial in the provincial court.
+
+[23]            While not every plea agreement is reduced to writing and signed, details are important. The details are what separate an idea, direction or “path” of discussion as Mr. Gilbert put it, from an actual agreement which can be acted upon. As the Superior Court of Justice held in the context of civil contracts, “Before a court concludes that a contract has been established, it must be satisfied that the parties concluded their negotiations and settled the fundamental terms of their bargain” – Electek Power Services Inc. v Greenfield Energy Centre Limited Partnership 2022 ONSC 894 at para 106.
+
+[24]            The discussions in this case between the bail Crown and Mr. Gilbert were simply that – discussions of an idea. For a plea agreement details matter. The Crown’s position was a moving target, revised three times as the Crown became aware of the details of the case. It was plain from the evidence that any offer had to be approved by the Crown’s office and the bail Crown never obtained that approval.  
+
+[25]            When the file was assigned to Mr. Lem and the position of the Crown’s office was conveyed, Mr. Gilbert continued with case management in a Judicial Pre-Trial meeting and continued discussions with the Crown’s office. He was not removed as counsel of record until September of 2024. At no time did this very experienced and respected counsel bring an application alleging an abuse of process for the withdrawal of a plea agreement he was a party to. That circumstance is not conclusive, lawyers can reasonably disagree on the merits of a particular argument. However, the fact that the direct party to the bail conversation and the emails thereafter never suggested an abuse of process is yet another circumstance consistent with the finding that there was no plea agreement in this case.
+
+Conclusion  
+
+[26]            The applicant/defendant has failed to prove on the balance of probabilities that there was a plea agreement that was reneged upon by the Crown.
+
+[27]            While that is sufficient to conclude the matter, it’s also worth noting that the applicant’s evidence on this application is complete and there was no evidence of any Crown misconduct. To show an abuse of process the defence would have to show Crown conduct that was unfair, oppressive, tainted by bad faith or improper motive. There was no evidence of misconduct.
+
+[28]            The application is dismissed.
+
+ 
+
+Reasons Released:       July 14, 2025.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Justice Joseph F. Kenkel

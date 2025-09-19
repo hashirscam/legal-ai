@@ -65,7 +65,7 @@ Judge: Justice A. B. Johnson
 
 ## Usage
 
-### Command Line Interface
+### CLI
 
 Run using:
 ```
@@ -89,7 +89,7 @@ Change 2 ->
 ```
 
 
-Secondly, if you face tailwind error, install the following npm package:
+Secondly, if you face tailwind error, install the following NPM package:
 
 ```
 npm install tailwindcss @tailwindcss/postcss postcss

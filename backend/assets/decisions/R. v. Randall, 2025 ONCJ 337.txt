@@ -1,0 +1,381 @@
+Link: https://canlii.ca/t/kcv4d
+Date: June 16, 2025
+File number: Not found
+Citation: R. v. Randall, 2025 ONCJ 337
+Court: Ontario Court Of Justice
+Region: Not found
+Client: Shamari Randall
+Judge: Justice Berg
+
+R. v. Randall, 2025 ONCJ 337 (CanLII), <https://canlii.ca/t/kcv4d>, retrieved on 2025-09-18
+
+CITATION:  R. v. Randall, 2025 ONCJ 337
+
+DATE:  June 16, 2025
+
+ 
+
+ 
+
+ONTARIO COURT OF JUSTICE
+
+ 
+
+ 
+
+BETWEEN:
+
+ 
+
+HIS MAJESTY THE KING
+
+ 
+
+— AND —
+
+ 
+
+SHAMARI RANDALL
+
+ 
+
+ 
+
+ 
+
+Before Justice Berg
+
+Released on June 16, 2025
+
+ 
+
+RULING ON APPLICATION TO EXCLUDE EVIDENCE
+
+PURSUANT TO SECTION 24(2) CHARTER
+
+ 
+
+ 
+
+M. Savage, C. Macorin.......................................................... counsel for the Crown/PPSC
+
+M. Ertel, S. Maisonneuve............................................................ Counsel for the Applicant
+
+ 
+
+Berg J.:
+
+Introduction
+
+[1]         On January 17, 2024, Shamari Randall was driving a motor vehicle in downtown Ottawa. Due to the heavy tinting of the windows, the vehicle drew the attention of a patrolling police officer who then ran the licence plate and learned that said vehicle was rented. That officer, Constable Doyle, then decided to conduct a traffic stop to ensure that the driver was properly licenced and to address the issue of the tinting to the windows. Upon stopping Mr. Randall’s vehicle, Constable Doyle made certain observations upon which he concluded that the Applicant was in breach of the Cannabis Control Act and that he, the officer, therefore had the authority to conduct a search pursuant to s. 12(3) of that Act. As a result of that search, it is alleged that Mr. Randall was in illegal possession of drugs and a firearm and faces the following charges as a result:
+
+i.              s. 117.01(3) Criminal Code Possession of a handgun while prohibited;
+
+ii.            s. 355(b) Criminal Code Possession of proceeds of crime, to wit: money not exceeding $5000;
+
+iii.           s. 5(3)(a) Controlled Drugs and Substances Act Possession of oxycodone for the purpose of trafficking;
+
+iv.           s. 5(3)(a) Controlled Drugs and Substances Act Possession of buprenorphine for the purpose of trafficking;
+
+v.            s. 5(3)(a) Controlled Drugs and Substances Act Possession of cocaine for the purpose of trafficking;
+
+vi.           s. 86(3) Criminal Code Careless transport of a firearm;
+
+vii.         s. 86(3) Criminal Code Careless transport of a prohibited device;
+
+viii.         s. 86(3) Criminal Code Breach of s. 117(h) Firearms Act;
+
+ix.           s. 88(2) Criminal Code Possession of a weapon dangerous to the public peace;
+
+x.            s. 88(2) Criminal Code Possession of a prohibited device dangerous to the public peace;
+
+xi.           s. 90(2) Criminal Code Carry a concealed weapon;
+
+xii.         s. 90(2) Criminal Code Carry a prohibited device;
+
+xiii.         s. 91(3) Criminal Code Possession of a prohibited or restricted firearm without being the holder of a licence;
+
+xiv.        s. 91(3) Criminal Code Possession of a prohibited device without being the holder of a licence;
+
+xv.         s. 92(3) Criminal Code Possession of a prohibited or restricted firearm while knowingly not possessing of a licence and a registration certificate;
+
+xvi.        s. 92(3) Criminal Code Possession of a prohibited device while knowingly not possessing of a licence;
+
+xvii.      s. 94(2) Criminal Code Occupy a motor vehicle knowing that there was a firearm in it;
+
+xviii.      s. 94(2) Criminal Code Occupy a motor vehicle knowing that there was a prohibited device in it;
+
+xix.        s. 95(2) Criminal Code Possession of a loaded prohibited or restricted firearm while not possessing a licence and a registration certificate;
+
+xx.         s. 96(2) Criminal Code Possession of a firearm that had been obtained by the commission of an offence;
+
+xxi.        s. 96(2) Criminal Code Possession of a prohibited device that had been obtained by the commission of an offence.
+
+Mr. Randall has elected to have his trial at the Ontario Court of Justice. The trial and Charter voir dire proceeded in a blended fashion. All Crown evidence is applicable to both hearings.
+
+[2]         Mr. Randall has brought an application pursuant to s. 24(2) Charter for the exclusion of all evidence seized by the police during the course of the afore-mentioned search. He pleads that his rights pursuant to sections 8 and 9 Charter have been breached and that the exclusion of this evidence from his trial is a just and appropriate remedy in the circumstances. He had originally also pleaded a breach pursuant to s. 10(b) Charter but abandoned that allegation during submissions. The matter was then adjourned to allow me to prepare my ruling and judgement. During that interlude, the Court of Appeal issued its decision in R. v. McGowan-Morris, 2025 ONCA 349. I then invited counsel to consider whether they wished to reopen their pleadings on the abandoned point. They did and I will deal below with s. 10(b) as well.
+
+The Evidence
+
+[3]         The first Crown witness was Ottawa Police Constable Bradley Doyle. He testified that he had been a police officer for almost nine years. On January 17, 2024, he was by himself in a marked police cruiser. He explained that he was conducting “proactive patrols” of his assigned area. He explained that these patrols involved going into areas where he knew there to be higher levels of social disorder. He would run licence plates and be on the lookout for people for whom he knew there to be outstanding arrest warrants. As he was on patrol, he was passed by a blue Toyota SUV and he noticed that the front passenger window was tinted such that he could not see inside the vehicle. He queried the licence plate of that vehicle and was informed that it was registered to a car rental company. The constable then decided to conduct a traffic stop of that Toyota as he believed that the tinting of the window was in contravention of the Highway Traffic Act and, as well, to ensure that the person driving the SUV was properly licenced. Mr. Doyle told the Court that he will sometimes stop rental cars to confirm that the drivers are properly licenced as he has found that on occasion they are being driven by persons who are unlicenced or whose licences have been suspended or who are supposed to be driving with an ignition interlock installed in their own vehicle.
+
+[4]         The traffic stop was conducted at 4:52 p.m. The officer went over to the passenger side of the Toyota and explained why he was stopping Mr. Randall and then asked for his driver’s licence and other documentation. He received, in response, the rental agreement for the vehicle, a temporary driver’s licence as well as Mr. Randal’s passport which he had provided initially before he located the licence. When the constable queried the passport from the computer in his patrol vehicle, he learned that it had been revoked. He went back to Mr. Randall and, standing at the driver’s side window, explained that he had to make some further queries about the passport. As well, he still had to deal with the issue of the tinted window by issuing a Provincial Offences Ticket. It was at this point that he noticed that there was a pink-coloured vape pen near the gearshift area of the Toyota. He recognized a red emblem on that item to be an indicator that it was a cannabis vape pen.
+
+[5]         Constable Doyle, standing by the driver’s window, concluded that the vape pen was being stored in contravention of the Cannabis Control Act. He testified that “It was cannabis being stored in a way that was readily accessible to the driver. It wasn’t in its original packaging. It was ready to be consumed.” He was asked about this during cross-examination. Given the importance that I assign to this evidence, I will here provide the entirety of this passage:
+
+A. …The way that it was being transported and stored was what was in contravention to the Cannabis Control Act.
+
+Q. Okay. And the reason for that would be because it has cannabis in it?
+
+A. It was readily available to the driver.
+
+Q. Right. How do you know it has cannabis in it?
+
+A. So, the markings on it say that it contains THC and then if you look at – there’s a little glass window – or I don’t know if it’s called a window, but, like, a – you can see kind of by the mouth piece. Do you see what I’m referring to?
+
+Q. Yeah. A. So that, you can see that there’s a little bit of a yellow colouring. That’s the intoxicating substance inside that pen that when you suck on it, it’s..
+
+The vape pen was then shown to the witness and the Court.
+
+Q. Okay. So, when you looked into the vehicle, you could tell that there was – that there was intoxicating substance inside of that by looking through the glass window in the....
+
+A. No, I’m just pointing to your attention that you can see that there is the – I guess, what would be the intoxicating substance. What I had when I saw this pen – where it was in the car, I had grounds to believe that there was cannabis being improperly stored.
+
+Q. Oh, okay. So, you didn’t examine the pen – the pen at the time to see whether you could see the intoxicating substance inside of it or not, but you did find a pink pen and it’s got a THC emblem on it and I’m just going to show it to you here. Is that it there?
+
+A. That’s – yeah, that’s....
+
+Q. So – and sorry, you said that seeing that - what you described as a vape pen, that gave you a reasonable suspicion that there was – you go ahead and tell me what it was that it gave you. What – what suspicion that you got as a result of seeing that pen?
+
+A. I had grounds to believe that there was cannabis being improperly stored in the vehicle.
+
+Q. Okay. And when you’re talking about cannabis being improperly stored, you’re talking about that pink pen, that’s what you – like, you didn’t have grounds to believe there was any other cannabis at this point, right?
+
+A. I – I didn’t know.
+
+Q. You didn’t know one way or another.
+
+A. Pardon me?
+
+Q. Like, the – like, the grounds for your search, they’re based on this pen and this pen only, right?
+
+A. For the whole traffic stop or just at this moment?
+
+Q. No, at this point.
+
+A. At this moment, there was cannabis improperly – improperly stored. It was readily accessible to the driver...
+
+Q. Right.
+
+A. ...which gave me my grounds to search the vehicle to ensure that there was no more cannabis being improperly store.
+
+Q. These pens, like do people have to fill them up themselves with cannabis or do they come with cannabis oil in them?
+
+A. I’m not sure.
+
+Q. Well, can they be empty or full?
+
+A. Can they be empty or full?
+
+Q. Yeah.
+
+A. I believe so. Certainly – like, it’s – I don’t think they’re unlimited.
+
+Q. So – so, at that time when you were conducting that search, did you turn your mind to whether or not that pen was empty or full?
+
+A. I had no reason to believe it was empty.
+
+Q. What reason did you have to believe it was full?
+
+A. So, like, I – I explained, there’s – you can see through that little glass window that there’s....
+
+Q. You can see that now in the picture, but you didn’t see that then when you conducted the search, right?
+
+A. I never said that.
+
+Q. Did you examine it to see whether there was any yellow showing in the glass window on one side of it...
+
+A. So....
+
+Q. ...before you did your search?
+
+A. When you say on one side of it, I don’t think it’s, like, a solid inside there, so it actually has the ability to move inside there.
+
+Q. Sir, did you touch that pen at all before you conducted the search?
+
+A. Did I touch the pen before I conducted the search?
+
+Q. Yeah.
+
+A. The – the first thing I did was I – I notified Mr. Randall that I would be conducting the search.
+
+Q. Right.
+
+A. And then I had him exit.
+
+Q. Right. But – but the reason why he was being asked – being told to exit the vehicle was because you were going to conduct a search, right?
+
+A. Yeah, because there was cannabis readily available to him.
+
+Q. Right. There was cannabis readily available if there was cannabis inside that pen, right?
+
+A. Yeah, and I had reasonable grounds to believe that there was cannabis being improperly stored. I saw a weed – a vape pen – I don’t know what the proper term for it is but.... A weed vape pen that was readily accessible to Mr. Randall and that’s what gave me my grounds to search.
+
+Q. The pen was accessible to him but whether it was full or empty, you didn’t know, right?
+
+A. The pen had a THC marking on it which indicated to me that it contained cannabis, and it was readily accessible to Mr. Randall.
+
+Q. Right. The THC marking means that, at some time, it had cannabis in it, but at this point, it might have cannabis in it or it might not, right?
+
+A. I had reasonable grounds to believe that there was cannabis being improperly stored in the vehicle and that it was readily accessible to Mr. Randall.
+
+Q. Right. But just to be clear, your reasonable grounds are based on your observations of this pink pen only at this time, right?
+
+A. That’s the only cannabis that I observed in the vehicle.
+
+Q. Right. It’s because of that observation that Mr. Randall is removed from his vehicle so that you can conduct a search, right?
+
+A. Yeah, pursuant to the Cannabis Control Act.
+
+Q. Right. And it’s because of that pink pen that you can search him, the vehicle and his clothing, right?
+
+A. Him and the contents of the vehicle, correct.
+
+Q. Right. And the contents of the vehicle include the coat which you searched, right?
+
+A. Yes, sir.
+
+[6]         A bit later during the cross-examination, Mr. Doyle agreed that it would not be illegal to have an empty vape pen in one’s vehicle. He was then asked whether a Cannabis Control Act search was a broad power. He responded in the affirmative, drawing a parallel to Liquor Licence and Control Act searches. This led to the following exchange.
+
+Q. Right. So, that’s interesting that you raised that Liquor Licence and Control Act search. Obviously, you wouldn’t be able to search a vehicle pursuant to the Liquor Licence Act if there was an empty beer bottle in the vehicle, right?
+
+ A. If there’s alcohol still contained within the bottle, then it wouldn’t be empty, so.
+
+Q. So, if you saw an empty beer bottle in the car, I guess you would have to look at it and see whether there’s still alcohol in it in order to determine whether you had the grounds to search for liquor in the vehicle, right?
+
+A. I guess it would depend on the circumstances.
+
+Q. The circumstances I just described to you is there’s an empty bottle. You said there could still be alcohol in it. If it appears to be empty, obviously you’d have to look at it and see whether there’s alcohol in it, right, before you would search under the Liquor Licence Act, right?
+
+A. Well, that would be a search.
+
+[7]         The constable advised Mr. Randall of what he had observed and its significance and then explained that he now had the authority under the Cannabis Control Act to search both Mr. Randall’s person and the vehicle and requested that he step out of the Toyota. He was now detained pursuant to the CCA. Mr. Randall did so and was searched by the officer for more cannabis. None was found and so he was asked by Mr. Doyle to stand off to the side while he searched the vehicle. Mr. Randall was left unhandcuffed and in possession of his cell phone; there were no safety concerns.
+
+[8]         The exact time that the CCA detention occurred is not clear from the evidentiary record. The traffic stop was at 4:52 p.m. Constable Doyle ran Mr. Randall’s name through his on-board computer at 4:57 p.m. At some point after that, he returned to the Toyota and observed the cannabis vape pen and detained Mr. Randall as a result. As we shall see, due to what was found during the CCA search, the constable first arrested the accused at 5:04 p.m. after a brief search. I would estimate that the CCA detention occurred at approximately 5:00 - 5:03 p.m.
+
+[9]         It was cold out and so the constable offered Mr. Randall the jacket that was draped over the driver’s seat of the Toyota. He searched the jacket preparatory to handing it over and located a prescription bottle in a pocket. The part of the label that had shown the patient’s name had been torn off and it contained several pills. It has been admitted that those were 16 Buprenorphine tablets. However, at the time, Mr. Doyle was unaware of their exact nature but believed that they were a substance controlled under the Controlled Drugs and Substances Act. He walked over to Mr. Randall and placed him under arrest for possession of a Schedule I substance at 5:04 p.m. He placed him in handcuffs and then brought him to the front of his police cruiser which was parked behind the Toyota and requested that another police unit come to assist him. He then searched his prisoner and located something that he had missed the first time he had conducted the search: five Oxycodone pills in translucent packaging in the front pouch of the hoodie sweater. It has been admitted that Police also located $1770.00 in the jacket located on the front driver’s seat.
+
+[10]      Constable Sebastian Bazinet and his escort arrived on scene at 5:07 p.m. in response to Mr. Doyle’s request for assistance. Mr. Doyle provided his colleague with the grounds to search the vehicle as well a search incident to arrest. At 5:07 p.m., Constable Doyle also arrested Mr. Randall for possession for the purpose and placed him in the rear of the police cruiser and provided him with his rights to counsel, etc. The constable understood that his prisoner wished to speak to a lawyer. It was his evidence that he was unable to provide him with that opportunity at the roadside as Mr. Randall was a prisoner and he could not offer him the privacy that would be required.
+
+[11]      After the rights to counsel and other cautions, Constable Doyle returned to continue the search of the Toyota. He entered the area of the driver’s seat and noticed that the gearshift compartment was popped open. He inquired if any of the other officers who were now on scene had opened the compartment and was advised that they had not. He then opened the compartment further and looked inside. It was there that he observed a handgun. This was at 5:20 p.m. Mr. Doyle requested that a supervisor attend the scene and then went and re-arrested Mr. Randall for the firearm and provided him with his rights to counsel at 5:21 p.m., and his cautions and his s. 524 warning at 5:22 p.m. He then examined the handgun and observed that while there was no cartridge in the chamber, the magazine did contain rounds. It was admitted by the defence that there were ten rounds of 9 mm. ammunition.
+
+[12]      The officers then had a discussion about who would perform which of the necessary tasks. Mr. Doyle then left at 5:42 p.m. with his prisoner for the central cell block. They arrived there at 5:58 p.m. Mr. Randall was then processed and ultimately put in touch with his counsel of choice at 6:26 p.m. The call was completed at 6:53 p.m. and Mr. Randall was then lodged in a cell.
+
+[13]      The last Crown witness was Constable Sebastian Bazinet, a fifteen-year veteran of the Ottawa Police Service. On January 17, 2024, he responded to Mr. Doyle’s radio request of 5:04 p.m. for an additional unit to assist him. Mr. Bazinet had an escort with him: Constable Alicia Wallace. They reached Constable Doyle’s position at 5:05 p.m. who then informed Mr. Bazinet that there were grounds to search the Toyota pursuant to the Cannabis Control Act as well as incident to arrest for possession of a Schedule I substance. Relying on what he had learned from his colleague, Constable Bazinet then began searching the vehicle beginning with the front passenger side. On the seat, he observed a black satchel. He opened its front pocket and noted a substantial amount of cash: $1535.95. In the middle pocket, he located a bundle of crack and two of powder cocaine, some baggies with white powder in them, a few pieces of torn grocery bag plastic, a digital scale, and a knife. The total weight of the powder cocaine was 41.85 gm. He also observed the cannabis vape pen that had been noted by Mr. Doyle. There was also an orange-coloured prescription pill bottle with no label on it in the centre console.
+
+[14]      At 5:07 p.m., he advised Constable Doyle of what he had located and that there were grounds to arrest Mr. Randall for possession of a Schedule I substance for the purpose of trafficking. He returned to his search of the vehicle and was searching the back seat area when he was joined by Constable Doyle at 5:20 p.m. He observed Mr. Doyle begin to search the front driver’s side; Constable Wallace was searching the front passenger area. Mr. Doyle asked them if either had touched the area of the stick shift. They had not. Mr. Bazinet then observed that the cover for the stick shift area appeared to be misaligned and saw Mr. Doyle remove the cover and discover the handgun.
+
+[15]      There was no evidence called by the defence on the Charter application that I am here deciding.
+
+[16]      Constable Doyle was very defensive during cross-examination. At times, he would not directly answer relatively straightforward questions. That being said, there is no evidence at these proceedings that would lead me to reject the officer’s evidence that he stopped Mr. Randall for the reasons he gave, that he saw the vape pen as he stated, and that the events occurred as he described. I accept his evidence and I also accept the evidence of his colleague Constable Bazinet.
+
+The Alleged breaches of Mr. Randall’s Charter-Protected Rights
+
+[17]      As I indicated earlier, Mr. Randall has pleaded breaches of his s. 8, 9 and 10(b) Charter rights. It is the defence position that the traffic stop detention was “a pure fishing expedition.” Secondly, the search of the Toyota that occurred after the traffic stop was not authorized by the Cannabis Control Act as Constable Doyle did not have the requisite reasonable grounds to suspect that cannabis was being unlawfully stored in that vehicle.
+
+[18]      With respect, on the evidence before me, I find that the defence has not proven on a balance of probabilities that the traffic stop was anything but what Constable Doyle described. I accept his evidence that he noticed illegal tinting on the window as he described, learned that the Toyota was a rental vehicle, and then decided to conduct a traffic stop pursuant to and authorized by the Highway Traffic Act (see, R. v. Nolet, 2010 SCC 24; R. v. Bzezi, 2022 ONCA 184; R. v. Gonzales, 2017 ONCA 543). Thus, I find that there was no breach on this ground. This leaves the alleged s. 10(b) breach as well as the second arm of the alleged breaches of s. 8 and s. 9.
+
+[19]      In regards to the allegations of s. 10(b) breach, the evidence before me is that Constable Doyle stopped the Applicant at 4:52 p.m. He subsequently noticed the vape pen at some point between 5:00-5:03 p.m. and instructed Mr. Randall to get out of his vehicle in order that his person and the vehicle be searched pursuant to s. 12(3) of the Cannabis Control Act. However, the police only read out the informational component of s. 10(b) Charter at 5:07 p.m., three minutes after the alleged discovery of illegal drugs and some currency.
+
+[20]      With R. v. McGowan-Morris, 2025 ONCA 349, the Court of Appeal has now clarified that in the context of s. 12(3) CCA searches, the police must comply with the informational component of s. 10(b) without delay, absent any concerns for public or officer safety, and prior to conducting the CCA search. As stated at paragraphs 98-99 of that decision, “[b]ut once the police have reasonable grounds for a search, and form an intention to search the vehicle and its occupants, the occupants are entitled to their full rights under s. 10(b) of the Charter.” The police in the present case delayed the performance of this duty, for a period that might be as long as seven minutes or as short as four minutes, from the moment Mr. Doyle formed the subjective belief that he had reasonable grounds and asked the Applicant to get out of the car until after the alleged discovery of the items that led to criminal charges. They thereby breached Mr. Randall’s right. The Crown has conceded this breach. It is to be noted that when the police began their CCA search, Mr. Randall was not in handcuffs and was in possession of his cell phone.
+
+[21]      I turn now to the second arm of the alleged breaches of s. 8 and s. 9: that the warrantless search of Mr. Randall and his vehicle, and detention of Mr. Randall for that purpose, was not authorized by the CCA. Section 12 of that Act reads
+
+(1) No person shall drive or have the care or control of a vehicle or boat, whether or not it is in motion, while any cannabis is contained in the vehicle or boat.
+
+(2) Subsection (1) does not apply with respect to cannabis that,
+
+(a)  is in its original packaging and has not been opened; or
+
+(b)  is packed in baggage that is fastened closed or is not otherwise readily available to any person in the vehicle or boat. 2018, c. 12, Sched. 1, s. 12 (1).
+
+(3) A police officer who has reasonable grounds to believe that cannabis is being contained in a vehicle or boat in contravention of subsection (1) may at any time, without a warrant, enter and search the vehicle or boat and search any person found in it.
+
+[22]      A warrantless search is presumptively unreasonable and thus contrary to s. 8 Charter. As Mr. Randall has raised this issue, the Crown must establish on a balance of probabilities that the search was authorized by law, that the law itself is reasonable, and that the manner in which the search was carried out was reasonable (see, R. v. Collins, 1987 CanLII 84 (SCC); R. v. Caslake, 1998 CanLII 838 (SCC); R. v. Nolet, 2010 SCC 24).
+
+[23]      The search was authorized by a reasonable law. It is the manner of the search that is being questioned. Constable Doyle had stopped the vehicle being driven by Mr. Randall in order to conduct a Highway Traffic Act investigation. As he did so, he observed what was clearly a cannabis vape pen located right beside the driver’s seat and out of its packaging. It is also clear that the constable assumed that the mere presence of that vape pen provided him with the reasonable grounds referred to in s. 12(3) CCA. Furthermore, I find that the first time that Mr. Doyle turned his mind to whether the vape pen in question actually still contained any cannabis was in court before me during the trial. It is to be remembered that such a device may contain its full charge of cannabis, some of that charge, or have been emptied.[1]
+
+[24]      I accept that Constable Doyle believed that the mere presence of the vape pen gave him the reasonable grounds to exercise his authority pursuant to s. 12(3) CCA. The issue that remains is whether that belief was objectively justifiable (see, for example, R. v. Storrey, 1990 CanLII 125 (SCC), R. v. Fyfe, 2023 ONCA 715 at para. 52). I find that it is not. The vape pen is not cannabis, it is a device by which cannabis can be consumed. In other words, it is an item of cannabis paraphernalia. When an officer observes an item of cannabis paraphernalia, they are not making an observation of cannabis. At its highest, that observation could raise a suspicion that cannabis is present. However, the reasonable grounds required for that officer to conduct a lawful warrantless search would require further investigation.
+
+[25]      Upon observing the vape pen, Constable Doyle objectively had a reasonable suspicion that Mr. Randall was in breach of s. 12(1) CCA. However, given that what he had observed was an item of paraphernalia and not actually cannabis, he did not yet have reasonable grounds to conduct a s. 12(3) search. At that point, a further investigation was both called for and permissible as noted by Trotter J.A. for the unanimous panel in McGowan-Morris at para. 98-99,
+
+ 
+
+As noted above, the respondent submits that the driver and passengers need not necessarily be apprised of their s. 10(b) rights immediately. For convenience, I repeat the respondent’s position:
+
+ 
+
+Police may question the driver about cannabis consumption and about whether there is cannabis in the vehicle, and make observations of the driver, passengers and items in plain view. But once the police have reasonable grounds for a search, and form an intention to search the vehicle and its occupants, the occupants are entitled to their full rights under s. 10(b) of the Charter.
+
+ 
+
+I agree with this qualification.
+
+Constable Doyle observed the vape pen in plain sight. Objectively, he did not know whether it actually still contained cannabis. He should have investigated further to see whether its presence was actually in breach of the CCA. That investigation could have taken the form of questions to Mr. Randall, an examination of the vape pen itself, or both. There were no safety concerns at that point nor would such investigative techniques require much effort or time. Instead, Mr. Doyle took the mere presence of the vape pen to provide him with reasonable grounds to conduct a search. As he was wrong in that assumption, I find that he breached the s. 8 and s. 9 rights of Mr. Randall.
+
+Section 24(2)
+
+[26]      The law governing the application of the remedial section 24(2) Charter was articulated by the Supreme Court of Canada in R. v. Grant, 2009 SCC 32. A trial court must assess and balance the effect of admitting the evidence on society’s confidence in the justice system based on the following factors: 
+
+                     i.the seriousness of the Charter-infringing state conduct; 
+
+                    ii.the impact of the breach on the Charter-protected interests of the accused; and 
+
+                  iii.society’s interest in the adjudication of the case on its merits. 
+
+[27]      The seriousness of the Charter-infringing state conduct: It is to be remembered that the purpose of s. 12(3) CCA was not to create a new criminal search power. The clear reason for s. 12 CCA “is to ensure that cannabis is not readily available to any person in a vehicle or boat. The public safety goal is to prevent the use of cannabis by the driver or the occupants of a car or boat while it is being operated” (McGowan-Morris, at para. 64). This appellate interpretation is consistent with stated legislative intent:
+
+ 
+
+In parliamentary debates related to the enactment of the CCA, the Attorney General of Ontario indicated that the purpose of the CCA is to protect the public from the havoc caused by drug-impaired driving. Parliament’s intent in enacting the CCA is to protect public health and safety, protect youth and restrict their access to cannabis, and provide law enforcement with the tools to achieve these objectives: Ontario, Legislative Assembly, Official Report of Debates (Hansard), 41st Parl., 2nd Sess., No. 115 (2 November 2017), at p. 6143-6144 (Hon. Yasir Naqvi); Ontario, Legislative Assembly, Official Report of Debates(Hansard), 42nd Parl., 1st Sess., No. 30 (1 October 2018), at p. 1342. (Hon. Caroline Mulroney); See also R. v. Nzita, [2020] O.J. No. 3109, at para. 23.
+
+R. v. Byfield, 2023 ONSC 4308 at para. 105
+
+[28]      Constable Doyle did form a subjective belief that he had the necessary reasonable grounds and thus acted in good faith. However, it is troubling that his belief was predicated on a logic (i.e., cannabis vape pen = presence of cannabis = reasonable ground) that cannot be sustained by objective analysis. As the constable did not have reasonable grounds to conduct the search, I find that this Charter-infringing conduct by the state is serious in nature. The fact that a simple further investigation could have possibly provided those grounds or perhaps even demonstrated then and there that the grounds did not exist underlines how egregious this conduct was. The police were negligent in not conducting a further inquiry and the seriousness of their conduct is not mitigated by the fact that they were acting in good faith. I would place this breach towards the more serious end of the spectrum. Evidence gathered on the basis of a suspicion that was nothing more than merely an unjustified reflex would bring the administration of justice into disrepute. This factor supports exclusion of the evidence in question. 
+
+[29]      In the circumstances of this case, the actions of the police in the breaching of Mr. Randall’s s. 10(b) right are to be seen as being at a low level of seriousness. I base this analysis entirely on the fact that the clarification of the s. 10(b) informational duty on police officers in the context of CCA searches has only just been clarified in McGowan-Morris, some sixteen months after the arrest of Mr. Randall.
+
+[30]      The impact of the breach on the Charter-protected interests of the accused: It was not the dwelling of Mr. Randall that was searched. Nonetheless, his right to be free from arbitrary detention and his right to be secure against unreasonable search were violated on mere suspicion. This is profoundly intrusive. The admission of the evidence found as a result of the detention and search breaches would signify that the protections of s. 8 and s. 9 count for nought. Given this high level of impact on Mr. Randall’s protected interests, these breaches militate for exclusion.
+
+[31]      With respect to the breach of Mr. Randall’s s. 10(b) right, I note that the importance of the informational component of that right is such that a breach will rarely be of less than moderate impact. In the case at bar, I find that impact upon his rights were indeed moderate.
+
+[32]      Society’s interest in the adjudication of the case on its merits: Clearly, this factor would militate in favour of inclusion of the evidence. That society has a high level of interest in the adjudication of cases involving illegal possession of firearms and drugs cannot be gainsaid. The exclusion of the drugs and firearm, important to the Crown case and reliable evidence, would serve to frustrate the societal interest in combatting a significant societal problem. Yet, and as stated by the Ontario Court of appeal in R. v. McGuffie, 2016 ONCA 365 at paragraph 63, 
+
+ 
+
+In practical terms, the third inquiry becomes important when one, but not both, of the first two inquiries pushes strongly toward the exclusion of the evidence. If the first and second inquiries make a strong case for exclusion, the third inquiry will seldom, if ever, tip the balance in favour of admissibility [cites omitted]. 
+
+[33]      Balancing of the Factors: The Court cannot be seen to be condoning negligent and impactful behaviour of this nature by the police even when the conduct in question was done in good faith.  To be clear, I am not referring here to the s. 10(b) breach given that the constable could hardly have been expected to anticipate the recent ruling by the Court of Appeal. I find that in the present case, the s. 10(b) breach adds little to the balancing analysis.
+
+[34]      The evidence will be excluded.
+
+ 
+
+Released: June 16, 2025
+
+ 
+
+ 
+
+ 
+
+ 
+
+Signed: Justice Berg
+
+ 
+
+ 
+
+
+[1] I was shown the vape pen during the trial. I am unfamiliar with such devices and indeed, this was the first time I have ever examined one. No expert evidence was called. The chamber into which the cannabis can be loaded has a clear window by which the inside of that chamber can be observed. I observed some substance which seemed to have solidified and be adhering to the clear window. I do not doubt that the substance in question was a cannabis product. However, I have no idea a) whether that substance was in that state when the vape pen was seized or whether it had solidified between that time and the trial; b) whether the substance in its present form and quantity could be consumed.

@@ -1,0 +1,233 @@
+Link: https://canlii.ca/t/kbwld
+Date: 2025 04 25
+File number: Brampton 24-31102750
+Citation: R. v. A.H., 2025 ONCJ 243
+Court: Ontario Court Of Justice
+Region: Not found
+Client: A.H.
+Judge: Justice Paul F. Monahan
+
+R. v. A.H., 2025 ONCJ 243 (CanLII), <https://canlii.ca/t/kbwld>, retrieved on 2025-09-18
+
+486.4  Order restricting publication — sexual offences. — (1)  Subject to subsection (2), the presiding judge or justice may make an order directing that any information that could identify the victim or a witness shall not be published in any document or broadcast or transmitted in any way, in proceedings in respect of
+
+   (a)   any of the following offences:
+
+            (i)   an offence under section 151, 152, 153, 153.1, 155, 159, 160, 162, 163.1, 170, 171, 171.1,172, 172.1, 172.2, 173, 210, 211, 212, 212, 213, 271, 272, 273, 279.01, 279.011, 279.02, 279.03, 280, 281, 286.1, 286.2, 286.3, 346 or 347, or
+
+            (ii)  any offence under this Act, as it read at any time before the day on which this subparagraph comes into force, if the conduct alleged involves a violation of the complainant’s sexual integrity and that conduct would be an offence referred to in subparagraph (i) if it occurred on or after that day; or
+
+           
+
+   (b)   two or more offences being dealt with in the same proceeding, at least one of which is an offence referred to in paragraph (a).
+
+ 
+
+(2)   MANDATORY ORDER ON APPLICATION — In proceedings in respect of the offences referred to in paragraph (1)(a) or (b), the presiding judge or justice shall
+
+   (a)   at the first reasonable opportunity, inform any witness under the age of eighteen years and the complainant of the right to make an application for the order; and
+
+   (b)   on application made by the complainant, the prosecutor or any such witness, make the order.
+
+.   .   .
+
+486.6  OFFENCE — (1)  Every person who fails to comply with an order made under subsection 486.4(1), (2) or (3) or 486.5(1) or (2) is guilty of an offence punishable on summary conviction.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ONTARIO COURT OF JUSTICE
+
+CITATION:  R. v. A.H., 2025 ONCJ 243
+
+DATE:  2025 04 25
+
+COURT FILE No.:  Brampton 24-31102750
+
+ 
+
+BETWEEN:
+
+ 
+
+HIS MAJESTY THE KING
+
+ 
+
+— AND —
+
+ 
+
+A.H.
+
+ 
+
+ 
+
+Before Justice Paul F. Monahan
+
+Heard on March 24, 2025
+
+Reasons for Judgment released on April 25, 2025
+
+ 
+
+ 
+
+O. Romanov........................................................................................ Counsel for the Crown
+
+R. Zager................................................................................. Counsel for the defendant A.H.
+
+ 
+
+ 
+
+MONAHAN J.:
+
+Introduction
+
+[1]         The defendant brings an application for a stay of proceedings for an alleged violation of section 11(b) of the Charter. The application was heard on March 24, 2025 and I am delivering these reasons on April 25, 2025.
+
+The Allegations against the Defendant
+
+[2]         The defendant Mr. A. H. is charged with various offences alleged to have occurred in the domestic context. The alleged offences are a threat to kill or to cause bodily harm alleged to have happened on or about March 6, 2024; an assault with a weapon alleged to have happened between November 1 and November 30, 2021; an assault alleged to have happened between January 10 and January 16, 2015; and a sexual assault alleged to have happened between January 10, 2015 and January 16, 2015.
+
+[3]         The information was laid on March 8, 2024. The trial is scheduled to take place on November 24 to 28, 2025. This is 631 days or 20.7 months from the time the information was laid. The Crown does not allege any exceptional circumstance delay. Further, the only defence delay alleged by the Crown relates to dates the defence was offered and declined at “Backlog Reduction Court” held on January 15, 2025 in Brampton which I will review in more detail below. The key issue on this section 11(b) application is to determine the implications of the earlier dates offered in the Backlog Reduction Court.
+
+Position of the parties
+
+[4]         It is the submission of the defence that there is no defence delay and that the anticipated delay to the end of trial exceeds the 18 month ceiling laid down in R. v. Jordan 2016 SCC 27 and a stay should be granted. In the alternative, the defence submits that even if there is defence delay taking the case under the Jordan ceiling, the defence submits a stay should be granted in any event. The Crown submits that there is defence delay of 8.2 months and that the net overall delay is 12.5 months. These calculations by the Crown make no sense. Nevertheless, the Crown does have bona fide arguments related to the dates offered at the Backlog Reduction Court that may bring the case under the ceiling. I will review these arguments in more detail below.
+
+Chronology
+
+[5]         A brief chronology of this case is as follows:
+
+(a)         March 7, 2024: The defendant was arrested. The complainant gave a videotaped statement to the police on this day. The defendant also gave a statement to the police the same day;
+
+(b)         March 8, 2024: The information was sworn;
+
+(c)         March 13, 2024: Defence counsel is retained and a request for disclosure is made;
+
+(d)         April 15, 2024: initial disclosure is provided to the defence but neither the complainant’s statement to police nor the defendant’s statement to police is disclosed;
+
+(e)         September 5, 2024: After numerous requests for disclosure and disclosure remaining outstanding, the defence sets up a JPT to focus on outstanding disclosure issues and the JPT is held on this date. Numerous disclosure items are outstanding including the complainant’s statement to police and the defendant’s statement to police. The JPT judge indicated that core disclosure has to be provided before any trial estimate can be done.
+
+(f)           September 14, 2024: the bulk of outstanding disclosure is provided namely the complainant’s statement; the applicant’s statement as well as body worn camera footage. Defence counsel advised the Court at the time of the section 11(b) application that there were 60 media files provided on September 14, 2024;
+
+(g)         September 23, 2024: the defence sets up a JPT for trial estimate purposes. The first available date was October 7, 2024 and that date is set for the JPT;
+
+(h)         October 7, 2024: a further JPT is held. A trial estimate of five days is agreed upon with two further attendances in advance of trial for a stage 1 and stage 2, 278 application. There has apparently been some earlier indication from the Crown to the defence that it would be bringing a voluntariness application with respect to the defendant’s statement. However, after the JPT, the Crown advised the defence that it was no longer bringing a voluntariness application (see defence counsel’s affidavit para 23). The trial estimate form listed no police officers as witnesses. One officer is listed as being for “witness management only”;
+
+(i)            October 17, 2024: a trial scheduling conference is held with the trial coordinator (the “TC”). As is the practice in Brampton, Crown counsel does not attend the trial scheduling conference. The practice is for Defence counsel to attend as well as a representative of Peel Regional Police (“PRP”) and that is what occurred here. The parties were offered January 20 to 24, 2025 for trial. The defence was available. I note that the defence was initially shown on the trial scheduling documents as being unavailable but this was corrected by defence counsel later that same day on October 17, 2024 when they told the TC’s office that they had indicated at the trial scheduling conference that they were available for the January 20 to 24, 2025 dates. According to defence counsel, the Crown declined the January 20 to 24, 2025 dates due to “officer witnesses” not being unavailable (see defence counsel’s affidavit paragraph 26). I infer from this evidence from defence counsel that it was the PRP officer who declined the dates on behalf of the Crown. The next set of trial dates offered were November 24 to 28, 2025 which both parties accepted. In addition, the 278 application attendances were set for July 14 and September 8, 2025. Further, a section 11(b) application was also set at this time.
+
+(j)            January 15, 2025: Crown counsel and defence counsel attend the Backlog Reduction Court.[1] The TC offered earlier dates of March 24 to 28, 2025. The Court and the defence said that the dates were too soon given that section 278 applications were being brought. The Deputy Crown Attorney attending said “2 ½ months, Your Honour, I think we could have got it done but I’m not going to fight the prevailing assessment”. Accordingly, none of the Court, the defence or the Crown agreed to the March 24-28, 2025 dates offered. The TC then offered July 11, July 15-18. The Crown was available. The defence gave no reason but indicated that they were unavailable. Defence counsel has since sworn an affidavit on this application indicating that they were unavailable during these dates due to a family vacation where flights have been booked and paid for. Defence counsel indicated in his affidavit that his spouse had recently obtained approval from her employer for these vacation dates. Defence counsel also says in an affidavit  that he could have accepted these dates and taken the family holiday at a different time if offered at the original trial scheduling conference on October 17, 2024. At the Backlog Reduction Court the defence was also offered September 22-26, 2025 and the defence said they were unavailable. The Crown indicated that it was available. Further, the defence was offered October 6-10, 2025. The defence was not available and the Crown was available. The defence explained at the Backlog Reduction Court that defence counsel was unavailable for the September and October dates due to a lengthy jury trial. In an affidavit on the section 11(b) application, defence counsel indicated that the other case is a complex jury trial starting in the Superior Court at the end of September 2025 and running into early October. Defence Counsel said in his affidavit on this application that the jury trial date was set on September 18, 2024 and that if these dates have been offered at the time of the original trial scheduling conference on October 17, 2024, defence counsel would have attempted to reschedule the jury trial. The defence asked the Court in Backlog Reduction Court for dates after October 13, 2025 but none were available to be offered. As a result of the declining of the dates offered at the Backlog Reduction Court, the trial dates remain scheduled for November 24 to 28, 2025.
+
+(k)         March 24, 2025: the section 11(b) application was scheduled to be argued this day before me. I indicated that before hearing the section 11(b) application, I wanted Crown counsel and defence counsel to attend at the TC’s office to see if any dates in the June to August 2025 timeframe could be found. I did this because as of March 24, 2025 the case was only just over 12 months old and the Jordan date of September 8, 2025 (assuming no exceptional circumstance or defence delay) had not yet arrived and would not arrive for almost 6 months. Counsel attended at the TC’s office and advised that the TC’s office said there were no earlier dates in the June to August 2025 timeframe. There were additional dates of October 27-31, 2025 and the defence said that they were available as was the Crown but the dates were not secured. The TC also advised that if the trial date was broken up into two and three day blocks (as I had asked the parties to consider), the available dates would not be until March 2026.
+
+The Jordan framework: the General Principles
+
+[6]         The Jordan framework is well known and may be summarized as follows:
+
+1.            A trial court hearing a section 11 (b) application should calculate the total delay from the charge to the anticipated end of the trial (Jordan at para. 47). 
+
+2.            From the total delay the Court should deduct defence delay (Jordan para. 66) and the delay associated with discrete exceptional circumstances (Jordan at paras. 75 and 82).
+
+3.            Defence delay has two components. The first is delay waived by the defence. The other is delay caused "solely or directly" by defence conduct including circumstances where the defence uses a deliberate tactic to delay the trial. A further example of defence delay will occur where the Court and the Crown are ready to proceed and the defence is not (Jordan paras. 60 -64; see also R. v. Cody, 2017 SCC 31 (CanLII), [2017] S.C.J. No 31 at paras. 28 to 35). However, there is no "bright line rule" requiring that where dates are offered when the Court and the Crown are available but the defence is not, then all delay until the next date is defence delay. Rather, all of the relevant circumstances must be considered to determine how delay should be apportioned among the participants: R. v. Hanan 2023 SCC 12 at para 9; R. v. Boulanger 2022 SCC 2 at para 8; R. v. Jones 2025 ONCA 103 at paras 23-37 and R. v. Bowen-Wright 2024 ONSC 293 at para 40.
+
+4.            The determination of whether defence conduct amounts to defence delay is “by no means an exact science” but is something that “first instance judges are uniquely positioned to gauge” (see Jordan para 65). It is “highly discretionary” (see R. v. Cody 2017 SCC 31 at para. 31)
+
+5.            If the delay is above the presumptive ceiling then it is presumptively unreasonable. The Crown can rebut this presumption by showing that the delay is reasonable on the basis of exceptional circumstances (Jordan para. 68). This is the only basis upon which the Crown can justify a delay above the ceiling and avoid a stay. The absence of prejudice in cases above the ceiling is irrelevant (Jordan para. 81).
+
+6.            Below the presumptive ceiling a stay may still issue if the defence can establish two things: (1) that it took meaningful steps that demonstrate a sustained effort to expedite the proceedings; and (2) the case took markedly longer than it reasonably should have. In the absence of these two factors, the stay application will fail (Jordan para. 82). The Supreme Court observed that they expected stays below the ceiling would be "rare" and should be limited to only in clear cases. In setting the ceiling, the Supreme Court factored in tolerance for reasonable institutional delay (Jordan para. 48 and 83).
+
+7.            As concerns defence initiative constituting meaningful and sustained steps, the Court should consider what the defence could have done and what it did. It is a matter of substance rather than form. It is not enough to put on the record that the defence wanted an early trial date. Having said that, the defence must act reasonably and not perfectly (Jordan paras. 84-85)
+
+8.            As to whether the time took markedly longer than it should have, this will require a consideration of the reasonable time requirements of a case which derive from a variety of factors, including the complexity of the case, local considerations, whether the Crown took steps to expedite the proceedings and other factors (Jordan para. 87).
+
+Cases where Earlier Dates are offered
+
+[7]         The key issue on this section 11(b) application is to determine the implication of the earlier dates offered at the Backlog Reduction Court on January 15, 2025 and how to treat the time between July 18, 2025 when the trial could have been completed and November 28, 2025 when the trial will be completed. In particular, as outlined above, the defence was offered July 18, 15-18, 2025; September 22-26, 2025; and October 6-10, 2025 and could accept none of those dates for the reasons set out above. The Crown and the Court was available for all three sets of dates. The question is whether the defence was obliged to accept the earlier date or have some defence delay attributed to them.
+
+[8]         The leading case on the rescheduling of trial dates is the Supreme Court of Canada’s decision in R. v. Hanan 2023 SCC 12. In Hanan, the trial was scheduled to be held for 6 weeks before a judge and jury in October 2018. The trial had to be adjourned due to an unexpected refusal of a witness to testify and the Crown's late disclosure of cell phone data. The defence offered to re-elect to judge alone to avoid losing the trial dates but the Crown refused to agree. A new date had to be found for what was anticipated to be a six week trial. The Court and the Crown were available on June 3, 2019 for a six week trial but the defence was unavailable. Accordingly, the matter went over for trial to October 28, 2019.
+
+[9]         In Hanan, the Crown argued, before all three levels of Court, that the delay from June 3 to October 28, 2019 was defence delay because the Crown and the Court were available for the six week trial on June 3 but the defence was not. The Court and the Crown were not otherwise available from mid-July 2019 until October 28, 2019. The trial judge held that only the six weeks from June 3 to mid-July 2019 was defence delay. The Ontario Court of Appeal upheld the trial judge and the Supreme Court of Canada in Hanan agreed with the reasoning of the Ontario Court of Appeal on this issue.
+
+[10]      In that context, the Supreme Court made it clear that there is no “bright line rule” that when the Court and the Crown are available but the defence is not, that all of the time to the next date is on the defence as defence delay. The Court must consider all of the circumstances including whether the Crown and the Court were available during the subsequent period of the time that they seek to have characterized as defence delay. I note that Hanan was a case in which only one block of dates was offered and the defence was not available for that single block of dates.
+
+[11]      The recent Ontario Court of Appeal case of R. v. Jones 2025 ONCA 103 is instructive as concerns the application of the contextual approach mandated by Hanan. Of particular interest is how the Court in Jones addressed defence counsel’s unavailability for a Superior Court JPT. The time involved was only 43 days from September 20 to November 2, 2021 but nevertheless the reasoning of the Court of Appeal is important (see paras 23 to 37). The Jones case had its first appearance in the Superior Court on August 6, 2021.  A few days later the TC offered potential JPT dates of September 20, 21 and 22 and November 2, 2021. The defence said they were available for the November 2, 2021 date. The Crown indicated that they were also available for the November 2, 2021 date and the JPT proceeded on that date. The Crown was actually also available on September 20, 21 and 22 although they did not make that clear until the section 11(b) application was brought. The section 11(b) application judge declined to characterize any of the 43 days from September 20 to November 2, 2021 as defence delay. The application judge relied on R. v. Godin 2009 SCC 26 to say that the defence is not expected to be perpetually available. The Court of Appeal observed that Hanan requires a contextual approach and a consideration of all of the relevant circumstances. The Court of Appeal held that the application judge erred by failing to treat a portion of the September 20, 2021 to November 2 time as defence delay. The Ontario Court of Appeal said at para 32 of Jones that “while Hanan rejects a bright-line rule apportioning the defence with all of the delay after it rejects an available date, it did not adopt an inverse bright-line rule apportioning the defence with none of the delay. Instead, it directs courts to consider “all relevant circumstances” to apportion the delay among the parties” (emphasis in the original judgment of the Court of Appeal).
+
+[12]      In Jones, Court of Appeal found that it was not the Crown’s fault that JPT dates were needed in the first place. Having said that, the Court of Appeal in Jones observed that the TC in Jones offered only three consecutive dates in the same week and nothing for the next 40 days. The Court of Appeal in Jones at para 36 said that “a fair and reasonable apportionment of the delay is to attribute 21 days to the defence, and 22 days as institutional delay which is factored in as part of the delay in the Jordan framework”.
+
+[13]      In R. v. Jacques-Taylor 2024 ONCA 458, the Court of Appeal had the opportunity to consider and apply Hanan in the context of an original trial date setting (i.e. not when dates were set and then new dates offered but rather when trial dates were first set).  In that case, there was at least one co-accused. Trial dates of August 8 to 10, 2023 were offered. The Crown and the first accused’s counsel were available but the other co-accused’s counsel was not. Dates in September 2023 were discussed but the first co-accused’s counsel was not available. Dates of October 2-4, 2023 were agreed upon by all parties. On the section 11(b) application, the Judge rejected the Crown’s submission that all 55 days between August 8 to October 2, 2023 should be deducted as defence delay. The judge held that only the month of September 2023 (i.e. 30 days) should be deducted as defence delay and ultimately stayed the action for a section 11(b) violation. This decision was upheld in the Court of Appeal which ruled that the application judge’s ruling had considered all of the circumstances and led to reasonable apportionment of the delay.
+
+[14]      In R. v. Bowen-Wright 2024 ONSC 293 Justice Schreck held that the following factors should be considered when applying the contextual approach mandated by Hanan:
+
+(i)            the reason for the need to reschedule and whether it was caused by the defence;
+
+(ii)         the extent to which the defence was available
+
+(iii)         the reasons for defence unavailability; and
+
+(iv)         the extent of the notice given of the new available date
+
+[15]      For other earlier date cases, see R. v. Albinowski 2018 ONCA 1084; R. v. Qureshi (No. 1) 2023 ONCJ 189 and R. v. Qureshi (No. 2) 2023 ONCJ 202; R. v. B.D. 2023 ONCJ 224; R. v. S.C. 2022 ONCJ 486 and R. v. Edwards 2023 ONCJ 221. In each of these cases other than Albinowski, trial dates were set outside of the Jordan ceiling and multiple earlier trial dates were offered and declined by the defence and in each case some significant period of defence delay was found.
+
+[16]      I derive from the “earlier date cases” that each case will depend upon all of the circumstances but if there are multiple blocks of earlier dates offered over a reasonable period of time and the dates allow sufficient time to permit defence counsel to prepare for trial, then defence delay may be attributed from the first date offered depending upon the circumstances. In some cases, delay may be apportioned to the Crown and the defence.
+
+Discussion and Analysis – Application of the Law to the Facts in This Case
+
+[17]      Turning to the case at bar, the question is how to treat the time from July 19, 2025 to October 31, 2025. I say October 31, 2025 because the TC offered October 27-31, 2025 at the time the section 11(b) motion was argued and both parties could have taken this date.  These earlier dates were not actually secured. Nevertheless, the period from October 31, 2025 to November 28, 2025 should be deducted from the overall delay. In effect it treats the time from October 31, 2025 to November 28, 2025  as defence delay and reduces the overall delay. The result is that the overall delay is 603 days (March 8, 2024 to October 31, 2025). I understand the Crown and defence to agree on this point. The defence made various submissions on the section 11(b) application using October 31, 2025 as the end date.
+
+[18]      It may be observed at the outset that the new dates were needed in the Backlog Reduction Court because the Crown was not available to do the trial on the earlier dates offered of January 20-24, 2025 which the defence was available for. Had the January 20-24, 2025 dates been accepted by the Crown, this would have seen the case completed in less than 11 months after it started. The failure to accept the January 20-24, 2025 dates happened because the Crown had no Crown counsel present when the trial dates were set on October 17, 2024. This is the practice in Brampton. If Crown counsel had been present they would have realized that the case could proceed without the one officer shown on the trial time estimate form as needed only for “witness management”. Because the Crown was not present, they left it to the defence, the TC and PRP to schedule the trial. The trial time estimate form was the sole instruction provided by Crown counsel to PRP as to how to deal with dates offered from the TC’s office. The PRP representative could have easily recognized that the only officer listed was only needed for trial management and the trial could have proceeded without that police officer. When the next date offered was at the end of November 2025, the PRP representative could have reached out to Crown counsel and asked them if they wanted to accept the earlier dates which would mean that they would not have the police officer available for witness management. There may have been some confusion from PRP’s perspective because the Defence was initially shown as unavailable on the TC’s form for the January 20-24, 2025 dates which was corrected later that same day on the TC’s form. Defence counsel made it clear in their materials that they indicated at the trial scheduling conference that they were available on the January 20-24, 2025 dates (see exhibit W to defence counsel’s affidavit).
+
+[19]      I have considered whether the defence should have spoken up during the trial scheduling conference to indicate that they knew that the officers were not needed to testify at trial because Crown counsel had told defence counsel that there would be no voluntariness application. I have determined that it was PRP who had the responsibility to deal with this issue, not defence counsel. The defence counsel was not going to tell PRP how to deal with the trial time estimate form from the Crown’s perspective. PRP had received their instructions from the Crown in the form of the trial time estimate form and they declined to accept the earlier dates apparently because the witness management police officer was not available. I note that witness management in this case would involve managing only two civilian witnesses so it was not some major task.
+
+[20]      I would add that I believe defence counsel is very likely mistaken when he states in his affidavit at paragraph 26 that the January 20-24, 2025 dates were declined by the Crown because the “officer witnesses were not available”. The dates must have been declined by PRP because the one officer witness listed as needed for witness management was not available. All the PRP representative would know about Crown police witnesses at the time of the trial scheduling was what was contained in the trial time estimate form. All that was contained in the trial time estimate form was that there was one police officer needed for witness management only. There were no police officers listed beyond that one person. So the declining of dates by PRP must have been on the basis that the witness management officer was not available and on no other basis. In any event, I repeat that the responsibility for the Crown declining the January 20-24, 2025 dates was on PRP and the Crown, not defence counsel.
+
+[21]      An additional reason why the defence found itself in the Backlog Reduction Court was due to the fact that it took just over six months to make disclosure of the complainant’s statement and the defendant’s statement. This was critical disclosure and the trial date could not be set without it. I’m not going to set out precisely when the complainant’s statement should have been available but it should have been available much earlier than when it was provided.
+
+[22]      The question becomes, how should the time from July 19 to October 31, 2025 be treated. This is 105 days. On January 15, 2025, the defence and the Crown were offered three sets of dates: July 11, 15-18, 2025; September 22-26, 2025; and October 6-10, 2025. The Crown and the Court were available for all of the dates and the defence was not available for any of them for the reasons set out above. In my view, once the defence was offered three sets of dates over a 3.5 month period, and the defence declined all of them, then all of the time from after the end of the third set of dates should be on the defence. This is from October 11 to October 31, 2025. The trial could have been completed on October 10, 2025 but would not now be completed until October 31, 2025. That is 21 days on the defence as defence delay.
+
+[23]      In my view, the fair way of dealing with the time from July 19 to October 10, 2025 is to apportion it 50% to the defence and 50% to the Crown. The time between July 19 and October 10, 2025 is 84 days. I calculate 50% of that as 42 days and treat that as defence delay. In my view, this is a fair and reasonable apportionment of the time. In this case, in the Backlog Reduction Court on January 15, 2025, the defence was offered 3 blocks for a 5 day trial six months down the road with plenty of time to prepare. I understand that the defence was unavailable due to a family holiday and a trial. Nevertheless, it is a factor that the defence was offered dates in July, September and October and they were available for none of them. The Crown and the Court were available for all of the dates offered.
+
+[24]      In summary, the overall delay is 603 days to October 31, 2025. I deduct as defence delay 21 days from October 11-31, 2025 and 42 days for half the time from July 19 to October 10, 2025. The net overall delay is 603 days less 21 days less 42 days which is equal to 540 days. Using one month as the equivalent of 30.417 days, this is 17.75 months.
+
+Should a Stay issue for an Overall Delay under the Ceiling?
+
+[25]      It is the defence’s submission that if the overall delay is under 18 months, a stay should nevertheless be granted. The 17.75 months is just under the Jordan ceiling. I am satisfied that the defence has established that a stay should issue even though the case is under the ceiling.
+
+[26]      As indicated above, below the presumptive ceiling a stay may still issue if the defence can establish two things: (1) that it took meaningful steps that demonstrate a sustained effort to expedite the proceedings; and (2) the case took markedly longer than it reasonably should have.
+
+[27]      In my view, the defence took meaningful steps to expedite this proceeding. In particular, when disclosure was not forthcoming, they brought the judicial pretrial for disclosure purposes. This then led to the required disclosure being made within days. Further, when the defence was requested to attend the Backlog Reduction Court they were offered multiple dates to attend namely January 15, January 20 and February 4, 2025. The defence could have taken the last date which would have led to less dates being available. Instead, the defence chose the very first date to attend Backlog Reduction Court namely January 15, 2025. Both of these steps demonstrate a sustained effort on behalf of the defence to expedite this case.
+
+[28]      Did this case take markedly longer than it should have? In my view, the case did take markedly longer than it should have. The Crown should have produced core disclosure much earlier and the Crown should have looked more closely at the January 24-28, 2025 dates that were offered. I will say that this case involves a trial of five days plus pretrial motions and that is not a typical case in the Ontario Court of Justice. A typical case in the Ontario Court of Justice lasts 2 to 3 days with no pretrial motions. Nevertheless, this case should have been completed much earlier than it is anticipated to be completed. That does not mean that every case at 17.75 months should be stayed. It depends on all of the circumstances. I would add that even when the Crown was offered an opportunity to prioritize this case at the time of the section 11(b) application on March 24, 2025 when the Jordan date was still six months away, the Crown was not in a position to prioritize the case or chose not to do so. They could have offered to stack it on a list of cases on an earlier date and then called the case ahead of the other stacked cases. They chose not to do so.  I understand that not every case can be prioritized.
+
+Summary
+
+[29]      The overall net delay is 17.75 months which is just under the Jordan ceiling. For the reasons set out above, a stay will be issued for a violation of section 11(b) of the Charter.
+
+Released:  April 25, 2025
+
+ 
+
+ 
+
+ 
+
+ 
+
+Signed: Justice Paul F. Monahan
+
+
+[1] The Backlog Reduction Court has been held in Brampton over the last few years on an ad hoc basis when earlier trial dates have become available due to new judicial appointments being made and/or additional per diem judicial resources being assigned to Brampton.
