@@ -1,0 +1,49 @@
+version: '3.8'
+
+services:
+  legal-ai-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: legal-ai-app
+    ports:
+      - "8000:8000"
+      - "3000:3000"
+    environment:
+      # OpenAI API Key - REQUIRED
+      - OPENAI_API_KEY=${OPENAI_API_KEY:-your-openai-api-key-here}
+      
+      # Optional environment variables with defaults
+      - DOCUMENTS_DIR=backend/assets/decisions
+      - CHROMA_DB_PATH=backend/chroma_db
+      - LOG_LEVEL=INFO
+      
+      # FastAPI settings
+      - PYTHONUNBUFFERED=1
+      - PYTHONPATH=/app
+    volumes:
+      # Mount the chroma database for persistence
+      - chroma_data:/app/backend/chroma_db
+      
+      # Mount documents directory for easy updates
+      - ./backend/assets:/app/backend/assets
+      
+      # Optional: Mount logs directory for debugging
+      - ./logs:/app/logs
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s  # More time for full stack startup
+    restart: unless-stopped
+    networks:
+      - legal-ai-network
+
+volumes:
+  chroma_data:
+    driver: local
+
+networks:
+  legal-ai-network:
+    driver: bridge

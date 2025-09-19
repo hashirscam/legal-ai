@@ -2,11 +2,11 @@ import asyncio
 import logging
 import os
 from dotenv import load_dotenv
-from flow import create_offline_indexing_flow, create_online_research_flow
-from utils.progress import get_progress_tracker
+from backend.flow import create_offline_indexing_flow, create_online_research_flow
+from backend.utils.progress import get_progress_tracker
 
-# Load environment variables
-load_dotenv()
+# Load environment variables from backend/.env file
+load_dotenv(os.path.join(os.path.dirname(__file__), '.env'))
 
 # Setup logging
 logging.basicConfig(
@@ -23,7 +23,7 @@ def run_offline_indexing():
     
     # Create shared store for offline processing
     shared = {
-        "documents_directory": "assets/decisions",
+        "documents_directory": "backend/assets/decisions",
         "processed_files": [],
         "total_files_processed": 0,
         "vector_db": None,
@@ -115,7 +115,7 @@ async def main():
     print("=" * 50)
     
     # Check if we have documents
-    documents_dir = "assets/decisions"
+    documents_dir = "background/assets/decisions"
     if not os.path.exists(documents_dir):
         print(f"❌ Documents directory not found: {documents_dir}")
         print("Please ensure you have legal case files in the assets/decisions directory")

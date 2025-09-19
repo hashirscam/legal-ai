@@ -1,6 +1,6 @@
 from pocketflow import Flow, AsyncFlow
-from nodes import DocumentIngestionNode, VectorIndexCreationNode, InitialRetrievalNode, DocumentExtractionNode
-from nodes_agents import PruningAgentNode, ReadingAgentNode, AggregationAgentNode
+from backend.nodes import DocumentIngestionNode, VectorIndexCreationNode, InitialRetrievalNode, DocumentExtractionNode
+from backend.nodes_agents import PruningAgentNode, ReadingAgentNode, AggregationAgentNode
 import logging
 
 logger = logging.getLogger(__name__)
