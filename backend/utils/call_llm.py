@@ -6,8 +6,8 @@ import sys
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from settings import get_llm_config
 
-# Load environment variables from .env file
-load_dotenv()
+# Load environment variables from backend/.env file
+load_dotenv(os.path.join(os.path.dirname(os.path.dirname(__file__)), '.env'))
 
 def call_llm(prompt):    
     api_key = os.environ.get("OPENAI_API_KEY")
