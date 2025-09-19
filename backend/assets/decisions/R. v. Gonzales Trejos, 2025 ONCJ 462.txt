@@ -1,0 +1,436 @@
+Link: https://canlii.ca/t/kf9kf
+Date: 2025 09 08
+File number: Toronto 4810 998 24 4810 8745
+Citation: R. v. Gonzales Trejos, 2025 ONCJ 462
+Court: Ontario Court Of Justice
+Region: Not found
+Client: Greis Gonzales Trejos
+Judge: Justice Christine Mainville
+
+R. v. Gonzales Trejos, 2025 ONCJ 462 (CanLII), <https://canlii.ca/t/kf9kf>, retrieved on 2025-09-17
+
+ONTARIO COURT OF JUSTICE
+
+CITATION:  R. v. Gonzales Trejos, 2025 ONCJ 462
+
+DATE:  2025 09 08
+
+COURT FILE No.: Toronto 4810 998 24 4810 8745
+
+ 
+
+ 
+
+BETWEEN:
+
+ 
+
+HIS MAJESTY THE KING
+
+ 
+
+— AND —
+
+ 
+
+GREIS GONZALES TREJOS
+
+ 
+
+ 
+
+ 
+
+Before Justice Christine Mainville
+
+Heard on August 6 and 7, 2025
+
+Reasons for Judgment released on September 8, 2025
+
+ 
+
+ 
+
+Angela Lepsa....................................................................................... counsel for the Crown
+
+Mark O’Brien..................................................................................  counsel for the accused
+
+ 
+
+Mainville J.:
+
+[1]         Ms. Gonzales Trejos is charged with impaired driving and having operated a vehicle with a blood alcohol level over the legal limit of 80 mg per 100 mL of blood.
+
+[2]         She alleges that her rights were violated by the police during their investigation of this matter, and as a result seeks the exclusion from evidence of her breath samples, statements to the police, and observations made of her. These allegations focused on the police’s failure to make a breath demand under s. 320.28(1) of the Criminal Code, and delay in the implementation of her right to counsel. As a result, she argues that her rights under ss. 8, 9 and 10(b) of the Charter were violated.
+
+[3]         Defence counsel acknowledges that if I decline to exclude any evidence under s. 24(2) of the Charter, the Crown will have proven all elements of both offences charged beyond a reasonable doubt. This case thus turns entirely on the Charter application before me. The evidence from the Charter voir dire was blended with the trial.
+
+[4]         I heard from three witnesses at trial: the two arresting officers, PC Astapov and PC Syrydiuk, and the breath technician, PC Wiggermann. The Crown also proved that Ms. Gonzales Trejos’ blood alcohol level was 230 mg of alcohol per 100 mL of blood within two hours of driving.
+
+[5]         For the reasons that follow, I find a violation of sections 8, 9 and 10(b) of the Charter. Due to several considerations, the section 24(2) analysis ultimately leads me to conclude that the breath readings and some observations and statements of Ms. Gonzales Trejos to the police should be excluded from evidence.
+
+Facts
+
+[6]         Shortly after midnight on March 2, 2024, Officers Astapov and Syrydiuk observed a car making a U-turn on Ellesmere Road, in Toronto, a short distance in front of them. The car continued to drive in front of them and at one point swerved out of its lane before returning into the lane. They activated their emergency lights to conduct a traffic stop, given their concerns about the driving.
+
+[7]         The car turned onto the upcoming side street and came to a stop close to the middle of the road, rather than close to the curb, which the officers found odd. PC Astapov engaged with the driver, Ms. Gonzales Trejos, who was the sole occupant of the vehicle. As PC Astapov was speaking with her, PC Syrydiuk observed two empty or near-empty bottles of Jameson in the passenger footwell.
+
+[8]         The officers decided that they had grounds to make a demand for breath samples to be provided in an Approved Screening Device (ASD). The defence does not dispute that they had sufficient grounds to do so. PC Syrydiuk read the ASD demand and Ms. Gonzales Trejos complied. She failed the test such that the officers had grounds to arrest her for driving with alcohol in her system over the legal limit.
+
+[9]         PC Astapov proceeded to arrest Ms. Gonzales Trejos at 12:32 am. Shortly thereafter, PC Syrydiuk began reading her rights to counsel. When he paused to ask whether she understood, she conveyed that it was a lot to take in, so he went over it again in an effort to explain her rights in plain language. In doing so, he stopped short of reading the entirety of what is contained in his police memo book with respect to a detainee’s right to communicate with counsel, and failed to ask whether she wanted to communicate with a lawyer now. PC Syrydiuk instead went on to caution Ms. Gonzales Trejos, never asking if she wished to speak to a lawyer. He also did not read any breath demand or make any informal demand that Ms. Gonzales Trejos attend the station to provide samples of her breath into an Approved Instrument (AI), despite that being the intention.
+
+[10]      Ms. Gonzales Trejos did request to use her phone. PC Astapov informed her that she could not use it at that time as she was under arrest but retrieved that and other items from her vehicle. PC Syrydiuk did tell her that she would have an opportunity to contact a lawyer.
+
+[11]      Though they had not asked whether she wanted to speak with a lawyer at that time, both officers assumed that she did. PC Syrydiuk testified to his belief that she did wish to communicate with counsel, and he acted with a view to facilitating that.
+
+[12]      Despite that being their understanding, the officers testified that they did not afford Ms. Gonzales Trejos the opportunity to speak with counsel at the roadside given that they could not provide her with the privacy needed for such a call. They explained that they had their Body-Worn Cameras (BWCs) turned on and the In-Car Camera (ICC) on as well. Though they could turn them off entirely or turn off the audio, they did not think that appropriate given that Ms. Gonzales Trejos was in custody under their care. In such a circumstance, they asserted that the cameras should be recording.
+
+[13]      Officers Astapov and Syrydiuk called for backup and other officers attended the scene around 12:37 am to deal with Ms. Gonzales Trejos’ car. After informing them of key information regarding the arrest and next steps, the two arresting officers had a further conversation with the backup officers, during which time they all muted their BWC microphones. Neither PC Astapov nor PC Syrydiuk could recall what they discussed during the few minutes when the microphones were turned off.
+
+[14]      A male then approached the scene on foot. He was believed to be Ms. Gonzales Trejos’ boyfriend, who resided nearby. Indeed, shortly after being pulled over by the police that evening, Ms. Gonzales Trejos received a call on her cell phone and mentioned to the person on the other end of the line that she had just been pulled over and would call them back. She had told the police that she was on her way to her boyfriend’s house and that he lived nearby. The male asked about the car and whether he could speak to Ms. Gonzales Trejos. He was told that he could not speak with her at that time.
+
+[15]      Officers Astapov and Syrdiuk left for the station with Ms. Gonzales Trejos at 12:43 am. They arrived at 12:59 am and waited in the sally port until the booking sergeant was ready for them. Around 1:17 am, the officers accompanied Ms. Gonzales Trejos who was paraded before the staff sergeant. It is only at this time that Ms. Gonzales Trejos was asked by the sergeant if she wished to speak to counsel. She responded in the affirmative. The booking process ended around 1:32 am.
+
+[16]      Ms. Gonzales Trejos was then placed in an interview room where she was put in touch with duty counsel. It is unclear when the call to duty counsel was first placed, but she began communicating with counsel at 1:46 am. At 2:02 am, she was brought to the breath room to provide breath samples.
+
+[17]      The breath tech officer, PC Wiggermann, also did not make any formal breath demand of Ms. Gonzales Trejos. He explained that his practice is to ask whether it has been done, and to not repeat it if it has. In this instance, PC Astapov advised him that the demand had been done. It had not been, but PC Astapov explained that he had no reason to believe that his partner had not made the demand. PC Syrydiuk was not present when the breath technician asked about any earlier demand.
+
+[18]      The breath tech officer also did not ask the arresting officers about their grounds for the arrest, nor were these grounds conveyed to him. PC Astapov testified that he had conveyed his grounds given that that is standard as it is needed to continue the process. He said it was standard practice for breath technicians to ask officers why the person is being brought before them. He did not however have any specific recollection of this having occurred. In fact, PC Wiggermann testified that he did not ask about any indicia of impairment or even whether the person had been driving, or what if any observations had been made by the arresting officers. He testified that he does not ask these questions as a general rule because he does not want to get into an argument with officers about their grounds. He testified that this has happened before, and it can happen that the officer will become aggressive with him.
+
+[19]      PC Wiggermann testified that he would only have asked the officers if they had grounds and if an ASD test had been done. He made no note of any answers to these questions in this case. The breath room video, which was filed in evidence, shows that he merely asked whether the breath demand had been given. It does not show him asking the officers about their grounds or whether an ASD test was performed. I find that this information was not provided to PC Wiggermann.
+
+[20]      PC Wiggermann otherwise did not make any observations of Ms. Gonzales Trejos relevant to grounds, prior to obtaining the breath samples. Indeed, the only indicia of alcohol consumption or intoxication that he noted was that she had watery bloodshot eyes, but he also noted that she had clearly been crying. He did not observe any slurred speech, unsteadiness on her feet, or the smell of alcohol.
+
+[21]      Ultimately, Ms. Gonzales Trejos provided a first breath sample at 2:09 am, and a second one at 2:32 am. Rounded down to the nearest multiple of 10 as required, the results were respectively 240 and 230 mg of alcohol per 100 mL of blood.
+
+[22]      Upon completing the second test, and a comment being made about when she would be released, Ms. Gonzales Trejos conveyed that duty counsel told her she would be able to leave within an hour and a half. PC Wiggermann responded that that was wrong, that it was up to the sergeant. He then added that it was typical of that particular lawyer to make wrong promises. Ms. Gonzales Trejos then repeated what she had just been told, asking “Did you say that is typical?”.
+
+[23]      When questioned about this comment, PC Wiggermann explained why he felt that that that counsel was always wrong. When questioned about whether his comment would tend to undermine the detainee’s trust in the lawyer’s competence, he minimized the issue, indicating that she had not hired that lawyer personally given that he was speaking about duty counsel. He added that duty counsel should not have made such a promise. He only then went on to acknowledge that he shouldn’t have made the comment.
+
+Analysis
+
+The Failure to Make an Approved Instrument Demand and Seizure of Breath Samples
+
+[24]      The police seized samples of Ms. Gonzales Trejos’ breath without a warrant. For a warrantless search and seizure to be reasonable and compliant with s. 8 of the Charter, it must be done pursuant to law. An unlawful seizure will amount to a violation of a person’s constitutionally protected right to be free from unreasonable searches and seizures, pursuant to s. 8 of the Charter: R. v. Guenter, 2016 ONCA 572, at para. 85.
+
+[25]      Section 320.28(1) of the Criminal Code authorizes the warrantless seizure of breath samples as follows:
+
+320.28 (1) If a peace officer has reasonable grounds to believe that a person has operated a conveyance while the person’s ability to operate it was impaired to any degree by alcohol or has committed an offence under paragraph 320.14(1)(b), the peace officer may, by demand made as soon as practicable,
+
+(a) require the person to provide, as soon as practicable,
+
+(i) the samples of breath that, in a qualified technician’s opinion, are necessary to enable a proper analysis to be made by means of an approved instrument,
+
+… and
+
+(b) require the person to accompany the peace officer for the purpose of taking samples of that person’s breath or blood.
+
+[26]      In short, for the seizure to be lawful, the police need to make a demand requiring the person to provide breath samples into an approved instrument, and where applicable, requiring them to accompany the police for that purpose. The demand needs to be made as soon as practicable, and the person is to provide the breath samples as soon as practicable.
+
+[27]      “As soon as practicable” means within a reasonably prompt time under the circumstances. The key question is whether the police acted reasonably: R. v. Vanderbruggen, (2006) 2006 CanLII 9039 (ON CA), 208 O.A.C. 379, at para. 12. While the Crown does not need to call evidence of what occurred during every minute of the investigation, it does have to show that the tests were taken within a reasonably prompt time: Vanderbruggen, at paras. 12-13 and 16; R. v. Burwell, 2015 SKCA 37, at para. 18; R. v. Newton, 2013 ONSC 644, at para. 18.
+
+[28]      Finally, the officer making the demand must have reasonable grounds to do so. Absent the necessary subjective and objectively reasonable grounds to believe, the demand will be invalid and there will be a breach of the detained person’s s. 8 and 9 Charter rights to be protected from unreasonable search and seizure, and from arbitrary detention: R. v. Bernshaw, 1995 CanLII 150 (SCC), [1995] 1 S.C.R. 254, at para. 51; R. v. Shepherd, 2009 SCC 35, at para. 13; R. v. Padavattan, 2007 CanLII 18137 (ON SC), at para. 20; R. v. Dhaliwal (2005), 16 M.V.R. (5th) 165 (S.C.J.), at para. 23.
+
+[29]      Given the warrantless search and the accused’s assertion that her Charter rights were violated, the Crown bore the burden of establishing, on a balance of probabilities, that these requirements were met: R. v. Gundy, 2008 ONCA 284, at para. 50.
+
+[30]      The demand has the effect of compelling the person to provide breath samples and informs them of their obligation to do so. Indeed, in the absence of a lawful demand, a person has no obligation to comply. The demand also informs them that they are under detention during this process and are accompanying the officer for that reason.
+
+[31]      Beyond this, the purpose of the above requirements is to ensure that there is a proper basis for detaining a person, and to ensure that people are not detained for longer than is reasonably needed for the state to obtain evidence: R. v. Deruelle, 1992 CanLII 73 (SCC), [1992] 2 S.C.R. 663, at para. 15. As further explained in R. v. Ruck, 2013 ONCJ 527, at para. 53, the “as soon as practicable” requirements are concerned with “the deprivation of liberty that detention to accommodate the test entails. It is exceptional to require citizens to forfeit their liberty to accommodate police investigations. While it is necessary to do so, the period of deprivation should not be unreasonably long, given its purpose.”
+
+[32]      It is undisputed that no formal breath demand was made in this case, whether by either of the arresting officers or by the breath technician. The Crown however submits that Ms. Gonzales Trejos was informally notified of the demand and of the reason for her attendance at the police station. I disagree.
+
+[33]      First, Ms. Gonzales Trejos was never notified at the scene of her arrest and prior to being brought to the police station that she would have to provide breath samples there and was accompanying the officers for that purpose. Upon arrest, nothing was stated regarding an Approved Instrument test.
+
+[34]      As indicated, no breath demand was read by either officer. The most the Crown could point to was a passing comment made by PC Syrydiuk in response to a question asked by Ms. Gonzales Trejos. She questioned why she was being arrested for Over 80 when the ASD device only showed that she had failed. She asked what she blew, and PC Syrydiuk responded that that is what they would be finding out at the station.
+
+[35]      I find this wholly insufficient to demand that Ms. Gonzales Trejos provide breath samples into an approved instrument, and to follow the police to the station for that purpose.
+
+[36]      Firstly, the statement implies that they would obtain or provide her with the test results at the station. It was not made clear that Ms. Gonzales Trejos would in fact have to provide additional breath samples, into a different type of instrument. She was not informed that this is why she needed to accompany the police to the station.
+
+[37]      While the breath demand need not be in any particular form, it does need to be made clear to the driver that he or she is required to give samples of his or her breath: R. v. Torsney, 2007 ONCA 67 (CanLII), [2007] O.J. No. 355 (C.A.), at para. 6; R. v. Ghebretatiyos, [2000] O.J. No. 4982 (S.C.J.), at para. 20.
+
+[38]      The Crown relied on R. v. Commisso, [2021] O.J. No. 817 (Sup. Ct.) in support of its position. In that case, the trial judge found that the driver knew based on his conversation with the officer that he was required to provide two additional samples of his breath into a machine and that he would be charged if he refused to do so: para. 6. The reviewing court accepted that it is insufficient for the driver to understand this – the words used by the police must have conveyed this requirement: para. 6. Nevertheless, that test was met in that case based on the information conveyed by the officer: see paras. 7-8.
+
+[39]      In this case, Ms. Gonzales Trejos was only informed that she was under arrest and being transported to the station. She was not told that she would have to undergo further tests or provide further breath samples. She was certainly not told that she would be required to do so, nor was she informed of the consequences of refusing to comply. PC Syrydiuk’s off-hand comment did not convey the necessary information to be functionally equivalent to a formal demand. If there is any uncertainty on this point, it is dissipated by the fact that Ms. Gonzales Trejos conveyed to the police upon arriving at the station that she did not know why she had been arrested, given that “it was a failure”, “there was no number, nothing” – in respect of the Over 80 charge. I will return to this below.
+
+[40]      Upon arriving at the station, Ms. Gonzales Trejos was made to wait in the sally port for over 15 minutes. Once brought into the booking hall, the staff sergeant asked the arresting officers why she had been brought to the station. PC Astapov referenced public safety and the need to prevent the continuation of the offence, but not the fact that she was there to provide breath samples. It was only when questioned about that by the staff sergeant that he acknowledged she was also there to provide a suitable sample.
+
+[41]      But as acknowledged by PC Syrydiuk, the staff sergeant at that time was speaking to the arresting officers – he was not addressing Ms. Gonzales Trejos. He also simply referenced “a suitable sample”. I question whether a layperson would understand that to mean providing samples of one’s breath. In fact, it was immediately after this comment that Ms. Gonzales Trejos was asked whether she understood why she had been arrested, and she conveyed that she didn’t given the absence of any readings. Prior to this, she clearly did not understand that she needed to provide breath samples into an approved instrument and that she was accompanying the officers to the station for that purpose.
+
+[42]       It is true that after this, the staff sergeant explained to her that she was “brought here to provide a suitable sample”, and she indicated that she understood. However, even if she understood at that point in time that she was there to provide a breath sample, she was never told that she was required to do so.
+
+[43]      In any event, to make a valid demand, the officer making the demand must have reasonable grounds to do so. He or she must also do so as soon as practicable upon acquiring those grounds: Guenter, at paras. 80, 86, 89-90; Padavattan, at para. 20.  
+
+[44]      The staff sergeant in this case could not make a valid demand as he did not personally have any grounds to believe that an offence had been committed: no grounds had been conveyed to him by the arresting officers.
+
+[45]      And any informal demand he could be said to have conveyed as an agent for the arresting officers was not done as soon as practicable after those officers formed their grounds to make the demand. By then, Ms. Gonzales Trejos had been transported to the police station and made to wait before being paraded. This discussion took place more than 45 minutes after her arrest.
+
+[46]      In R. v. Dzaja, (2003) 173 O.C.A. 14, the Court of Appeal deemed that the breathalyser test was not done “as soon as practicable” given a 33-minute wait between being paraded and connected to duty counsel because the officer was doing paperwork. The analysis is a functional one and does not turn on the number of minutes that passed. But the delay before any informal breath demand here was not justified and could not be said to have been as soon as practicable. There had been plenty of opportunities to make the demand had the officers thought of it.
+
+[47]      What about the breath technician? In some instances, the breath demand that is typically made by the breath technician can serve to remedy an earlier failure to make a proper demand: Guenter, at paras. 80, 86, 89-90.
+
+[48]      In this case, Ms. Gonzales Trejos was again not read any breath demand by the breath technician. Instead, PC Astapov wrongly informed the breath technician PC Wiggermann that a demand had already been given. I accept that he was not looking to mislead the breath technician but rather assumed that his partner had read the demand. This however was most imprudent, considering that he never witnessed such a demand being made, he never asked PC Syrydiuk to make the demand, he was never informed by PC Syrydiuk that the demand had been made, and he never asked PC Syrydiuk to confirm his assumption that the demand had been made, prior to or after conveying erroneous information to PC Wiggermann.
+
+[49]      Did PC Wiggermann nevertheless convey to Ms. Gonzales Trejos the essential elements of the demand? He did at that point explain that she would be providing two samples of breath into the device, though she again was not told that she had an obligation to do so. I again find this insufficient to constitute an informal demand for breath samples, as required by s. 320.28 of the Code.
+
+[50]      In any event, if this information can be characterized as an informal demand, it was not done pursuant to any reasonable grounds to believe that Ms. Gonzales Trejos had committed an offence – which, again, is a prerequisite to a valid demand. Indeed, in cases where the breath technician’s demand has been accepted as a valid substitute for an earlier faulty demand, the demand was made as soon as practicable after the breath technician acquired grounds. But in this case, PC Wiggermann never acquired grounds to obtain breath samples from Ms. Gonzales Trejos.
+
+[51]      As set out above, PC Wiggermann never asked the arresting officers about their grounds, and these were never conveyed to him. He in fact indicated that it was now his general practice not to inquire. He did not even know whether Ms. Gonzales Trejos had had care and control of any motor vehicle, or that she had failed the ASD test. While he could perhaps presume all these things by her mere presence before him, in my view this is insufficient to meet the statutory prerequisites for him making the demand.
+
+[52]      In sum, there was a complete failure to abide by the requirements of s. 320.28 in this case. The breath samples were thus seized unlawfully. As a result of the unlawful seizures, section 8 of the Charter was clearly violated.
+
+[53]      In the course of closing submissions, defence counsel suggested that there was an independent violation of s. 8 as a result of the breath technician seizing the breath samples without personally having any grounds to do so.
+
+[54]      But as explained by Justice Wilson in R. v. Debot, 1989 CanLII 13 (SCC), [1989] 2 S.C.R. 1140, at pp. 1166-67, the police officer who decides that a suspect should be searched is the person who must have reasonable and probable grounds for believing the suspect is committing an offence: “That officer may or may not perform the actual search.  If another officer conducts the search, he or she is entitled to assume that the officer who ordered the search had reasonable and probable grounds for doing so.” I have no reason to think the Debot principle does not apply to the circumstances of this case.
+
+[55]      A violation of section 9 of the Charter however follows from the unlawful seizure of breath samples. Indeed, given that Ms. Gonzales Trejos’ detention at the station was ostensibly for the purpose of complying with a lawful demand to provide suitable breath samples, but there was no such demand and no valid search for her to participate in, her detention for that purpose was not authorized by law. It was therefore arbitrary and in violation of Ms. Gonzales Trejos’ rights under s. 9 of the Charter.
+
+Implementation of the Right to Counsel
+
+[56]      Upon arrest, section 10(b) of the Charter guarantees that a person will be advised of their right to retain and instruct counsel without delay. It also guarantees that they will be afforded the opportunity to do so without delay, should they choose to exercise that right.
+
+[57]      Providing the detainee with a reasonable opportunity to exercise their right “without delay” means “at the earliest practical opportunity” or “at the first reasonably available opportunity”. While the ultimate burden to prove a Charter violation rests on the defence, the burden is on the Crown to show that a given delay was reasonable in the circumstances: R. v. Taylor, 2014 SCC 50, at paras. 24-25 and 32.
+
+[58]      The defence submits that Ms. Gonzales Trejos was not afforded the opportunity to speak with counsel without delay, in particular because there was no consideration given to the possibility of enabling a call with counsel at the roadside, following her arrest.
+
+[59]      A preliminary issue arises because the police’s duty to enable a call with counsel is only triggered where the person requests to speak with counsel or otherwise invokes their right. In this case, Ms. Gonzales Trejos was never asked whether she wished to speak with counsel after she was informed of her right to do so.
+
+[60]      Asking the detainee if they would like to speak to counsel is standard practice – it is in fact a question that is included in police officers’ notebooks as part of the language recited when informing a person of their right to counsel. The import of that question goes without saying. Officers cannot presume waiver of the right where someone remains silent in the face of being advised of their right to counsel – they have a duty to ensure that any waiver is informed and unequivocal. At minimum, they must ask the person whether they wish to invoke their right, to understand whether they are waiving it or not. In some sense, Ms. Gonzales Trejos was effectively denied the opportunity to invoke her right.
+
+[61]      In any event, despite not having asked, both officers in this case assumed that Ms. Gonzales Trejos wanted to speak with counsel. She did ask for her phone on two occasions after her arrest. The Crown asks me to infer that this was not for the purpose of trying to reach counsel, but rather to reach her boyfriend whom she communicated with upon being pulled over.
+
+[62]      I cannot make that inference, nor do I need to make any inference about who she intended to call in order to adjudicate this matter. The fact of the matter is that both officers took for granted that she wanted to speak to counsel, and PC Syrydiuk accepted that they were under a duty to facilitate that, from the time of her arrest. It would be wrong to conclude that this duty wasn’t triggered on the basis that the officers didn’t know for certain because they failed to ask, as the Crown acknowledges they should have done.
+
+[63]      If they were uncertain about her wishes, they would have asked. And I can only infer that Ms. Gonzales Trejos would have responded in the affirmative, given that that is what she did once asked at the station. She also had several questions for the officers and expressed confusion on a few occasions. She would no doubt have valued getting advice from counsel if afforded that opportunity. Both officers assumed as much – that she had effectively invoked her right to speak with counsel.   
+
+[64]      The officers therefore had a duty to implement that right without delay.
+
+[65]      Both officers testified that they did not afford Ms. Gonzales Trejos the opportunity to speak with counsel at the roadside given that they could not provide her with the privacy needed for such a call, given that their BWCs and the ICC were recording. Though they provided this explanation in their testimony at trial, both agreed that they did not turn their minds to whether it would have been possible to accommodate a call to counsel prior to arriving at the station. It was simply not something that they would enable, based on their training.
+
+[66]      In Taylor, at paras. 24, 27-28, the Supreme Court held that a police officer does not need to provide their own cell phone to a detainee to facilitate access to counsel, but they nevertheless have “a constitutional obligation to facilitate the requested access to a lawyer at the first reasonably available opportunity”.
+
+[67]      The Court in that case addressed the assertion that access to counsel had to be delayed because the accused was at the emergency ward. It stated, at para. 33:
+
+Not everything that happens in an emergency ward is necessarily a medical emergency of such proportions that communication between a lawyer and an accused is not reasonably possible. Constitutional rights cannot be displaced by assumptions of impracticality. Barriers to access must be proven, not assumed, and proactive steps are required to turn the right to counsel into access to counsel.
+
+[68]      Similarly, whether access to counsel at the roadside ought to be facilitated will depend on the circumstances of the particular case. In many circumstances, the police will be justified in delaying a call to counsel until the person is at the police station.
+
+[69]      In R. v. Rover, 2018 ONCA 745, the Court of Appeal recognized the need to delay providing access to counsel in some circumstances based on police or public safety, or to preserve evidence. But it added that officers need turn their mind to the specific circumstances of the case, and there should be a reasonable basis for concluding that the delay is necessary: paras. 24-27, 32-34.
+
+[70]      In many cases, safety and security considerations will preclude the feasibility of communicating with counsel at the roadside: see, for instance, R. v. Bernard, 2018 ONSC 5134, at paras. 29 and 31; R. v. Roberts, 2015 ONSC 7974, at para. 130. Both officers here agreed that they did not have such concerns: Ms. Gonzales Trejos was cooperative and fully compliant. I also note that there was no traffic in the vicinity, or anyone around beyond the backup officers and Ms. Gonzales Trejos’ acquaintance. The fact that they were waiting on a small quiet street and not at the scene of an accident, as was the case in both Bernard and Roberts, is also relevant to the analysis.
+
+[71]      The officers did point to the fact that when a person is in their custody, as Ms. Gonzales Trejos was, they should be recorded. In my view, this consideration cannot carry the day in all cases. While it is most sensible and indeed important for the police to ensure that their recording equipment is activated when they have someone in their custody, the s. 10(b) case law suggests that there is no bright line rule, including when it comes to ensuring privacy for a call to counsel.
+
+[72]      In R. v. Pileggi, 2021 ONCA 4, at paras. 75-78, the Court held that the police are not expected to provide access to counsel on scene where the accused cannot reasonably be afforded privacy in a secure environment. But the presence of a cellular phone or smartphone is a factor to consider in this analysis. 
+
+[73]      In R. v. George, (2004) 2004 CanLII 6210 (ON CA), 187 C.C.C. (3d) 289 (Ont. C.A.), the Court found that although the right to counsel is suspended pending a roadside ASD test, where that test is delayed because the ASD is not on scene, such that no valid demand can be made, the police may have a duty to implement the right to counsel at the roadside: see also R. v. Kalyanaramier, 2020 ONCJ 348, at paras. 22-26; R. v. Johnson, [2015] O.J. No. 1245 (Prov. Ct). While the holding in that case may be impacted by the Supreme Court’s later decision in R. v. Breault, 2023 SCC 9, which speaks to the consequences of not having an ASD on scene, I take the case to speak to a broader point: that in some circumstances, the police may have a duty to implement the right to counsel at the roadside. The actual length of the delay must be considered: George, at paras. 33, 41-42 and 56. See also R. v. Cote (1992), 1992 CanLII 2778 (ON CA), 70 C.C.C. (3d) 280 (Ont. C.A.).
+
+[74]      In George, the officer was aware that there would likely be a delay of fifteen to twenty minutes before the screening device arrived. The Court stated, at para. 42, that:
+
+In the face of that information, it was incumbent upon the officer to take reasonable steps to facilitate the respondent detainee’s right to consult counsel.  Such steps would involve asking the detainee whether he had a cellular telephone.  In this case, the evidence is that the respondent would have used his cellular telephone and called his lawyer. 
+
+[75]      The Court, added, at para. 55, that “In Cote, Arbour J.A. explicitly stated that the ready availability of a telephone was a relevant factor for the court to consider in determining whether a detainee had a realistic opportunity to consult counsel during the period of delay between the issuance of the demand and the production of the breath sample.” 
+
+[76]      There is ultimately no black and white rule about whether roadside contact should be facilitated for the police to discharge their obligation to enable communication with counsel without delay. It will depend on the facts of each case. But to discharge their constitutional duties, it does appear essential for officers to consider the possibility of providing access to counsel at the roadside, where appropriate: Rover; R. v. Tremblay, 2021 QCCA 24, at paras. 42, 52 and 77-78.
+
+[77]      In Freddi v. R., 2021 QCCA 249, the Quebec Court of Appeal held at para. 40 that:
+
+[P]olice officers are not obliged to let detained persons call their lawyer, at the scene, with a cell phone. They must, nevertheless, take that possibility into account in determining when the first reasonable opportunity to allow the detained person to have access to counsel occurs. Their duty is to consider the overall circumstances when making their decision, and purely theoretical reasons unconnected to the case will not suffice.
+
+[78]      In this case, the police were well aware that Ms. Gonzales Trejos had a cell phone. She used it in front of them and requested it. She would have been able to use her phone in the secure environment where she was, in the back of the police cruiser. The officers agreed that they could have turned off the audio to the ICC, and to their BWCs. This could have reasonably afforded her the privacy needed to speak to counsel, all the while addressing the concern raised by the officers that they should be recording individuals who are in custody under their care: see in this regard Freddi, at para. 49.
+
+[79]      While the police can in some circumstances rely on the inability to reasonably afford privacy in a secure environment to delay the right to counsel, as found in Pileggi, it surely cannot be the case that roadside conversations with counsel can never occur now that virtually every police scout car is equipped with an In Car Camera. In some circumstances, in particular where there are no concerns regarding the deletion of evidence or the police requiring the detainee’s phone for evidentiary purposes, where there are no security concerns that preclude officers from leaving the accused alone inside their scout car, with the audio off, and where there is no chaos at the scene, it may be possible to accommodate this. 
+
+[80]      As in Tremblay, however, the issue here is not that Ms. Gonzales Trejos was not permitted to use her cell phone to call a lawyer. The issue is that the two officers did not even consider this possibility, although it was their responsibility to do so. Again, like in Tremblay, they did not consider this possibility because of a systemic issue: they are not trained or directed to consider this possibility. Rather, they operate on the rule that the opportunity to contact counsel is to be provided at the police station. That is not the law.
+
+[81]      The duty to facilitate access to counsel arises immediately after the detainee has asked to speak with counsel, which means at the first reasonably available opportunity.  The overall circumstances should be taken into account: Rover, at paras. 24-27.
+
+[82]      As stated in Freddi, at para. 43, “[t]he prosecution's burden requires a demonstration of fact on a case-by-case basis, as the respondent concedes, not hypotheses or an unwavering rule in the nature of a directive.”
+
+[83]      Courts have been more inclined to find that a roadside call with counsel should be facilitated in cases where the detainee cannot immediately be transported to the station. For instance, in R. v. Lumby, (2020) O.J. No. 2203, the police were waiting at the scene for someone to attend to take charge of the detainee’s children who were sleeping in the vehicle. Like here, Ms. Lumby was cooperative and there was no one else around other than the children.
+
+[84]      In this case, the officers delayed their departure for the station as they could not leave Ms. Gonzales Trejos’ vehicle in the roadway where it was located. They called for backup so that other officers could attend and arrange for the vehicle to be towed or moved.
+
+[85]      Once the backup arrived, and after they had conveyed the necessary information they needed to convey, they had a minutes-long muted discussion with the officers, before being interrupted by the male who knew Ms. Gonzales Trejos. No one was able to account for what that conversation was about, given the muted BWCs. They could not recall the topic of discussion and PC Syrydiuk agreed that they could have been talking about anything, including sports – he simply could not say. PC Syrydiuk also acknowledged that were it not for this conversation, they could have gotten to the station earlier.
+
+[86]      The officers ultimately began transporting Ms. Gonzales Trejos to the station just over 10 minutes after her arrest. While not a significant amount of time in itself, it ultimately led to her not having the opportunity to contact counsel until well over an hour after her arrest. Once at the station, the officers and Ms. Gonzales Trejos had to wait just under 20 minutes before being able to parade her before the booking sergeant. The officers would have been able to expect some delay at the station before being able to access the booking hall, as is common and occurred here. It is unclear whether there was some delay in the police placing a call to duty counsel following the booking, as they did not have a record of that time. Ultimately, she was connected to duty counsel at 1:46 am, over an hour after being advised of her right to counsel and effectively invoking that right.
+
+[87]      I am satisfied based on all the above circumstances that the Crown has not discharged its burden of showing that access to counsel was facilitated at the earliest reasonable opportunity.
+
+[88]      The facts in this case are very similar to those in Tremblay, at paras. 24-25. In that case, there was a violation of the accused’s right to counsel following a 54-minute delay to speak to counsel at the detachment, in contrast to the limited time it would have taken to implement the right using her phone at the roadside.
+
+[89]      I therefore find a violation of Ms. Gonzales Trejos’s right to counsel under s. 10(b) of the Charter.
+
+[90]      Before she could speak to counsel, the booking sergeant questioned Ms. Gonzales Trejos regarding whether she had consumed alcohol that night. In response, she provided information about how many drinks she had had and when. 
+
+[91]      I will turn to the issue of whether this self-incriminating statement, together with the breathalyzer evidence and observations made of Ms. Gonzales Trejos, should be excluded pursuant to s. 24(2) of the Charter.
+
+[92]      Before doing so, however, there is a further issue that arose in this case that touches on Ms. Gonzales Trejos’ right to counsel – that of the breath technician disparaging duty counsel to whom she had just spoken.  
+
+[93]      Where a detainee requests a particular counsel, disparaging comments about the lawyer are likely to undermine the relationship between solicitor and client, which amounts to a serious breach of s. 10(b): R. v. Burlingham, 1995 CanLII 88 (SCC), [1995] 2 S.C.R. 206, at para. 14.
+
+[94]      Here, Ms. Gonzales Trejos did not request a particular counsel, but she had already spoken to a particular counsel. That counsel was disparaged by the breath technician. In my view, this would have had the effect of undermining the accused’s confidence in the advice she had received from that lawyer and is equally problematic.
+
+[95]      Ms. Gonzales Trejos was still in custody and would have been operating based on the advice she had received from counsel. To undermine that would have the effect of placing the accused back in position of effectively not having received any advice from counsel. Indeed, PC Wiggermann’s comment would have the effect of creating doubt about the reliability of the advice received.
+
+[96]      The comment did not merely have to do with apparently incorrect information Ms. Gonzales Trejos had been given about when she would be released. The officer’s comment undermined the lawyer altogether. The comment caught her attention, and she questioned the officer about it. I can infer that her trust in that counsel and everything he conveyed to her would have been shaken because of the officer’s statement.
+
+[97]      Though the facts are very different, the issue of undermining the legal advice given by counsel was considered by the Supreme Court in R. v. Dussault, 2022 SCC 16. At para. 46, the Court held that the consequence of such conduct by the police is that it triggers a police duty to provide the detainee with a second opportunity to consult counsel. Failing to discharge that duty will result in a breach of the right to counsel.
+
+[98]      The same reasoning ought to apply here. While the police undermined counsel’s advice after the breath samples had been taken and towards the end of Ms. Gonzales Trejos’ detention, it is a serious matter. As cited in Dussault, at para. 56, Doherty J.A. in Rover described the right to counsel as a “lifeline through which detained persons obtain legal advice and the sense that they are not entirely at the mercy of the police while detained.” As in Dussault, Ms. Gonzales Trejos was not given an opportunity to re-establish this lifeline. This occasioned a further breach of her s. 10(b) right.
+
+Exclusion of Evidence Under s. 24(2)
+
+[99]      The defence seeks the exclusion from evidence of the seized breath samples, Ms. Gonzales Trejos’ statement, and certain observations made of her, pursuant to s. 24(2) of the Charter.
+
+[100]   In R. v. McColman, 2023 SCC 8, the Supreme Court considered s. 24(2) in the context of a drinking and driving case. It wrote, at paras. 53 and ff., that:
+
+Section 24(2) requires that evidence obtained in a manner that infringes the Charter rights of an accused be excluded from the trial if it is established that “having regard to all the circumstances, the admission of it in the proceedings would bring the administration of justice into disrepute”. The s. 24(2) analysis is an objective one, evaluated from the perspective of a reasonable person, and the burden to persuade a court that admission of the evidence would bring the administration of justice into disrepute rests on the party seeking exclusion: Grant, at para. 68.
+
+Section 24(2) is focused on maintaining the long-term integrity of, and public confidence in, the justice system. Accordingly, the exclusion of evidence under s. 24(2) is directed not at punishing police misconduct or compensating the accused, but rather at systemic and institutional concerns: Grant, at para. 70. In Grant, this Court explained that the s. 24(2) analysis engages three lines of inquiry: (1) the seriousness of the Charter-infringing state conduct; (2) the impact of the breach on the Charter‑protected interests of the accused; and (3) society’s interest in the adjudication of the case on its merits. Courts are tasked with balancing the assessments under each of these lines of inquiry, but as recognized in Grant, “[t]he balancing mandated by s. 24(2) is qualitative in nature and therefore not capable of mathematical precision”: para. 140.
+
+Trial courts must evaluate each of the three lines of inquiry thoroughly. A cursory review of the Grant test prevents appropriate appellate review and transforms s. 24(2) from a contextual inquiry into a bright-line rule.
+
+[101]   The crux of the analysis here is whether the admission of the evidence would bring the administration of justice into disrepute, having regard to all the circumstances. This is measured by evaluating and balancing the following three factors, known as the “Grant factors” pursuant to R. v. Grant, 2009 SCC 32:
+
+(1) the seriousness of the Charter-infringing state conduct, (2) the impact of the breach on the Charter-protected interests of the accused, and (3) society’s interest in an adjudication of the case on its merits.
+
+(1) Seriousness of the Charter-infringing conduct
+
+[102]   As stated in McColman, at paras. 57-59:
+
+The first line of inquiry focuses on the extent to which the state conduct at issue deviates from the rule of law. As this Court stated in Grant, at para. 72, this line of inquiry “requires a court to assess whether the admission of the evidence would bring the administration of justice into disrepute by sending a message to the public that the courts, as institutions responsible for the administration of justice, effectively condone state deviation from the rule of law by failing to dissociate themselves from the fruits of that unlawful conduct”. Or as this Court phrased it in R. v. Harrison, 2009 SCC 34, [2009] 2 S.C.R. 494, at para. 22: “Did [the police conduct] involve misconduct from which the court should be concerned to dissociate itself?”
+
+In evaluating the gravity of the state conduct at issue, a court must “situate that conduct on a scale of culpability”: R. v. Paterson, 2017 SCC 15, [2017] 1 S.C.R. 202, at para. 43. As Justice Doherty observed in R. v. Blake, 2010 ONCA 1, 251 C.C.C. (3d) 4, “the graver the state’s misconduct the stronger the need to preserve the long‑term repute of the administration of justice by disassociating the court’s processes from that misconduct”: para. 23. To properly situate state conduct on the “scale of culpability”, courts must also ask whether the presence of surrounding circumstances attenuates or exacerbates the seriousness of the state conduct: Grant, at para. 75. Were the police compelled to act quickly in order to prevent the disappearance of evidence? Did the police act in good faith? Could the police have obtained the evidence without a Charter violation? Only by adopting a holistic analysis can a court properly situate state conduct on the scale of culpability.
+
+… State conduct that is not particularly serious may nonetheless heavily impact the accused’s Charter-protected interests. Conversely, state conduct that is egregious may minimally impact the accused’s Charter-protected interests.
+
+[103]   While there was a complete failure to make the necessary demand and thus a clear breach of s. 8, the police conduct in this case was certainly not egregious.
+
+[104]   Officers Astapov and Syrydiuk were on their first impaired investigation. They omitted to read the breath demand, or anything akin to it. But this was an oversight by inexperienced officers, not done in bad faith.
+
+[105]   And the delay in implementing Ms. Gonzales Trejos’ right to counsel once at the station was largely attributable to waiting to be paraded and the booking process. The delay before being transported to the station was not overly prolonged.
+
+[106]   Still, there are a constellation of factors here that increase the seriousness of the breaches, such that I cannot characterize it as benign.
+
+[107]   First is the fact that there were many points at which the failure to make the breath demand could have been remedied to some extent, or its impact minimized, yet this was not done. Detainees will usually be informed of why they are attending the station either informally, or at a minimum once they are brought to the breath room and engage with the qualified breath technician. Indeed, these technicians generally reiterate the earlier demand, whether it has already been provided or not. This safety valve can remedy a Charter violation arising from prior officers overlooking the breath demand.
+
+[108]   Yet here, PC Wiggermann does not make the demand as a matter of general practice, if he is informed that it has been given. Even if he did, he does not generally query the grounds for the breath demand, or ensure he has formed his own, such that any demand he made could meet the legislative requirements of s. 320.28. The reason for this practice is concerning: he has stopped querying officers so as to not engage in an argument with them. In his experience, some officers apparently perceive that they are being challenged on their grounds. He agreed that officers could sometimes become aggressive. He therefore no longer asks.
+
+[109]   This set of circumstances, which raises questions and creates a scenario by which it is more likely that detainees’ rights will be breached and not remedied in any way, enhances the seriousness of the breaches in the present case.
+
+[110]   Another concern is that PC Wiggermann was advised that the breath demand had been made, which was not true. While I do not find that PC Astapov purposely sought to mislead PC Wiggermann, he had no knowledge that this had been done or any basis for representing as much, and he never sought to have this information verified or confirmed by PC Syrydiuk, even after the fact.
+
+[111]   In Guenter, the Court found that there was no breach of s. 8 because the breath technician had remedied the earlier failure to make a breath demand and had made a valid demand as soon as practicable and based on reasonable grounds. In that context, the court found, at para. 98, that if there was a breach, it was not a serious one.
+
+[112]   However, those facts are quite different from the ones here. In Guenter, a demand was made – two in fact. The issue was merely delay. Here, no formal or informal demand was made whatsoever. Had the failures only been the inadvertent ones of the inexperienced arresting officers, I would have agreed that the breach was not especially serious. PC Syrydiuk was inexperienced and made a mistake. He was upfront about it and testified honestly. His error was an oversight, and he wasn’t present when assurances were later given to the breath technician that the demand had been made.
+
+[113]   But PC Astapov did not take care to ensure the demand had been made by his colleague, before conveying to the breath technician that it had been done. He had no reason to believe it was, especially since he himself had only told PC Syrdiuk to give Ms. Gonzales Trejos her rights to counsel. There had been no discussion about any breath demand being administered. While he did not know his answer to be false, he also did not know it to be true. Were it not for this lack of care and erroneous information being provided to the breath technician, the breath demand would likely have been made at that time, thereby at least remedying the breach to some extent. 
+
+[114]   The above failures were never remedied by the actions of the experienced breath technician in this case. And they very easily could have been if this experienced officer had not adopted the practices he has adopted, for questionable reasons.  Instead, he has adopted a practice of not receiving the arresting officers’ grounds, and of not reiterating a breath demand if it is believed to have already been done. This carries some risk, which materialized here.
+
+[115]   There was some carelessness in some of the officers’ evidence before the court as well – testifying to something based on an unverified assumption that turned out to be incorrect, without any qualification to their answer.
+
+[116]   This lack of care on the part of officers charged with important duties and whose word is put forward under oath to be relied upon, is of concern and again weighs in the balance when assessing the seriousness of the violations here.
+
+[117]   There was also more than one violation in the present case.
+
+[118]   As it pertains to the s. 10(b) violation, the officers not only did not turn their minds to implementing Ms. Gonzales Trejos’ right to counsel at the roadside, they operated as they did based on their understanding – on the basis of their training – that the right to counsel should invariably be implemented at the police station.
+
+[119]   Moreover, PC Astapov believed, again based on his training, that the right to counsel had to be relayed and implemented “as soon as practicable”. This is an erroneous understanding of the constitutional requirement that the right to counsel is to be provided “without delay”.
+
+[120]   Yet providing the right to counsel without delay is a well-established concept that matters. As stated by the Supreme Court in R. v. Suberu, 2009 SCC 33, at para. 42, the words “without delay” in s. 10(b) of the Charter mean that officers have an obligation to inform the detainee of their right to counsel “immediately”, subject to concerns for officer or public safety or reasonable limitations prescribed by law or otherwise justified under section 1 of the Charter. Similarly, the implementation of the right to counsel should generally not be delayed unless justified by a risk that evidence will be destroyed, public safety, police safety, or some other urgent or dangerous circumstance: Rover, at para. 33.
+
+[121]   The failure by officers to properly understand the applicable standard is a recurring issue: see R. v. Taylor, 2014 SCC 50, at paras. 27-28, 32; and decisions from this jurisdiction including R. v. Nufio, 2023 ONCJ 255, at paras. 76-79.
+
+[122]   While PC Astapov equated “as soon as practicable” with “as soon as possible”, in my assessment the belief that the standard is “as soon as practicable”, rather than “without delay”, informs the general practice of waiting until the accused is brought to the station, searched, and paraded, before efforts are made to put them in touch with counsel. While that will often be the earliest time the police can reasonably implement the detainee’s right to counsel, the law is clear that in many cases it can be accommodated earlier, and in such cases it should be.
+
+[123]   Here, the officers never turned their mind to it at least in part because that is not what they were taught. When a routine police practice or directive unduly restricts a right, it tends to make the infringement more serious: R. v. Paterson, 2017 SCC 15, at para. 44; Rover, at paras. 39-40; Tremblay, at paras. 65-66, 68; Freddi, at para. 73. As stated in Rover, at para. 34:
+
+The effective implementation of the right to counsel guaranteed by s. 10(b) depends entirely on the police. The police must understand that right and be willing to facilitate contact with counsel. The practice under which the officers involved in this case operated demonstrates a disregard of a fundamental constitutional right.
+
+[124]   A lack of understanding of the law and constitutional rights by the police does not constitute good faith: R. v. Le, 2019 SCC 34, at para. 147. As stated by the Supreme Court in Tim, at para. 85:
+
+Good faith on the part of the police, if present, would reduce the need for the court to dissociate itself from the police conduct (see Grant, at para. 75; Paterson, at para. 44). Good faith cannot be claimed if the Charter breach arises from a police officer’s negligence, unreasonable error, ignorance as to the scope of their authority, or ignorance of Charter standards (see Grant, at para. 75; Buhay, at para. 59; Le, at para. 147; Paterson, at para. 44).
+
+[125]   The police were therefore not operating in good faith in this case. The s. 10(b) violation was the result of immutable practice rather than the circumstances of the case.
+
+[126]   I also make note of the fact that part of the constellation of factors that resulted in a s. 10(b) violation here includes the muting of the officers BWCs. At the time, Officers Astapov and Syrydiuk believed that their policy permitted them to mute in such circumstances. The courts have found that doing so is generally wrong and inappropriate. If done in bad faith, it can amount to a violation of section 7 of the Charter: see R. v. Sherif, 2024 ONSC 4098, at paras. 86 and 96; R. v. Azfar, 2023 ONCJ 241, at para. 35; R. v. Dunn, 2023 ONCJ 562, at paras. 44-45. While no such breach was established here, the contribution of the BWC muting to the s. 10(b) breach is aggravating to some extent.
+
+[127]   While not every minute of delay in implementing the right to counsel needs to be accounted for, the fact that I am unable to account for some of the time on scene when the officers’ BWCs were muted supports my finding that the officers were not doing what they could to ensure that Ms. Gonzales Trejos’ right to counsel was implemented at the earliest opportunity.
+
+[128]    Finally, I consider as part of the s. 10(b) violation PC Wiggermann’s actions in undermining the trust between Ms. Gonzales Trejos and the counsel she had spoken to, and in then minimizing this issue in his testimony before the court. Unlike Officers Astapov and Syrydiuk, PC Wiggermann is not inexperienced, yet he had minimal insight into how problematic this was even after the fact.
+
+[129]   Some of the above issues were not one offs. Rather, they occurred as a matter of standard practice for these officers. It thus cannot be chalked up to the two arresting officers’ inexperience.
+
+[130]   In light of the accumulation of breaches and above-noted concerns, I would qualify the seriousness of the breaches as moderate.
+
+Impact on the protected interests
+
+[131]   The Supreme Court in McColman explained at para. 66 that:
+
+The second line of inquiry is aimed at the concern that admitting evidence obtained in violation of the Charter may send a message to the public that Charter rights are of little actual avail to the citizen. Courts must evaluate the extent to which the breach “actually undermined the interests protected by the right infringed”: Grant, at para. 76. Like the first line of inquiry, the second line envisions a sliding scale of conduct, with “fleeting and technical” breaches at one end of the scale and “profoundly intrusive” breaches at the other: para. 76.
+
+[132]   The minimally intrusive means by which breath samples are obtained generally favours the admission of the evidence: see, Grant, at paras. 106-111; R. v. Manchulenko, 2013 ONCA 543, at paras. 93 and 100; and Tremblay, at para. 71. I must however account for the entirety of the circumstances, including the cumulative impact of the different violations that occurred in this case: R. v. Zacharias, 2023 SCC 30, at para. 57.
+
+[133]   Ms. Gonzales Trejos was unable to communicate with counsel until over an hour after her arrest. During that time, she had not been told why she was being brought to the station (other than she was under arrest) as no breath demand had been made. She was emotional and had raised questions about her arrest. Indeed, she frequently questioned why she was being arrested for “Over 80” and expressed confusion and uncertainty as to the reasons for her arrest. She was disconnected from the outside world and clearly eager to connect with someone, asking to use her phone and being quite emotional while in the police cruiser. She also viewed the arrest and detention as “a lot” – expressing that on more than one occasion. She also expressed feeling intimidated by the actions of the officers towards her.
+
+[134]   To be sure, I do not find the officers’ actions to have been untoward. But the focus of the analysis here is on Ms. Gonzales Trejos’ reasonable perception and the impact the violations had on her.
+
+[135]   She expressed concern about the officers being much larger than her yet restraining her physically in the police station. She questioned the necessity of their actions and of the way she was being treated. She was crying, confused, fearful, and felt intimidated.
+
+[136]   This is precisely what early access to counsel is meant to address. Persons who are detained by state authorities are at a disadvantage in their dealings with the state; they are deprived of liberty and risk incriminating themselves. The right to counsel is therefore crucial and enables detained persons not to feel entirely at the mercy of the police. As set out above, it is a lifeline that is not only meant to provide legal advice and guidance, “but also the sense that they are not entirely at the mercy of the police while detained. The psychological value of access to counsel without delay should not be underestimated”: Rover, at paras. 44-46; see also Tremblay, at para. 73.
+
+[137]   Instead, Ms. Gonzales Trejos was deprived of all outside contact for over an hour, despite the fact that she had requested her phone and also requested to speak with her presumed boyfriend who had attended the scene and very well could have assisted her with getting in touch with a lawyer.
+
+[138]   Moreover, Ms. Gonzales Trejos provided breath samples in the face of an unlawful demand. She would have been within her right to refuse to provide the samples. Instead, she was put in a situation where she was compelled by the police to comply with their requests and give evidence against herself when she was not legally required to do so. Duty counsel would not have been aware that no demand had been made. I agree with counsel’s submission that this would impair counsel’s ability to provide proper advice.
+
+[139]   Ms. Gonzales Trejos was also unlawfully detained for the purpose of obtaining these breath samples. She was deprived of liberty and made to participate in this unlawful investigative step.
+
+[140]   There was some evidence that she was also brought to the station to prevent the continuation of the offence, and that she would potentially have remained in custody based on her readings, at least if she could not be released to a responsible adult. Leaving aside the fact that she could not have been detained based on her readings when the police had no authority to obtain those readings, I cannot find that she would have remained in custody in light of her level of intoxication given that she was released to someone who was at the station waiting for her and had been present on scene from just after her arrest. I therefore can only find that Ms. Gonzales Trejos’ detention for the purpose of providing breath samples that she was not lawfully required to provide resulted in a prolonged detention.
+
+[141]   Finally, Ms. Gonzales Trejos was conscripted to give self-incriminating evidence prior to accessing counsel. Indeed, the staff sergeant questioned her about her consumption of alcohol, the timing of same and over what period she had been drinking. She provided answers to all these questions, when she had no obligation to do so, and before obtaining legal advice.
+
+[142]   I therefore find that these violations had a very real impact on the accused, as established by the evidence. I would characterize this impact as moderate but tending toward the more serious end of the spectrum.
+
+(3) Impact on the administration of justice
+
+[143]   On the last prong of the Grant test, the Court in McColman stated:
+
+[69]             The third line of inquiry asks whether the truth-seeking function of the criminal trial process would be better served by admission of the evidence, or by its exclusion. This inquiry requires courts to consider both the negative impact of admission of the evidence on the repute of the administration of justice and the impact of failing to admit the evidence: Grant, at para. 79. In each case, “it is the long-term repute of the administration of justice that must be assessed”: Harrison, at para. 36.
+
+[70]         Under this third line of inquiry, courts should consider factors such as the reliability of the evidence, the importance of the evidence to the Crown’s case, and the seriousness of the alleged offence, although this Court has recognized that the final factor can cut both ways: Grant, at paras. 81 and 83-84. While the public has a heightened interest in a determination on the merits where the offence is serious, it also has a vital interest in maintaining a justice system that is above reproach: para. 84.
+
+…
+
+[73]        In light of the reliability and importance of the evidence as well as the seriousness of the alleged offence, the third line of inquiry pulls strongly in favour of inclusion. Admission of the evidence in this case would better serve the truth-seeking function of the criminal trial process and would not damage the long-term repute of the justice system.
+
+[144]   These considerations favour admission of the evidence in this case as well, as they tend to do in most cases. The breath samples are essential to the Crown’s case and are highly reliable.
+
+[145]   The offence is also a serious one – in particular given Ms. Gonzales Trejos’ high readings.
+
+[146]   The third line of inquiry under Grant favours the admission of the evidence as to do so would promote the public's interest in having the case adjudicated on its merits.
+
+Final balancing
+
+[147]   I am left with two factors that pull in favour of exclusion, albeit moderately so, and one that pulls quite strongly in favour of admission of the evidence. In R. v. McGuffie, 2016 ONCA 365 at para. 63, Justice Doherty wrote that “[i]f the first and second inquiries make a strong case for exclusion, the third inquiry will seldom, if ever, tip the balance in favour of admissibility”. See also Le, at para. 142.
+
+[148]   In the present circumstances, however, I am faced with a much less obvious contrast.
+
+[149]   Recently, in Tim, at para. 85, the Supreme Court acknowledged that “[e]ven where the Charter infringement is not deliberate or the product of systemic or institutional abuse, exclusion has been found to be warranted for clear violations of well-established rules governing state conduct’ (Paterson, at para. 44; see also Harrison, at paras. 24-25).” [Emphasis added.]
+
+[150]   This is the case here. Ultimately, my determination that the evidence ought to be excluded turns on the cumulative impact of the breaches, that is, the fact that no breath demand or its equivalent was made at all, in a context where Ms. Gonzales Trejos also wasn’t provided access to counsel for over an hour and the officers did not turn their minds to providing earlier access – based on general practice – in circumstances where this could in all likelihood have been accommodated.
+
+[151]   Of import are the institutional concerns this case raises as it relates to early access to counsel and the long-established standard to be met in that regard, and to the breath technician’s general practices. As set out in Grant, at para. 70, the s. 24(2) analysis is directed at such concerns.
+
+[152]   I therefore exclude the evidence of the breath tests and Ms. Gonzales Trejos’ statements to the police regarding her consumption of alcohol that evening. Given the unlawful detention that resulted from the absence of any breath demand, I also deem it appropriate to exclude the recorded observations of Ms. Gonzales Trejos from the police station.
+
+ 
+
+Released:  September 8, 2025
+
+ 
+
+ 
+
+Signed: Justice Mainville

@@ -1,0 +1,448 @@
+Link: https://canlii.ca/t/kczjv
+Date: 2025 06 02
+File number: Hamilton 21-8993
+Citation: R. v. W.D., 2025 ONCJ 343
+Court: Ontario Court Of Justice
+Region: Not found
+Client: W.D.
+Judge: Justice J.P.P. Fiorucci
+
+R. v. W.D., 2025 ONCJ 343 (CanLII), <https://canlii.ca/t/kczjv>, retrieved on 2025-09-18
+
+WARNING
+
+The court hearing this matter directs that the following notice be attached to the judg­ment/file:
+
+            A non-publication and non-broadcast order in this proceeding has been issued under subsection 486.4(1) of the Criminal Code.  This subsection and subsection 486.6(1) of the Criminal Code, which is concerned with the consequence of failure to comply with an order made under subsection 486.4(1), read as follows:
+
+486.4  Order restricting publication — sexual offences. — (1)  Subject to subsection (2), the presiding judge or justice may make an order directing that any information that could identify the victim or a witness shall not be published in any document or broadcast or transmitted in any way, in proceedings in respect of
+
+   (a)   any of the following offences:
+
+            (i)   an offence under section 151, 152, 153, 153.1, 155, 160, 162, 162.1, 163.1, 170, 171, 171.1,172, 172.1, 172.2, 173, 213, 271, 272, 273, 279.01, 279.011, 279.02, 279.03, 280, 281, 286.1, 286.2, 286.3, 346 or 347, or
+
+            (ii)  any offence under this Act, as it read from time to time before the day on which this subparagraph comes into force, if the conduct alleged would be an offence referred to in subparagraph (i) if it occurred on or after that day; or
+
+   (b)   two or more offences being dealt with in the same proceeding, at least one of which is an offence referred to in paragraph (a).
+
+ 
+
+(2)   MANDATORY ORDER ON APPLICATION — In proceedings in respect of the offences referred to in paragraph (1)(a) or (b), the presiding judge or justice shall
+
+   (a)   at the first reasonable opportunity, inform any witness under the age of eighteen years and the victim of the right to make an application for the order; and
+
+   (b)   on application made by the victim, the prosecutor or any such witness, make the order.
+
+.   .   .
+
+486.6  OFFENCE — (1)  Every person who fails to comply with an order made under any of subsections 486.4(1) to (3) or subsection 486.5(1) or (2) is guilty of an offence punishable on summary conviction.
+
+            This hearing is governed by section 278.95 of the Criminal Code:
+
+Publication prohibited
+
+278.95 (1) A person shall not publish in any document, or broadcast or transmit in any way, any of the following:
+
+(a) the contents of an application made under subsection 278.93;
+
+(b) any evidence taken, the information given and the representations made at an application under section 278.93 or at a hearing under section 278.94;
+
+(c) the decision of a judge or justice under subsection 278.93(4), unless the judge or justice, after taking into account the complainant’s right of privacy and the interests of justice, orders that the decision may be published, broadcast or transmitted; and
+
+(d) the determination made and the reasons provided under subsection 278.94(4), unless
+
+(i) that determination is that evidence is admissible, or
+
+(ii) the judge or justice, after taking into account the complainant’s right of privacy and the interests of justice, orders that the determination and reasons may be published, broadcast or transmitted.
+
+Offence
+
+(2) Every person who contravenes subsection (1) is guilty of an offence punishable on summary conviction.
+
+ 
+
+
+ONTARIO COURT OF JUSTICE
+
+CITATION: R. v. W.D., 2025 ONCJ 343
+
+DATE:  2025 06 02
+
+COURT FILE No.:  Hamilton 21-8993
+
+ 
+
+BETWEEN:
+
+ 
+
+HIS MAJESTY THE KING
+
+ 
+
+— AND —
+
+ 
+
+W.D.
+
+ 
+
+ 
+
+ 
+
+Before Justice J.P.P. Fiorucci
+
+Section 278.94 Criminal Code Hearing held on May 9, 2025
+
+Ruling on Admissibility of s. 276 Evidence released on June 2, 2025
+
+Approved for Publication on June 24, 2025: s. 278.95(1)(c) of the Criminal Code
+
+ 
+
+ 
+
+Kayla McLaren.................................................................................... counsel for the Crown
+
+Geoffrey Read..................................................................  counsel for the defendant W.D.
+
+Mercedes Perez.............................................................   counsel for the complainant K.F.
+
+ 
+
+FIORUCCI J.:
+
+INTRODUCTION
+
+[1]         The defendant, W.D., is charged with sexual assault and sexual exploitation of K.F. The defendant is the ex-partner of J.F. who is K.F.’s mother. According to K.F., the defendant was a father figure to her.
+
+[2]         On August 26, 2021, the defendant was temporarily living in the same home with K.F., J.F., and K.F.’s three siblings. K.F. was 16 years old at the time. K.F. alleges that the defendant came into the bathroom when she was in the shower. He first poked her through the shower curtain and then opened the curtain and rubbed his hand up and down her naked body. Within moments, K.F. reported the incident to her mother. J.F. confronted the defendant and called the police. The defendant was arrested that same night.
+
+[3]         K.F. and J.F. gave statements to the police. During their police statements, they both mentioned that K.F. had been sexually assaulted by her biological father as well. K.F. said that the sexual touching by her biological father happened when she was four years old.
+
+[4]         The defendant applied under s. 276 of the Criminal Code to adduce evidence of a purported recantation by K.F. of the allegation she made against her biological father. The defendant claims that, about a month before he was charged, K.F. told him and J.F. that she had lied about her father touching her.
+
+[5]         At Stage One, the Crown conceded that the evidence was capable of being admissible under s. 276(2). A Stage Two hearing was conducted under s. 278.94 to determine the admissibility of the evidence. This ruling explains my reasons for finding that evidence of K.F.’s allegation against her biological father and her purported recantation of that allegation is admissible on the defendant’s trial.
+
+[6]         Pursuant to s. 278.3 of the Criminal Code, the defendant also applied for production of child protection records relating to K.F.’s sexual assault allegation against her biological father which are in the possession of Hamilton Child and Family Supports (formerly the Hamilton Children’s Aid Society or “CAS”). The s. 278.4 hearing to determine whether the records will be produced to the court for review is scheduled for June 2, 2025.[1]
+
+PARTICULARS OF THE SECTION 276 APPLICATION
+
+[7]         The defendant’s Form 1 application states that the proposed s. 276 evidence does not run afoul of the prohibition on twin-myth inferences contained in s. 276(1) and is relevant because “it provides an evidential foundation for the court to determine that it cannot rely upon the allegations of [K.F.] that [the defendant] committed these offences against her because she has previously made similar allegations against her own father and subsequently recanted them”. The defence says that the proffered evidence demonstrates “a willingness to make false complaints of this kind”.
+
+[8]         On August 27, 2021, Detective Philip Hedgcock of the Hamilton Police Service interviewed K.F. and J.F. The following exchange occurred between the detective and K.F.:
+
+K.F.: It’s not the first time with a guy.
+
+Det. Hedgcock: With him?
+
+K.F.: With him, it’s the first time, yes. With my biological father, I was four, but he got to walk. So, there was, they didn’t want to put me on the stand ‘cause I was four, so….
+
+Det. Hedgcock: Okay.
+
+K.F.: …there wasn’t enough evidence.
+
+Det. Hedgcock: Okay.
+
+K.F.: Yeah
+
+Det. Hedgcock: We’re not gonna get into that one.
+
+K.F.: That’s case closed.
+
+Det. Hedgcock: Like that’s already done, we’re not gonna get into that, okay.
+
+[9]         In her interview with Detective Hedgcock, J.F. described how she first learned about K.F.’s allegation against the defendant when she received a text message from K.F. and mistakenly thought that K.F. had again been sexually assaulted by her biological father:
+
+Det. Hedgcock: Okay. Did you get, so what was in the text message that you got?
+
+J.F.: She sent it here. And it says, “I’m scared. Dad said he felt like he had to pooh, then came in while I was in the shower and sat on the toilet, and I was just starting my shower and he opened the curtain, and started touching my body. I pushed his hands off of me, but he kept putting his hands on me. I thought he was dad.” So, I’m like, I have a vision of her biological father ‘cause her biological father has sexually assaulted her. And then she says, “[W.D.],” ‘cause I said to her, well, I sent her a message, “What are you talking about?” and that was at 9:59, and she’s like, “[W.D.]” came in and I started my shower and he kept, he kept trying to open the curtain and look and touch me”…[2]
+
+[10]      During her interview with Det. Hedgcock, J.F. did not mention anything about K.F. recently recanting her allegation against her biological father. J.F. did not say that K.F. told her and the defendant that she had lied about her father touching her when she was a child.  
+
+[11]      The defendant filed an affidavit in support of his s. 276 application. Crown counsel cross-examined the defendant on the contents of the affidavit. The defendant’s affidavit contains the following assertions:
+
+Para. 3: I dispute that the conduct that is the subject-matter of the charge occurred as alleged or that it constitutes the offences with which I am charged.
+
+Para. 9: I began living with [J.F.] and her two children, [K.F.] and [M.], about twenty years ago.
+
+Para. 10: A couple of years or so later, [K.F.] did not want to visit her father, named [B.S.], but [J.F.] was insisting that she visit him. [K.F.] then complained that he had touched her private area, so [J.F.] reported that to her CAS worker.
+
+Para 11: The CAS investigated the report but I was not privy to the details of that investigation because I was not [K.F.]'s biological father, nor was I …informed of the outcome of that investigation. However, I do know that CAS said [K.F.] was to be kept from her father and instead arranged for her to have supervised visits with him at the CAS facility…
+
+Para 12: About a month before I was arrested on August 27, 2021, [K.F.] told [J.F.] and me at our house that she wanted to see her father and said that he did not touch her but that she had lied because she …didn't want to visit him.
+
+[12]      When cross-examined by Crown counsel on his affidavit, the defendant said he thinks the recantation happened when he, K.F. and J.F. were sitting in the backyard of the home. According to the defendant, K.F. said “I lied. My dad did not touch me” which prompted him to ask “what?”. K.F. then repeated, “I lied. He never touched me”.
+
+[13]      The defendant initially said that he did not know how this conversation came about.  However, at a later point in the cross-examination, the defendant said he did remember how the conversation came about. K.F. said she wanted to visit her father. The defendant and J.F. asked her, “why the hell would you want to go visit your dad? He touched you”, which prompted K.F. to say, “he didn’t touch me, I lied”. According to the defendant, K.F. was upset that she didn’t get to see her father.
+
+[14]      The defendant testified that J.F. “kind of laughed” when K.F. said she had lied about her father touching her. When Crown counsel asked the defendant what he did after hearing the recantation, he replied, “went about my day”. The defendant said that he had no discussions privately with J.F. about K.F.’s recantation. He also testified that J.F. told the CAS about the recantation at one of their scheduled visits to the home a couple of days later. This detail was not included in his affidavit.  
+
+THE LEGAL PRINCIPLES
+
+[15]      Section 276(1) only prohibits the use of evidence of the complainant’s past or other sexual activity when it is offered to support one of the “twin myths”, namely that the complainant is more likely to have consented to the sexual activity that forms the subject-matter of the charge or that she is less worthy of belief “by reason of the sexual nature of activity she once engaged in”.[3] There are no circumstances under which “twin myth” reasoning is permitted. Section 276 applies to all sexual activity, whether with the accused or with someone else.[4] It also applies to non-consensual sexual activity as well as consensual sexual activity.[5]
+
+[16]      Evidence of the complainant’s other sexual activity may be admissible if it is “proffered for its non-sexual features”.[6] Section 276(2) applies to sexual activity evidence relating to a complainant that is sought to be adduced by or on behalf of the accused. At Stage Two (the s. 278.94 hearing), an accused who seeks to adduce presumptively inadmissible evidence of a complainant’s other sexual activity bears the onus of establishing its relevance and admissibility in accordance with the criteria set out in s. 276(2)(a) to (d), having regard to the factors set out in s. 276(3).
+
+[17]      The four criteria in s. 276(2) that must be met for the evidence to be ruled admissible are: (a) the evidence is not being adduced for one of the twin myth inferences in s. 276(1); (b) the evidence is relevant to an issue at trial; (c) the evidence is of specific instances of sexual activity; and (d) the evidence has significant probative value that is not substantially outweighed by the danger of prejudice to the proper administration of justice.
+
+[18]      The factors in s. 276(3) that the judge must consider in making the admissibility determination under s. 276(2) are:
+
+(a) the interests of justice, including the right of the accused to make a full answer and defence;
+
+(b) society's interest in encouraging the reporting of sexual assault offences;
+
+(c) whether there is a reasonable prospect that the evidence will assist in arriving at a just determination in the case;
+
+(d) the need to remove from the fact-finding process any discriminatory belief or bias;
+
+(e) the risk that the evidence may unduly arouse sentiments of prejudice, sympathy or hostility in the jury;
+
+(f) the potential prejudice to the complainant's personal dignity and right of privacy;
+
+(g) the right of the complainant and of every individual to personal security and to the full protection and benefit of the law; and
+
+(h) any other factor that the judge, provincial court judge or justice considers relevant.
+
+[19]      In R. v. Darrach, when the Supreme Court of Canada addressed the constitutionality of the procedure to introduce evidence of prior sexual activity, the Court said:
+
+It is a basic rule of evidence that the party seeking to introduce evidence must be prepared to satisfy the court that it is relevant and admissible. Lamer C.J. described the burden of proof on a voir dire to introduce evidence (in that case prior inconsistent statements) as being “on the balance of probabilities, the normal burden resting upon a party seeking to admit evidence” in R. v. B. (K.G.), 1993 CanLII 116 (SCC), [1993] 1 S.C.R. 740 (S.C.C.), at p. 800 (emphasis added). Prior sexual activity is, like hearsay, character evidence and similar fact evidence, restricted in its admissibility. If the defence seeks to adduce such evidence, it must establish that it supports at least some relevant inference. Parliament has specified criteria for admissibility in s. 276(2) to guide the discretion of trial judges in this area.[7]
+
+[20]      At Stage Two, the s. 278.94 hearing, an affidavit with detailed particulars must be filed by someone with relevant and personal knowledge of the facts who can personally testify to the truth of what is being asserted.[8] The affidavit must “establish a connection between the complainant’s sexual history and the accused’s defence”.[9] It need not be the accused himself who presents the evidence on the voir dire.[10] 
+
+[21]      An affidavit is necessary “because part of the purpose of the voir dire is to cross-examine the affiant”.[11] The basic rules of evidence require that the affiant, whether it be the accused or someone else, “submit to cross-examination because the right to cross-examine is essential to give any weight to an affidavit”.[12] In Darrach, the SCC explained the purpose of cross-examination on the affidavit:
+
+The Crown’s right to cross-examine on the affidavit under s. 276 is essential to protect the fairness of the trial. Cross-examination is required to enable the trial judge to decide relevance by assessing the affiant’s credibility and the use to which he intends to put the evidence. The trial judge correctly found that the legislation itself requires “some weighing and some assessing of the evidence” before it can be admitted [citation omitted]. Without cross-examination, “the court can not attribute much, if any, weight to such evidence” because it is impossible to assess its probative value and prejudicial effect as the legislation requires.[13]
+
+[22]      The SCC placed limits on the Crown’s right to cross-examine. The defence is required to produce an affidavit that shows how the prior sexual activity is relevant to the allegation of sexual assault made against the accused. The Crown has “the opportunity to cross-examine on whatever aspects relevant to the charge that the accused chooses to raise”.[14] However, the SCC in Darrach held that the trial judge was correct in finding that the cross-examination must be “confined to what is necessary to determine ... whether the proposed evidence is admissible”.[15]
+
+[23]      The SCC likened the s. 276 voir dire to the procedure in a Corbett application. The accused “reveals the evidence he intends to call for his case, which allows the trial judge properly to apply the factors relevant to his request”.[16] This does not provide the Crown with “an excuse…to deeply probe the case for the defence”.[17] Rather, “[t]he point is to provide the trial judge with the information he or she needs to make an informed decision, but the Crown has no right to require more than that”.[18]
+
+APPLICATION OF THE LEGAL PRINCIPLES
+
+Issues
+
+[24]      The two questions to be determined on this application relate to the requirements for admissibility in subsections 276(2)(b) and (d):
+
+(i)            Is the evidence of K.F.’s allegation against her biological father, and her purported recantation of that allegation, relevant to an issue at trial? and
+
+(ii)         Does this evidence have significant probative value that is not substantially outweighed by the danger of prejudice to the proper administration of justice,
+
+having regard to the general concerns and interests of justice outlined in s. 276(3)?
+
+[25]      I answer yes to both questions. There was no dispute regarding subsections 276(2)(a) and (c). Neither the Crown nor K.F.’s counsel argued that the defendant had failed to establish either of these requirements for admissibility. The proffered evidence is not being adduced for one of the twin myth inferences in s. 276(1) and is of a specific instance or instances of sexual activity.
+
+The Evidence on the Voir Dire
+
+[26]      Counsel for the Crown and K.F. argued that the defendant lacks credibility and that I should doubt the veracity of his evidence regarding K.F.’s recantation. They pointed to the fact that he raised this issue for the first time on the day his trial was scheduled to commence, which was three years after the purported recantation.[19] They also emphasized the absence of any corroborating evidence from J.F. on the voir dire, notwithstanding the defendant’s claim that J.F. was present when K.F. said she lied about her biological father. Furthermore, neither K.F. nor J.F. said anything to Det. Hedgcock about K.F.’s recantation although they both mentioned the prior assault by K.F.’s biological father in their police statements.
+
+[27]      I note that Crown counsel did not cross-examine the defendant about the veracity of his evidence that K.F. recanted the allegation or about his delay in raising the issue. Crown counsel did not suggest to the defendant that he had fabricated his account of K.F. telling him and J.F. that she had lied about her biological father touching her. The defendant’s evidence about the recantation was left unchallenged during cross-examination. The defendant has satisfied his obligation to “reveal the evidence he intends to call for his case” which is that he himself and J.F. heard K.F. recant a prior allegation of sexual assault.
+
+[28]      Based on the evidence tendered on the voir dire, I do not find that the defendant’s assertion that K.F. recanted her prior allegation of sexual touching is so lacking in credibility that it fails to meet the substantial probative value requirement for admission in s. 276(2). I make this finding recognizing that the absence of evidence from J.F. on the voir dire and the fact that neither K.F. nor J.F. mentioned the recantation to the police detective are factors which could cumulatively affect the credibility of the defendant’s claim that K.F. recanted her allegation against her father.  
+
+[29]      The assessment under s. 276(2) does not require me to make a finding of fact that K.F. did indeed recant her prior allegation of sexual abuse as the defendant claims. The issue to be determined on this application is whether the defendant is permitted to confront K.F. with his claim that she recanted, elicit evidence from J.F. about the recantation and/or testify himself about the recantation should he elect to give evidence at his trial. I turn next to relevance.
+
+Relevant to an Issue at Trial
+
+[30]      Each piece of evidence must satisfy three requirements before it is received in a criminal trial: relevance, materiality, and admissibility.[20] In R. v. T.(M.), the Ontario Court of Appeal succinctly described each of these requirements:
+
+Relevance is a matter of everyday experience and common sense, not an inherent characteristic of any item of evidence. Relevance exists as the relationship between an item of evidence proposed for reception and the proposition of fact the party tendering the evidence seeks to establish by its introduction. We assess the relevance of individual items of evidence in the context of the case in which the evidence is offered and the positions of counsel. An item of evidence is relevant if it makes the fact it seeks to establish slightly more or less probable than that fact would be without that evidence, through the application of everyday experience and common sense: R. v. Luciano, 2011 ONCA 89, 267 C.C.C. (3d) 16 (Ont. C.A.), at paras. 204-205.
+
+Materiality is a legal concept. Evidence is material if it is offered to prove or disprove a fact in issue. What is in issue is a function of the allegations contained in the indictment and the applicable substantive and procedural law: Luciano, at para. 207.
+
+Admissibility is also a legal concept. Its rules, which are negative and exclusionary, are grounded in policy considerations that we regard as sufficiently important to justify the exclusion of evidence that is both relevant and material. Admissibility rules are not unforgiving. They cede ground, occasionally admitting evidence by exception: Luciano, at para. 209.[21]
+
+[31]      As in most sexual assault trials, the credibility of the complainant, K.F., is of critical importance. The defendant denies K.F.’s allegation that he sexually assaulted her by touching her body when she was in the shower. K.F. made this allegation about the defendant, someone she considered to be a father figure, at a time when he was temporarily living in the home with K.F. and her family. The material fact in issue in this case is whether the sexual touching occurred.
+
+[32]      The defendant says that, about one month before K.F. made her allegation against him, K.F. told J.F. and the defendant that she wished to see her biological father, a man against whom she had made a sexual complaint when she was a child. The sexual assault allegation she made as a child resulted in K.F. having limited contact with her biological father. The defendant claims that K.F. recanted the allegation against her biological father during the same conversation in which she expressed a desire to see him. K.F.’s allegation against the defendant resulted in the defendant having to leave the home.
+
+[33]      Generally, “one cannot impugn a witness’s credibility by contradicting the witness on matters which are collateral even in a case where the ‘core’ issue is credibility”.[22] Courts have found that evidence of other allegations of sexual assault made by a complainant are a collateral issue and thus inadmissible.[23] The rationale for this rule is to guard against reasoning based on myths and stereotypes, such as “a single victim is unlikely to be sexually assaulted  by more than one person”,[24] or “a victim who accuses more than one person of sexual impropriety occurring in different circumstances is more likely to be lying about either or both occurrences than a victim who accuses only one person”.[25]
+
+[34]      There is a limited exception to this rule. In R. v. Riley,[26] the accused who was charged with sexual offences sought to cross-examine the complainant about a complaint of sexual assault she made against another person, Roswell. The accused also proposed to call Roswell as a witness to give evidence that the complainant’s allegations against him, which were similar to the allegations made against the accused, were false, and that he had been acquitted at his trial. The trial judge refused to permit the accused to cross-examine the complainant about her allegations against Roswell and refused to permit Roswell to give evidence that he denied the allegations and that he was acquitted.
+
+[35]      The Ontario Court of Appeal upheld the trial judge’s decision. In doing so, the Court said:
+
+The only legal basis of which we are aware that would justify the cross-examination of this complainant along the lines suggested would be in order to lay the foundation for a pattern of fabrication by the complainant of similar allegations of sexual assault against other men. This should not be encouraged unless the defence is in a position to establish that the complainant has recanted her earlier accusations or that they are demonstrably false.
+
+There is no indication that she was prepared to recant that allegation. The problem of proving falsity in these circumstances is considerable. To have Roswell testify that her complaint to the authorities about him was false, would only introduce a collateral issue of credibility which would be as difficult to resolve as those contained in the complaints of which the trial judge was seized. Even if we had a proper record of Roswell’s trial, a not guilty verdict, standing by itself, could not establish that the prosecution was based on fabricated testimony by the complainant [emphasis added].[27]
+
+[36]      I find that, unlike the facts in Riley, the defendant has led evidence on the voir dire that K.F. recanted her earlier allegation. The evidence presented on the voir dire raises the prospect that K.F.’s allegation of sexual touching against her father “might be false”.[28] If K.F. were to acknowledge making a false allegation of sexual assault against her biological father in the past, it would be relevant in the assessment of her general credibility, and relevant to assessing the credibility and reliability of her claim that the defendant touched her, especially since K.F. also saw the defendant as a parental figure.[29] This evidence fits squarely within the exception in Riley.
+
+[37]      The defendant’s case is unlike other cases relied on by the Crown and K.F.’s counsel in which the accused persons were unable to point to evidence that the complainant had recanted prior allegations or that the prior allegations were proven to be demonstrably false.[30] As I stated earlier in this ruling, based on the defendant’s evidence on the voir dire, I am unable to find that his claim that K.F. recanted her prior complaint is so lacking in credibility that it fails to satisfy the test for admission in s. 276(2). The context of the defendant’s case, including the defendant’s denial that any sexual touching occurred, makes the evidence of K.F.’s purported recantation, one month before her allegations against the defendant, relevant.
+
+Significant Probative Value not Substantially Outweighed by the Danger of Prejudice
+
+[38]      In Darrach, the SCC said that “[t]he requirement of ‘significant probative value’ serves to exclude evidence of trifling relevance that, even though not used to support the two forbidden inferences, would still endanger the ‘proper administration of justice’”.[31] An assessment of probative value involves consideration of “the extent to which the evidence actually assists in establishing the proposition for which it is tendered”.[32] The evidence must be “directed toward a material fact”.[33] Assessing probative value considers “the strength of the inference relied upon and the importance of the issue to which the evidence is relevant”.[34]
+
+[39]      Section 276(3)(a) requires me to consider the interests of justice, including the right of the accused to make full answer and defence. The evidence of the other sexual activity, K.F.’s complaint against her biological father, is necessary for the accused to put the recantation to K.F. and to suggest to her that it was, therefore, a false complaint of sexual touching. Without this evidence of other sexual activity, the defendant would be deprived of the opportunity of demonstrating that K.F. is a witness who can make false complaints of sexual touching. This evidence has significant probative value because the defendant denies touching K.F. in the shower.
+
+[40]      If K.F. were to acknowledge that she recanted the prior allegation, and that her complaint against her father was false, or if evidence of the recantation is accepted by the trier of fact, there is a reasonable prospect that the evidence will assist in arriving at a just determination of the case, the factor set out in s. 276(3)(c). It would call into question K.F.’s general credibility and the reliability of her complaint against the defendant. For evidence to have significant probative value, it “does not have to be capable of raising a reasonable doubt on its own-only in the context of all the other evidence”.[35]
+
+[41]      The parameters of the proposed questioning of the complainant are relevant to assessing the danger of prejudice to the proper administration of justice and the other factors in s. 276(3). The defendant wants to ask K.F. limited questions about her prior complaint. In essence, the defendant wants to ask the following questions: (i) when you were young, did you make an allegation of sexual touching against your biological father? (ii) did you make this complaint because you didn’t want to visit your father? (iii) did you admit to W.D. (the defendant) and your mother, J.F., that you had lied about your father touching you? and (iv) did you recant the allegation against your biological father because you changed your mind, and you did want to visit your father?
+
+[42]      K.F. was a child when she made the complaint of sexual touching against her father. She believes she was four years old at the time. While it is the defendant’s position that K.F. recanted the allegation against her father, K.F. may take a different position. She may deny the recantation and maintain that she was victimized by her father. It is important to recognize that cross-examining a victim about previous sexual victimization, especially a child victim, can cause great harm to their personal dignity and privacy. The questioning proposed by the defendant may cause prejudice to K.F.’s personal dignity and right of privacy (s. 276(3)(f)). However, I find that the potential prejudice can be minimized by prohibiting questioning about the details of the sexual touching by her father.
+
+[43]      Similarly, given the limited questioning that will be permitted in this area, I find that society’s interest in encouraging the reporting of sexual assault offences (s. 276(3)(b)) will be minimally impacted by admission of the evidence.
+
+[44]      The admission of the evidence does not risk insertion into the fact-finding process of any discriminatory belief or bias (s. 276(3)(d)). The fact that K.F. may have been the victim of a sexual assault by her biological father in the past does not, in and of itself, affect her credibility or diminish the reliability of her complaint against the defendant.
+
+[45]      Although this is a judge alone trial, admission of the evidence does not engender sentiments of prejudice, sympathy, or hostility (s. 276(3)(e)). The admission of the evidence and the limited questioning permitted will not unduly compromise the complainant’s right to personal security (s. 276(3)(g)).
+
+CONCLUSION
+
+[46]      Having considered the factors in s. 276(3), for the reasons set out above, I find that the evidence of K.F.’s prior complaint of sexual touching against her biological father is relevant and has significant probative value that is not substantially outweighed by the danger of prejudice to the proper administration of justice.
+
+[47]      The defendant is permitted to cross-examine K.F. about:
+
+(i)            whether she made an allegation of sexual touching against her biological father when she was young? The defendant will not be permitted to question K.F. about the details of the sexual touching by her biological father;
+
+(ii)         whether she made this complaint of sexual touching because she didn’t want to visit her biological father?
+
+(iii)         whether she admitted to the defendant and her mother, J.F., that she had lied about her father touching her? The defendant will be permitted to question K.F. about the circumstances of the purported recantation which occurred at the family home; and
+
+(iv)         whether she recanted the allegation against her biological father because she changed her mind, and she did want to visit him?
+
+[48]      The defendant will also be permitted to elicit evidence from J.F. (whether by way of examination-in-chief or cross-examination), and to testify himself, should he elect to testify, about K.F.’s purported recantation of her sexual touching allegation against her biological father.
+
+Released:  June 2, 2025
+
+ 
+
+ 
+
+ 
+
+ 
+
+Signed: Justice J.P.P. Fiorucci
+
+
+[1] The defendant filed a joint Application in Form 1 which addresses both the s. 276 application and the s. 278.3 production application. The parties agreed that these applications would be heard and determined separately.
+
+[2] In this passage, I have redacted the name by which K.F. referred to the defendant and have replaced it with “W.D.”.
+
+[3] R. v. Darrach, 2000 SCC 46, at para. 32.
+
+ 
+
+[4] Ibid, at para. 33.
+
+ 
+
+[5] Ibid, at para. 33.
+
+ 
+
+[6] Ibid, at para. 35.
+
+ 
+
+[7] Ibid, at para. 46. See also Prosecuting and Defending Sexual Offence Cases, Third Edition, Daniel Brown and Jill Witkin, Emond Montgomery Publications Limited, 2024, Toronto, ON, Chapter 13, p. 416, wherein the authors state that the accused must call evidence to establish each of the four criteria in s. 276(2) on a balance of probabilities.
+
+ 
+
+[8] Ibid, at para. 53.
+
+ 
+
+[9] Ibid, at para. 56.
+
+ 
+
+[10] Ibid, at para. 53.
+
+ 
+
+[11] Ibid, at para. 53.
+
+ 
+
+[12] Ibid, at para. 61.
+
+ 
+
+[13] Ibid, at para. 63.
+
+ 
+
+[14] Ibid, at para. 64.
+
+ 
+
+[15] Ibid, at para. 64.
+
+ 
+
+[16] Ibid, at para. 65.
+
+ 
+
+[17] Ibid, at para. 65, quoting from R. v. Underwood, 1998 CanLII 839 (SCC), [1998] 1 S.C.R. 77, at para. 10.
+
+ 
+
+[18] Ibid, at para. 65, quoting from R. v. Underwood, supra, at para. 10.
+
+[19] The case was scheduled for trial on June 13 and July 17, 2024. On June 13th, defence counsel advised that his client had provided him with new information that morning (regarding the recantation), that required him to bring the s. 276 and s. 278.3 applications.
+
+ 
+
+[20] R. v. T.(M.), 2012 ONCA 511, at para. 35.
+
+ 
+
+[21] Ibid, at paras. 36-38.
+
+ 
+
+[22] R. v. B.(A.R.), 1998 CanLII 14603 (ON CA), [1998] O.J. No. 3648 (Ont. C.A.), at para. 13.
+
+ 
+
+[23] R. v. B.(A.R.), ibid; R. v. Riley, 1992 CanLII 7448 (ON CA), [1992] O.J. No. 4072 (Ont. C.A.); R. v. D.K., 2020 ONCA 79.
+
+ 
+
+[24] Prosecuting and Defending Sexual Offence Cases, Third Edition, Daniel Brown and Jill Witkin, Emond Montgomery Publications Limited, 2024, Toronto, ON, Chapter 13, p. 425.
+
+ 
+
+[25] Ibid, at p. 425, citing R. v. T.(M.), supra.
+
+ 
+
+[26] R. v. Riley, supra.
+
+[27] Ibid, at paras. 9-10.
+
+ 
+
+[28] R. v. W.(B.A.), 1992 CanLII 24 (SCC), [1992] 3 S.C.R. 811 (S.C.C.), at para. 3.
+
+ 
+
+[29] R. v. Green, 2013 ONCA 74, at para. 4.
+
+ 
+
+[30] R. v. D.K., supra, and R. v. B.(A.R.), supra.
+
+ 
+
+[31] R. v. Darrach, supra, at para. 41.
+
+ 
+
+[32] Modern Criminal Evidence, Matthew Gourlay, Brock Jones, Jill Makepeace, Glen Crisp, Justice Renee Pomerance, Emond Montgomery Publications Limited, 2022, Toronto, ON, Chapter 1, p. 12.
+
+ 
+
+[33] Ibid, Chapter 1, p. 12.
+
+[34] Prosecuting and Defending Sexual Offence Cases, Third Edition, Daniel Brown and Jill Witkin, Emond Montgomery Publications Limited, 2024, Toronto, ON, Chapter 13, p. 435.
+
+ 
+
+[35] Ibid, Chapter 13, p. 434.

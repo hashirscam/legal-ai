@@ -1,0 +1,363 @@
+Link: https://canlii.ca/t/kdp07
+Date: 2025 08 05
+File number: Not found
+Citation: R. v. Cellupica, 2025 ONCJ 415
+Court: Ontario Court Of Justice
+Region: Not found
+Client: Alyssa Cellupica
+Judge: Justice Brock Jones
+
+R. v. Cellupica, 2025 ONCJ 415 (CanLII), <https://canlii.ca/t/kdp07>, retrieved on 2025-09-17
+
+A non-publication and non-broadcast order in this proceeding has been issued under subsection 486.4(1) of the Criminal Code.  This subsection and subsection 486.6(1) of the Criminal Code, which is concerned with the consequence of failure to comply with an order made under subsection 486.4(1), read as follows:
+
+486.4   Order restricting publication — sexual offences.—(1)   Subject to subsection (2), the presiding judge or justice may make an order directing that any information that could identify the complainant or a witness shall not be published in any document or broadcast or transmitted in any way, in proceedings in respect of
+
+     (a)   any of the following offences:
+
+               (i)   an offence under section 151, 152, 153, 153.1, 155, 159, 160, 162, 163.1, 170, 171, 172, 172.1, 173, 210, 211, 212, 213, 271, 272, 273, 279.01, 279.02, 279.03, 346 or 347,
+
+               (ii)   an offence under section 144 (rape), 145 (attempt to commit rape), 149 (indecent assault on female), 156 (indecent assault on male) or 245 (common assault) or subsection 246(1) (assault with intent) of the Criminal Code, chapter C-34 of the Revised Statutes of Canada, 1970, as it read immediately before January 4, 1983, or
+
+              (iii)   an offence under subsection 146(1) (sexual intercourse with a female under 14) or (2) (sexual intercourse with a female between 14 and 16) or section 151 (seduction of a female between 16 and 18), 153 (sexual intercourse with step-daughter), 155 (buggery or bestiality), 157 (gross indecency), 166 (parent or guardian procuring defilement) or 167 (householder permitting defilement) of the Criminal Code, chapter C-34 of the Revised Statutes of Canada, 1970, as it read immediately before January 1, 1988; or
+
+     (b)   two or more offences being dealt with in the same proceeding, at least one of which is an offence referred to in any of subparagraphs (a)(i) to (iii).
+
+(2)   Mandatory order on application.—   In proceedings in respect of the offences referred to in paragraph (1)(a) or (b), the presiding judge or justice shall
+
+     (a)   at the first reasonable opportunity, inform any witness under the age of eighteen years and the complainant of the right to make an application for the order; and
+
+     (b)   on application made by the complainant, the prosecutor or any such witness, make the order.
+
+.   .   .
+
+486.6   Offence.—(1)   Every person who fails to comply with an order made under subsection 486.4(1), (2) or (3) or 486.5(1) or (2) is guilty of an offence punishable on summary conviction.
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ONTARIO COURT OF JUSTICE
+
+   CITATION:  R. v. Cellupica, 2025 ONCJ 415
+
+DATE:  2025 08 05
+
+COURT FILE# 23-40000522
+
+ 
+
+BETWEEN:
+
+ 
+
+HIS MAJESTY THE KING
+
+ 
+
+— AND —
+
+ 
+
+ALYSSA CELLUPICA
+
+ 
+
+ 
+
+ 
+
+Judgment
+
+ 
+
+Before Justice Brock Jones
+
+ 
+
+Heard on July 28, 29 and 31, 2025
+
+ 
+
+Written Reasons for Judgment released on August 5, 2025
+
+ 
+
+ 
+
+P. Kaur................................................................................................... counsel for the Crown
+
+J. Mann............................................................................................... counsel for A. Cellupica
+
+ 
+
+Jones J.:
+
+Introduction
+
+[1]         In April 2022, Ms. Alyssa Cellupica and F.A. were both living in a shelter in downtown Toronto. They were in an intimate partner relationship. F.A. was a refugee, having sought asylum after arriving in Canada from Saudi Arabia, where they faced death threats due to their activism.[1]
+
+[2]         There, F.A. met Ms. Cellupica. On two separate dates in April 2022, F.A. alleges that Ms. Cellupica sexually assaulted them.
+
+[3]         Ms. Cellupica is presumed innocent. The Crown must prove the essential elements of the charges against her beyond a reasonable doubt.
+
+ 
+
+Sexual Assault Law
+
+[4]         For a charge of sexual assault, the Crown must prove the actus reus and mens rea. To establish the actus reus of the offence, the Crown must prove (1) a touching of the complainant by the accused, (2) that the touching was of a sexual nature, and (3) the absence of consent to the sexual touching.
+
+[5]         The first two elements are determined objectively and the third element, the absence of consent, is determined subjectively: see R. v. Ewanchuk, 1999 CanLII 711 (SCC), at paras. 25-26. The Crown must prove that the complainant, in their mind, did not want the sexual touching in question to take place: see R. v. Othman, 2025 ONCA 449, at para. 48.
+
+[6]         To establish the necessary mens rea, the Crown must prove that the accused knew of, or was wilfully blind to, or was reckless about the absence of the complainant’s consent to the sexual activity: see R. v. Barton, 2019 SCC 33, at para. 87; R. v. H.W., 2022 ONCA 15, at para. 37; and Othman, at para. 49.
+
+[7]         Consent is defined in s. 273.1(1) of the Criminal Code for the purpose of sexual assault as “the voluntary agreement of the complainant to engage in the sexual activity in question”. Section 273.1(1.1) requires the consent to be present at the time that the sexual activity in question takes place. Sections 273.1(2)(d) and (e) of the Criminal Code stipulate that no consent may be lawfully obtained by an accused person if the complainant expressed by words or conduct a lack of agreement to engage in the activity, or if the complainant, having consented to engage in sexual activity, expressed, by words or conduct, a lack of agreement to continue to engage in the activity.
+
+[8]         Furthermore, pursuant to Criminal Code section 273.2(c), it is not a defence to a charge under section 271 that the accused believed that the complainant consented to the activity that forms the subject-matter of the charge, where there is no evidence that the complainant’s voluntary agreement to the activity was “affirmatively expressed by words or actively expressed by conduct”.
+
+ 
+
+Assessing Credibility and Reliability
+
+[9]         A criminal trial is not a “credibility contest where the trier of fact must choose whether to believe one side or another”: R. v. I.W.S., 2017 ONCA 409, at para. 14. Rather, in a case such as this, the court must apply the approach to assessing the evidence described in R. v. W. D., 1991 CanLII 93 (SCC):
+
+•         First, if the judge accepts the evidence of the accused, then the accused must be acquitted.
+
+ 
+
+•         Second, if I do not believe the testimony of the accused, I could still be left with a reasonable doubt, and I must acquit the accused.
+
+ 
+
+•         Third, even if the testimony of the accused does not raise a reasonable doubt, I have to consider all of the evidence including the evidence adduced by the Crown to satisfy myself that the Crown has met its high burden and proven beyond a reasonable doubt all of the essential elements of the offences.
+
+[10]      I must consider both the credibility and reliability of each witness’s evidence. Credibility relates to the veracity, or the truthfulness of a witness’s evidence and reliability relates to the accuracy of the witness’s testimony, including their ability to accurately observe, recall and recount the events in question: R. v. H.C., 2009 ONCA 56, at para. 41.
+
+[11]      In R. v. A.M., 2014 ONCA 769, at paras. 12-14, the Court of Appeal outlined certain principles that a judge should consider when evaluating the credibility and reliability of a witness’s evidence. They include the following (with the citations removed from the original):
+
+ 
+
+•         One of the most valuable means of assessing witness credibility is to examine the consistency between what the witness said in the witness box and what she has said on other occasions, whether or not under oath... Inconsistencies may emerge in a witness' testimony at trial, or between their trial testimony and statements previously given. Inconsistencies may also emerge from things said differently at different times, or from omitting to refer to certain events at one time while referring to them on other occasions.
+
+ 
+
+•         Inconsistencies vary in their nature and importance. Some are minor, others are not. Some concern material issues, others peripheral subjects. Where an inconsistency involves something material about which an honest witness is unlikely to be mistaken, the inconsistency may demonstrate a carelessness with the truth about which the trier of fact should be concerned…  
+
+ 
+
+•         A trial judge giving reasons for judgment is neither under the obligation to review and resolve every inconsistency in a witness' evidence, nor respond to every argument advanced by counsel… That said, a trial judge should address and explain how she or he has resolved major inconsistencies in the evidence of material witnesses…
+
+Testimony of F.A.
+
+[12]      F.A. testified that they were a refugee claimant from Saudi Arabia. They arrived in Canada and were placed, alone, at a shelter. There, they met Ms. Cellupica. They allege that they experienced two sexual assaults by Ms. Cellupica. The parties were in a relationship at the time, even if the nature of that relationship was not entirely clear during the trial.
+
+[13]      For the first incident, in April 2022, F.A. alleged that Ms. Cellupica visited them in their room at the shelter. She kissed and touched F.A, who stated they were not interested in intimacy at the time. Ms. Cellupica kept touching them, despite F.A. stating, “No.” Ms. Cellupica touched and grabbed F.A.’s breasts with her right hand. Ms. Cellupica subsequently used her other hand to reach into F.A.’s private area. She placed her fingers inside F.A.’s vagina. F.A. froze when this was happening, as they were unsure how to respond. After some time, they had to push Ms. Cellupica’s hand away.
+
+[14]      At that time, F.A. was going through an emotional struggle. Although they knew they had not consented, they tried to tell themselves it was “not that big a deal” and that they were “okay” with what had happened. Later that year, the incident triggered a mental breakdown. F.A. attempted suicide, and they were hospitalized near the end of 2022.
+
+[15]      F.A. explained why this incident was so difficult to come to terms with. In F.A.’s mind, they did not consent to any of this activity and verbally stated, “No.” Yet Ms. Cellupica acted the next day at the shelter as if she did nothing wrong. That influenced how F.A. viewed the incident for some time as well. They wondered if their feelings were inappropriate because Ms. Cellupica did not seem concerned with what happened. It took F.A. a long time to come to terms with what had happened, recognize it was wrong, and acknowledge the need to report it to the police.
+
+[16]      F.A. provided their first police statement much later that year, in November.
+
+[17]      The second incident happened about a week after the first incident. F.A., Ms. Cellupica, and a third person were in F.A.’s room. They were listening to music and enjoying themselves. Ms. Cellupica touched F.A.’s breasts, in a “joking manner,” for at least 30 seconds. This occurred around 7 or 8 pm. F.A. could not believe this was happening, especially so soon after the first incident, while their mutual friend was present.[2] They felt “dissociated” when the touching occurred.
+
+[18]      Later that year, possibly as early as July, F.A. decided to stop communicating with Ms. Cellupica. However, near the year's end, they exchanged text messages. The messages themselves were not entered into evidence, but F.A. remembered their contents. F.A. accused Ms. Cellupica of sexually assaulting them and forcing them to do things “multiple times”, “even when [they] said no.” During this exchange of messages, Ms. Cellupica sent a message to F.A., in which she wrote “How does deportation sound?” This was seen as a warning, considering F.A. was a refugee claimant, and fearful of returning to Saudi Arabia.
+
+Testimony of Ms. Cellupica
+
+[19]      Ms. Cellupica confirmed she knew F.A. and was also a resident of the shelter. They were introduced by Eric, a mutual acquaintance. F.A. shared details about their life with Ms. Cellupica, including that they were a refugee and an activist. Ms. Cellupica learned that Saudi Arabia, F.A.’s home country, was unfriendly to LGBTQ people, and that was part of the reason they came to Canada.
+
+[20]      They started an intimate relationship. The relationship was meant to be open. Ms. Cellupica described it as being an “ethical polyamorous” one.  
+
+[21]      The relationship ended due to jealousy. They broke up before F.A. left the shelter.  After that, they saw each other again at the Toronto pride parade toward the end of June. However, they lost touch afterwards.
+
+[22]      Regarding the text messages that they exchanged near the end of the year, Ms. Cellupica provided her own version of their contents. She agreed with most of the testimony of F.A. about the messages. However, she testified that she received death threats from F.A., and denied authoring the message that threatened F.A. with deportation. That was sent by her boyfriend, without her consent.
+
+[23]      Regarding the first allegation, Ms. Cellupica denied that it occurred. She testified she experienced a sexual assault herself in the past, and would never touch someone if they stated, “No.” During cross-examination, the Crown asked questions about whether it might have happened, and I will comment on her responses later in this judgment.
+
+[24]      Regarding the second incident, Ms. Cellupica agreed she touched F.A.’s breasts, but it was done as a “joke.” The touching lasted between 30 and 60 seconds and involved more pressing than squeezing. She denied that the touching was for a sexual purpose and maintained that, given their relationship, touching breasts on that day was not necessarily sexual.
+
+Position of the Parties
+
+     I.        Defence
+
+[25]      Ms. Mann submits I should be left with a reasonable doubt about both counts. However, regarding the second count, she submits that even if I find the breast touching occurred, I should find that the touching was not sexual in nature. This occurred when F.A. and her client were playing and dancing to music. While she does not dispute that the female breast is a sexual part of the body, the touching that occurred in this case was not sexual when placed in its context. As a final argument, Ms. Mann also submits the touching should be considered de minimis.
+
+[26]      For the first incident, she submits I should accept her client’s testimony that it simply did not happen. Ms. Cellupica was adamant she would not continue touching someone after they said, “No.” F.A. was not a credible or reliable witness. Their memory problems were obvious, and in cross-examination, various inconsistencies with prior statements were demonstrated. The most important was the completely different incident F.A. described in her first statement to the police when asked to describe the sexual assault, which bore no similarity to the description of the sexual assaults they provided in court when testifying.
+
+[27]      Ms. Mann agreed, as a matter of law, that “implied consent” does not exist in law, and her client’s reliance on that in her testimony does not offer a defence. She does point to F.A. agreeing that they said in their police statement that they gave Ms. Cellupica “the green light” for the first incident, as a form of evidence that might have informed her client’s view of having consent.
+
+   II.        Crown
+
+[28]       Ms. Kaur submits that F.A. was a credible and reliable witness whose testimony should be accepted. Any concerns about the reliability of their testimony should not be given undue weight. As a victim of a traumatic experience, it would be understandably very difficult for F.A. to recount precisely and flawlessly what happened to them. The assaults were “scarring”, in F.A.’s own words.
+
+[29]      Ms. Kaur further submits that while both the Crown and defence agree the parties were in a relationship, Ms. Mann did not bring a section 276 application and I must not use any “relationship evidence” for an impermissible purpose.
+
+[30]      Ms. Cellupica’s testimony in large respects, according to Ms. Kaur, confirmed F.A.’s allegation. Even with respect to the first incident, Ms. Cellupica did not rule out the possibility the events occurred. Rather, she appeared to rely on her mistaken understanding that “implied consent” would permit her touch F.A. as she desired, without active, communicated consent. That admission actually lends credence to F.A.’s version of events, as it betrays Ms. Cellupica’s mindset that she thought she could have her way with F.A.
+
+Analysis and Conclusions
+
+[31]      The statement of a complainant that they did not consent to the sexual activity in question is a matter of credibility to be weighed in light of all the evidence, including the complainant’s words and actions before and during the incident, including any ambiguous or contradictory conduct: see R. v. Reimer, 2024 ONCA 519, at para. 74.  
+
+[32]      In R. v. S.B., 2023 ONCA 784, at para. 50, the Court of Appeal held:
+
+ 
+
+… The evidence of other witnesses, including the accused, about the “totality of the complainant’s conduct” can be considered to determine whether it is consistent with the complainant’s claim of non-consent.
+
+[33]      Importantly, where the case for the Crown rests almost exclusively on the testimony of a single witness, as it does in this case, that testimony must be rigorously analyzed in light of all of the evidence presented during the trial. The position of the defence must also factor into this analysis: see R. v. C.(J.), 2000 CanLII 1931 (Ont. C.A.)
+
+[34]      Ms. Cellupica faces two separate allegations of sexual assault. The Crown chose not to apply under the similar fact evidence rule to ask the court to engage in cross-count reasoning. Therefore, I must not unlawfully consider evidence related to one incident when evaluating the other incident, and vice versa: R. v. M.(B.), 1998 CanLII 13326 (Ont. C.A.) at para. 42. The charges must be assessed separately: see also R. v. MRS, 2020 ONCA 667, at paras. 75-82.
+
+[35]      I found F.A. to be a credible and reliable witness. Their testimony was logical and internally consistent. Despite a challenging cross-examination, their testimony remained almost entirely free of any material inconsistencies when compared with their prior statements. The examples pointed out by Ms. Mann, respectfully, I find have limited probative value on mostly peripheral matters.
+
+[36]      F.A. did not exaggerate. They acknowledged their memory issues. Notably, F.A. clarified their answers at several points in their testimony when they appeared worried their evidence might be misunderstood. For instance, F.A. agreed that the second incident seemed to have been a joke. During their testimony in chief, F.A. used hand gestures to show what happened to them. At one point, after Ms. Kaur tried to describe the hand motions F.A. made to depict how Ms. Cellupica touched their breasts, F.A. clarified they could not be sure which hand Ms. Cellupica used. F.A. noticed that Ms. Kaur’s verbal description of her hand gestures might have been slightly inaccurate and therefore potentially misleading. While a minor point, this highlights F.A.'s dedication to giving accurate testimony.
+
+[37]      I recognize that the lack of exaggeration in a witness’ testimony “cannot be used as a makeweight in favour of a complainant’s credibility”: see R. v. J.L., 2022 ONCA 271, at para. 12; R. v. Alisaleh, 2020 ONCA 597, at paras. 16-17. However, it remains a relevant consideration.
+
+[38]      Regarding the inconsistencies identified by Ms. Mann between F.A.’s courtroom testimony and their prior police statements, F.A. testified that although it took them many months to fully process what happened, the sexual assaults had a profound emotional impact on them. They were hospitalized at the end of 2022 after a suicide attempt. They were a highly vulnerable person: a refugee claimant fleeing Saudi Arabia, where they feared for their safety due to their gender identity and online activism. It is understandable that assaults of this nature, committed by someone they trusted, after they arrived in Canada, would have been devastating for them to experience.
+
+[39]      F.A. did not dispute their memory suffered from some deficiencies. But a trauma-informed approach to assessing their evidence must be applied. In R. v. G.M.C., 2022 ONCA 2, the Ontario Court of Appeal held at para. 38 that
+
+ 
+
+•         observations made by witnesses in the course of traumatic events can be difficult to recall and to describe accurately at a later date;
+
+ 
+
+•         a witness cannot be expected to have a faithful memory of minor incidents that occurred during a traumatic event and the inability to recall a minor or insignificant event does not detract from the witness’s overall reliability or credibility; [and]
+
+ 
+
+•         it is human nature to try to make sense out of bits and pieces of memories about an event, and this may impact the accuracy of a witness’s testimony concerning events.
+
+[40]      F.A. was in a profoundly difficult situation. They had no ties to anyone in Canada outside the shelter where they were residing, and where they were assaulted. They had limited means. I accept that it may have taken F.A. time to process what happened during the assaults, how to deal with them, and come to terms with the significance of these events. While F.A. admitted to memory problems surrounding parts of their evidence, F.A. was firm that they remembered the core details, as these assaults were “life-altering.”  There were no significant inconsistencies in F.A.’s evidence about the assaults, except for the question of how I should evaluate their account of what they told the officers during their statement captured on body-worn camera (“BWC”) footage while they were in the hospital.
+
+[41]      Ms. Mann pointed to this initial police statement, where F.A. described a completely different incident when explaining what constituted their allegation of a sexual assault. In Ms. Mann’s submission, this was a glaring inconsistency that demonstrated F.A.’s evidence cannot be trusted. I disagree.
+
+[42]      In that statement, recorded on a police officer’s BWC while F.A. was a patient at a hospital, F.A. described another incident when asked what happened to them. That incident involved a washroom at the shelter and the use of a vibrator with Ms. Cellupica. At the time they provided this statement, F.A. explained they were on a new and different medication than what they had used previously. It was “a very hard” period for F.A., as they had just attempted to commit suicide. F.A.’s memory at the time was admittedly very poor and they were not in a good state of mind. The washroom incident that F.A. referenced was difficult to think about. Whether or not F.A. had been assaulted during this incident was not a straightforward matter for them to internally resolve.
+
+[43]      In January 2023, F.A. was in a much healthier state of mind and had communicated with social workers about what had occurred when they were residing at the shelter. When F.A. provided their formal police statement on video to the interviewing detective, they could better reflect on what happened to them and determine which events in their mind amounted to a sexual assault. F.A. explained that they struggled with whether they had genuinely consented to the incident in the washroom, as Ms. Cellupica “pushed” them. I took this to mean that F.A. felt pressured to participate in whatever activities occurred. Later, F.A. acknowledged that they had agreed to the activity, despite any external pressure placed on them, and thus, they accepted it was not a sexual assault.
+
+[44]      I accept F.A.’s explanation of this event, how they processed it, and why their view of it evolved over time: see R. v. McLean, 2025 ONSC 810, at para. 50. That explains how they answered the officer’s questions in the December 18, 2022, BWC statement. Based on my own observations, F.A. was clearly upset and emotionally distraught at the time they provided this original statement. F.A. had difficulty answering the officer’s questions coherently. This contrasts sharply with the calm, sensible and articulate person I saw testifying in court.
+
+[45]      While not a specific argument raised by Ms. Mann, I asked Ms. Kaur during closing submissions if the death threats F.A. sent to Ms. Cellupica raise questions about F.A.’s credibility. During their testimony, F.A. admitted to sending these messages. I agree with Ms. Kaur that F.A. was frank about it and explained that they had informed a police officer about them in January 2023. I do not believe this undermines F.A.’s credibility. Their anger over what they had experienced was understandable. While sending messages of this nature is unquestionably wrong, F.A. was honest about their actions.
+
+[46]      During cross-examination, an exchange occurred between F.A. and Ms. Mann regarding whether F.A. sent a “series” of text messages to Ms. Cellupica. F.A. struggled with this questioning at first, but this appeared to stem from F.A.’s limited proficiency in English. After the Arabic interpreter assisted F.A. with the words “series” versus “serious” (in English), the matter was clarified. When a witness testifies with the assistance of an interpreter and English is not their primary language, a court should approach any superficial deficiencies in their answers with extreme caution. I find nothing turns on how F.A. answered these questions.
+
+[47]      Other examples that were highlighted to me during cross-examination as inconsistencies or weaknesses in F.A.’s evidence I found to be of minor significance. For instance, during cross-examination, Ms. Mann referred to F.A.’s January 2023 police statement in which F.A. stated they “gave [Ms. Cellupica] the green light.” F.A. agreed that this indicated consent but clarified that this comment referred to any kissing during the first incident, which they consistently maintained was consensual. That consent did not apply to the subsequent touching. I accept this explanation.
+
+[48]      F.A. admitted they could not remember all the details of the assaults precisely. This is understandable from a trauma-informed perspective. During cross-examination, it was noted that F.A. was inconsistent about whether the first sexual assault began 10 or 15 minutes after Ms. Cellupica entered the bedroom. F.A. was “not sure” on this point. I do not believe a 5-minute discrepancy matters at all. It is hardly surprising that someone would not focus on the exact duration of an assault, or precisely when it began, and courts should not expect perfect accuracy with respect to a witness’ recollection of such a feature of an assault.
+
+[49]      I also do not find the fact that F.A. testified they told others at the shelter “goodnight” in the dining room before the assault, but agreed they failed to mention that in their earlier police statement, to be significant. F.A. did not believe a question was asked that would have prompted that answer. In addition, I note that it is not a detail that affects the core of the allegations and has minimal relevance.
+
+[50]      Additionally, I do not believe that how F.A. acted towards the accused, either before or after the alleged assaults, was in any way inconsistent with them being a victim of these crimes. There is no strict rule about how someone who has been sexually assaulted will respond. That F.A. may have had seemingly “normal” interactions with their abuser while these events were ongoing or afterwards (such as attending the pride parade together) does not undermine their credibility: see R. v. D.R., 2022 NLCA 2, at paras. 39-40; R. v. Kiss, 2018 ONCA 184, at para. 101.  
+
+[51]      As a final observation, I note that what might appear to be “inconsistencies” in the evidence of a witness who has experienced trauma should not be presumed to be demonstrative of a lack of credibility or reliability. Rather, they may constitute a predictable and understandable aspect of coping with and remembering traumatic experiences. Inconsistencies should be carefully scrutinized in the context of the entirety of the evidence presented in a case. Trauma affects each person differently. Courts have collectively come to better understand the effect of trauma on witnesses and must apply those principles in our decisions: see G.M.C, supra. The truth-seeking function of a trial court could be irreparably harmed if these principles were disregarded. Memories that are fragmented, incomplete or sometimes reported in a non-linear manner are not necessarily untrustworthy. Each case will be unique, requiring the court to assess the witness’s testimony with an open mind. Where possible, the testimony should also be reviewed alongside any external sources of evidence available to the court to see if those strengthen, or weaken its coherence: see, for example, R. v. Eze, 2022 ONSC 277, at paras. 55-57, and 71.
+
+[52]      Of some importance, I found F.A.’s demeanour in court to be that of an honest witness trying their best to provide frank testimony. At times, they became emotional and struggled to answer questions, but they always offered responses they believed were accurate and fair. In Reimer, at para. 93, Justice Paciocco, offered the following guidance regarding demeanour evidence:
+
+Before I leave this issue, even though demeanour is a permissible consideration, I would reiterate the caution that judges should take in considering demeanour in judging credibility: R. v. E.H., 2020 ONCA 405, 389 C.C.C. (3d) 380, at para. 91; R. v. Rhayel, 2015 ONCA 377, 324 C.C.C. (3d) 362, at paras. 85-89. In my view, this is particularly important with emotional upset while testifying, given that emotional presentation can vary with maturity, culture, personality, neurodivergence, or even mental health. A judge is apt to lack a baseline for evaluation as well. In my view, judges should be extremely cautious about relying on emotional upset as an indicium of truthfulness.
+
+[53]      Even with that caution in mind, I find F.A.’s demeanour was that of a genuine and honest witness, who was understandably having a difficult time remembering all of the details of what happened to them. Reliving these experiences during what was unquestionably a difficult time in their life was evidently difficult for F.A.
+
+[54]      In R. v. Kruk, 2024 SCC 7, the Supreme Court of Canada held that, in a sexual assault trial, where the defence adduces evidence about a possible motive to lie, “a trial judge is obliged to consider it to give full effect to the presumption of innocence, and a failure to do so constitutes reversible error”: see para. 65. During closing arguments, the parties presented different positions about a possible motive to lie, while recognizing there was no onus on the accused to establish such a motive. I found no persuasive evidence of a motive to lie. For the sake of clarity, I do not find that the breakdown of F.A.’s relationship with Ms. Cellupica constitutes a motive to fabricate their allegations. While F.A. was upset about how they felt they had been treated, this does not mean they would invent a sexual assault allegation. Indeed, coming to such a conclusion, absent something more, would delve into the forbidden realm of myth-based reasoning. The lack of a known motive to lie (even though an unknown motive remains possible) can be relevant evidence when evaluating a witness’s credibility: see R. v. Gerrard, 2022 SCC 13; R. v. A.R., 2022 ONCA 33, at para. 7.   
+
+[55]      It is also noteworthy that there was substantial corroboration of F.A.’s testimony in the testimony of Ms. Cellupica. This includes their shared evidence regarding the text messages sent at the end of 2022. While corroboration is not required for a complainant’s testimony in a sexual assault case to be accepted, independent sources of evidence are often valuable for assessing a witness’s credibility: see R. v. Brown, 2022 ONCA 417, at para. 15. Evidence can be confirmatory in a sexual assault trial even if it does not “directly confirm the key allegations of sexual assault” or “directly implicate the accused”: see R. v. J.B., 2022 ONCA 214, at para. 34. For example, evidence that may be neutral on the central issue of consent can still be relevant to a trial judge’s assessment of the complainant’s credibility: see Brown at para. 22.
+
+[56]      Ms. Cellupica’s testimony was harmonious with F.A.’s on several points including:
+
+•         That they were in a relationship at the time while residing at the shelter;
+
+•         Ms. Cellupica admitted to touching F.A.’s breasts during the second incident and both agreed she appeared to do it as a joke;
+
+•         Ms. Cellupica agreed it was “possible” the first incident occurred, exactly as F.A. described it, but for F.A. telling her “No” or to stop the touching; and
+
+•         Ms. Cellupica agreed that the text messages described by F.A. were sent and received.  
+
+[57]      On this last point, I note that the content of the text messages was largely agreed upon by both witnesses, even though neither side entered the messages as an exhibit during the trial. These messages may be considered for limited purposes. In particular, the fact that the complainant made an allegation of sexual assault to Ms. Cellupica directly at the end of 2022, after processing what happened to them, can be lawfully used to support some level of confirmation of the complainant’s narrative: see R. v. Morin, 2024 ONCA 562, at para. 36. In R. v. Khan, 2017 ONCA 114, at para. 31, the Ontario Court of Appeal stated:
+
+ 
+
+Sometimes the circumstances surrounding the making of the prior consistent statement are such that the statement assists in assessing the reliability and credibility of a witness’s in-court testimony, giving prior consistent statements admitted as “narrative” a more substantive use: R. v. Dinardo, 2008 SCC 24 (CanLII), [2008] 1 S.C.R. 788, at para. 39; R. v. Evans, 1993 CanLII 102 (SCC), [1993] 2 S.C.R. 629, at para. 32. This is referred to as narrative as circumstantial evidence.
+
+[58]      I caution myself that the text messages cannot be used for the unlawful purpose of bolstering the complainant’s credibility because they have made the same allegation more than once. However, I do find that the messages can be used to assist with assessing the reliability and credibility of F.A.’s in-court testimony, especially considering the facts of the case and the positions taken by the parties.
+
+[59]      I accept the evidence of F.A. regarding how they were sexually assaulted. I found F.A. to be a credible and reliable witness. The memory difficulties they experienced and the inconsistencies in their testimony, when considered from a trauma-informed perspective, do not make that testimony untrustworthy or unreliable. Indeed, large portions of it were corroborated by the testimony of Ms. Cellupica. The quality of F.A.’s evidence remained high.
+
+[60]      Regarding Ms. Cellupica's testimony, there is little factual dispute with the F.A.’s evidence concerning the second incident. She admitted to touching F.A.’s breasts as described by F.A., but believed it was a “joke” and testified it was not done with sexual intent.
+
+[61]      In R. v. Morelli, 2025 ONCJ 111, Justice Greene explained what is meant by an assault being “sexual in nature” at paras. 45-46:
+
+The leading case on whether the alleged conduct was sexual in nature is R. v. Chase, 1987 CanLII 23 (SCC), 37 C.C.C. (3d) 97 (S.C.C.).  In that case, the court held a sexual assault is committed where assaultive conduct violates the sexual integrity of the victim.  In assessing whether or not the touching was of a sexual nature, McIntyre J. in R. v. Chase, supra, held that the “test to be applied in determining whether the impugned conduct has the requisite sexual nature is an objective one”.  In determining this issue, the court may consider “the part of the body touched, the nature of the contact, the situation in which it occurred, the words and gestures accompanying the act, and all other circumstances surrounding the conduct”. McIntyre J. further held that the actor need not have committed the offence for a sexual gratification for the offence to be made out.
+
+…In my view, the decision in R. v. Chase does not preclude a court from finding that in some circumstances the body part touched will be the most important factor and may very well be determinative. In my view, it is open for a trial judge to infer that the touching is of a sexual nature that impacted the sexual integrity of the victim solely because the body part touched was the genitalia of the victim particularly where the context of the touching does not provide an alternative explanation.  In other words, absent other evidence, in many cases where the body part touched is a person’s genitalia, the only reasonable inference will be that the touching was sexual in nature.
+
+[62]      I agree with my colleague’s analysis and reasoning, and I note that it is equally applicable when the body part touched is a female person’s breasts. Moreover, I do not accept that touching someone’s breasts as a “joke” somehow makes the action any less culpable. Either one has consent to touch another person’s body, or they do not. And what occurred in this case was unquestionably sexual in nature.
+
+[63]      Ms. Cellupica further testified that she relied on F.A.’s “implied consent” to being touched. In R. v. J.A., 2011 SCC 28, the Supreme Court of Canada stated that there is no defence of “implied consent” to sexual assault: see para. 47. The relevant provisions of the Criminal Code require nothing less than conscious, ongoing consent to ensure that a person is not exploited. It is not enough for an accused to believe that a complainant gave implied consent. An accused must take reasonable steps to confirm communicated consent for all sexual activity.
+
+[64]      I conclude beyond a reasonable doubt that the touching occurred exactly as F.A. described, and Ms. Cellupica could not rely on any supposed belief in “implied consent.” I also do not find that her characterization of the breast grabbing as being a “joke” makes the assault somehow non-sexual in nature. Nor could this possibly be properly construed as de minimis.[3]
+
+[65]      I therefore find Ms. Cellupica guilty of count two.
+
+[66]      A detailed examination of Ms. Cellupica’s testimony is necessary to determine my verdict on the first count of sexual assault. There were several aspects of Ms. Cellupica’s testimony that I found highly troubling. She continually relied on “implied consent” to justify her actions, which, as previously explained, is not only a legally incorrect view of consent but also demonstrates that she did not consider the need to obtain active, informed consent when interacting with F.A. Rather, as she stated, “I can do it unless she says no.” That was a remark she made about the first incident, and F.A.’s allegation that she had touched their breasts and inserted her fingers into F.A.’s vagina. Ms. Cellupica also testified that she had implied consent to touch F.A.’s breasts specifically. This attitude, which demonstrates that Ms. Cellupica did not perceive a need to obtain active, communicated consent for each sexual act, confirms F.A.’s description of how Ms. Cellupica approached them and dismissed the significance of the events the next day.[4]
+
+[67]      Ms. Cellupica offered highly convenient and, in my view, unbelievable explanations for some of her actions. For example, she blamed her boyfriend at the time for sending the texts to F.A. threatening them with deportation, after F.A. had texted allegations of being sexually assaulted. That would be a boyfriend she alleged was sexually assaulting her regularly. Yet when she was later alone and capable of clarifying to F.A. that she did not personally send those text messages, she did not. She could have told F.A. it wasn’t her, but rather this man who was responsible. This would have taken little effort. Her testimony in this regard was unworthy of belief and illogical.  
+
+[68]      She agreed that she received angry, threatening messages from F.A. However, in her account of how their relationship ended, there is no logical reason for these death threats to have been sent. According to her version, nothing went “wrong” in their polyamorous relationship that would justify this level of anger. I understand that the burden is not on the accused to prove anything, and the defence does not need to explain the complainant's actions. The burden of proof in a criminal trial never shifts. Nevertheless, when evaluating the plausibility of the defence evidence, I can consider the full context in which it exists. In this case, the text messages from F.A. were sent without any clear reason, and the threatening messages from her phone, about deportation, were conveniently attributed to a malicious boyfriend. I do not accept this testimony.
+
+[69]      Furthermore, during her direct testimony, Ms. Cellupica stated that the first incident did not happen. However, during cross-examination, she agreed with Ms. Kaur that she could not rule out the possibility that nearly all aspects of it did occur – including kissing, breast touching, and vaginal penetration with fingers. She only contested that she would have continued acting after F.A. told her, “No.” Otherwise, she agreed that the events were indeed “possible.” This is inconsistent with her overall denial in direct testimony and marks a significant change in her account of the first allegation.
+
+[70]      Similarly, during her testimony in chief before the lunch break on July 29, she testified that the second incident “possibly” occurred. After lunch, she continued her testimony and described this second incident in surprising detail. She recalled standing in front of F.A. and pressing her hands against F.A.’s breasts for 30 to 60 seconds. The level of detail she remembered indicates that the second incident was not just possible; it actually happened, and she remembered it. This also revealed internal inconsistency and a careless attitude towards the truth. While this case involved separate counts alleging different sexual assaults, a court can consider all of the evidence presented at trial when making general credibility findings about a witness, including the accused. This is especially true when the different counts involve incidents that took place close in time: see R. v Dueling, 2024 YKCA 7, at paras. 45-6.
+
+[71]      During cross-examination, Ms. Kaur asked Ms. Cellupica why she did not call the police after receiving the threatening texts from F.A. I place no weight on this line of questioning. In retrospect, I should not have allowed it. The accused has a right to silence that exists at all times in relation to the police: see R. v. Smockum, 2024 SKCA 81, at paras. 58 to 61. There was no obligation on Ms. Cellupica to contact the police, and her failure to do so cannot influence my decision. Although the Crown could have questioned her about why she did not seek help or advice after receiving the texts, that question was not asked, and I cannot speculate on what her answer might have been.
+
+[72]      Nonetheless, considering the rest of Ms. Cellupica’s testimony and its context within the other evidence I accept, I do not find it trustworthy. Nor does it raise a reasonable doubt in my mind.
+
+[73]      Having accepted F.A.’s evidence about this incident, I find as a fact the following occurred on a date in April 2022:
+
+ 
+
+•         F.A. and Ms. Cellupica were both residing at the shelter;
+
+•         They were in an intimate partner relationship;
+
+•         One evening Ms. Cellupica entered F.A.’s room and sat on the bed;
+
+•         She began kissing F.A. on consent;
+
+•         She then touched F.A.’s breasts both over and under her clothing without consent and did not take any steps to obtain communicated consent, relying on her belief in “implied consent”;
+
+•         She moved one of her hands to touch F.A.’s lower body area and inserted her fingers into F.A.’s vagina without consent;
+
+•         F.A. told her they were “not interested”, “no” and “stop”, but Ms. Cellupica persisted;
+
+•         F.A. “froze” when this happened, and was unsure of what to do at first;
+
+•         F.A. had to push Ms. Cellupica’s hand away;
+
+•         Ms. Cellupica later attempted to laugh this off and acted as if nothing inappropriate had happened.
+
+[74]      I find Ms. Cellupica guilty of count one.
+
+ 
+
+  III.        Released:  August 5, 2025
+
+ 
+
+ 
+
+ 
+
+ 
+
+Signed: Justice Brock Jones
