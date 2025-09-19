@@ -65,7 +65,7 @@ Judge: Justice A. B. Johnson
 
 ## Usage
 
-### Command Line Interface
+### CLI
 
 Run using:
 ```
