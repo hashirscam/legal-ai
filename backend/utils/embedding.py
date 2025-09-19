@@ -1,25 +1,37 @@
-from sentence_transformers import SentenceTransformer
+from openai import OpenAI
 import numpy as np
 from typing import List, Union
 import logging
+import os
 
 logger = logging.getLogger(__name__)
 
 class EmbeddingService:
-    def __init__(self, model_name: str = "all-MiniLM-L6-v2"):
+    def __init__(self, model_name: str = "text-embedding-3-small"):
         """
-        Initialize embedding service with SentenceTransformer model
+        Initialize embedding service with OpenAI embedding model
         
         Args:
-            model_name: Name of the SentenceTransformer model to use
+            model_name: Name of the OpenAI embedding model to use
         """
         self.model_name = model_name
-        self.model = SentenceTransformer(model_name)
-        logger.info(f"Initialized embedding service with model: {model_name}")
+        api_key = os.environ.get("OPENAI_API_KEY")
+        if not api_key:
+            raise ValueError("OPENAI_API_KEY not found in environment variables. Please check your .env file.")
+        
+        self.client = OpenAI(api_key=api_key)
+        # Set embedding dimensions based on model
+        self.embedding_dimensions = {
+            "text-embedding-3-small": 1536,
+            "text-embedding-3-large": 3072,
+            "text-embedding-ada-002": 1536
+        }
+        self.embedding_dimension = self.embedding_dimensions.get(model_name, 1536)
+        logger.info(f"Initialized OpenAI embedding service with model: {model_name}")
     
     def get_embedding(self, text: str) -> List[float]:
         """
-        Get embedding for a single text
+        Get embedding for a single text using OpenAI API
         
         Args:
             text: Input text to embed
@@ -27,12 +39,19 @@ class EmbeddingService:
         Returns:
             List of embedding values
         """
-        embedding = self.model.encode(text, convert_to_numpy=True)
-        return embedding.tolist()
+        try:
+            response = self.client.embeddings.create(
+                model=self.model_name,
+                input=text
+            )
+            return response.data[0].embedding
+        except Exception as e:
+            logger.error(f"Error getting embedding for text: {e}")
+            raise
     
     def get_embeddings_batch(self, texts: List[str]) -> List[List[float]]:
         """
-        Get embeddings for multiple texts efficiently
+        Get embeddings for multiple texts efficiently using OpenAI API
         
         Args:
             texts: List of texts to embed
@@ -40,8 +59,24 @@ class EmbeddingService:
         Returns:
             List of embeddings
         """
-        embeddings = self.model.encode(texts, convert_to_numpy=True, batch_size=32)
-        return embeddings.tolist()
+        try:
+            # OpenAI API can handle batches up to 2048 texts at once
+            batch_size = min(2048, len(texts))
+            all_embeddings = []
+            
+            for i in range(0, len(texts), batch_size):
+                batch = texts[i:i + batch_size]
+                response = self.client.embeddings.create(
+                    model=self.model_name,
+                    input=batch
+                )
+                batch_embeddings = [data.embedding for data in response.data]
+                all_embeddings.extend(batch_embeddings)
+            
+            return all_embeddings
+        except Exception as e:
+            logger.error(f"Error getting batch embeddings: {e}")
+            raise
     
     def calculate_similarity(self, text1: str, text2: str) -> float:
         """
@@ -54,15 +89,22 @@ class EmbeddingService:
         Returns:
             Cosine similarity score (0-1)
         """
-        embeddings = self.model.encode([text1, text2], convert_to_numpy=True)
-        
-        # Calculate cosine similarity
-        dot_product = np.dot(embeddings[0], embeddings[1])
-        norm_a = np.linalg.norm(embeddings[0])
-        norm_b = np.linalg.norm(embeddings[1])
-        
-        similarity = dot_product / (norm_a * norm_b)
-        return float(similarity)
+        try:
+            embeddings = self.get_embeddings_batch([text1, text2])
+            
+            # Calculate cosine similarity
+            embedding1 = np.array(embeddings[0])
+            embedding2 = np.array(embeddings[1])
+            
+            dot_product = np.dot(embedding1, embedding2)
+            norm_a = np.linalg.norm(embedding1)
+            norm_b = np.linalg.norm(embedding2)
+            
+            similarity = dot_product / (norm_a * norm_b)
+            return float(similarity)
+        except Exception as e:
+            logger.error(f"Error calculating similarity: {e}")
+            raise
     
     def get_model_info(self) -> dict:
         """
@@ -73,8 +115,8 @@ class EmbeddingService:
         """
         return {
             'model_name': self.model_name,
-            'embedding_dimension': self.model.get_sentence_embedding_dimension(),
-            'max_sequence_length': self.model.max_seq_length
+            'embedding_dimension': self.embedding_dimension,
+            'max_sequence_length': 8192  # OpenAI models generally support up to 8192 tokens
         }
 
 # Global embedding service instance

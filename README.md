@@ -108,7 +108,7 @@ Features:
 ### Core Components
 
 - **Vector Database**: ChromaDB for efficient similarity search
-- **Embedding Model**: SentenceTransformers `all-MiniLM-L6-v2`
+- **Embedding Model**: OpenAI `text-embedding-3-small`
 - **LLM Integration**: OpenAI GPT-4o (configurable)
 - **Parallel Processing**: Async processing for pruning and reading agents
 - **Progress Tracking**: Real-time UI updates throughout the pipeline

@@ -12,7 +12,7 @@ logger = logging.getLogger(__name__)
 class VectorDatabase:
     def __init__(self, persist_directory: str = None):
         """
-        Initialize ChromaDB vector database
+        Initialize ChromaDB vector database with OpenAI embeddings
         
         Args:
             persist_directory: Directory to persist the database (uses config if None)
@@ -22,11 +22,18 @@ class VectorDatabase:
         
         persist_dir = persist_directory or config.CHROMA_DB_PATH
         self.client = chromadb.PersistentClient(path=persist_dir)
-        self.embedding_function = embedding_functions.SentenceTransformerEmbeddingFunction(
+        
+        # Use OpenAI embedding function
+        openai_api_key = os.environ.get("OPENAI_API_KEY")
+        if not openai_api_key:
+            raise ValueError("OPENAI_API_KEY not found in environment variables. Please check your .env file.")
+        
+        self.embedding_function = embedding_functions.OpenAIEmbeddingFunction(
+            api_key=openai_api_key,
             model_name=vdb_config.EMBEDDING_MODEL
         )
         self.collection = None
-        logger.info(f"Initialized vector database at {persist_dir}")
+        logger.info(f"Initialized vector database with OpenAI embeddings at {persist_dir}")
     
     def create_or_get_collection(self, collection_name: str = "legal_cases"):
         """
