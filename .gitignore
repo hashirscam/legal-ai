@@ -93,3 +93,5 @@ coverage/
 
 /legenv
 chroma_db/
+venv/
+models_cache/

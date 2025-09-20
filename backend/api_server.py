@@ -36,17 +36,10 @@ ngrok_frontend = os.getenv("NGROK_FRONTEND_URL")
 if ngrok_frontend:
     allowed_origins.extend([ngrok_frontend, ngrok_frontend.replace("http://", "https://")])
 
-# Add common ngrok patterns for frontend access
-allowed_origins.extend([
-    "https://*.ngrok.io",
-    "https://*.ngrok-free.app",
-    "https://*.ngrok.app"
-])
-
 app.add_middleware(
     CORSMiddleware,
     allow_origins=allowed_origins,
-    allow_origin_regex=r"https://.*\.ngrok\.(io|app|dev)",  # Allow all ngrok domains for frontend
+    allow_origin_regex=r"https://.*\.ngrok.*",  # Allow all ngrok domains for frontend
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
