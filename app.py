@@ -40,13 +40,30 @@ def check_dependencies():
         except (subprocess.CalledProcessError, FileNotFoundError, subprocess.TimeoutExpired):
             pass
         
-        # Check npm
+        # Check npm - handle Windows PowerShell script
         npm_found = False
         try:
-            result = subprocess.run(["npm", "--version"], capture_output=True, text=True, timeout=5)
-            if result.returncode == 0:
-                npm_found = True
-                print(f"✅ npm found: {result.stdout.strip()}")
+            # On Windows, npm might be a PowerShell script, so try different approaches
+            import platform
+            if platform.system() == "Windows":
+                # Try npm.cmd first (Windows batch file)
+                try:
+                    result = subprocess.run(["npm.cmd", "--version"], capture_output=True, text=True, timeout=5)
+                    if result.returncode == 0:
+                        npm_found = True
+                        print(f"✅ npm found: {result.stdout.strip()}")
+                except (subprocess.CalledProcessError, FileNotFoundError, subprocess.TimeoutExpired):
+                    # Fallback to regular npm command
+                    result = subprocess.run(["npm", "--version"], capture_output=True, text=True, timeout=5)
+                    if result.returncode == 0:
+                        npm_found = True
+                        print(f"✅ npm found: {result.stdout.strip()}")
+            else:
+                # On Unix-like systems, use regular npm command
+                result = subprocess.run(["npm", "--version"], capture_output=True, text=True, timeout=5)
+                if result.returncode == 0:
+                    npm_found = True
+                    print(f"✅ npm found: {result.stdout.strip()}")
         except (subprocess.CalledProcessError, FileNotFoundError, subprocess.TimeoutExpired):
             pass
         
@@ -108,7 +125,10 @@ def install_frontend_deps():
     if not node_modules.exists():
         print("📦 Installing frontend dependencies...")
         try:
-            subprocess.run(["npm", "install"], cwd=frontend_dir, check=True)
+            # Use npm.cmd on Windows, npm on other systems
+            import platform
+            npm_cmd = "npm.cmd" if platform.system() == "Windows" else "npm"
+            subprocess.run([npm_cmd, "install"], cwd=frontend_dir, check=True)
             print("✅ Frontend dependencies installed")
         except subprocess.CalledProcessError:
             print("❌ Failed to install frontend dependencies")
@@ -156,8 +176,12 @@ def start_frontend():
     print("🚀 Starting Next.js frontend on http://localhost:3000")
     frontend_dir = Path(FRONTEND_DIR)
     
+    # Use npm.cmd on Windows, npm on other systems
+    import platform
+    npm_cmd = "npm.cmd" if platform.system() == "Windows" else "npm"
+    
     return subprocess.Popen([
-        "npm", "run", "dev"
+        npm_cmd, "run", "dev"
     ], cwd=frontend_dir)
 
 def main():
