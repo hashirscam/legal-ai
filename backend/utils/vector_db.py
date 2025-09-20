@@ -4,15 +4,61 @@ import os
 from typing import List, Dict, Any, Tuple
 import logging
 import sys
+import openai
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from settings import get_system_config, get_vector_db_config
 
 logger = logging.getLogger(__name__)
 
+class OpenAIEmbeddingFunction(embedding_functions.EmbeddingFunction):
+    """Custom OpenAI embedding function for ChromaDB"""
+    
+    def __init__(self, model_name: str = "text-embedding-3-small"):
+        self.client = openai.OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+        self.model_name = model_name
+        
+    def __call__(self, input: chromadb.Documents) -> chromadb.Embeddings:
+        """Generate embeddings for input documents"""
+        try:
+            # Handle both single string and list of strings
+            if isinstance(input, str):
+                input = [input]
+            
+            # Process in batches to avoid API limits
+            batch_size = 2048
+            all_embeddings = []
+            
+            for i in range(0, len(input), batch_size):
+                batch = input[i:i + batch_size]
+                
+                # Truncate texts that are too long (rough estimation: 1 token ≈ 4 characters)
+                # Use a conservative limit of 30,000 characters (≈ 7,500 tokens) to stay well under 8,192
+                processed_batch = []
+                for text in batch:
+                    if len(text) > 30000:
+                        text = text[:30000]
+                        logger.warning(f"Text truncated to fit OpenAI model limits (was {len(text)} chars)")
+                    processed_batch.append(text)
+                
+                response = self.client.embeddings.create(
+                    model=self.model_name,
+                    input=processed_batch,
+                    encoding_format="float"
+                )
+                
+                batch_embeddings = [data.embedding for data in response.data]
+                all_embeddings.extend(batch_embeddings)
+            
+            return all_embeddings
+            
+        except Exception as e:
+            logger.error(f"Error generating embeddings: {e}")
+            raise
+
 class VectorDatabase:
     def __init__(self, persist_directory: str = None):
         """
-        Initialize ChromaDB vector database
+        Initialize ChromaDB vector database with OpenAI embeddings
         
         Args:
             persist_directory: Directory to persist the database (uses config if None)
@@ -22,11 +68,13 @@ class VectorDatabase:
         
         persist_dir = persist_directory or config.CHROMA_DB_PATH
         self.client = chromadb.PersistentClient(path=persist_dir)
-        self.embedding_function = embedding_functions.SentenceTransformerEmbeddingFunction(
+        
+        # Use OpenAI embeddings instead of SentenceTransformers
+        self.embedding_function = OpenAIEmbeddingFunction(
             model_name=vdb_config.EMBEDDING_MODEL
         )
         self.collection = None
-        logger.info(f"Initialized vector database at {persist_dir}")
+        logger.info(f"Initialized vector database with OpenAI embeddings at {persist_dir}")
     
     def create_or_get_collection(self, collection_name: str = "legal_cases"):
         """

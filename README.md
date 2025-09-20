@@ -10,6 +10,7 @@ A comprehensive legal case law retrieval system that uses RAG (Retrieval-Augment
 - **Real-time Progress Tracking**: Live updates showing document retrieval, pruning, and reading progress
 - **Grounded Responses**: All answers are based solely on retrieved case law to prevent hallucinations
 - **User-Friendly Interface**: Both command-line and Streamlit web interfaces
+- **Docker Optimized**: Lightweight deployment using OpenAI embeddings instead of local models for minimal image size
 
 ## Architecture
 
@@ -45,6 +46,8 @@ GEMINI_MODEL=gemini-2.5-flash
 # Optional: Database path
 CHROMA_DB_PATH=./chroma_db
 ```
+
+> **Note**: If you previously used the system with SentenceTransformers, you'll need to clear your ChromaDB database (`backend/chroma_db/`) to rebuild it with OpenAI embeddings, as the embedding dimensions are different.
 
 ### 3. Legal Documents
 
@@ -108,7 +111,7 @@ Features:
 ### Core Components
 
 - **Vector Database**: ChromaDB for efficient similarity search
-- **Embedding Model**: SentenceTransformers `all-MiniLM-L6-v2`
+- **Embedding Model**: OpenAI `text-embedding-3-small`
 - **LLM Integration**: OpenAI GPT-4o (configurable)
 - **Parallel Processing**: Async processing for pruning and reading agents
 - **Progress Tracking**: Real-time UI updates throughout the pipeline

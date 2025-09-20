@@ -37,18 +37,35 @@ def check_dependencies():
             if result.returncode == 0:
                 node_found = True
                 print(f"✅ Node.js found: {result.stdout.strip()}")
+            else:
+                print("❌ Node.js not found")
         except (subprocess.CalledProcessError, FileNotFoundError, subprocess.TimeoutExpired):
-            pass
+            print("❌ Node.js not found")
         
         # Check npm
         npm_found = False
         try:
-            result = subprocess.run(["npm", "--version"], capture_output=True, text=True, timeout=5)
-            if result.returncode == 0:
-                npm_found = True
-                print(f"✅ npm found: {result.stdout.strip()}")
-        except (subprocess.CalledProcessError, FileNotFoundError, subprocess.TimeoutExpired):
-            pass
+            # On Windows, try different ways to call npm
+            npm_commands = [
+                ["npm", "--version"],
+                ["npm.cmd", "--version"],
+                ["npm.ps1", "--version"]
+            ]
+            
+            for cmd in npm_commands:
+                try:
+                    result = subprocess.run(cmd, capture_output=True, text=True, timeout=5, shell=True)
+                    if result.returncode == 0:
+                        npm_found = True
+                        print(f"✅ npm found: {result.stdout.strip()}")
+                        break
+                except (subprocess.CalledProcessError, FileNotFoundError, subprocess.TimeoutExpired):
+                    continue
+            
+            if not npm_found:
+                print("❌ npm not found")
+        except Exception as e:
+            print(f"❌ Error checking npm: {e}")
         
         if not node_found or not npm_found:
             print("❌ Node.js or npm not found. Please install Node.js")
@@ -108,10 +125,29 @@ def install_frontend_deps():
     if not node_modules.exists():
         print("📦 Installing frontend dependencies...")
         try:
-            subprocess.run(["npm", "install"], cwd=frontend_dir, check=True)
-            print("✅ Frontend dependencies installed")
-        except subprocess.CalledProcessError:
-            print("❌ Failed to install frontend dependencies")
+            # Try different npm commands for Windows compatibility
+            npm_commands = [
+                ["npm", "install"],
+                ["npm.cmd", "install"],
+                ["npm.ps1", "install"]
+            ]
+            
+            success = False
+            for cmd in npm_commands:
+                try:
+                    subprocess.run(cmd, cwd=frontend_dir, check=True, shell=True)
+                    success = True
+                    break
+                except subprocess.CalledProcessError:
+                    continue
+            
+            if success:
+                print("✅ Frontend dependencies installed")
+            else:
+                print("❌ Failed to install frontend dependencies")
+                return False
+        except Exception as e:
+            print(f"❌ Failed to install frontend dependencies: {e}")
             return False
     else:
         print("✅ Frontend dependencies already installed")
@@ -156,9 +192,21 @@ def start_frontend():
     print("🚀 Starting Next.js frontend on http://localhost:3000")
     frontend_dir = Path(FRONTEND_DIR)
     
-    return subprocess.Popen([
-        "npm", "run", "dev"
-    ], cwd=frontend_dir)
+    # Try different npm commands for Windows compatibility
+    npm_commands = [
+        ["npm", "run", "dev"],
+        ["npm.cmd", "run", "dev"],
+        ["npm.ps1", "run", "dev"]
+    ]
+    
+    for cmd in npm_commands:
+        try:
+            return subprocess.Popen(cmd, cwd=frontend_dir, shell=True)
+        except (subprocess.CalledProcessError, FileNotFoundError):
+            continue
+    
+    # If all fail, raise an error
+    raise RuntimeError("Could not start frontend - npm not found")
 
 def main():
     """Main startup function"""

@@ -40,7 +40,7 @@ class VectorDBConfig:
     """Configuration for vector database"""
     
     COLLECTION_NAME = "legal_cases"
-    EMBEDDING_MODEL = "all-MiniLM-L6-v2"  # Sentence transformer model
+    EMBEDDING_MODEL = "text-embedding-3-small"  # OpenAI embedding model
     SIMILARITY_THRESHOLD = 0.5  # Minimum similarity for retrieval
     MAX_RESULTS = 30  # Maximum number of chunks to retrieve
 
