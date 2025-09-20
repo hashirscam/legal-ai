@@ -69,13 +69,16 @@ After successful deployment:
 
 ### Local Access:
 - **Application:** http://localhost:3000
-- **API:** http://localhost:8000
+- **API:** http://localhost:8000 (SECURE - Local Only)
 - **API Docs:** http://localhost:8000/docs
 
 ### Public Access (via Ngrok):
 - **Application:** https://random-id.ngrok.io
-- **API:** https://another-id.ngrok.io
 - **Ngrok Dashboard:** http://localhost:4040
+
+### Security:
+- **Frontend:** Publicly accessible (safe to share)
+- **Backend:** Local only (secure, not exposed to internet)
 
 ## ⚡ Performance Features
 
@@ -85,7 +88,8 @@ Your RTX 5060 Ti deployment includes:
 - 💾 **Local Model Caching** - No re-downloads
 - 🔧 **Memory Optimization** - Efficient VRAM usage
 - 📊 **Real-time Monitoring** - GPU usage tracking
-- 🌐 **Global Access** - Share via ngrok URLs
+- 🌐 **Global Frontend Access** - Share via ngrok URLs
+- 🔒 **Secure Backend** - Local processing only
 
 ## 🛑 Stopping Services
 

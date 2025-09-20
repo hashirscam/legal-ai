@@ -221,6 +221,10 @@ def create_ngrok_config():
             if 'tunnels' not in existing_config:
                 existing_config['tunnels'] = {}
             
+            # Only add frontend tunnel (remove backend tunnel if it exists)
+            if 'legal-ai-backend' in existing_config['tunnels']:
+                del existing_config['tunnels']['legal-ai-backend']
+            
             existing_config['tunnels'].update(ngrok_config['tunnels'])
             
             with open(config_file, 'w') as f:
@@ -230,26 +234,16 @@ def create_ngrok_config():
             # Fallback to simple append if PyYAML not available
             with open(config_file, 'a') as f:
                 f.write("\ntunnels:\n")
-                f.write("  legal-ai-backend:\n")
-                f.write("    proto: http\n")
-                f.write("    addr: 8000\n")
-                f.write("    bind_tls: true\n")
-                f.write("    inspect: false\n")
                 f.write("  legal-ai-frontend:\n")
                 f.write("    proto: http\n")
                 f.write("    addr: 3000\n")
                 f.write("    bind_tls: true\n")
                 f.write("    inspect: false\n")
     else:
-        # Create simple YAML config
+        # Create simple YAML config (frontend only)
         with open(config_file, 'w') as f:
             f.write("version: '2'\n")
             f.write("tunnels:\n")
-            f.write("  legal-ai-backend:\n")
-            f.write("    proto: http\n")
-            f.write("    addr: 8000\n")
-            f.write("    bind_tls: true\n")
-            f.write("    inspect: false\n")
             f.write("  legal-ai-frontend:\n")
             f.write("    proto: http\n")
             f.write("    addr: 3000\n")
@@ -259,21 +253,12 @@ def create_ngrok_config():
     print_colored("✅ Ngrok configuration created", Colors.OKGREEN)
     print_colored(f"Config file: {config_file}", Colors.OKBLUE)
 
-def start_ngrok_tunnels():
-    """Start ngrok tunnels"""
-    print_header("Starting Ngrok Tunnels")
+def start_ngrok_frontend_tunnel():
+    """Start ngrok tunnel for frontend only (backend stays local)"""
+    print_header("Starting Ngrok Frontend Tunnel")
     
     try:
-        # Start backend tunnel
-        backend_process = subprocess.Popen([
-            'ngrok', 'http', '8000', 
-            '--log=stdout', 
-            '--log-level=info'
-        ], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-        
-        time.sleep(3)  # Wait for tunnel to establish
-        
-        # Start frontend tunnel  
+        # Start only frontend tunnel
         frontend_process = subprocess.Popen([
             'ngrok', 'http', '3000',
             '--log=stdout',
@@ -282,25 +267,28 @@ def start_ngrok_tunnels():
         
         time.sleep(3)  # Wait for tunnel to establish
         
-        print_colored("✅ Ngrok tunnels started", Colors.OKGREEN)
+        print_colored("✅ Ngrok frontend tunnel started", Colors.OKGREEN)
+        print_colored("ℹ️  Backend remains local for security and performance", Colors.OKBLUE)
         
-        # Get tunnel URLs
+        # Get tunnel URL
         try:
             api_result = subprocess.run(['curl', '-s', 'http://localhost:4040/api/tunnels'], 
                                       capture_output=True, text=True)
             if api_result.returncode == 0:
                 tunnels_data = json.loads(api_result.stdout)
                 for tunnel in tunnels_data.get('tunnels', []):
-                    print_colored(f"🌐 {tunnel['name']}: {tunnel['public_url']}", Colors.OKCYAN)
+                    if tunnel['config']['addr'] == 'localhost:3000':
+                        print_colored(f"🌐 Frontend (Public): {tunnel['public_url']}", Colors.OKCYAN)
+                        return frontend_process, tunnel['public_url']
             else:
                 print_colored("ℹ️  Check ngrok dashboard at http://localhost:4040", Colors.WARNING)
         except:
             print_colored("ℹ️  Check ngrok dashboard at http://localhost:4040", Colors.WARNING)
             
-        return backend_process, frontend_process
+        return frontend_process, None
         
     except Exception as e:
-        print_colored(f"❌ Failed to start ngrok tunnels: {e}", Colors.FAIL)
+        print_colored(f"❌ Failed to start ngrok frontend tunnel: {e}", Colors.FAIL)
         return None, None
 
 def start_backend():
@@ -348,26 +336,13 @@ def start_frontend():
         print_colored(f"❌ Failed to start frontend: {e}", Colors.FAIL)
         return None
 
-def create_frontend_env_with_ngrok():
-    """Create frontend environment file with ngrok URLs"""
-    print_header("Configuring Frontend for Ngrok")
-    
-    # Wait a bit for ngrok to fully start
-    time.sleep(5)
+def create_frontend_env_with_local_backend():
+    """Create frontend environment file pointing to local backend"""
+    print_header("Configuring Frontend for Local Backend")
     
     try:
-        # Get ngrok tunnel URLs
-        api_result = subprocess.run(['curl', '-s', 'http://localhost:4040/api/tunnels'], 
-                                  capture_output=True, text=True)
-        
-        backend_url = "http://localhost:8000"  # Default fallback
-        
-        if api_result.returncode == 0:
-            tunnels_data = json.loads(api_result.stdout)
-            for tunnel in tunnels_data.get('tunnels', []):
-                if tunnel['config']['addr'] == 'localhost:8000':
-                    backend_url = tunnel['public_url']
-                    break
+        # Always use local backend URL
+        backend_url = "http://localhost:8000"
         
         # Create frontend .env.local
         frontend_env_path = Path("frontend") / ".env.local"
@@ -375,10 +350,11 @@ def create_frontend_env_with_ngrok():
             f.write(f"NEXT_PUBLIC_API_URL={backend_url}\n")
             f.write("NODE_ENV=development\n")
         
-        print_colored(f"✅ Frontend configured with backend URL: {backend_url}", Colors.OKGREEN)
+        print_colored(f"✅ Frontend configured with local backend URL: {backend_url}", Colors.OKGREEN)
+        print_colored("ℹ️  Frontend will connect to local backend (secure)", Colors.OKBLUE)
         
     except Exception as e:
-        print_colored(f"⚠️  Could not auto-configure ngrok URLs: {e}", Colors.WARNING)
+        print_colored(f"⚠️  Could not configure frontend environment: {e}", Colors.WARNING)
         print_colored("You may need to manually update frontend/.env.local", Colors.WARNING)
 
 def cleanup_processes(*processes):
@@ -443,18 +419,18 @@ def main():
         if not install_frontend_dependencies():
             return False
         
-        # Configure ngrok
+        # Configure ngrok for frontend only
         create_ngrok_config()
         
-        # Start ngrok tunnels
-        ngrok_backend, ngrok_frontend = start_ngrok_tunnels()
-        if ngrok_backend:
-            processes.extend([ngrok_backend, ngrok_frontend])
+        # Start ngrok frontend tunnel only
+        ngrok_frontend, frontend_url = start_ngrok_frontend_tunnel()
+        if ngrok_frontend:
+            processes.append(ngrok_frontend)
         
-        time.sleep(5)  # Wait for tunnels to stabilize
+        time.sleep(5)  # Wait for tunnel to stabilize
         
-        # Configure frontend with ngrok URLs
-        create_frontend_env_with_ngrok()
+        # Configure frontend to use local backend
+        create_frontend_env_with_local_backend()
         
         # Start backend
         backend_process = start_backend()
@@ -472,8 +448,12 @@ def main():
         print_header("🎉 Deployment Successful!")
         print_colored("Services are starting up...", Colors.OKGREEN)
         print_colored("Local Frontend: http://localhost:3000", Colors.OKCYAN)
-        print_colored("Local Backend: http://localhost:8000", Colors.OKCYAN)
+        print_colored("Local Backend: http://localhost:8000 (SECURE - Local Only)", Colors.OKGREEN)
+        if frontend_url:
+            print_colored(f"Public Frontend: {frontend_url}", Colors.OKCYAN)
         print_colored("Ngrok Dashboard: http://localhost:4040", Colors.OKCYAN)
+        print_colored("\n🔒 Backend stays local for security and performance", Colors.OKBLUE)
+        print_colored("🌐 Frontend is publicly accessible via ngrok", Colors.OKBLUE)
         print_colored("\nPress Ctrl+C to stop all services", Colors.WARNING)
         
         # Keep script running

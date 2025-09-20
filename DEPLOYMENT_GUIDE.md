@@ -144,17 +144,12 @@ cp ngrok.yml ~/.ngrok2/ngrok.yml
 
 ### Step 3: Start Services Manually
 
-**Terminal 1 - Start Ngrok Backend Tunnel:**
-```bash
-ngrok http 8000 --log=stdout
-```
-
-**Terminal 2 - Start Ngrok Frontend Tunnel:**
+**Terminal 1 - Start Ngrok Frontend Tunnel:**
 ```bash
 ngrok http 3000 --log=stdout
 ```
 
-**Terminal 3 - Start Backend:**
+**Terminal 2 - Start Backend (Local Only):**
 ```bash
 # Set GPU environment variables
 export CUDA_VISIBLE_DEVICES=0
@@ -164,12 +159,12 @@ export TOKENIZERS_PARALLELISM=false
 python -m uvicorn backend.api_server:app --host 0.0.0.0 --port 8000 --reload
 ```
 
-**Terminal 4 - Configure and Start Frontend:**
+**Terminal 3 - Configure and Start Frontend:**
 ```bash
 cd frontend
 
-# Get your ngrok backend URL from Terminal 1 output, then:
-echo "NEXT_PUBLIC_API_URL=https://your-backend-url.ngrok.io" > .env.local
+# Configure frontend to use local backend
+echo "NEXT_PUBLIC_API_URL=http://localhost:8000" > .env.local
 
 # Start Next.js
 npm run dev
@@ -183,16 +178,20 @@ After successful deployment, you'll have access to:
 
 ### Local Access:
 - **Frontend:** http://localhost:3000
-- **Backend API:** http://localhost:8000
+- **Backend API:** http://localhost:8000 (SECURE - Local Only)
 - **API Documentation:** http://localhost:8000/docs
 
 ### External Access (via ngrok):
 - **Frontend:** https://your-frontend-id.ngrok.io
-- **Backend API:** https://your-backend-id.ngrok.io
 - **Ngrok Dashboard:** http://localhost:4040
 
+### Security Model:
+- **Frontend:** Publicly accessible via ngrok (safe to share)
+- **Backend:** Local only (secure, not exposed to internet)
+- **Data Processing:** All AI processing happens locally on your GPU
+
 ### Sharing Access:
-Share the ngrok frontend URL with others to give them access to your locally hosted Legal AI system!
+Share the ngrok frontend URL with others to give them access to your locally hosted Legal AI system! The backend remains secure on your local machine.
 
 ---
 

@@ -4,18 +4,9 @@
 
 version: "2"
 
-# Configure tunnels for both backend and frontend
+# Configure tunnel for frontend only (backend stays local for security)
 tunnels:
-  # Backend API tunnel (FastAPI on port 8000)
-  legal-ai-backend:
-    proto: http
-    addr: 8000
-    bind_tls: true
-    inspect: true  # Enable request inspection
-    host_header: localhost:8000
-    schemes: [https, http]
-    
-  # Frontend tunnel (Next.js on port 3000)  
+  # Frontend tunnel (Next.js on port 3000) - Backend remains local
   legal-ai-frontend:
     proto: http
     addr: 3000
