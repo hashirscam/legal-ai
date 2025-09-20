@@ -21,10 +21,35 @@ logger = logging.getLogger(__name__)
 
 app = FastAPI(title="Legal AI Research API", version="1.0.0")
 
-# Add CORS middleware for Next.js frontend
+# Add CORS middleware for Next.js frontend and ngrok tunnels
+# Get allowed origins from environment or use defaults
+import os
+allowed_origins = [
+    "http://localhost:3000", 
+    "http://127.0.0.1:3000",
+    "https://localhost:3000",
+    "https://127.0.0.1:3000"
+]
+
+# Add ngrok domains if specified in environment
+ngrok_frontend = os.getenv("NGROK_FRONTEND_URL")
+ngrok_backend = os.getenv("NGROK_BACKEND_URL")
+if ngrok_frontend:
+    allowed_origins.extend([ngrok_frontend, ngrok_frontend.replace("http://", "https://")])
+if ngrok_backend:
+    allowed_origins.extend([ngrok_backend, ngrok_backend.replace("http://", "https://")])
+
+# Add common ngrok patterns (for development convenience)
+allowed_origins.extend([
+    "https://*.ngrok.io",
+    "https://*.ngrok-free.app",
+    "https://*.ngrok.app"
+])
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000", "http://127.0.0.1:3000"],
+    allow_origins=allowed_origins,
+    allow_origin_regex=r"https://.*\.ngrok\.(io|app|dev)",  # Allow all ngrok domains
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

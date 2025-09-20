@@ -1,0 +1,39 @@
+# Base Legal AI Research System Requirements
+pocketflow>=0.0.1
+openai>=1.0.0
+chromadb>=0.4.0
+sentence-transformers>=2.2.0
+python-dotenv>=1.0.0
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+websockets>=12.0
+
+# GPU Optimization Dependencies for RTX 5060 Ti
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+accelerate>=0.20.0
+transformers>=4.30.0
+bitsandbytes>=0.41.0
+optimum>=1.13.0
+
+# NVIDIA GPU Monitoring and Management
+pynvml>=11.0.0
+nvidia-ml-py3>=7.352.0
+
+# Enhanced Performance Libraries
+faiss-gpu>=1.7.0  # GPU-accelerated vector search
+cupy-cuda11x>=12.0.0  # GPU-accelerated NumPy replacement (for CUDA 11.x)
+
+# Memory and Performance Optimization
+psutil>=5.9.0
+memory-profiler>=0.60.0
+
+# Model Caching and Management
+huggingface-hub>=0.16.0
+safetensors>=0.3.0
+
+# Additional utilities for ngrok deployment
+pyngrok>=6.0.0  # Python ngrok wrapper
+requests>=2.28.0
+pyyaml>=6.0

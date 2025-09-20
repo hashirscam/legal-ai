@@ -1,0 +1,44 @@
+# Ngrok configuration for Legal AI Research System
+# Place this file in your home directory at ~/.ngrok2/ngrok.yml
+# or use the provided deployment script which will set it up automatically
+
+version: "2"
+
+# Configure tunnels for both backend and frontend
+tunnels:
+  # Backend API tunnel (FastAPI on port 8000)
+  legal-ai-backend:
+    proto: http
+    addr: 8000
+    bind_tls: true
+    inspect: true  # Enable request inspection
+    host_header: localhost:8000
+    schemes: [https, http]
+    
+  # Frontend tunnel (Next.js on port 3000)  
+  legal-ai-frontend:
+    proto: http
+    addr: 3000
+    bind_tls: true
+    inspect: true  # Enable request inspection
+    host_header: localhost:3000
+    schemes: [https, http]
+
+# Optional: Set region (uncomment and set your preferred region)
+# region: us  # Options: us, eu, ap, au, sa, jp, in
+
+# Optional: Authentication token (recommended for permanent tunnels)
+# authtoken: YOUR_NGROK_AUTH_TOKEN_HERE
+
+# Web interface configuration
+web_addr: localhost:4040
+console_ui: true
+
+# Log configuration
+log_level: info
+log_format: logfmt
+log: ./ngrok.log
+
+# Update configuration
+update_channel: stable
+update_check: true
