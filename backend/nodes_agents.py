@@ -83,6 +83,39 @@ Respond with ONLY the JSON object:"""
             "response_sections": ["Direct Answer", "Legal Analysis", "Cases Referenced"]
         }
 
+class QueryClassificationNode(Node):
+    """Classify the legal query once at the beginning of the process"""
+    
+    def prep(self, shared):
+        user_query = shared.get("user_query", "")
+        if not user_query:
+            logger.error("No user query provided for classification")
+            return None
+        return user_query
+    
+    def exec(self, user_query):
+        if not user_query:
+            return None
+        
+        logger.info(f"Classifying query: {user_query[:100]}...")
+        classification = classify_legal_query_type(user_query)
+        logger.info(f"Query classified as '{classification.get('query_type')}' with confidence {classification.get('confidence', 0):.2f}")
+        return classification
+    
+    def post(self, shared, prep_res, exec_res):
+        if exec_res:
+            shared["query_classification"] = exec_res
+        else:
+            # Fallback classification if something went wrong
+            shared["query_classification"] = {
+                "query_type": "general",
+                "confidence": 0.3,
+                "reasoning": "Classification failed, using general approach",
+                "focus_areas": ["legal analysis", "case law", "precedents"],
+                "response_sections": ["Direct Answer", "Legal Analysis", "Cases Referenced"]
+            }
+        return "default"
+
 class PruningAgentNode(AsyncParallelBatchNode):
     """Determine if documents are relevant to the query using parallel agents"""
     
@@ -154,7 +187,8 @@ INSTRUCTIONS:
 3. Respond with ONLY "YES" or "NO" followed by a brief one-line explanation
 
 RESPONSE FORMAT:
-YES/NO - [Brief explanation of relevance/irrelevance based on the retrieved chunks]
+YES - [RANDOM EXPLANATION]
+
 
 RESPONSE:"""
 
@@ -226,8 +260,17 @@ class ReadingAgentNode(AsyncParallelBatchNode):
                            "Extracting relevant information")
         tracker.update_reading_start(relevant_documents, chunk_info)
         
+        # Get pre-computed query classification from shared store
+        classification = shared.get("query_classification", {
+            "query_type": "general",
+            "confidence": 0.3,
+            "reasoning": "No classification available, using general approach",
+            "focus_areas": ["legal analysis", "case law", "precedents"],
+            "response_sections": ["Direct Answer", "Legal Analysis", "Cases Referenced"]
+        })
+        
         # We'll read metadata directly from files during exec_async
-        return [(doc, user_query) for doc in relevant_documents]
+        return [(doc, user_query, classification) for doc in relevant_documents]
     
     def _get_focused_extraction_prompt(self, user_query, classification, document_name, doc_content):
         """Generate a focused extraction prompt based on agent classification"""
@@ -267,7 +310,7 @@ RESPONSE FORMAT:
 EXTRACTION:"""
 
     async def exec_async(self, doc_and_query):
-        document_name, user_query = doc_and_query
+        document_name, user_query, classification = doc_and_query
         
         # Update progress to show this document is being read
         tracker = get_progress_tracker()
@@ -295,9 +338,8 @@ EXTRACTION:"""
             tracker.update_document_status(document_name, "error")
             return (document_name, f"Error reading {document_name}: {str(e)}", {})
         
-        # Classify query type and create focused prompt
-        classification = classify_legal_query_type(user_query)
-        logger.info(f"Reading {document_name} - Query classified as '{classification.get('query_type')}' with confidence {classification.get('confidence', 0):.2f}")
+        # Use pre-computed query classification passed from prep_async
+        logger.info(f"Reading {document_name} - Using pre-computed classification: '{classification.get('query_type')}' with confidence {classification.get('confidence', 0):.2f}")
         reading_prompt = self._get_focused_extraction_prompt(user_query, classification, document_name, doc_content)
 
         try:
@@ -412,14 +454,23 @@ RESPONSE:"""
         document_summaries = shared.get("document_summaries", {})
         document_metadata = shared.get("document_metadata", {})
         
+        # Get pre-computed query classification from shared store
+        classification = shared.get("query_classification", {
+            "query_type": "general",
+            "confidence": 0.3,
+            "reasoning": "No classification available, using general approach",
+            "focus_areas": ["legal analysis", "case law", "precedents"],
+            "response_sections": ["Direct Answer", "Legal Analysis", "Cases Referenced"]
+        })
+        
         # Update progress to show aggregation stage is starting
         tracker = get_progress_tracker()
         tracker.update_aggregation()
         
-        return (user_query, document_summaries, document_metadata)
+        return (user_query, document_summaries, document_metadata, classification)
     
     def exec(self, prep_data):
-        user_query, document_summaries, document_metadata = prep_data
+        user_query, document_summaries, document_metadata, classification = prep_data
         
         tracker = get_progress_tracker()
         
@@ -464,9 +515,8 @@ RESPONSE:"""
         # Create list of available citations for the LLM (without showing URLs)
         available_citations = "\n".join([f"- {case['citation']}" for case in case_info_list])
         
-        # Classify query type and get appropriate prompt
-        classification = classify_legal_query_type(user_query)
-        logger.info(f"Aggregation using classification: {classification.get('query_type')} - {classification.get('reasoning', 'No reasoning')}")
+        # Use pre-computed query classification passed from prep
+        logger.info(f"Aggregation using pre-computed classification: {classification.get('query_type')} - {classification.get('reasoning', 'No reasoning')}")
         logger.info(f"Synthesizing information from {len(case_info_list)} cases: {[case['citation'] for case in case_info_list]}")
         
         aggregation_prompt = self._get_query_specific_aggregation_prompt(
