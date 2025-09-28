@@ -9,6 +9,80 @@ from typing import List, Dict, Any, Tuple
 
 logger = logging.getLogger(__name__)
 
+def classify_legal_query_type(user_query: str) -> dict:
+    """Use an LLM agent to intelligently classify the legal query and determine response structure"""
+    
+    classification_prompt = f"""You are a legal research classification agent. Analyze the user's legal query and determine:
+1. The primary legal area/topic
+2. What type of information the user is seeking
+3. The most appropriate response structure
+
+USER QUERY: {user_query}
+
+ANALYSIS INSTRUCTIONS:
+- Consider the intent behind the query, not just keywords
+- Think about what a lawyer would actually need to know
+- Determine the most focused response structure
+
+AVAILABLE QUERY TYPES:
+- sentencing: Questions about penalties, sentences, punishment factors
+- bail: Questions about release, detention, custody decisions
+- evidence: Questions about admissibility, Charter violations, evidence law
+- procedure: Questions about legal processes, motions, applications
+- definition: Questions seeking definitions, elements, legal concepts
+- precedent: Questions about case authority, binding precedents
+- factors: Questions about criteria, considerations, tests used by courts
+- general: Broad questions requiring comprehensive analysis
+
+RESPONSE FORMAT (JSON):
+{{
+    "query_type": "most_appropriate_type",
+    "confidence": 0.95,
+    "reasoning": "Brief explanation of why this classification fits",
+    "focus_areas": ["key area 1", "key area 2", "key area 3"],
+    "response_sections": ["section 1", "section 2", "section 3"]
+}}
+
+Respond with ONLY the JSON object:"""
+
+    try:
+        response = call_llm(classification_prompt)
+        
+        # Extract JSON from response
+        import json
+        import re
+        
+        # Try to find JSON in the response
+        json_match = re.search(r'\{.*\}', response, re.DOTALL)
+        if json_match:
+            classification = json.loads(json_match.group())
+            
+            # Validate required fields
+            required_fields = ['query_type', 'confidence', 'reasoning', 'focus_areas', 'response_sections']
+            if all(field in classification for field in required_fields):
+                return classification
+        
+        # Fallback if parsing fails
+        logger.warning(f"Failed to parse classification response: {response}")
+        return {
+            "query_type": "general",
+            "confidence": 0.5,
+            "reasoning": "Classification parsing failed, using general approach",
+            "focus_areas": ["legal analysis", "case law", "precedents"],
+            "response_sections": ["Direct Answer", "Legal Analysis", "Cases Referenced"]
+        }
+        
+    except Exception as e:
+        logger.error(f"Error in query classification: {e}")
+        # Fallback classification
+        return {
+            "query_type": "general", 
+            "confidence": 0.3,
+            "reasoning": "Classification agent failed, using general approach",
+            "focus_areas": ["legal analysis", "case law", "precedents"],
+            "response_sections": ["Direct Answer", "Legal Analysis", "Cases Referenced"]
+        }
+
 class PruningAgentNode(AsyncParallelBatchNode):
     """Determine if documents are relevant to the query using parallel agents"""
     
@@ -135,6 +209,43 @@ class ReadingAgentNode(AsyncParallelBatchNode):
         # We'll read metadata directly from files during exec_async
         return [(doc, user_query) for doc in relevant_documents]
     
+    def _get_focused_extraction_prompt(self, user_query, classification, document_name, doc_content):
+        """Generate a focused extraction prompt based on agent classification"""
+        
+        query_type = classification.get('query_type', 'general')
+        focus_areas = classification.get('focus_areas', ['legal analysis'])
+        response_sections = classification.get('response_sections', ['Direct Answer', 'Legal Analysis'])
+        
+        # Create dynamic focus areas text
+        focus_text = "\n".join([f"- {area}" for area in focus_areas])
+        
+        # Create dynamic response format
+        response_format = "\n".join([f"**{section}:** [Content for {section.lower()}]" for section in response_sections])
+        response_format += "\n**Direct Quotes:** [Specific quotes with paragraph references]"
+        
+        return f"""You are a legal research assistant. Your task is to extract ONLY the information that directly answers the user's specific question from this legal case.
+
+USER QUERY: {user_query}
+LEGAL CASE: {document_name}
+FULL CONTENT: {doc_content}
+
+QUERY CLASSIFICATION: {classification.get('reasoning', 'General legal query')}
+
+CRITICAL INSTRUCTIONS:
+1. Focus ONLY on information that directly answers the user's query
+2. Do not include irrelevant case details or background information
+3. Be concise and targeted - lawyers need precise answers, not comprehensive case summaries
+4. Include specific paragraph references and direct quotes where relevant
+5. If the case doesn't address the query, clearly state that
+
+FOCUS ON:
+{focus_text}
+
+RESPONSE FORMAT:
+{response_format}
+
+EXTRACTION:"""
+
     async def exec_async(self, doc_and_query):
         document_name, user_query = doc_and_query
         
@@ -164,48 +275,10 @@ class ReadingAgentNode(AsyncParallelBatchNode):
             tracker.update_document_status(document_name, "error")
             return (document_name, f"Error reading {document_name}: {str(e)}", {})
         
-        # Create reading/extraction prompt
-        reading_prompt = f"""You are a legal research assistant. Extract and summarize all information relevant to the user's query from this legal case.
-
-USER QUERY: {user_query}
-
-LEGAL CASE: {document_name}
-FULL CONTENT: {doc_content}
-
-INSTRUCTIONS:
-1. Identify all sections, paragraphs, any Important Information, and legal principles relevant to the query
-2. Extract key facts, legal reasoning, and conclusions
-3. Include relevant quotes with specific references
-4. Organize information clearly and concisely
-5. If the case sets precedent or cites other relevant cases, include that information
-
-PROVIDE A STRUCTURED SUMMARY:
-
-**Summary of information relevant to the query:**
-[Summary of All the information from the case relevant to the query]
-
-**Case Overview:**
-[Brief description of the case and its relevance to the query]
-
-**Key Facts:**
-[Relevant factual circumstances]
-
-**Legal Issues:**
-[Legal questions addressed that relate to the query]
-
-**Court's Analysis:**
-[How the court analyzed the issues relevant to your query]
-
-**Decision/Outcome:**
-[The court's decision on relevant issues]
-
-**Precedential Value:**
-[How this case might apply to similar situations]
-
-**Relevant Quotes:**
-[Direct quotes from the decision with paragraph references if available]
-
-SUMMARY:"""
+        # Classify query type and create focused prompt
+        classification = classify_legal_query_type(user_query)
+        logger.info(f"Reading {document_name} - Query classified as '{classification.get('query_type')}' with confidence {classification.get('confidence', 0):.2f}")
+        reading_prompt = self._get_focused_extraction_prompt(user_query, classification, document_name, doc_content)
 
         try:
             # Use async LLM call for true parallel execution
@@ -249,6 +322,71 @@ SUMMARY:"""
 class AggregationAgentNode(Node):
     """Combine all information into final comprehensive response"""
     
+    def _get_query_specific_aggregation_prompt(self, user_query, classification, all_summaries, available_citations, num_cases):
+        """Generate a query-specific aggregation prompt based on agent classification"""
+        
+        query_type = classification.get('query_type', 'general')
+        focus_areas = classification.get('focus_areas', ['legal analysis'])
+        response_sections = classification.get('response_sections', ['Direct Answer', 'Legal Analysis'])
+        reasoning = classification.get('reasoning', 'General legal query')
+        
+        # Create dynamic sections
+        sections_text = ""
+        for i, section in enumerate(response_sections):
+            if i == 0:
+                sections_text += f"\n## {section}\n\n[Provide a direct, concise answer to the user's question based on ALL {num_cases} cases]\n"
+            else:
+                sections_text += f"\n## {section}\n\n[Content for {section.lower()} synthesized from all relevant cases]\n"
+        
+        # Add cases referenced section
+        sections_text += f"\n## Cases Referenced\n[List ALL {num_cases} cases with brief relevance to the query]\n"
+        
+        return f"""You are a senior legal research assistant providing a focused response to a specific legal query. Your response will be displayed in a web interface that supports markdown formatting.
+
+USER QUERY: {user_query}
+
+QUERY ANALYSIS: {reasoning}
+
+RELEVANT LEGAL CASES AND SUMMARIES ({num_cases} cases found):
+{all_summaries}
+
+AVAILABLE CASE CITATIONS:
+{available_citations}
+
+CRITICAL INSTRUCTIONS - SYNTHESIS REQUIREMENT:
+🚨 MANDATORY: You MUST analyze and synthesize information from ALL {num_cases} cases provided above
+🚨 Do NOT focus on just one case - incorporate findings from EVERY relevant case
+🚨 If multiple cases address the same issue, compare and contrast their approaches
+🚨 If cases have different outcomes, explain the distinguishing factors
+
+FORMATTING INSTRUCTIONS:
+1. Answer ONLY what the user asked - do not provide unnecessary background or comprehensive case summaries
+2. Be concise and directly responsive to the query
+3. When citing cases, use ONLY the case citation format (e.g., "R. v. Smith, 2025 ONCJ 123") - do NOT include URLs
+4. Do NOT use asterisks (*) around case names - write them as plain text
+5. The frontend will automatically make case citations clickable
+6. Ground ALL statements in the provided case law
+7. If the cases don't address the query, clearly state that
+
+FOCUS AREAS: {', '.join(focus_areas)}
+
+SYNTHESIS APPROACH:
+- STEP 1: Review EACH case individually and extract information relevant to the query
+- STEP 2: Identify patterns, similarities, and differences across ALL cases
+- STEP 3: Synthesize findings from ALL cases into a coherent response
+- STEP 4: Ensure every relevant case is mentioned and its contribution explained
+
+MANDATORY CASE-BY-CASE ANALYSIS:
+Before writing your response, mentally go through each case and ask:
+1. What does this case contribute to answering the user's query?
+2. How does this case compare to the other cases?
+3. Should this case be mentioned in my response?
+
+RESPONSE STRUCTURE:
+{sections_text}
+
+RESPONSE:"""
+
     def prep(self, shared):
         user_query = shared.get("user_query", "")
         document_summaries = shared.get("document_summaries", {})
@@ -271,7 +409,7 @@ class AggregationAgentNode(Node):
         # Update progress to show we're building the response
         tracker.update_stage("aggregation", 
                            "Synthesizing findings", 
-                           "Building comprehensive legal analysis")
+                           "Building targeted legal response")
         
         # Build case information with metadata
         case_info_list = []
@@ -304,81 +442,16 @@ class AggregationAgentNode(Node):
         ])
         
         # Create list of available citations for the LLM (without showing URLs)
-        available_citations = "\n".join([f"- {case['citation']} → {case['citation']}" for case in case_info_list])
+        available_citations = "\n".join([f"- {case['citation']}" for case in case_info_list])
         
-        aggregation_prompt = f"""You are a senior legal research assistant providing a comprehensive response based on relevant case law. Your response will be displayed in a web interface that supports markdown formatting.
-
-User asked the following question.
-USER QUERY: {user_query}
-
-RELEVANT LEGAL CASES AND SUMMARIES:
-{all_summaries}
-
-AVAILABLE CASE CITATIONS WITH HYPERLINKS:
-{available_citations}
-
-CRITICAL INSTRUCTIONS:
-1. Provide a thorough synthesis of ALL relevant cases
-2. When citing cases, use ONLY the case citation format (e.g., "R. v. Smith, 2025 ONCJ 123") - do NOT include URLs
-3. Do NOT use asterisks (*) around case names - write them as plain text
-4. The frontend will automatically make case citations clickable
-5. Structure your response professionally with clear headings using markdown (##, ###)
-6. Use bullet points and formatting to make it easy to read
-7. When referencing specific paragraphs, include them BEFORE the case citation (e.g., "As stated in paragraph 5 of R. v. Smith, 2025 ONCJ 123")
-8. Ground ALL statements in the provided case law
-
-REQUIRED STRUCTURE (use markdown formatting):
-
-## SUMMARY
-[GIVE Brief Response to the Query Containing all relevant information for the USER from the given summaries (the whole point of making this summary is that the user has to read less. so first of all provide answer JUST TO ANSWER user's query directly based on the information from Summaries you have).
-This first information should be self sufficient.]
-
-Then you move forward with "DETAILED INFORMATION" section.
-
-## DETAILED INFORMATION
-
-### 📋 Executive Summary
-Provide a comprehensive overview directly answering the user's query, citing key cases with hyperlinks.
-
-### ⚖️ Legal Framework
-
-#### Applicable Legal Principles
-List and explain key legal principles, citing cases with hyperlinks.
-
-#### Statutory Context
-Note relevant statutes mentioned in the cases.
-
-### 📚 Case Law Analysis
-
-#### [Organize by themes - create appropriate headings]
-Detailed analysis with case citations using hyperlinks.
-
-### 🔍 Key Findings
-
-#### Established Precedents
-- Use bullet points with case hyperlinks
-- Clear legal rules from the cases
-
-#### Factual Distinctions
-Important differences between cases.
-
-### 💡 Practical Implications
-How these precedents apply to similar situations.
-
-### 🎯 Conclusion
-Synthesized legal position based on all cases reviewed.
-
-## 📖 Cases Referenced
-List all cases with hyperlinks and brief relevance descriptions.
-
-IMPORTANT NOTE: 
-- Use ONLY the case citation format (e.g., "R. v. Smith, 2025 ONCJ 123") - do NOT include URLs or markdown links, or ** symbols for emboldening
-- Do NOT use asterisks (*) around case names or anywhere - write them as plain text
-- The frontend will automatically convert case citations to clickable links
-- Do NOT include URLs in parentheses after the case name
-- Do NOT add paragraph references after the case citation
-
-COMPREHENSIVE RESPONSE (in markdown format):"""
+        # Classify query type and get appropriate prompt
+        classification = classify_legal_query_type(user_query)
+        logger.info(f"Aggregation using classification: {classification.get('query_type')} - {classification.get('reasoning', 'No reasoning')}")
+        logger.info(f"Synthesizing information from {len(case_info_list)} cases: {[case['citation'] for case in case_info_list]}")
+        
+        aggregation_prompt = self._get_query_specific_aggregation_prompt(
+            user_query, classification, all_summaries, available_citations, len(case_info_list)
+        )
 
         try:
             # Update progress to show we're calling the LLM
