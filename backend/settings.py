@@ -30,8 +30,8 @@ class ChunkingConfig:
     STRATEGY = ChunkingStrategy.PRESERVE_PARAGRAPHS  
     
     # Basic chunking parameters 
-    CHUNK_SIZE = 10  # Target size for each chunk in characters
-    OVERLAP_SIZE = 0  # Number of characters to overlap between chunks
+    CHUNK_SIZE = 800  # Target size for each chunk in characters (increased for legal context)
+    OVERLAP_SIZE = 150  # Number of characters to overlap between chunks (increased for better context)
     
     SPLIT_ON_SENTENCES = True  # Split by sentences when doing fine-grained splitting
     PRESERVE_PARAGRAPH_NUMBERS = True  # Keep [1], [2] markers with their content
@@ -40,9 +40,9 @@ class VectorDBConfig:
     """Configuration for vector database"""
     
     COLLECTION_NAME = "legal_cases"
-    EMBEDDING_MODEL = "all-MiniLM-L6-v2"  # Sentence transformer model
-    SIMILARITY_THRESHOLD = 0.5  # Minimum similarity for retrieval
-    MAX_RESULTS = 30  # Maximum number of chunks to retrieve
+    EMBEDDING_MODEL = "all-MiniLM-L6-v2"  # Better sentence transformer model for legal text
+    SIMILARITY_THRESHOLD = 0.3  # Lower threshold for better recall in legal contexts
+    MAX_RESULTS = 75  # Increased for better coverage of legal concepts
 
 
 class LLMConfig:
