@@ -89,57 +89,77 @@ class PruningAgentNode(AsyncParallelBatchNode):
     async def prep_async(self, shared):
         unique_documents = shared.get("unique_documents", [])
         user_query = shared.get("user_query", "")
+        retrieved_chunks = shared.get("retrieved_chunks", [])
         
         if not unique_documents or not user_query:
             logger.error("Missing documents or query for pruning")
             return []
         
+        # Group retrieved chunks by document for pruning analysis
+        chunks_by_document = {}
+        for chunk in retrieved_chunks:
+            file_name = chunk.get('metadata', {}).get('file_name')
+            if file_name and file_name in unique_documents:
+                if file_name not in chunks_by_document:
+                    chunks_by_document[file_name] = []
+                chunks_by_document[file_name].append(chunk)
+        
         tracker = get_progress_tracker()
         tracker.update_stage("pruning", 
                            f"Analyzing relevance of {len(unique_documents)} documents",
-                           "Running parallel pruning agents")
+                           "Running parallel pruning agents with retrieved chunks")
         tracker.update_pruning(0, len(unique_documents))
         
-        return [(doc, user_query) for doc in unique_documents]
+        # Return document name, query, and its retrieved chunks
+        return [(doc, user_query, chunks_by_document.get(doc, [])) for doc in unique_documents]
     
-    async def exec_async(self, doc_and_query):
-        document_name, user_query = doc_and_query
+    async def exec_async(self, doc_query_chunks):
+        document_name, user_query, retrieved_chunks = doc_query_chunks
         
-        # Read the document directly from file
-        config = get_system_config()
-        doc_path = os.path.join(config.DOCUMENTS_DIR, document_name)
+        if not retrieved_chunks:
+            logger.warning(f"No retrieved chunks found for document: {document_name}")
+            return (document_name, False, "No retrieved chunks available for analysis")
         
-        if not os.path.exists(doc_path):
-            logger.warning(f"Document not found: {document_name}")
-            return (document_name, False, "Document not found")
+        # Combine all retrieved chunk texts for this document
+        chunk_texts = []
+        for chunk in retrieved_chunks:
+            chunk_text = chunk.get('text', '')
+            if chunk_text:
+                chunk_texts.append(chunk_text)
         
-        try:
-            with open(doc_path, 'r', encoding='utf-8') as f:
-                full_document = f.read()
-        except Exception as e:
-            logger.error(f"Error reading {document_name}: {e}")
-            return (document_name, False, f"Error reading file: {str(e)}")
+        if not chunk_texts:
+            logger.warning(f"No chunk text found for document: {document_name}")
+            return (document_name, False, "No chunk text available for analysis")
         
-        # Create pruning prompt
-        pruning_prompt = f"""You are a legal research assistant. Your task is to determine if a legal case document is relevant to a specific query.
+        # Combine chunks with separators
+        combined_chunk_content = "\n\n--- CHUNK SEPARATOR ---\n\n".join(chunk_texts)
+        
+        # Create pruning prompt using the actual retrieved chunks
+        pruning_prompt = f"""You are a legal research assistant. Your task is to determine if a legal case document is relevant to a specific query based on the chunks that were retrieved from the vector database.
 
 QUERY: {user_query}
 
 DOCUMENT: {document_name}
-CONTENT: {full_document[:5000]}{"..." if len(full_document) > 5000 else ""}
+RETRIEVED CHUNKS FROM VECTOR DATABASE:
+{combined_chunk_content}
+
+ANALYSIS CONTEXT:
+- These chunks were already identified as potentially relevant by vector similarity
+- You are evaluating if the document as a whole (represented by these chunks) addresses the user's query
+- Consider both direct relevance and indirect relevance (precedential value, similar legal principles)
 
 INSTRUCTIONS:
-1. Carefully analyze if this legal case addresses the issues raised in the query
-2. Consider both direct relevance and indirect relevance (precedential value, similar legal principles)
-3. For legal research, err on the side of inclusion rather than exclusion
-4. Respond with ONLY "YES" or "NO" followed by a brief one-line explanation
+1. Carefully analyze if these retrieved chunks show that this legal case's content is STRICTLY RELEVANT TO the USER QUERY
+2. Consider both direct relevance and indirect relevance (precedential value)
+3. Respond with ONLY "YES" or "NO" followed by a brief one-line explanation
 
 RESPONSE FORMAT:
-YES/NO - [Brief explanation of relevance/irrelevance]
+YES/NO - [Brief explanation of relevance/irrelevance based on the retrieved chunks]
 
 RESPONSE:"""
 
         try:
+            logger.info(f"Pruning {document_name} using {len(chunk_texts)} retrieved chunks ({sum(len(chunk) for chunk in chunk_texts)} total characters)")
             response = await call_llm_async(pruning_prompt)
             is_relevant = response.strip().upper().startswith("YES")
             
