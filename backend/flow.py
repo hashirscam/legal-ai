@@ -1,6 +1,6 @@
 from pocketflow import Flow, AsyncFlow
 from backend.nodes import DocumentIngestionNode, VectorIndexCreationNode, InitialRetrievalNode, DocumentExtractionNode
-from backend.nodes_agents import PruningAgentNode, ReadingAgentNode, AggregationAgentNode
+from backend.nodes_agents import QueryClassificationNode, PruningAgentNode, ReadingAgentNode, AggregationAgentNode
 import logging
 
 logger = logging.getLogger(__name__)
@@ -27,17 +27,18 @@ def create_online_research_flow():
     Create online flow for query processing and research
     """
     # Create nodes
+    classification_node = QueryClassificationNode()
     retrieval_node = InitialRetrievalNode()
     extraction_node = DocumentExtractionNode()
     pruning_node = PruningAgentNode()
     reading_node = ReadingAgentNode()
     aggregation_node = AggregationAgentNode()
     
-    # Connect nodes in sequence
-    retrieval_node >> extraction_node >> pruning_node >> reading_node >> aggregation_node
+    # Connect nodes in sequence - classification happens first
+    classification_node >> retrieval_node >> extraction_node >> pruning_node >> reading_node >> aggregation_node
     
     # Create async flow (required for parallel processing nodes)
-    flow = AsyncFlow(start=retrieval_node)
+    flow = AsyncFlow(start=classification_node)
     
     logger.info("Created online research flow")
     return flow

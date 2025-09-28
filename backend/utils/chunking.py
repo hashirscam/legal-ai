@@ -109,12 +109,52 @@ class LegalTextChunker:
         if self.strategy == ChunkingStrategy.PRESERVE_PARAGRAPHS:
             # Keep paragraphs as-is, no splitting
             return paragraphs
+            # # Group related paragraphs for better legal context
+            # return self._group_related_legal_paragraphs(paragraphs)
         elif self.strategy == ChunkingStrategy.SPLIT_LARGE_PARAGRAPHS:
             # Split only paragraphs exceeding chunk size
             return self._selective_splitting(paragraphs)
         else:
             # Default to preserving paragraphs
             return paragraphs
+    
+    # def _group_related_legal_paragraphs(self, paragraphs: List[str]) -> List[str]:
+    #     """
+    #     Group related legal paragraphs to preserve context for better retrieval
+        
+    #     Args:
+    #         paragraphs: List of individual paragraphs
+            
+    #     Returns:
+    #         List of grouped paragraphs
+    #     """
+    #     if not paragraphs:
+    #         return paragraphs
+        
+    #     grouped = []
+    #     current_group = []
+    #     current_size = 0
+        
+    #     for i, para in enumerate(paragraphs):
+    #         para_size = len(para)
+            
+    #         # If adding this paragraph would exceed chunk size and we have content
+    #         if current_size + para_size > self.chunk_size and current_group:
+    #             # Save current group
+    #             grouped.append('\n\n'.join(current_group))
+    #             current_group = [para]
+    #             current_size = para_size
+    #         else:
+    #             # Add to current group
+    #             current_group.append(para)
+    #             current_size += para_size
+            
+        
+    #     # Add the last group
+    #     if current_group:
+    #         grouped.append('\n\n'.join(current_group))
+        
+    #     return grouped
 
     
     def _selective_splitting(self, paragraphs: List[str]) -> List[str]:
