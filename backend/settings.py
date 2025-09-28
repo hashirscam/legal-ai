@@ -40,9 +40,9 @@ class VectorDBConfig:
     """Configuration for vector database"""
     
     COLLECTION_NAME = "legal_cases"
-    EMBEDDING_MODEL = "all-MiniLM-L6-v2"  # Better sentence transformer model for legal text
-    SIMILARITY_THRESHOLD = 0.3  # Lower threshold for better recall in legal contexts
-    MAX_RESULTS = 75  # Increased for better coverage of legal concepts
+    EMBEDDING_MODEL = "all-mpnet-base-v2"  # Better sentence transformer model for legal text
+    SIMILARITY_THRESHOLD = 0.3  # Empirically tested threshold for legal document retrieval (typical scores: 0.1-0.4)
+    MAX_RESULTS = 100  # Increased for better coverage of legal concepts
 
 
 class LLMConfig:
