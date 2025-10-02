@@ -1,0 +1,52 @@
+R. v. Weston, 2025 ONCJ 151 (CanLII), <https://www.canlii.org/en/on/oncj/doc/2025/2025oncj151/2025oncj151.html>, retrieved on 2025-10-03
+
+ONTARIO
+
+COURT OF JUSTICE
+
+CITATION: R. v. Weston, 2025 ONCJ 151
+DATE: 2025 03 18 COURT FILE
+
+No.: Central
+
+West – Brampton 998 23-31102307
+
+BETWEEN: HIS MAJESTY
+THE KING — AND —
+
+MEGAN WESTON
+
+Before Justice A. Neil Singh
+Heard on October 21-22, 2024 & November 13, 2024
+Reasons for Judgment released on December 6, 2024 Excerpt of Ruling revised and released March 18, 2025 Rachael Ward & Nicholas Cooper...................................................... counsel for the PPSC Miranda Brar & Kim Schofield........................... counsel for the accused Megan Weston
+
+EXCERPT OF RULING
+
+RE: THE MEANING
+OF “EXPORT”
+
+UNDER THE CANNABIS
+
+ACT SINGH J.: Introduction [ 1 ] Ms. Weston was charged with possession of cannabis for the purpose of exporting it contrary to s.11(2) of the Cannabis Act. A large quantity of cannabis was located in luggage that she had checked into a flight destined for Heathrow Airport on January 20, 2023. The case against Ms. Weston was a circumstantial one. On December 6, 2024, I found Ms. Weston not guilty. I found that a reasonable inference inconsistent with her guilt was available on the evidentiary record, namely as it surrounded her knowledge of the contraband that was found in the checked luggage. [ 2 ] During closing submissions, counsel made arguments in relation to the meaning of the term “export” or “exporting” under the Cannabis Act. This excerpt of my reasons for judgment addresses this issue. It explains my ruling on the meaning of “export” or “exporting” in the Cannabis Act. Position of the Parties [ 3 ] Counsel on behalf of Ms. Weston submitted that the meaning of “exporting” under the Cannabis Act required evidence that the contraband had some commercial value to it. Given there was no evidence before the Court regarding the value of the cannabis at the destination country, any possession of cannabis could not be said to be for the purpose of exporting it under the Cannabis Act. [ 4 ] The Prosecution Service countered that the meaning of “export” under the Cannabis Act only required an intention to take the cannabis outside of Canada. The value of the cannabis was extraneous to the analysis. If the Court found that Ms. Weston possessed the cannabis with the intention of transporting it outside of Canada’s border, she would be guilty of the offence as charged. The Meaning of Export under the Cannabis Act [ 5 ] The term “export” is not defined in the Cannabis Act. It is also not defined in the Controlled Drugs and Substances Act, an Act with a similar purpose regarding the criminalization of activities surrounding the possession of controlled substances. The term is defined in the Customs Act, albeit somewhat confusingly to mean “export from Canada. [1] ” The meaning of export under the Customs Act has been interpreted to mean the act of sending or carrying goods from one country to another
+[2]. [ 6 ] Since the term is not defined in the Cannabis Act, the term should be read in accordance with the principles of statutory interpretation. That is in their ordinary and grammatical sense, and harmoniously within the scheme and purpose of the legislation
+[3]. It is also a principle of statutory interpretation that where the liberty of an accused is affected and there are two reasonable statutory interpretations available, the interpretation favouring the accused should be adopted. [4] [ 7 ]
+
+Helpfully, Parliament included a section in the Cannabis Act that outlined the purpose of the Act. Section 7 of the Cannabis Act states that the purpose of the Act is to protect public health and public safety, and in particular to: (a) protect the health of young persons by restricting their access to cannabis; (b) protect young persons and others from inducements to use cannabis; (c) provide for the licit production of cannabis to reduce illicit activities in relation to cannabis; (d) deter illicit activities in relation to cannabis through appropriate sanctions and enforcement measures; (e) reduce the burden on the criminal justice system in relation to cannabis; (f) provide access to a quality-controlled supply of cannabis; and (g) enhance public awareness of the health risks associated with cannabis use
+[5]. [ 8 ] Importantly, s.62(2) of the Cannabis Act places a limit on the purpose for which cannabis may be imported or exported from Canada. The Act holds that licences and permits authorizing the importation or exportation of cannabis may be issued only in respect of cannabis for medical or scientific purposes or in respect of industrial hemp
+[6]. [ 9 ]
+
+In relation to industrial hemp, s.3(1) of the Industrial Hemp Regulations authorizes the holder of a licence to conduct any of the following activities that are authorized by the licence: (a) to sell industrial hemp; (b) t o import or export seed or grain; ( c) to cultivate industrial hemp; (d) in the case of a plant breeder, to propagate industrial hemp; (e) to possess seed or grain for the purposes of cleaning it; (f) to possess grain for the purpose of processing it; or (g) to obtain seed by preparing it
+[7]. [ 10 ] As it relates to cannabis, the regulations under the Act provide guidance with respect to the activities that are relevant regarding cannabis exportation. The Cannabis Regulations under the Cannabis Act authorizes a holder of an export permit to export cannabis for scientific or medical purposes if they hold an export permit for each shipment of cannabis that is exported. The regulations also permit other ancillary activities under s.213(2) of the Regulations. It authorizes the holder of an export permit to possess, transfer, send, deliver, or sell the shipment of cannabis to the extent necessary to export the cannabis
+[8]. [ 11 ] Black’s Law Dictionary defines export as (1) to send or carry abroad; (2) to send, take or carry (a good or commodity) out of the country; to transport (merchandise) from one country to another in the course of trade; and (3) to carry out or convey (goods) by sea
+[9]. [ 12 ] Beyond that, Black’s Law Dictionary defines the term “exportation” as the act of sending goods and merchandise from one country to another. [10] [ 13 ] Further, it is helpful to look to the meaning of the term “importing” in the context of the Controlled Drugs and Substances Act, an act that has a similar purpose to the Cannabis Act as it relates to the deterring of illicit activities in relation to the substances it relates to. The Supreme Court of Canada in R. v. Bell
+[11] held that to import means to “simply bring into the country or to cause to be brought into the country.”
+
+This is very helpful language to consider since “importing” and “exporting” are antonyms. [ 14 ] It is clear to me that when examining the ordinary meaning of the term, and interpreting it harmoniously with the Act, that to “export” within the meaning of the Cannabis Act means to send cannabis (or industrial hemp) from Canada to another country. It does not require an additional commercial (or other) purpose beyond that. [ 15 ] The Act establishes that exporting cannabis may only be done for medical or scientific purposes or as it relates to industrial hemp. The licences permit the sale of the cannabis (or hemp), but also permits a broader spectrum of activities beyond that. As it relates to cannabis specifically, possessing, transferring, sending, and delivering the cannabis to the extent necessary to export it is permitted beyond selling the cannabis. The Act and its regulations therefore capture a much wider spectrum of activities than commercial ones. It stands to reason that Parliament did not ascribe any substantive importance to the value of the cannabis being exported either in Canada or the destination country. [ 16 ] For the Crown to prove that any possession is for the purpose of exporting under s.11(2) of the Cannabis Act, they must lead evidence that establishes beyond a reasonable doubt that one of the intended purposes of the possession is to cause the cannabis to leave Canada. Other purposes for which the cannabis may be possessed are immaterial to the liability analysis. In other words, the cannabis could also be possessed for any number of ancillary purposes such as for personal use (licit or illicit), sale or distribution (licit or illicit), medical or scientific reasons, or other purposes. They would all be criminal within the meaning of the Act. [ 17 ] The construct of the Act and its Regulations do not leave open multiple interpretations. It was clearly meant to be broad and covers a wide range of activities. “Exporting” within the confines of the Cannabis Act is meant to cover any movement of cannabis (or industrial hemp) out of Canada’s jurisdiction. Revised and Released: March 18, 2025
+
+Signed: Justice A. Neil Singh
+[1] R.S.C., 1985, c. 1 (2nd Supp.), s.2(1)
+[2] R v. Mainil v. Canada (Minister of National Revenue – M.N.R.), 2006 FC 1062 at paras 26-27. [3] Rizzo & Rizzo Shoes Ltd. (Re), 1998 CanLII 837 (SCC), [1998] 1 S.C.R. 27 at para 21
+[4] R. v. McIntosh, 1995 CanLII 124 (SCC), [1995] 1 S.C.R. 686 at paragraph 29. [5] S.C. 2018, c. 16
+[6] Ibid. [7] SOR/2018-145
+[8] SOR/2018-144
+[9] 6th ed., St. Paul, Minn: West Publishing Co. 1990. [10] Ibid. [11] 1983 CanLII 166 (SCC), [1983] 2 SCR 471 at pp. 478-479.

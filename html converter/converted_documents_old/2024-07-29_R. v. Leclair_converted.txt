@@ -1,0 +1,38 @@
+R. v. Leclair, 2024 ONCJ 366 (CanLII), <https://www.canlii.org/en/on/oncj/doc/2024/2024oncj366/2024oncj366.html>, retrieved on 2025-10-02
+
+ONTARIO
+
+COURT OF JUSTICE
+
+CITATION: R. v. Leclair, 2024 ONCJ 366
+DATE: 2024 07 29 COURT FILE
+
+No.: Windsor 22-81103420
+
+BETWEEN: HIS MAJESTY
+THE KING — AND —
+
+CORY LECLAIR
+
+Before Justice S. G. Pratt
+Heard on 23 and 24 July 2024
+Reasons for Judgment released on 29 July 2024 Shelby Odom...................................................................................... Counsel for the Crown Mark Ertel................................................................................... Counsel for the Defendant
+
+RULING ON ADJOURNMENT
+
+APPLICATION
+
+Pratt J.: [ 1 ]
+
+Prior to the trial continuation date of 25 July 2024, the Crown sought an adjournment as its last remaining witness was unavailable. The application was argued on 23 and 24 July. As a decision was needed in advance of the continuation date, I provided a ruling in court on the 24 th. This application is somewhat more complicated than usual so I advised written reasons would follow. These are those reasons. [ 2 ] This trial began on 9 May 2024. It continued on the 10 th and 13 th. It was adjourned because the Crown witness, Sergeant Birch, was unavailable. I was advised that the officer had recently undergone surgery and so was absent. The matter was put to 25 July for continuation. [ 3 ] On Friday 19 July, the Crown filed a Form 1 application seeking an adjournment of the continuation date. The grounds set out were as follows: “Sgt. Birch is an essential witness and is not available for trial continuation.” No other information was provided. [ 4 ] The application was argued on 23 July. Initially the matter was stood down for the Crown to obtain further information as to why the witness was not available. Later that day it was determined that while the continuation date had been set in mid-May, the local Crown Attorney’s office had not notified the Windsor Police Service until 19 July. The police advised the witness was on furlough and unavailable, and so the Crown brought the application. Attempts were made to contact the officer on the 23 rd, but no response was received. [ 5 ] For the Defendant, counsel opposed the adjournment as in his submission the Crown had not met the second stage of the test enunciated in R. v. Darville ( 1956 CanLII 463 (SCC), [1956] S.C.J. No. 82 ). The matter was adjourned to the following day for the Crown to determine if the witness could testify remotely. Again, there was no response from the witness and the Crown maintained its request for the adjournment. The application was dismissed. The test for an adjournment [ 6 ] Where a party seeks an adjournment on the basis of an absent witness, they must meet the requirements set out in Darville, supra. In his concurring opinion, Justice Cartwright set out those requirements. They are: (1)
+
+The witness in question must have material evidence to give; (2) The party seeking the adjournment must not be guilty of “laches or neglect in omitting to endeavour to procure the attendance” of the witness; and (3) There is a reasonable expectation the witness can be procured at a future hearing date. [ 7 ] In the present case, the first and third criteria have been met. The application turns on the second. [ 8 ] Laches and neglect have been considered by other courts. In the case of R. v. Smith 2011 ONSC 3695, Justice Kiteley said this at paragraphs 38 and 40: [38]
+
+As indicated in Black’s Law Dictionary, there are many definitions of the term “ laches ” such as the following: laches is, or is based on, delay attended by or inducing change of condition or relation; delay that works or results in disadvantage, injury, injustice, detriment or prejudice; conduct of a party which has placed the other party in a situation where his rights will be imperilled and his defences embarrassed; knowledge, unreasonable delay, and change of position are essential elements; laches requires an element of estoppel or neglect which has operated to the prejudice of defendant. * * *
+[40]
+
+According to Black’s Law Dictionary, “neglect” also has several meanings such as the following: may mean to omit, fail, or forbear to do a thing that can be done, or that is required to be done, but it may also import an absence of care or attention in the doing or omission of a given act; it may mean a designed refusal or unwillingness to perform one’s duty. [ 9 ] I have been told there is one person in the
+
+Windsor Crown Attorney’s office responsible for all subpoenas. It was admitted this is a resourcing issue. In my view, having just one person tasked with preparing all subpoenas for all trial matters is insufficient. As I put it to Crown counsel, it is asking for just this kind of trouble to arise. [ 10 ] According to publicly available information on the Ontario Court of Justice website ( https://www.ontariocourts.ca/ocj/statistics/ ), in 2023 Windsor saw 482 cases disposed of at trial without a trial (e.g. day of trial guilty pleas or other resolutions) and 435 cases disposed of at trial with a trial. This is a total of 917 cases. Arbitrarily assuming 2-3 witnesses per trial (which may be an underestimate give the number of serious multi-day cases our court routinely hears), that would mean between 1,834 and 2,751 subpoenas were required. This number does not take into account the probable hundreds more subpoenas that arise from the many trial continuations, like the present case, we often see. In all, this one Crown employee is likely responsible for more than 3,000 subpoenas every year. It is hardly surprising that situations like this arise. It’s more surprising they don’t arise more frequently. [ 11 ] Resourcing decisions are not the responsibility of the Court. I recognize that many justice system stakeholders are short of staff and trying their best to make do with the people they have. Insufficient resources cannot, however, excuse deficiencies that imperil a defendant’s rights. By delegating all responsibility for thousands of subpoenas to one person alone, the Crown has, to borrow the words of Justice Kiteley, omitted, failed, or forbore to do a thing that can be done or that is required to be done. With two months from the set date to the continuation date, waiting until six days before the witness is required in court to advise the police is assuming a significant risk. When consequences flow from taking that risk, they must be borne by the party responsible. [ 12 ] The application for adjournment is dismissed. Released: 29
+
+July 2024 Signed: Justice S.G. Pratt
